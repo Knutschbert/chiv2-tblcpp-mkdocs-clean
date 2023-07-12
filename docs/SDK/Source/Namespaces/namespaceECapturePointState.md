@@ -1,0 +1,42 @@
+---
+title: ECapturePointState
+type: namespace
+aliases: ECapturePointState
+share: false
+
+---
+
+# ECapturePointState
+
+
+
+## Types
+
+|                | Name           |
+| -------------- | -------------- |
+| enum| **[Type](/docs/SDK/Source/Namespaces/namespaceECapturePointState.md#enum-type)** { Captured, Capturing, Contested, Invalid, Neutral, Neutralizing} |
+
+## Types Documentation
+
+### enum Type
+
+| Enumerator | Value | Description |
+| ---------- | ----- | ----------- |
+| Captured | |   |
+| Capturing | |   |
+| Contested | |   |
+| Invalid | |   |
+| Neutral | |   |
+| Neutralizing | |   |
+
+
+
+
+
+
+
+
+
+-------------------------------
+
+Updated on 2023-07-04 at 02:31:02 +0200

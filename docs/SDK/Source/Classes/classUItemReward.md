@@ -1,0 +1,32 @@
+---
+title: UItemReward
+type: class
+aliases: UItemReward
+share: false
+
+---
+
+# UItemReward
+
+
+
+
+
+Inherits from [UProgressionReward](/docs/SDK/Source/Classes/classUProgressionReward.md), [UTBLObject](/docs/SDK/Source/Classes/classUTBLObject.md), [UAssemblyObject](/docs/SDK/Source/Classes/classUAssemblyObject.md), UObject
+
+## Public Functions
+
+|                | Name           |
+| -------------- | -------------- |
+| | **[[UItemReward]]**() |
+
+## Public Attributes
+
+|                | Name           |
+| -------------- | -------------- |
+| TArray< [FItemReference](/docs/SDK/Source/Classes/structFItemReference.md) > | **[[Items]]**  |
+| int32 | **[[Quantity]]**  |
+
+-------------------------------
+
+Updated on 2023-07-04 at 02:31:00 +0200
