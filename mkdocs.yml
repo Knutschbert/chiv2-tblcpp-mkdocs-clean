@@ -1,25 +1,30 @@
-site_name: obsidian-mkdocs template
+site_name: c++ and bp docs
+repo_url: https://github.com/Knutschbert/chiv2-tblcpp-mkdocs-clean
+edit_uri: blob/main/docs/
+
 
 theme:
     name: 'material'
+    font:
+      text: Volkov
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
+      primary: blue grey
       accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: amber
       accent: blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
 
 # Extensions
