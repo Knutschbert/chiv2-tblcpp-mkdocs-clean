@@ -1,5 +1,5 @@
 # Publish your Obsidian Notes
-
+this is just a test
 (MkDocs template)
 
 Would you like to take _some_ of your notes in [Obsidian](https://obsidian.md/) and make it public?
