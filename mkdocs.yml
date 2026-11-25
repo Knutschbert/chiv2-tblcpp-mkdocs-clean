@@ -1,10 +1,17 @@
 site_name: c++ and bp docs
+site_url: https://knutschbert.github.io/chiv2-tblcpp-mkdocs-clean/
 repo_url: https://github.com/Knutschbert/chiv2-tblcpp-mkdocs-clean
 edit_uri: blob/main/docs/
 
 
 theme:
     name: 'material'
+    features:
+      # Render only the active navigation branch on each page. With ~6000 pages
+      # and no explicit nav, Material otherwise inlines the full nav tree into
+      # every page (~2.6 MB each → ~15 GB site, over the Pages 10 GB limit).
+      - navigation.prune
+      - navigation.indexes
     font:
       text: Volkov
     palette:
@@ -52,6 +59,9 @@ markdown_extensions:
 
   - toc:
       permalink: true
+
+hooks:
+  - hooks/fix_links.py
 
 plugins:
   - search
