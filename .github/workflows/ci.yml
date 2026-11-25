@@ -10,15 +10,17 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - uses: actions/cache@v2
+      - name: Cache MkDocs build
+        uses: actions/cache@v4
         with:
-          key: ${{ github.ref }}
+          key: mkdocs-${{ github.ref }}-${{ github.sha }}
+          restore-keys: |
+            mkdocs-${{ github.ref }}-
+            mkdocs-
           path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin
-      # - run: pip install mkdocs-mermaid2-plugin
+      - run: pip install mkdocs-material mkdocs-roamlinks-plugin
       - run: mkdocs gh-deploy --force
