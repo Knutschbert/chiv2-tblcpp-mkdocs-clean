@@ -1,5 +1,4 @@
 ## Stop Charging
-Stop Charging
 ![[../img/nd_img_StopCharging.png]]
 
 |Inputs||

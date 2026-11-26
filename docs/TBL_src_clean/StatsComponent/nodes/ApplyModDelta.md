@@ -1,5 +1,4 @@
 ## Apply Mod Delta
-Apply Mod Delta
 ![[../img/nd_img_ApplyModDelta.png]]
 
 |Inputs||

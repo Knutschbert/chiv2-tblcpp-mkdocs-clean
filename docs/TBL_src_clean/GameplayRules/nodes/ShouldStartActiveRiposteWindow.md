@@ -1,5 +1,4 @@
 ## Should Start Active Riposte Window
-Should Start Active Riposte Window
 ![[../img/nd_img_ShouldStartActiveRiposteWindow.png]]
 
 |Inputs||

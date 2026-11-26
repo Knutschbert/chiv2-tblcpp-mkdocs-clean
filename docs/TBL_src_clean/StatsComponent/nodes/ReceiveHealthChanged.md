@@ -1,5 +1,4 @@
 ## Receive Health Changed
-Receive Health Changed
 ![[../img/nd_img_ReceiveHealthChanged.png]]
 
 |Inputs||

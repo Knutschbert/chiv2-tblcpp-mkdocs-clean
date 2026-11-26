@@ -1,5 +1,4 @@
 ## Get Min Speed in State
-Get Min Speed in State
 ![[../img/nd_img_GetMinSpeedInState.png]]
 
 |Inputs||

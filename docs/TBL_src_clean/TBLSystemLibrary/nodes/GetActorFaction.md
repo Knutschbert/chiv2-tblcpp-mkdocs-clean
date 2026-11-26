@@ -1,5 +1,4 @@
 ## Get Actor Faction
-Get Actor Faction
 ![[../img/nd_img_GetActorFaction.png]]
 
 |Inputs||

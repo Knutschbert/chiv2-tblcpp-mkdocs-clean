@@ -1,5 +1,4 @@
 ## Is Ctrl Pressed
-Is Ctrl Pressed
 ![[../img/nd_img_IsCtrlPressed.png]]
 
 |Inputs||

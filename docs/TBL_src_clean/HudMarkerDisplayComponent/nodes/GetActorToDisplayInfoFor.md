@@ -1,5 +1,4 @@
 ## Get Actor to Display Info For
-Get Actor to Display Info For
 ![[../img/nd_img_GetActorToDisplayInfoFor.png]]
 
 |Inputs||

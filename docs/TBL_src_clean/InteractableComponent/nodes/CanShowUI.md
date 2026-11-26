@@ -1,5 +1,4 @@
 ## Can Show UI
-Can Show UI
 ![[../img/nd_img_CanShowUI.png]]
 
 |Inputs||

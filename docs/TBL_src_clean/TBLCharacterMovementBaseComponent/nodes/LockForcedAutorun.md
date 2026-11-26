@@ -1,5 +1,4 @@
 ## Lock Forced Autorun
-Lock Forced Autorun
 ![[../img/nd_img_LockForcedAutorun.png]]
 
 |Inputs||

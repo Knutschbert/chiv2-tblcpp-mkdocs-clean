@@ -1,5 +1,4 @@
 ## Is Head Bob Enabled
-Is Head Bob Enabled
 ![[../img/nd_img_IsHeadBobEnabled.png]]
 
 |Inputs||

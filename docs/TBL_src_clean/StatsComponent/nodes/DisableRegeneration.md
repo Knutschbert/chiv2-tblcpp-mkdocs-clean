@@ -1,5 +1,4 @@
 ## Disable Regeneration
-Disable Regeneration
 ![[../img/nd_img_DisableRegeneration.png]]
 
 |Inputs||

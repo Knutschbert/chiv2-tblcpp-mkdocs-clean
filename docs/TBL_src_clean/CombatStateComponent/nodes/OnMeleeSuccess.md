@@ -1,5 +1,4 @@
 ## On Melee Success
-On Melee Success
 ![[../img/nd_img_OnMeleeSuccess.png]]
 
 |Inputs||

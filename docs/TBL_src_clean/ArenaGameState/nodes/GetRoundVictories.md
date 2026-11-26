@@ -1,5 +1,4 @@
 ## Get Round Victories
-Get Round Victories
 ![[../img/nd_img_GetRoundVictories.png]]
 
 |Inputs||

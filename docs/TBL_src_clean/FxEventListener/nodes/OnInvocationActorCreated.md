@@ -1,5 +1,4 @@
 ## On Invocation Actor Created
-On Invocation Actor Created
 ![[../img/nd_img_OnInvocationActorCreated.png]]
 
 |Inputs||

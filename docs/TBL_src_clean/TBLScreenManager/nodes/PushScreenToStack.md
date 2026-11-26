@@ -1,5 +1,4 @@
 ## Push Screen to Stack
-Push Screen to Stack
 ![[../img/nd_img_PushScreenToStack.png]]
 
 |Inputs||

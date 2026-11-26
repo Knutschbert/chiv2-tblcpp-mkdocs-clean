@@ -1,5 +1,4 @@
 ## Can Vote Occur
-Can Vote Occur
 ![[../img/nd_img_CanVoteOccur.png]]
 
 |Inputs||

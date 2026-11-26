@@ -1,5 +1,4 @@
 ## Handle Gamepad Navigation Mode Changed
-Handle Gamepad Navigation Mode Changed
 ![[../img/nd_img_HandleGamepadNavigationModeChanged.png]]
 
 |Inputs||

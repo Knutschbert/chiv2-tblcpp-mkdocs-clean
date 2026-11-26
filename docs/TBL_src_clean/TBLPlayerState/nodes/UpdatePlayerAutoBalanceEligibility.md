@@ -1,5 +1,4 @@
 ## Update Player Auto Balance Eligibility
-Update Player Auto Balance Eligibility
 ![[../img/nd_img_UpdatePlayerAutoBalanceEligibility.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Allow Sprinting
-Allow Sprinting
 ![[../img/nd_img_AllowSprinting.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Check Personality Ownership
-Check Personality Ownership
 ![[../img/nd_img_CheckPersonalityOwnership.png]]
 
 |Inputs||

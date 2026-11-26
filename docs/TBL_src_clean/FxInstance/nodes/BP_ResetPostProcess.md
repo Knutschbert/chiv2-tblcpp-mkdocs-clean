@@ -1,5 +1,4 @@
 ## BP Reset Post Process
-BP Reset Post Process
 ![[../img/nd_img_BP_ResetPostProcess.png]]
 
 |Inputs||

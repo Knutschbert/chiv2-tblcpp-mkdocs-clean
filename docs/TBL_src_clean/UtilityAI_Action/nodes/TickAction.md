@@ -1,5 +1,4 @@
 ## Tick Action
-Tick Action
 ![[../img/nd_img_TickAction.png]]
 
 |Inputs||

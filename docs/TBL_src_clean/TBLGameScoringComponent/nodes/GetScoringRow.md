@@ -1,5 +1,4 @@
 ## Get Scoring Row
-Get Scoring Row
 ![[../img/nd_img_GetScoringRow.png]]
 
 |Inputs||

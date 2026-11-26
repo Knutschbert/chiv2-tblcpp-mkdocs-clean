@@ -1,5 +1,4 @@
 ## Should Blend
-Should Blend
 ![[../img/nd_img_ShouldBlend.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Navigation Direction from Analog
-Get Navigation Direction from Analog
 ![[../img/nd_img_GetNavigationDirectionFromAnalog.png]]
 
 |Inputs||

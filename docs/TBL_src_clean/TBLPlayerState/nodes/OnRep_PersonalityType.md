@@ -1,5 +1,4 @@
 ## On Rep Personality Type
-On Rep Personality Type
 ![[../img/nd_img_OnRep_PersonalityType.png]]
 
 |Inputs||

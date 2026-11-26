@@ -1,5 +1,4 @@
 ## Update Visualization
-Update Visualization
 ![[../img/nd_img_UpdateVisualization.png]]
 
 |Inputs||

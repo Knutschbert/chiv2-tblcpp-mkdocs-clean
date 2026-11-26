@@ -1,5 +1,4 @@
 ## Bind Widget
-Bind Widget
 ![[../img/nd_img_BindWidget.png]]
 
 |Inputs||

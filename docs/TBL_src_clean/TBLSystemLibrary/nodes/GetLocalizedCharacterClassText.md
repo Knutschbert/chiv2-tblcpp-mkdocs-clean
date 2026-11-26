@@ -1,5 +1,4 @@
 ## Get Localized Character Class Text
-Get Localized Character Class Text
 ![[../img/nd_img_GetLocalizedCharacterClassText.png]]
 
 |Inputs||

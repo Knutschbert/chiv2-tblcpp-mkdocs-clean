@@ -1,5 +1,4 @@
 ## Activate Pushable
-Activate Pushable
 ![[../img/nd_img_ActivatePushable.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Player Used Item
-On Player Used Item
 ![[../img/nd_img_OnPlayerUsedItem.png]]
 
 |Inputs||

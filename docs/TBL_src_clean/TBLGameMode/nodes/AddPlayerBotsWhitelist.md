@@ -1,5 +1,4 @@
 ## Add Player Bots Whitelist
-Add Player Bots Whitelist
 ![[../img/nd_img_AddPlayerBotsWhitelist.png]]
 
 |Inputs||

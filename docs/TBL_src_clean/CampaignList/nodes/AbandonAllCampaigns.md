@@ -1,5 +1,4 @@
 ## Abandon All Campaigns
-Abandon All Campaigns
 ![[../img/nd_img_AbandonAllCampaigns.png]]
 
 |Inputs||

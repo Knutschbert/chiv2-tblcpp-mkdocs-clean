@@ -1,5 +1,4 @@
 ## Get Client Time Stamp
-Get Client Time Stamp
 ![[../img/nd_img_GetClientTimeStamp.png]]
 
 |Inputs||

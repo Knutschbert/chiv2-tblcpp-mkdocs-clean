@@ -1,5 +1,4 @@
 ## Client Teleport To
-Client Teleport To
 ![[../img/nd_img_ClientTeleportTo.png]]
 
 |Inputs||

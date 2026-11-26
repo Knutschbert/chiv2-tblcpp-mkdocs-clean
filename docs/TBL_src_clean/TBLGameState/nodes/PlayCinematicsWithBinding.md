@@ -1,5 +1,4 @@
 ## Play Cinematics with Binding
-Play Cinematics with Binding
 ![[../img/nd_img_PlayCinematicsWithBinding.png]]
 
 |Inputs||

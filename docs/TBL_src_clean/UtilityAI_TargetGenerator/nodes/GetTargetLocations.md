@@ -1,5 +1,4 @@
 ## Get Target Locations
-Get Target Locations
 ![[../img/nd_img_GetTargetLocations.png]]
 
 |Inputs||

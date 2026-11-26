@@ -1,5 +1,4 @@
 ## Reverse Ladder Animation
-Reverse Ladder Animation
 ![[../img/nd_img_ReverseLadderAnimation.png]]
 
 |Inputs||

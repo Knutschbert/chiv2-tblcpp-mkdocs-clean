@@ -1,5 +1,4 @@
 ## Get Damage Source Icon Texture
-Get Damage Source Icon Texture
 ![[../img/nd_img_GetDamageSourceIconTexture.png]]
 
 |Inputs||

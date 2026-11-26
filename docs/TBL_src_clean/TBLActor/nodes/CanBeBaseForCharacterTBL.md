@@ -1,5 +1,4 @@
 ## Can be Base for Character TBL
-Can be Base for Character TBL
 ![[../img/nd_img_CanBeBaseForCharacterTBL.png]]
 
 |Inputs||

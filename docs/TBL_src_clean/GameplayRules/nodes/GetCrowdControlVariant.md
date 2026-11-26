@@ -1,5 +1,4 @@
 ## Get Crowd Control Variant
-Get Crowd Control Variant
 ![[../img/nd_img_GetCrowdControlVariant.png]]
 
 |Inputs||

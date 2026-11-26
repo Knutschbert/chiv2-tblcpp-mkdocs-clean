@@ -1,5 +1,4 @@
 ## Is Stats Loaded
-Is Stats Loaded
 ![[../img/nd_img_IsStatsLoaded.png]]
 
 |Inputs||

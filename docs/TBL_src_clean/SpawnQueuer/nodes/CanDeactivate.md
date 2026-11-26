@@ -1,5 +1,4 @@
 ## Can Deactivate
-Can Deactivate
 ![[../img/nd_img_CanDeactivate.png]]
 
 |Inputs||

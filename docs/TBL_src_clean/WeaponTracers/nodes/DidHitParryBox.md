@@ -1,5 +1,4 @@
 ## Did Hit Parry Box
-Did Hit Parry Box
 ![[../img/nd_img_DidHitParryBox.png]]
 
 |Inputs||

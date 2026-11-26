@@ -1,5 +1,4 @@
 ## Pop Off Parent Stack
-Pop Off Parent Stack
 ![[../img/nd_img_PopOffParentStack.png]]
 
 |Inputs||

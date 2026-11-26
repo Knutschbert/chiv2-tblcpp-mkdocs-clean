@@ -1,5 +1,4 @@
 ## On Epic End Game
-On Epic End Game
 ![[../img/nd_img_OnEpicEndGame.png]]
 
 |Inputs||

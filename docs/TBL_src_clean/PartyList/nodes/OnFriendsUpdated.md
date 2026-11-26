@@ -1,5 +1,4 @@
 ## On Friends Updated
-On Friends Updated
 ![[../img/nd_img_OnFriendsUpdated.png]]
 
 |Inputs||

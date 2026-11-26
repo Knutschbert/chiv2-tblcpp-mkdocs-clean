@@ -1,5 +1,4 @@
 ## Auto Balance by Player Kills
-Auto Balance by Player Kills
 ![[../img/nd_img_AutoBalanceByPlayerKills.png]]
 
 |Inputs||

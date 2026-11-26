@@ -1,5 +1,4 @@
 ## Destroy Input Replay Component
-Destroy Input Replay Component
 ![[../img/nd_img_DestroyInputReplayComponent.png]]
 
 |Inputs||

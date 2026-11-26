@@ -1,5 +1,4 @@
 ## Get Player Debug Name
-Get Player Debug Name
 ![[../img/nd_img_GetPlayerDebugName.png]]
 
 |Inputs||

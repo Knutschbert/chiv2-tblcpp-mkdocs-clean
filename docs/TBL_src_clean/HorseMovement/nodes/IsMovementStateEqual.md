@@ -1,5 +1,4 @@
 ## Is Movement State Equal
-Is Movement State Equal
 ![[../img/nd_img_IsMovementStateEqual.png]]
 
 |Inputs||

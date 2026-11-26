@@ -1,5 +1,4 @@
 ## Draw All Tracers
-Draw All Tracers
 ![[../img/nd_img_DrawAllTracers.png]]
 
 |Inputs||

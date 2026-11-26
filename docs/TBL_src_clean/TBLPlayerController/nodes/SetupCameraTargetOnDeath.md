@@ -1,5 +1,4 @@
 ## Setup Camera Target on Death
-Setup Camera Target on Death
 ![[../img/nd_img_SetupCameraTargetOnDeath.png]]
 
 |Inputs||

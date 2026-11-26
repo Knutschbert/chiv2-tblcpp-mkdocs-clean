@@ -1,5 +1,4 @@
 ## Has Perk
-Has Perk
 ![[../img/nd_img_HasPerk.png]]
 
 |Inputs||

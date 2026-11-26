@@ -1,5 +1,4 @@
 ## Consume Input Action
-Consume Input Action
 ![[../img/nd_img_ConsumeInputAction.png]]
 
 |Inputs||

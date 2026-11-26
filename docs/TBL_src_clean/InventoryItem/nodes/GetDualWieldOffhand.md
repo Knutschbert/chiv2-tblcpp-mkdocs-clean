@@ -1,5 +1,4 @@
 ## Get Dual Wield Offhand
-Get Dual Wield Offhand
 ![[../img/nd_img_GetDualWieldOffhand.png]]
 
 |Inputs||

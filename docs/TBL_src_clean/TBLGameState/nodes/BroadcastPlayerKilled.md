@@ -1,5 +1,4 @@
 ## Broadcast Player Killed
-Broadcast Player Killed
 ![[../img/nd_img_BroadcastPlayerKilled.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Spectator Cam
-Spectator Cam
 ![[../img/nd_img_SpectatorCam.png]]
 
 |Inputs||

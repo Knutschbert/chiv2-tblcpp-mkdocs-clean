@@ -1,5 +1,4 @@
 ## On Water Mesh Begin Overlap
-On Water Mesh Begin Overlap
 ![[../img/nd_img_OnWaterMeshBeginOverlap.png]]
 
 |Inputs||

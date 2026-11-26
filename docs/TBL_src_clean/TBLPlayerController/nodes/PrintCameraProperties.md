@@ -1,5 +1,4 @@
 ## Print Camera Properties
-Print Camera Properties
 ![[../img/nd_img_PrintCameraProperties.png]]
 
 |Inputs||

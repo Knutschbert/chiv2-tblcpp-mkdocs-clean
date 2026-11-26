@@ -1,5 +1,4 @@
 ## Input Append
-Input Append
 ![[../img/nd_img_InputAppend.png]]
 
 |Inputs||

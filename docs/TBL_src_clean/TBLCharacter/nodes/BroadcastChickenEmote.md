@@ -1,5 +1,4 @@
 ## Broadcast Chicken Emote
-Broadcast Chicken Emote
 ![[../img/nd_img_BroadcastChickenEmote.png]]
 
 |Inputs||

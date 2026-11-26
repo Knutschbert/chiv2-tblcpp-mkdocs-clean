@@ -1,5 +1,4 @@
 ## Can Mount Ladder
-Can Mount Ladder
 ![[../img/nd_img_CanMountLadder.png]]
 
 |Inputs||

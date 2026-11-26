@@ -1,5 +1,4 @@
 ## Sort Servers by Server Type
-Sort Servers by Server Type
 ![[../img/nd_img_SortServersByServerType.png]]
 
 |Inputs||

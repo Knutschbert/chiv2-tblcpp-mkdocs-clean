@@ -1,5 +1,4 @@
 ## Auto Input Record
-Auto Input Record
 ![[../img/nd_img_AutoInputRecord.png]]
 
 |Inputs||

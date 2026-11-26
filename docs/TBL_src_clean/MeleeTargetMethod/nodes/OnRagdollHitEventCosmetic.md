@@ -1,5 +1,4 @@
 ## On Ragdoll Hit Event Cosmetic
-On Ragdoll Hit Event Cosmetic
 ![[../img/nd_img_OnRagdollHitEventCosmetic.png]]
 
 |Inputs||

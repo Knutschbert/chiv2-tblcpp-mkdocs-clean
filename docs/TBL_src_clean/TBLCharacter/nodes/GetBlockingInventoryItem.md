@@ -1,5 +1,4 @@
 ## Get Blocking Inventory Item
-Get Blocking Inventory Item
 ![[../img/nd_img_GetBlockingInventoryItem.png]]
 
 |Inputs||

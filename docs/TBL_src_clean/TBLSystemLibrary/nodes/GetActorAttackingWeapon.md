@@ -1,5 +1,4 @@
 ## Get Actor Attacking Weapon
-Get Actor Attacking Weapon
 ![[../img/nd_img_GetActorAttackingWeapon.png]]
 
 |Inputs||

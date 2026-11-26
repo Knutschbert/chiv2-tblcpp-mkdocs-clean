@@ -1,5 +1,4 @@
 ## Push Respawn State
-Push Respawn State
 ![[../img/nd_img_PushRespawnState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Counter
-Is Counter
 ![[../img/nd_img_IsCounter.png]]
 
 |Inputs||

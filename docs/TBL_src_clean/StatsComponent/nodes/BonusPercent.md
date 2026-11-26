@@ -1,5 +1,4 @@
 ## Bonus Percent
-Bonus Percent
 ![[../img/nd_img_BonusPercent.png]]
 
 |Inputs||

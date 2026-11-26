@@ -1,5 +1,4 @@
 ## Start Fire
-Start Fire
 ![[../img/nd_img_StartFire.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client on Countered Attack
-Client on Countered Attack
 ![[../img/nd_img_ClientOnCounteredAttack.png]]
 
 |Inputs||

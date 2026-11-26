@@ -1,5 +1,4 @@
 ## Remove Emote from Queue
-Remove Emote from Queue
 ![[../img/nd_img_RemoveEmoteFromQueue.png]]
 
 |Inputs||

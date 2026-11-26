@@ -1,5 +1,4 @@
 ## Get Post Match Time Remaining
-Get Post Match Time Remaining
 ![[../img/nd_img_GetPostMatchTimeRemaining.png]]
 
 |Inputs||

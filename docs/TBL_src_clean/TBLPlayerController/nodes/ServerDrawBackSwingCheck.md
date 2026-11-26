@@ -1,5 +1,4 @@
 ## Server Draw Back Swing Check
-Server Draw Back Swing Check
 ![[../img/nd_img_ServerDrawBackSwingCheck.png]]
 
 |Inputs||

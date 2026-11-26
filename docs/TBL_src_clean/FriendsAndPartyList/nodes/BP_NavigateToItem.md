@@ -1,5 +1,4 @@
 ## BP Navigate to Item
-BP Navigate to Item
 ![[../img/nd_img_BP_NavigateToItem.png]]
 
 |Inputs||

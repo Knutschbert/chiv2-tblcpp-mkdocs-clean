@@ -1,5 +1,4 @@
 ## Handle Hit Actor with Stats
-Handle Hit Actor with Stats
 ![[../img/nd_img_HandleHitActorWithStats.png]]
 
 |Inputs||

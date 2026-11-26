@@ -1,5 +1,4 @@
 ## Get All Actors with Components
-Get All Actors with Components
 ![[../img/nd_img_GetAllActorsWithComponents.png]]
 
 |Inputs||

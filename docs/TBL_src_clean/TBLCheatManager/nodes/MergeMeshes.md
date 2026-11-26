@@ -1,5 +1,4 @@
 ## Merge Meshes
-Merge Meshes
 ![[../img/nd_img_MergeMeshes.png]]
 
 |Inputs||

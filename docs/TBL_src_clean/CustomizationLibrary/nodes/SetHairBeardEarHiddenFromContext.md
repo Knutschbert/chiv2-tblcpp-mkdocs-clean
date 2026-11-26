@@ -1,5 +1,4 @@
 ## Set Hair Beard Ear Hidden from Context
-Set Hair Beard Ear Hidden from Context
 ![[../img/nd_img_SetHairBeardEarHiddenFromContext.png]]
 
 |Inputs||

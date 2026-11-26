@@ -1,5 +1,4 @@
 ## On Post Match End Time Changed
-On Post Match End Time Changed
 ![[../img/nd_img_OnPostMatchEndTimeChanged.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Disable Mesh Collision for Fake Client
-Disable Mesh Collision for Fake Client
 ![[../img/nd_img_DisableMeshCollisionForFakeClient.png]]
 
 |Inputs||

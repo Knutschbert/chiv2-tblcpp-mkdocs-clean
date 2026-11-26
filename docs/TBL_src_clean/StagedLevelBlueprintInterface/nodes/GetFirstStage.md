@@ -1,5 +1,4 @@
 ## Get First Stage
-Get First Stage
 ![[../img/nd_img_GetFirstStage.png]]
 
 |Inputs||

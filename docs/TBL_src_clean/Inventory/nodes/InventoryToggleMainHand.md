@@ -1,5 +1,4 @@
 ## Inventory Toggle Main Hand
-Inventory Toggle Main Hand
 ![[../img/nd_img_InventoryToggleMainHand.png]]
 
 |Inputs||

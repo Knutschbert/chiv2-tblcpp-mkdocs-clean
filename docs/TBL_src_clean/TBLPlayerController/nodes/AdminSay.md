@@ -1,5 +1,4 @@
 ## Admin Say
-Admin Say
 ![[../img/nd_img_AdminSay.png]]
 
 |Inputs||

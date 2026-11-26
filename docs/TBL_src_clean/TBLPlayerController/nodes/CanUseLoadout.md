@@ -1,5 +1,4 @@
 ## Can Use Loadout
-Can Use Loadout
 ![[../img/nd_img_CanUseLoadout.png]]
 
 |Inputs||

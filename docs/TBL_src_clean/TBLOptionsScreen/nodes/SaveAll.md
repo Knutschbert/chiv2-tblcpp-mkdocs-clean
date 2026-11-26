@@ -1,5 +1,4 @@
 ## Save All
-Save All
 ![[../img/nd_img_SaveAll.png]]
 
 |Inputs||

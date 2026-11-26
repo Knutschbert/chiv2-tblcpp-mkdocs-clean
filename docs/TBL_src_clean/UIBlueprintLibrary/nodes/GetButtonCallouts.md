@@ -1,5 +1,4 @@
 ## Get Button Callouts
-Get Button Callouts
 ![[../img/nd_img_GetButtonCallouts.png]]
 
 |Inputs||

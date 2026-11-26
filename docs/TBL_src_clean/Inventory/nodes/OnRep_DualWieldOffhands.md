@@ -1,5 +1,4 @@
 ## On Rep Dual Wield Offhands
-On Rep Dual Wield Offhands
 ![[../img/nd_img_OnRep_DualWieldOffhands.png]]
 
 |Inputs||

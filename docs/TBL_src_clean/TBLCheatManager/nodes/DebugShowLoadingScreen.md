@@ -1,5 +1,4 @@
 ## Debug Show Loading Screen
-Debug Show Loading Screen
 ![[../img/nd_img_DebugShowLoadingScreen.png]]
 
 |Inputs||

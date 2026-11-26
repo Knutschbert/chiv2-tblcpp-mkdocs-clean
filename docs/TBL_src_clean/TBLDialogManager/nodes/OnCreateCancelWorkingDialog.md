@@ -1,5 +1,4 @@
 ## On Create Cancel Working Dialog
-On Create Cancel Working Dialog
 ![[../img/nd_img_OnCreateCancelWorkingDialog.png]]
 
 |Inputs||

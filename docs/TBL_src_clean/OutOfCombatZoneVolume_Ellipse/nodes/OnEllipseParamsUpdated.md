@@ -1,5 +1,4 @@
 ## On Ellipse Params Updated
-On Ellipse Params Updated
 ![[../img/nd_img_OnEllipseParamsUpdated.png]]
 
 |Inputs||

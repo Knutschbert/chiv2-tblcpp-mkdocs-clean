@@ -1,5 +1,4 @@
 ## Is Official Server by Session Result
-Is Official Server by Session Result
 ![[../img/nd_img_IsOfficialServerBySessionResult.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Value
-Set Value
 ![[../img/nd_img_SetValue.png]]
 
 |Inputs||

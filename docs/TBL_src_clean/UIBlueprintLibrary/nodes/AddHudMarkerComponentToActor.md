@@ -1,5 +1,4 @@
 ## Add Hud Marker Component to Actor
-Add Hud Marker Component to Actor
 ![[../img/nd_img_AddHudMarkerComponentToActor.png]]
 
 |Inputs||

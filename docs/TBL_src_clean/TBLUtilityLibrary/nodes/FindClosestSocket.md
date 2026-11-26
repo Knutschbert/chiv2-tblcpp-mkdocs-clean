@@ -1,5 +1,4 @@
 ## Find Closest Socket
-Find Closest Socket
 ![[../img/nd_img_FindClosestSocket.png]]
 
 |Inputs||

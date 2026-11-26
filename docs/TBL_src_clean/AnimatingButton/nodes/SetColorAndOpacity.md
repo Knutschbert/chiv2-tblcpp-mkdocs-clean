@@ -1,5 +1,4 @@
 ## Set Color and Opacity
-Set Color and Opacity
 ![[../img/nd_img_SetColorAndOpacity.png]]
 
 |Inputs||

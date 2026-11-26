@@ -1,5 +1,4 @@
 ## Notify Controller Target Location
-Notify Controller Target Location
 ![[../img/nd_img_NotifyControllerTargetLocation.png]]
 
 |Inputs||

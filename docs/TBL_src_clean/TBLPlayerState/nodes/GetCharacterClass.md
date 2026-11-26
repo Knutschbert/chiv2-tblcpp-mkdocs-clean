@@ -1,5 +1,4 @@
 ## Get Character Class
-Get Character Class
 ![[../img/nd_img_GetCharacterClass.png]]
 
 |Inputs||

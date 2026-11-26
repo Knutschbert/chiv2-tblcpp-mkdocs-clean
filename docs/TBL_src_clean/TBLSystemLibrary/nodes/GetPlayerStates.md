@@ -1,5 +1,4 @@
 ## Get Player States
-Get Player States
 ![[../img/nd_img_GetPlayerStates.png]]
 
 |Inputs||

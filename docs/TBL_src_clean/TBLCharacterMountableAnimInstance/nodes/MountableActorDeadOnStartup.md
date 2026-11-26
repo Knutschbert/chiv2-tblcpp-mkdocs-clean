@@ -1,5 +1,4 @@
 ## Mountable Actor Dead on Startup
-Mountable Actor Dead on Startup
 ![[../img/nd_img_MountableActorDeadOnStartup.png]]
 
 |Inputs||

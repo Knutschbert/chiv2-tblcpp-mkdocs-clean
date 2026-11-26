@@ -1,5 +1,4 @@
 ## Get Num Vote Instances for Class
-Get Num Vote Instances for Class
 ![[../img/nd_img_GetNumVoteInstancesForClass.png]]
 
 |Inputs||

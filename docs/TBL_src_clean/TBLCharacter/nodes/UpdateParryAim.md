@@ -1,5 +1,4 @@
 ## Update Parry Aim
-Update Parry Aim
 ![[../img/nd_img_UpdateParryAim.png]]
 
 |Inputs||

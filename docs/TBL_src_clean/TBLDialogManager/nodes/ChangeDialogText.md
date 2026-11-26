@@ -1,5 +1,4 @@
 ## Change Dialog Text
-Change Dialog Text
 ![[../img/nd_img_ChangeDialogText.png]]
 
 |Inputs||

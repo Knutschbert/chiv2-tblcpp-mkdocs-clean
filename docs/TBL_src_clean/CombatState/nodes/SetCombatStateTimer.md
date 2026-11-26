@@ -1,5 +1,4 @@
 ## Set Combat State Timer
-Set Combat State Timer
 ![[../img/nd_img_SetCombatStateTimer.png]]
 
 |Inputs||

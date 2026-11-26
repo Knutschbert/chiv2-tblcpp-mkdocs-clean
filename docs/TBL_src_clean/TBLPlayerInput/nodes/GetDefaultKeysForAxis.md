@@ -1,5 +1,4 @@
 ## Get Default Keys for Axis
-Get Default Keys for Axis
 ![[../img/nd_img_GetDefaultKeysForAxis.png]]
 
 |Inputs||

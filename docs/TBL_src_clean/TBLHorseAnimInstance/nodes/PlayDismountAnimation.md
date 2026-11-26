@@ -1,5 +1,4 @@
 ## Play Dismount Animation
-Play Dismount Animation
 ![[../img/nd_img_PlayDismountAnimation.png]]
 
 |Inputs||

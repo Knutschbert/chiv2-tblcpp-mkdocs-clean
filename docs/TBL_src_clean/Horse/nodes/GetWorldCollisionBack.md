@@ -1,5 +1,4 @@
 ## Get World Collision Back
-Get World Collision Back
 ![[../img/nd_img_GetWorldCollisionBack.png]]
 
 |Inputs||

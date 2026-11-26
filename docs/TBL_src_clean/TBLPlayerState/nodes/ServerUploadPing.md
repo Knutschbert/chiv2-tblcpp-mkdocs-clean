@@ -1,5 +1,4 @@
 ## Server Upload Ping
-Server Upload Ping
 ![[../img/nd_img_ServerUploadPing.png]]
 
 |Inputs||

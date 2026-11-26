@@ -1,5 +1,4 @@
 ## Draw Property
-Draw Property
 ![[../img/nd_img_DrawProperty.png]]
 
 |Inputs||

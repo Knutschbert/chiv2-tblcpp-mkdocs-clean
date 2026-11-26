@@ -1,5 +1,4 @@
 ## Should Draw Camera
-Should Draw Camera
 ![[../img/nd_img_ShouldDrawCamera.png]]
 
 |Inputs||

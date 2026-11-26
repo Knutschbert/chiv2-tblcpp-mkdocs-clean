@@ -1,5 +1,4 @@
 ## Get Audio Component
-Get Audio Component
 ![[../img/nd_img_GetAudioComponent.png]]
 
 |Inputs||

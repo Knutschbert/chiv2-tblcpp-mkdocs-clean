@@ -1,5 +1,4 @@
 ## On Message Received
-On Message Received
 ![[../img/nd_img_OnMessageReceived.png]]
 
 |Inputs||

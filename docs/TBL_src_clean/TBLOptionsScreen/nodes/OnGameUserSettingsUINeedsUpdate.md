@@ -1,5 +1,4 @@
 ## On Game User Settings UINeeds Update
-On Game User Settings UINeeds Update
 ![[../img/nd_img_OnGameUserSettingsUINeedsUpdate.png]]
 
 |Inputs||

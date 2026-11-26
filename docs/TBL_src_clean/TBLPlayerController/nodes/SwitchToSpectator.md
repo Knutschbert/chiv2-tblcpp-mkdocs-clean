@@ -1,5 +1,4 @@
 ## Switch to Spectator
-Switch to Spectator
 ![[../img/nd_img_SwitchToSpectator.png]]
 
 |Inputs||

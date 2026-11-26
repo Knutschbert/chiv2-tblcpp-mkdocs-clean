@@ -1,5 +1,4 @@
 ## Prepare Bank
-Prepare Bank
 ![[../img/nd_img_PrepareBank.png]]
 
 |Inputs||

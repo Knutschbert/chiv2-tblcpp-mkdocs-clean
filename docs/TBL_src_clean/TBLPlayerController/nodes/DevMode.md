@@ -1,5 +1,4 @@
 ## Dev Mode
-Dev Mode
 ![[../img/nd_img_DevMode.png]]
 
 |Inputs||

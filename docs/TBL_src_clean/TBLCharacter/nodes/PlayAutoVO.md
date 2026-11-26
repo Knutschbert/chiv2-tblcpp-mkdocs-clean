@@ -1,5 +1,4 @@
 ## Play Auto VO
-Play Auto VO
 ![[../img/nd_img_PlayAutoVO.png]]
 
 |Inputs||

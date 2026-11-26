@@ -1,5 +1,4 @@
 ## Should Draw Visibility Check
-Should Draw Visibility Check
 ![[../img/nd_img_ShouldDrawVisibilityCheck.png]]
 
 |Inputs||

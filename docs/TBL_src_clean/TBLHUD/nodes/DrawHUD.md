@@ -1,5 +1,4 @@
 ## Draw HUD
-Draw HUD
 ![[../img/nd_img_DrawHUD.png]]
 
 |Inputs||

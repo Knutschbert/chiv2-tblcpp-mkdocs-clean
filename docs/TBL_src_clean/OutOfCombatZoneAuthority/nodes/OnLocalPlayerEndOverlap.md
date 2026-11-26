@@ -1,5 +1,4 @@
 ## On Local Player End Overlap
-On Local Player End Overlap
 ![[../img/nd_img_OnLocalPlayerEndOverlap.png]]
 
 |Inputs||

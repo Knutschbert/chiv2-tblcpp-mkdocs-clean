@@ -1,5 +1,4 @@
 ## Get Num Controllers Registered
-Get Num Controllers Registered
 ![[../img/nd_img_GetNumControllersRegistered.png]]
 
 |Inputs||

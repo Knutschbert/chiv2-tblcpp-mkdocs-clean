@@ -1,5 +1,4 @@
 ## On Animation Set Changed
-On Animation Set Changed
 ![[../img/nd_img_OnAnimationSetChanged.png]]
 
 |Inputs||

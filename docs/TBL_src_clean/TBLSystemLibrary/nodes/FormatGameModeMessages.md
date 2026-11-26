@@ -1,5 +1,4 @@
 ## Format Game Mode Messages
-Format Game Mode Messages
 ![[../img/nd_img_FormatGameModeMessages.png]]
 
 |Inputs||

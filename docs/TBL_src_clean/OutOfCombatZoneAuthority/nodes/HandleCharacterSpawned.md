@@ -1,5 +1,4 @@
 ## Handle Character Spawned
-Handle Character Spawned
 ![[../img/nd_img_HandleCharacterSpawned.png]]
 
 |Inputs||

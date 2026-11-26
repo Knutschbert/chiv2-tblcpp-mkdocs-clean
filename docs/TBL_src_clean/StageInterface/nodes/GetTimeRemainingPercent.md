@@ -1,5 +1,4 @@
 ## Get Time Remaining Percent
-Get Time Remaining Percent
 ![[../img/nd_img_GetTimeRemainingPercent.png]]
 
 |Inputs||

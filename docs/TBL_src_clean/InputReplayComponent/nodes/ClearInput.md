@@ -1,5 +1,4 @@
 ## Clear Input
-Clear Input
 ![[../img/nd_img_ClearInput.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Broadcast Projectile Penetrated Passive Shield
-Broadcast Projectile Penetrated Passive Shield
 ![[../img/nd_img_BroadcastProjectilePenetratedPassiveShield.png]]
 
 |Inputs||

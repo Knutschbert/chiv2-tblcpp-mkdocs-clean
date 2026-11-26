@@ -1,5 +1,4 @@
 ## Server Set Object for Item Load
-Server Set Object for Item Load
 ![[../img/nd_img_ServerSetObjectForItemLoad.png]]
 
 |Inputs||

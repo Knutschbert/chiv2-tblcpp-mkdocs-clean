@@ -1,5 +1,4 @@
 ## Get Item for Slot
-Get Item for Slot
 ![[../img/nd_img_GetItemForSlot.png]]
 
 |Inputs||

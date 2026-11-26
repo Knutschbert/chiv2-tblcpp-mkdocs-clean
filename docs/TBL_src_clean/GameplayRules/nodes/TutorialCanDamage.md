@@ -1,5 +1,4 @@
 ## Tutorial Can Damage
-Tutorial Can Damage
 ![[../img/nd_img_TutorialCanDamage.png]]
 
 |Inputs||

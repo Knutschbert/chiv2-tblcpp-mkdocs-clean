@@ -1,5 +1,4 @@
 ## Get Spawnable Classes
-Get Spawnable Classes
 ![[../img/nd_img_GetSpawnableClasses.png]]
 
 |Inputs||

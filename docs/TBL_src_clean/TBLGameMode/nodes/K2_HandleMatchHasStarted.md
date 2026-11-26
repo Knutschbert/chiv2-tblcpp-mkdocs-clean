@@ -1,5 +1,4 @@
 ## K2 Handle Match Has Started
-K2 Handle Match Has Started
 ![[../img/nd_img_K2_HandleMatchHasStarted.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Pause Playback
-On Pause Playback
 ![[../img/nd_img_OnPausePlayback.png]]
 
 |Inputs||

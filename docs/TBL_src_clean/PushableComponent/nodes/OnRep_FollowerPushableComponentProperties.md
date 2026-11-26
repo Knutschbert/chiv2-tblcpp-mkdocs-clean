@@ -1,5 +1,4 @@
 ## On Rep Follower Pushable Component Properties
-On Rep Follower Pushable Component Properties
 ![[../img/nd_img_OnRep_FollowerPushableComponentProperties.png]]
 
 |Inputs||

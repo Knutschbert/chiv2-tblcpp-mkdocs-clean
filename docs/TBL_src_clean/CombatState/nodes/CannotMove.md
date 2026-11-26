@@ -1,5 +1,4 @@
 ## Cannot Move
-Cannot Move
 ![[../img/nd_img_CannotMove.png]]
 
 |Inputs||

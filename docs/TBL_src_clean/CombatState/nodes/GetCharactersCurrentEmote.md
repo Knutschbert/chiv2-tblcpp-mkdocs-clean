@@ -1,5 +1,4 @@
 ## Get Characters Current Emote
-Get Characters Current Emote
 ![[../img/nd_img_GetCharactersCurrentEmote.png]]
 
 |Inputs||

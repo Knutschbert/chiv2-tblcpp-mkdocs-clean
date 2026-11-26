@@ -1,5 +1,4 @@
 ## On Horse Fx Event
-On Horse Fx Event
 ![[../img/nd_img_OnHorseFxEvent.png]]
 
 |Inputs||

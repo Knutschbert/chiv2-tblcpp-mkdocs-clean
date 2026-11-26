@@ -1,5 +1,4 @@
 ## Leave Spawn
-Leave Spawn
 ![[../img/nd_img_LeaveSpawn.png]]
 
 |Inputs||

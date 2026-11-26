@@ -1,5 +1,4 @@
 ## Is Wave Locked
-Is Wave Locked
 ![[../img/nd_img_IsWaveLocked.png]]
 
 |Inputs||

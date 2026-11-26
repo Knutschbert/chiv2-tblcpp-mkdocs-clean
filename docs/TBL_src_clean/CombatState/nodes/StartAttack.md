@@ -1,5 +1,4 @@
 ## Start Attack
-Start Attack
 ![[../img/nd_img_StartAttack.png]]
 
 |Inputs||

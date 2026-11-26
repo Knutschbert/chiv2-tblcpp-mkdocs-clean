@@ -1,5 +1,4 @@
 ## Get Destinations in Grid Distance
-Get Destinations in Grid Distance
 ![[../img/nd_img_GetDestinationsInGridDistance.png]]
 
 |Inputs||

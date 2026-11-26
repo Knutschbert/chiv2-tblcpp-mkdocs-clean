@@ -1,5 +1,4 @@
 ## Interpolate Vector Over Time
-Interpolate Vector Over Time
 ![[../img/nd_img_InterpolateVectorOverTime.png]]
 
 |Inputs||

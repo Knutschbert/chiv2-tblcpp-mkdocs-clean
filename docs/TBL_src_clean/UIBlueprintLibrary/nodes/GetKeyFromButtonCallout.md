@@ -1,5 +1,4 @@
 ## Get Key from Button Callout
-Get Key from Button Callout
 ![[../img/nd_img_GetKeyFromButtonCallout.png]]
 
 |Inputs||

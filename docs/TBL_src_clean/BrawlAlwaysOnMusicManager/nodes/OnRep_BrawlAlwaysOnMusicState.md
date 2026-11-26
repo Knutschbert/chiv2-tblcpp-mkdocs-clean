@@ -1,5 +1,4 @@
 ## On Rep Brawl Always on Music State
-On Rep Brawl Always on Music State
 ![[../img/nd_img_OnRep_BrawlAlwaysOnMusicState.png]]
 
 |Inputs||

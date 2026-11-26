@@ -1,5 +1,4 @@
 ## Broadcast Localized Chat for Faction
-Broadcast Localized Chat for Faction
 ![[../img/nd_img_BroadcastLocalizedChatForFaction.png]]
 
 |Inputs||

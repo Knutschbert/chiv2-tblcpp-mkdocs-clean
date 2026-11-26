@@ -1,5 +1,4 @@
 ## Get Min Speed
-Get Min Speed
 ![[../img/nd_img_GetMinSpeed.png]]
 
 |Inputs||

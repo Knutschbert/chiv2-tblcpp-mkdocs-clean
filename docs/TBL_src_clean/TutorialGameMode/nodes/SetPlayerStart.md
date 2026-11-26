@@ -1,5 +1,4 @@
 ## Set Player Start
-Set Player Start
 ![[../img/nd_img_SetPlayerStart.png]]
 
 |Inputs||

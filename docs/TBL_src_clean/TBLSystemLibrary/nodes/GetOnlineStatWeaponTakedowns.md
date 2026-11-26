@@ -1,5 +1,4 @@
 ## Get Online Stat Weapon Takedowns
-Get Online Stat Weapon Takedowns
 ![[../img/nd_img_GetOnlineStatWeaponTakedowns.png]]
 
 |Inputs||

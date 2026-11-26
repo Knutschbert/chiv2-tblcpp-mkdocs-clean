@@ -1,5 +1,4 @@
 ## End Profiler Stat
-End Profiler Stat
 ![[../img/nd_img_EndProfilerStat.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Remove Instance
-Remove Instance
 ![[../img/nd_img_RemoveInstance.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Move to Nav Mesh
-Move to Nav Mesh
 ![[../img/nd_img_MoveToNavMesh.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Go to Tutorial Map
-Go to Tutorial Map
 ![[../img/nd_img_GoToTutorialMap.png]]
 
 |Inputs||

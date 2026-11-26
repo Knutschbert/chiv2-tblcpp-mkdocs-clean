@@ -1,5 +1,4 @@
 ## On Player Level Up Events
-On Player Level Up Events
 ![[../img/nd_img_OnPlayerLevelUpEvents.png]]
 
 |Inputs||

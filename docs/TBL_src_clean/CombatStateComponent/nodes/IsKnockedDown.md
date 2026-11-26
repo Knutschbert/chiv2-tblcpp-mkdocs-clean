@@ -1,5 +1,4 @@
 ## Is Knocked Down
-Is Knocked Down
 ![[../img/nd_img_IsKnockedDown.png]]
 
 |Inputs||

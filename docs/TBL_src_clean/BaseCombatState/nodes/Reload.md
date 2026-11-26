@@ -1,5 +1,4 @@
 ## Reload
-Reload
 ![[../img/nd_img_Reload.png]]
 
 |Inputs||

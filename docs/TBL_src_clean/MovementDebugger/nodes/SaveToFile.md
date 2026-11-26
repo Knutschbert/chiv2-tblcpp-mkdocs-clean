@@ -1,5 +1,4 @@
 ## Save to File
-Save to File
 ![[../img/nd_img_SaveToFile.png]]
 
 |Inputs||

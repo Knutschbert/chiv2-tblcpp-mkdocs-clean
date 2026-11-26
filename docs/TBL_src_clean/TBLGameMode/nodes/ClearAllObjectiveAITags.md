@@ -1,5 +1,4 @@
 ## Clear All Objective AITags
-Clear All Objective AITags
 ![[../img/nd_img_ClearAllObjectiveAITags.png]]
 
 |Inputs||

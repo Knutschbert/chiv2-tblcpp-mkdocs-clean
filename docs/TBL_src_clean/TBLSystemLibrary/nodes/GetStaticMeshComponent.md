@@ -1,5 +1,4 @@
 ## Get Static Mesh Component
-Get Static Mesh Component
 ![[../img/nd_img_GetStaticMeshComponent.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Carryable Section Changed
-Carryable Section Changed
 ![[../img/nd_img_CarryableSectionChanged.png]]
 
 |Inputs||

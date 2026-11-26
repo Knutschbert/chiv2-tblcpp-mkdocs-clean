@@ -1,5 +1,4 @@
 ## Show Podium Level
-Show Podium Level
 ![[../img/nd_img_ShowPodiumLevel.png]]
 
 |Inputs||

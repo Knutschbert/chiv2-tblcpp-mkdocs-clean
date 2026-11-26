@@ -1,5 +1,4 @@
 ## Pawn Revived
-Pawn Revived
 ![[../img/nd_img_PawnRevived.png]]
 
 |Inputs||

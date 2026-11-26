@@ -1,5 +1,4 @@
 ## Add Tags to Actor
-Add Tags to Actor
 ![[../img/nd_img_AddTagsToActor.png]]
 
 |Inputs||

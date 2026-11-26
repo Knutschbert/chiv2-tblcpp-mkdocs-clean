@@ -1,5 +1,4 @@
 ## Has Condition
-Has Condition
 ![[../img/nd_img_HasCondition.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Wall Hit
-On Wall Hit
 ![[../img/nd_img_OnWallHit.png]]
 
 |Inputs||

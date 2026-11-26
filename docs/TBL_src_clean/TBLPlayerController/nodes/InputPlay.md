@@ -1,5 +1,4 @@
 ## Input Play
-Input Play
 ![[../img/nd_img_InputPlay.png]]
 
 |Inputs||

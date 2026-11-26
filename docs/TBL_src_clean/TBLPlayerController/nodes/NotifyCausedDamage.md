@@ -1,5 +1,4 @@
 ## Notify Caused Damage
-Notify Caused Damage
 ![[../img/nd_img_NotifyCausedDamage.png]]
 
 |Inputs||

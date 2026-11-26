@@ -1,5 +1,4 @@
 ## On Received Embed Info
-On Received Embed Info
 ![[../img/nd_img_OnReceivedEmbedInfo.png]]
 
 |Inputs||

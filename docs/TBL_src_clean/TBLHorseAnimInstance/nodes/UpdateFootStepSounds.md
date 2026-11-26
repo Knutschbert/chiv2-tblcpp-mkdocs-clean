@@ -1,5 +1,4 @@
 ## Update Foot Step Sounds
-Update Foot Step Sounds
 ![[../img/nd_img_UpdateFootStepSounds.png]]
 
 |Inputs||

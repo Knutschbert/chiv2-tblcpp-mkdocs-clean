@@ -1,5 +1,4 @@
 ## Set Is Scared
-Set Is Scared
 ![[../img/nd_img_SetIsScared.png]]
 
 |Inputs||

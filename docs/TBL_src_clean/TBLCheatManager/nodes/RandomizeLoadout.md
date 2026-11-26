@@ -1,5 +1,4 @@
 ## Randomize Loadout
-Randomize Loadout
 ![[../img/nd_img_RandomizeLoadout.png]]
 
 |Inputs||

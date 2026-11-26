@@ -1,5 +1,4 @@
 ## Clear All Skin Weights Override
-Clear All Skin Weights Override
 ![[../img/nd_img_ClearAllSkinWeightsOverride.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Archetype Max Count
-Get Archetype Max Count
 ![[../img/nd_img_GetArchetypeMaxCount.png]]
 
 |Inputs||

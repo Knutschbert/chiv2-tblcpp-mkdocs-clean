@@ -1,5 +1,4 @@
 ## Prompt for Remote Debugging
-Prompt for Remote Debugging
 ![[../img/nd_img_PromptForRemoteDebugging.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Stat FPS
-Get Stat FPS
 ![[../img/nd_img_GetStatFPS.png]]
 
 |Inputs||

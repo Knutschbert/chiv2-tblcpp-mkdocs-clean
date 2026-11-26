@@ -1,5 +1,4 @@
 ## Is Blocked
-Is Blocked
 ![[../img/nd_img_IsBlocked.png]]
 
 |Inputs||

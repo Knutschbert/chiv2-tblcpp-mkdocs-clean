@@ -1,5 +1,4 @@
 ## Get Downed Score Percent
-Get Downed Score Percent
 ![[../img/nd_img_GetDownedScorePercent.png]]
 
 |Inputs||

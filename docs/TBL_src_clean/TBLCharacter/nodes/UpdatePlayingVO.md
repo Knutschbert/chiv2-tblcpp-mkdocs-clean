@@ -1,5 +1,4 @@
 ## Update Playing VO
-Update Playing VO
 ![[../img/nd_img_UpdatePlayingVO.png]]
 
 |Inputs||

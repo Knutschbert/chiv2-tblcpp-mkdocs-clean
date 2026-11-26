@@ -1,5 +1,4 @@
 ## Broadcast Crowd Control No Damage
-Broadcast Crowd Control No Damage
 ![[../img/nd_img_BroadcastCrowdControl_NoDamage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Handle Begin Overlap
-Handle Begin Overlap
 ![[../img/nd_img_HandleBeginOverlap.png]]
 
 |Inputs||

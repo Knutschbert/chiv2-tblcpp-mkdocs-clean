@@ -1,5 +1,4 @@
 ## Client Start Online Game
-Client Start Online Game
 ![[../img/nd_img_ClientStartOnlineGame.png]]
 
 |Inputs||

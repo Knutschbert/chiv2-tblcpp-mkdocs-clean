@@ -1,5 +1,4 @@
 ## Broadcast Heal Over Time
-Broadcast Heal Over Time
 ![[../img/nd_img_BroadcastHealOverTime.png]]
 
 |Inputs||

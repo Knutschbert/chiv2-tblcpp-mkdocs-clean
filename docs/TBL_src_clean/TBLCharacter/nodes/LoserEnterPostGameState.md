@@ -1,5 +1,4 @@
 ## Loser Enter Post Game State
-Loser Enter Post Game State
 ![[../img/nd_img_LoserEnterPostGameState.png]]
 
 |Inputs||

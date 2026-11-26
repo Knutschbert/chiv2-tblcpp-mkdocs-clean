@@ -1,5 +1,4 @@
 ## Sync Score Events
-Sync Score Events
 ![[../img/nd_img_SyncScoreEvents.png]]
 
 |Inputs||

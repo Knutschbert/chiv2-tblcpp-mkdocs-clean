@@ -1,5 +1,4 @@
 ## Remove Bots
-Remove Bots
 ![[../img/nd_img_RemoveBots.png]]
 
 |Inputs||

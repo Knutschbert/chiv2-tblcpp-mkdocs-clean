@@ -1,5 +1,4 @@
 ## Begin Jump Overlap
-Begin Jump Overlap
 ![[../img/nd_img_BeginJumpOverlap.png]]
 
 |Inputs||

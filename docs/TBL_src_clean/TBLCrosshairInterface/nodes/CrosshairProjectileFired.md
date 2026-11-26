@@ -1,5 +1,4 @@
 ## Crosshair Projectile Fired
-Crosshair Projectile Fired
 ![[../img/nd_img_CrosshairProjectileFired.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Menu Back Space
-Menu Back Space
 ![[../img/nd_img_MenuBackSpace.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Mount Ladder
-Server Mount Ladder
 ![[../img/nd_img_ServerMountLadder.png]]
 
 |Inputs||

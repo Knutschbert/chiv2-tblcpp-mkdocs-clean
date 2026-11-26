@@ -1,5 +1,4 @@
 ## Set Skin Weights Override
-Set Skin Weights Override
 ![[../img/nd_img_SetSkinWeightsOverride.png]]
 
 |Inputs||

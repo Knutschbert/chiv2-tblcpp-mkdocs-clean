@@ -1,5 +1,4 @@
 ## Dismount Pressed
-Dismount Pressed
 ![[../img/nd_img_DismountPressed.png]]
 
 |Inputs||

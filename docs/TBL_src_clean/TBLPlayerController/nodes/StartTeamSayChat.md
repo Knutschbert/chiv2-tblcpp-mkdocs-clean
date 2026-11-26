@@ -1,5 +1,4 @@
 ## Start Team Say Chat
-Start Team Say Chat
 ![[../img/nd_img_StartTeamSayChat.png]]
 
 |Inputs||

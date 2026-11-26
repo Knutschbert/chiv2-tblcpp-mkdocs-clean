@@ -1,5 +1,4 @@
 ## Set Ignore AI
-Set Ignore AI
 ![[../img/nd_img_SetIgnoreAI.png]]
 
 |Inputs||

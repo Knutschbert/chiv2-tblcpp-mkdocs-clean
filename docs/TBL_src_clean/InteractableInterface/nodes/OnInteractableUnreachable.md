@@ -1,5 +1,4 @@
 ## On Interactable Unreachable
-On Interactable Unreachable
 ![[../img/nd_img_OnInteractableUnreachable.png]]
 
 |Inputs||

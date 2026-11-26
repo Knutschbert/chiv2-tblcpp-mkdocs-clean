@@ -1,5 +1,4 @@
 ## On Store Screen Open
-On Store Screen Open
 ![[../img/nd_img_OnStoreScreenOpen.png]]
 
 |Inputs||

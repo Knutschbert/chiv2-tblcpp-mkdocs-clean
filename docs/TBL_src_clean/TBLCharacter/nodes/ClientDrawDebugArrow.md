@@ -1,5 +1,4 @@
 ## Client Draw Debug Arrow
-Client Draw Debug Arrow
 ![[../img/nd_img_ClientDrawDebugArrow.png]]
 
 |Inputs||

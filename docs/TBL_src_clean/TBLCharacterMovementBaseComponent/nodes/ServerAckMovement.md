@@ -1,5 +1,4 @@
 ## Server Ack Movement
-Server Ack Movement
 ![[../img/nd_img_ServerAckMovement.png]]
 
 |Inputs||

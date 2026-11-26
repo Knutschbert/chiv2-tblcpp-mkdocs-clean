@@ -1,5 +1,4 @@
 ## On Rep Vote Options
-On Rep Vote Options
 ![[../img/nd_img_OnRep_VoteOptions.png]]
 
 |Inputs||

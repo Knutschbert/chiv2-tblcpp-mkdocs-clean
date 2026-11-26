@@ -1,5 +1,4 @@
 ## Player Ready to Spawn
-Player Ready to Spawn
 ![[../img/nd_img_PlayerReadyToSpawn.png]]
 
 |Inputs||

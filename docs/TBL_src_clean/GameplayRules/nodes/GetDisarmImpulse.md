@@ -1,5 +1,4 @@
 ## Get Disarm Impulse
-Get Disarm Impulse
 ![[../img/nd_img_GetDisarmImpulse.png]]
 
 |Inputs||

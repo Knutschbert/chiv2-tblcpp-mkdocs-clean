@@ -1,5 +1,4 @@
 ## Get Online Stat Commendations
-Get Online Stat Commendations
 ![[../img/nd_img_GetOnlineStatCommendations.png]]
 
 |Inputs||

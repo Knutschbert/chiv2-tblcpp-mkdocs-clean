@@ -1,5 +1,4 @@
 ## On Thrown
-On Thrown
 ![[../img/nd_img_OnThrown.png]]
 
 |Inputs||

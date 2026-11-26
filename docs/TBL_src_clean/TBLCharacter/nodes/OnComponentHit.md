@@ -1,5 +1,4 @@
 ## On Component Hit
-On Component Hit
 ![[../img/nd_img_OnComponentHit.png]]
 
 |Inputs||

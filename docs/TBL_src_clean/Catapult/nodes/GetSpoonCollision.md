@@ -1,5 +1,4 @@
 ## Get Spoon Collision
-Get Spoon Collision
 ![[../img/nd_img_GetSpoonCollision.png]]
 
 |Inputs||

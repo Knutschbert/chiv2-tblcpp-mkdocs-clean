@@ -1,5 +1,4 @@
 ## K2 on Un Pinned
-K2 on Un Pinned
 ![[../img/nd_img_K2_OnUnPinned.png]]
 
 |Inputs||

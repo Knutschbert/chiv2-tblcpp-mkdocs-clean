@@ -1,5 +1,4 @@
 ## BP on Block Key Press
-BP on Block Key Press
 ![[../img/nd_img_BP_OnBlockKeyPress.png]]
 
 |Inputs||

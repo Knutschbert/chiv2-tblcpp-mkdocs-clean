@@ -1,5 +1,4 @@
 ## Regenerate Friend Invite Code
-Regenerate Friend Invite Code
 ![[../img/nd_img_RegenerateFriendInviteCode.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Visible
-Get Visible
 ![[../img/nd_img_GetVisible.png]]
 
 |Inputs||

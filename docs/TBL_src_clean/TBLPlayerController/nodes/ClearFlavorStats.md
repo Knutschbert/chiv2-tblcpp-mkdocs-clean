@@ -1,5 +1,4 @@
 ## Clear Flavor Stats
-Clear Flavor Stats
 ![[../img/nd_img_ClearFlavorStats.png]]
 
 |Inputs||

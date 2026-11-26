@@ -1,5 +1,4 @@
 ## Server Use
-Server Use
 ![[../img/nd_img_ServerUse.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Pickup Ended
-On Pickup Ended
 ![[../img/nd_img_OnPickupEnded.png]]
 
 |Inputs||

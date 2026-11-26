@@ -1,5 +1,4 @@
 ## On Inventory Item Damage State Changed
-On Inventory Item Damage State Changed
 ![[../img/nd_img_OnInventoryItemDamageStateChanged.png]]
 
 |Inputs||

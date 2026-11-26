@@ -1,5 +1,4 @@
 ## Get All Out Of Combat Characters for Faction
-Get All Out Of Combat Characters for Faction
 ![[../img/nd_img_GetAllOutOfCombatCharactersForFaction.png]]
 
 |Inputs||

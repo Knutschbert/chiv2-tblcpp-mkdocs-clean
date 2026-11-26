@@ -1,5 +1,4 @@
 ## On Players in Capture Volume Changed
-On Players in Capture Volume Changed
 ![[../img/nd_img_OnPlayersInCaptureVolumeChanged.png]]
 
 |Inputs||

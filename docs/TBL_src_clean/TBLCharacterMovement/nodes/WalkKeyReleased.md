@@ -1,5 +1,4 @@
 ## Walk Key Released
-Walk Key Released
 ![[../img/nd_img_WalkKeyReleased.png]]
 
 |Inputs||

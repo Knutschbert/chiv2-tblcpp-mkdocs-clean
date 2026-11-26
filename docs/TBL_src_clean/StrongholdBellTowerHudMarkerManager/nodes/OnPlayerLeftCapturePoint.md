@@ -1,5 +1,4 @@
 ## On Player Left Capture Point
-On Player Left Capture Point
 ![[../img/nd_img_OnPlayerLeftCapturePoint.png]]
 
 |Inputs||

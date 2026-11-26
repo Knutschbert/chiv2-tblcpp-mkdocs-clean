@@ -1,5 +1,4 @@
 ## On Rider Start Attack
-On Rider Start Attack
 ![[../img/nd_img_OnRiderStartAttack.png]]
 
 |Inputs||

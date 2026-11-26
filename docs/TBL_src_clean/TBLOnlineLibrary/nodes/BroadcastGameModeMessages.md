@@ -1,5 +1,4 @@
 ## Broadcast Game Mode Messages
-Broadcast Game Mode Messages
 ![[../img/nd_img_BroadcastGameModeMessages.png]]
 
 |Inputs||

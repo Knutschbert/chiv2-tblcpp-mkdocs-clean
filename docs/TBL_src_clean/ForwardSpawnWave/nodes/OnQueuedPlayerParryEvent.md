@@ -1,5 +1,4 @@
 ## On Queued Player Parry Event
-On Queued Player Parry Event
 ![[../img/nd_img_OnQueuedPlayerParryEvent.png]]
 
 |Inputs||

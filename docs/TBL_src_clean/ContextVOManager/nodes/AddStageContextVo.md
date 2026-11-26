@@ -1,5 +1,4 @@
 ## Add Stage Context Vo
-Add Stage Context Vo
 ![[../img/nd_img_AddStageContextVo.png]]
 
 |Inputs||

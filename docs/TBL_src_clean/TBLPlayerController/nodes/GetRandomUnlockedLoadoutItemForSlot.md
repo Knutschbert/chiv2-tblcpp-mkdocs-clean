@@ -1,5 +1,4 @@
 ## Get Random Unlocked Loadout Item for Slot
-Get Random Unlocked Loadout Item for Slot
 ![[../img/nd_img_GetRandomUnlockedLoadoutItemForSlot.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Attempt Throttled Combat State Change Call
-Attempt Throttled Combat State Change Call
 ![[../img/nd_img_AttemptThrottledCombatStateChangeCall.png]]
 
 |Inputs||

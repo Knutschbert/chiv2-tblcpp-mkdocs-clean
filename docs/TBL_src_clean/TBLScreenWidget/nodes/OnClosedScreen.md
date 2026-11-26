@@ -1,5 +1,4 @@
 ## On Closed Screen
-On Closed Screen
 ![[../img/nd_img_OnClosedScreen.png]]
 
 |Inputs||

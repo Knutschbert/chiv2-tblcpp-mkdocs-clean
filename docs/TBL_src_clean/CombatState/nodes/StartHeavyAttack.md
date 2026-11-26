@@ -1,5 +1,4 @@
 ## Start Heavy Attack
-Start Heavy Attack
 ![[../img/nd_img_StartHeavyAttack.png]]
 
 |Inputs||

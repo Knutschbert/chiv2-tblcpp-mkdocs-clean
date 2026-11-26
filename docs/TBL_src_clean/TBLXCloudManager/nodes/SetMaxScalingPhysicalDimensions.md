@@ -1,5 +1,4 @@
 ## Set Max Scaling Physical Dimensions
-Set Max Scaling Physical Dimensions
 ![[../img/nd_img_SetMaxScalingPhysicalDimensions.png]]
 
 |Inputs||

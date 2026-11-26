@@ -1,5 +1,4 @@
 ## Force Max Sprint
-Force Max Sprint
 ![[../img/nd_img_ForceMaxSprint.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Team Max Tickets
-Set Team Max Tickets
 ![[../img/nd_img_SetTeamMaxTickets.png]]
 
 |Inputs||

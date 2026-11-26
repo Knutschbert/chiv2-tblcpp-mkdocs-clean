@@ -1,5 +1,4 @@
 ## Property Debugger Add
-Property Debugger Add
 ![[../img/nd_img_PropertyDebuggerAdd.png]]
 
 |Inputs||

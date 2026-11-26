@@ -1,5 +1,4 @@
 ## Upload Ping
-Upload Ping
 ![[../img/nd_img_UploadPing.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Pre Thrown
-On Pre Thrown
 ![[../img/nd_img_OnPreThrown.png]]
 
 |Inputs||

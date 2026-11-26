@@ -1,5 +1,4 @@
 ## Get Inventory Items by Slot
-Get Inventory Items by Slot
 ![[../img/nd_img_GetInventoryItemsBySlot.png]]
 
 |Inputs||

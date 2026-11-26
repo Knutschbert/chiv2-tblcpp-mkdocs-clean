@@ -1,5 +1,4 @@
 ## Is Part Of Faction
-Is Part Of Faction
 ![[../img/nd_img_IsPartOfFaction.png]]
 
 |Inputs||

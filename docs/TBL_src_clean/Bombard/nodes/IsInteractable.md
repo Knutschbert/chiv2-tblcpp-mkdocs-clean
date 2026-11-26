@@ -1,5 +1,4 @@
 ## Is Interactable
-Is Interactable
 ![[../img/nd_img_IsInteractable.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Targetable
-Is Targetable
 ![[../img/nd_img_IsTargetable.png]]
 
 |Inputs||

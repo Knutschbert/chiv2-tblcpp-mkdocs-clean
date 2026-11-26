@@ -1,5 +1,4 @@
 ## Broadcast Team Updated
-Broadcast Team Updated
 ![[../img/nd_img_BroadcastTeamUpdated.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Ability
-Get Ability
 ![[../img/nd_img_GetAbility.png]]
 
 |Inputs||

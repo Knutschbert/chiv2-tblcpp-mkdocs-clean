@@ -1,5 +1,4 @@
 ## Set Hud Visibility
-Set Hud Visibility
 ![[../img/nd_img_SetHudVisibility.png]]
 
 |Inputs||

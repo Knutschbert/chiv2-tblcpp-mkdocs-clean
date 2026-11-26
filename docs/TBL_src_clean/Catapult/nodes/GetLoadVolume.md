@@ -1,5 +1,4 @@
 ## Get Load Volume
-Get Load Volume
 ![[../img/nd_img_GetLoadVolume.png]]
 
 |Inputs||

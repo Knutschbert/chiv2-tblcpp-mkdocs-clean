@@ -1,5 +1,4 @@
 ## Vote Started
-Vote Started
 ![[../img/nd_img_VoteStarted.png]]
 
 |Inputs||

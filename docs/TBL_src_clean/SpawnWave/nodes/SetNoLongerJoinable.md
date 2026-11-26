@@ -1,5 +1,4 @@
 ## Set No Longer Joinable
-Set No Longer Joinable
 ![[../img/nd_img_SetNoLongerJoinable.png]]
 
 |Inputs||

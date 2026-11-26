@@ -1,5 +1,4 @@
 ## On Reset for Anim Instance Pool
-On Reset for Anim Instance Pool
 ![[../img/nd_img_OnResetForAnimInstancePool.png]]
 
 |Inputs||

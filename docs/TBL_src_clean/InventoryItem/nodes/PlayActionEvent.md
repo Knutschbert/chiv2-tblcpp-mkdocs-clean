@@ -1,5 +1,4 @@
 ## Play Action Event
-Play Action Event
 ![[../img/nd_img_PlayActionEvent.png]]
 
 |Inputs||

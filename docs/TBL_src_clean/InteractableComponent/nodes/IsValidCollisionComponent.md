@@ -1,5 +1,4 @@
 ## Is Valid Collision Component
-Is Valid Collision Component
 ![[../img/nd_img_IsValidCollisionComponent.png]]
 
 |Inputs||

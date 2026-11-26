@@ -1,5 +1,4 @@
 ## Release Block
-Release Block
 ![[../img/nd_img_ReleaseBlock.png]]
 
 |Inputs||

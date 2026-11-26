@@ -1,5 +1,4 @@
 ## Are Compound Action Keys Down
-Are Compound Action Keys Down
 ![[../img/nd_img_AreCompoundActionKeysDown.png]]
 
 |Inputs||

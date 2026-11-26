@@ -1,5 +1,4 @@
 ## Populate Widget Pool
-Populate Widget Pool
 ![[../img/nd_img_PopulateWidgetPool.png]]
 
 |Inputs||

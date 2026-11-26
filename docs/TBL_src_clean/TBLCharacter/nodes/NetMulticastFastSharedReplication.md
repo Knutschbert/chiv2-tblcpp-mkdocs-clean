@@ -1,5 +1,4 @@
 ## Net Multicast Fast Shared Replication
-Net Multicast Fast Shared Replication
 ![[../img/nd_img_NetMulticastFastSharedReplication.png]]
 
 |Inputs||

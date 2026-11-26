@@ -1,5 +1,4 @@
 ## Teleport
-Teleport
 ![[../img/nd_img_Teleport.png]]
 
 |Inputs||

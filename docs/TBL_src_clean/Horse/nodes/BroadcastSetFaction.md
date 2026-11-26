@@ -1,5 +1,4 @@
 ## Broadcast Set Faction
-Broadcast Set Faction
 ![[../img/nd_img_BroadcastSetFaction.png]]
 
 |Inputs||

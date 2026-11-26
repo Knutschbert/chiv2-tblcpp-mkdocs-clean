@@ -1,5 +1,4 @@
 ## On Experience Level Changed
-On Experience Level Changed
 ![[../img/nd_img_OnExperienceLevelChanged.png]]
 
 |Inputs||

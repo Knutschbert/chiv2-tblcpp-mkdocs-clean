@@ -1,5 +1,4 @@
 ## Can Player Call Kick Vote
-Can Player Call Kick Vote
 ![[../img/nd_img_CanPlayerCallKickVote.png]]
 
 |Inputs||

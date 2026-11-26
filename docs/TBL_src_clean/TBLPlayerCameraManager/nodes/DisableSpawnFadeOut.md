@@ -1,5 +1,4 @@
 ## Disable Spawn Fade Out
-Disable Spawn Fade Out
 ![[../img/nd_img_DisableSpawnFadeOut.png]]
 
 |Inputs||

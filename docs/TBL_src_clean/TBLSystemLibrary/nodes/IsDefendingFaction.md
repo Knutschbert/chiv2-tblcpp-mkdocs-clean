@@ -1,5 +1,4 @@
 ## Is Defending Faction
-Is Defending Faction
 ![[../img/nd_img_IsDefendingFaction.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Use Interactable
-Use Interactable
 ![[../img/nd_img_UseInteractable.png]]
 
 |Inputs||

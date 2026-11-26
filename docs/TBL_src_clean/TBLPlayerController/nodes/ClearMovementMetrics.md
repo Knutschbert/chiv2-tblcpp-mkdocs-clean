@@ -1,5 +1,4 @@
 ## Clear Movement Metrics
-Clear Movement Metrics
 ![[../img/nd_img_ClearMovementMetrics.png]]
 
 |Inputs||

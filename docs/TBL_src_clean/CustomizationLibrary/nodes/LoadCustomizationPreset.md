@@ -1,5 +1,4 @@
 ## Load Customization Preset
-Load Customization Preset
 ![[../img/nd_img_LoadCustomizationPreset.png]]
 
 |Inputs||

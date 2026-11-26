@@ -1,5 +1,4 @@
 ## Get Title Image
-Get Title Image
 ![[../img/nd_img_GetTitleImage.png]]
 
 |Inputs||

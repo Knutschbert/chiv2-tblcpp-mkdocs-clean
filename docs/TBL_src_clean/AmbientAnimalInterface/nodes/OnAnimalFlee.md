@@ -1,5 +1,4 @@
 ## On Animal Flee
-On Animal Flee
 ![[../img/nd_img_OnAnimalFlee.png]]
 
 |Inputs||

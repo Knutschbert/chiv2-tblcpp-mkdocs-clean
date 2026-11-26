@@ -1,5 +1,4 @@
 ## Death Animation Overlap
-Death Animation Overlap
 ![[../img/nd_img_DeathAnimationOverlap.png]]
 
 |Inputs||

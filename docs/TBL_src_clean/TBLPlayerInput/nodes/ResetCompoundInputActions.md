@@ -1,5 +1,4 @@
 ## Reset Compound Input Actions
-Reset Compound Input Actions
 ![[../img/nd_img_ResetCompoundInputActions.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Use Pressed
-Use Pressed
 ![[../img/nd_img_UsePressed.png]]
 
 |Inputs||

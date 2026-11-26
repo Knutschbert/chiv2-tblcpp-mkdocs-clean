@@ -1,5 +1,4 @@
 ## Load Bank
-Load Bank
 ![[../img/nd_img_LoadBank.png]]
 
 |Inputs||

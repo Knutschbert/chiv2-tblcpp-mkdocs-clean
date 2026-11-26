@@ -1,5 +1,4 @@
 ## Crosshair Holding Initiated
-Crosshair Holding Initiated
 ![[../img/nd_img_CrosshairHoldingInitiated.png]]
 
 |Inputs||

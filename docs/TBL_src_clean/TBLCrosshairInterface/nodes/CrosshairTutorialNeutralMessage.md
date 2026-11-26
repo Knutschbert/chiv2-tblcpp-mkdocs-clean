@@ -1,5 +1,4 @@
 ## Crosshair Tutorial Neutral Message
-Crosshair Tutorial Neutral Message
 ![[../img/nd_img_CrosshairTutorialNeutralMessage.png]]
 
 |Inputs||

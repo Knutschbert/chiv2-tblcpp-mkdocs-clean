@@ -1,5 +1,4 @@
 ## Override Pickup Event
-Override Pickup Event
 ![[../img/nd_img_OverridePickupEvent.png]]
 
 |Inputs||

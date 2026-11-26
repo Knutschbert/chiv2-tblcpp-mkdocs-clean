@@ -1,5 +1,4 @@
 ## Get Num in Party
-Get Num in Party
 ![[../img/nd_img_GetNumInParty.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Profile Gpu Top Materials
-Profile Gpu Top Materials
 ![[../img/nd_img_ProfileGpuTopMaterials.png]]
 
 |Inputs||

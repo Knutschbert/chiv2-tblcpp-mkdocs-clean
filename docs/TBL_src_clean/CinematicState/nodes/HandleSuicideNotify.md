@@ -1,5 +1,4 @@
 ## Handle Suicide Notify
-Handle Suicide Notify
 ![[../img/nd_img_HandleSuicideNotify.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Dynamic Crosshair Enabled
-Is Dynamic Crosshair Enabled
 ![[../img/nd_img_IsDynamicCrosshairEnabled.png]]
 
 |Inputs||

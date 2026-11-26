@@ -1,5 +1,4 @@
 ## Add Ignore Actors
-Add Ignore Actors
 ![[../img/nd_img_AddIgnoreActors.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Broadcast Debug Message
-Server Broadcast Debug Message
 ![[../img/nd_img_ServerBroadcastDebugMessage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Next Spawn Pawn Subclass
-On Rep Next Spawn Pawn Subclass
 ![[../img/nd_img_OnRep_NextSpawnPawnSubclass.png]]
 
 |Inputs||

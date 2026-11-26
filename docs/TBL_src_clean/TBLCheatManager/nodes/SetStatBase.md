@@ -1,5 +1,4 @@
 ## Set Stat Base
-Set Stat Base
 ![[../img/nd_img_SetStatBase.png]]
 
 |Inputs||

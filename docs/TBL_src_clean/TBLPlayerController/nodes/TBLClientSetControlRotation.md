@@ -1,5 +1,4 @@
 ## TBLClient Set Control Rotation
-TBLClient Set Control Rotation
 ![[../img/nd_img_TBLClientSetControlRotation.png]]
 
 |Inputs||

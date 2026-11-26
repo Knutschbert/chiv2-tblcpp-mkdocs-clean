@@ -1,5 +1,4 @@
 ## Player Caused Fall Damage
-Player Caused Fall Damage
 ![[../img/nd_img_PlayerCausedFallDamage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Important Message
-Get Important Message
 ![[../img/nd_img_GetImportantMessage.png]]
 
 |Inputs||

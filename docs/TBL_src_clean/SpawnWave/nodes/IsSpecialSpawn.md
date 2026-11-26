@@ -1,5 +1,4 @@
 ## Is Special Spawn
-Is Special Spawn
 ![[../img/nd_img_IsSpecialSpawn.png]]
 
 |Inputs||

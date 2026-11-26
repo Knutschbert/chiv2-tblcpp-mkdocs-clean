@@ -1,5 +1,4 @@
 ## On Start Equip
-On Start Equip
 ![[../img/nd_img_OnStartEquip.png]]
 
 |Inputs||

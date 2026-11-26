@@ -1,5 +1,4 @@
 ## Crosshair Damage Event
-Crosshair Damage Event
 ![[../img/nd_img_CrosshairDamageEvent.png]]
 
 |Inputs||

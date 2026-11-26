@@ -1,5 +1,4 @@
 ## Should Start Counter Window
-Should Start Counter Window
 ![[../img/nd_img_ShouldStartCounterWindow.png]]
 
 |Inputs||

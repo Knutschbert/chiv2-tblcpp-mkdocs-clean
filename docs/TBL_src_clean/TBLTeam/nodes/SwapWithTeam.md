@@ -1,5 +1,4 @@
 ## Swap with Team
-Swap with Team
 ![[../img/nd_img_SwapWithTeam.png]]
 
 |Inputs||

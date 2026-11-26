@@ -1,5 +1,4 @@
 ## Skip Pushable to End Point
-Skip Pushable to End Point
 ![[../img/nd_img_SkipPushableToEndPoint.png]]
 
 |Inputs||

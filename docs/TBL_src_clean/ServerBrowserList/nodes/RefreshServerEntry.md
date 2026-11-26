@@ -1,5 +1,4 @@
 ## Refresh Server Entry
-Refresh Server Entry
 ![[../img/nd_img_RefreshServerEntry.png]]
 
 |Inputs||

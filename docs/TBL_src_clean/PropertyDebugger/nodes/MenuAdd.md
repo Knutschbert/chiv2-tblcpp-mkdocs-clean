@@ -1,5 +1,4 @@
 ## Menu Add
-Menu Add
 ![[../img/nd_img_MenuAdd.png]]
 
 |Inputs||

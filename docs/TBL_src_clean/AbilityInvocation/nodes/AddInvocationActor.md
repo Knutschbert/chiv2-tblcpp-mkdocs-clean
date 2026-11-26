@@ -1,5 +1,4 @@
 ## Add Invocation Actor
-Add Invocation Actor
 ![[../img/nd_img_AddInvocationActor.png]]
 
 |Inputs| |

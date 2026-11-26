@@ -1,5 +1,4 @@
 ## Get Character Subclass for Primary Weapon
-Get Character Subclass for Primary Weapon
 ![[../img/nd_img_GetCharacterSubclassForPrimaryWeapon.png]]
 
 |Inputs||

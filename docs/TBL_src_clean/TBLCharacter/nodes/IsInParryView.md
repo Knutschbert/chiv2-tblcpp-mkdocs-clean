@@ -1,5 +1,4 @@
 ## Is in Parry View
-Is in Parry View
 ![[../img/nd_img_IsInParryView.png]]
 
 |Inputs||

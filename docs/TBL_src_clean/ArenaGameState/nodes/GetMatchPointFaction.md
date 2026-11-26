@@ -1,5 +1,4 @@
 ## Get Match Point Faction
-Get Match Point Faction
 ![[../img/nd_img_GetMatchPointFaction.png]]
 
 |Inputs||

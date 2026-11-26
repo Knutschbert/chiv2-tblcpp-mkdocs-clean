@@ -1,5 +1,4 @@
 ## Get Allowed Class Loadout
-Get Allowed Class Loadout
 ![[../img/nd_img_GetAllowedClassLoadout.png]]
 
 |Inputs||

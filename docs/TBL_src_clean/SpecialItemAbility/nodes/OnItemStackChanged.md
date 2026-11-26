@@ -1,5 +1,4 @@
 ## On Item Stack Changed
-On Item Stack Changed
 ![[../img/nd_img_OnItemStackChanged.png]]
 
 |Inputs||

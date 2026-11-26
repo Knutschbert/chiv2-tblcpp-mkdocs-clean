@@ -1,5 +1,4 @@
 ## Get Death Time
-Get Death Time
 ![[../img/nd_img_GetDeathTime.png]]
 
 |Inputs||

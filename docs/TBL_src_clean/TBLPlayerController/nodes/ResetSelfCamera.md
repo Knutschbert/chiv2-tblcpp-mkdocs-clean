@@ -1,5 +1,4 @@
 ## Reset Self Camera
-Reset Self Camera
 ![[../img/nd_img_ResetSelfCamera.png]]
 
 |Inputs||

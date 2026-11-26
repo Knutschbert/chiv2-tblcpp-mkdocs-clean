@@ -1,5 +1,4 @@
 ## Is First Load Completed
-Is First Load Completed
 ![[../img/nd_img_IsFirstLoadCompleted.png]]
 
 |Inputs||

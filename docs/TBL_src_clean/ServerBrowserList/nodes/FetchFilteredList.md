@@ -1,5 +1,4 @@
 ## Fetch Filtered List
-Fetch Filtered List
 ![[../img/nd_img_FetchFilteredList.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Turn Towards Camera
-Turn Towards Camera
 ![[../img/nd_img_TurnTowardsCamera.png]]
 
 |Inputs||

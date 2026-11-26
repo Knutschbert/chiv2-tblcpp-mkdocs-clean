@@ -1,5 +1,4 @@
 ## Should Push
-Should Push
 ![[../img/nd_img_ShouldPush.png]]
 
 |Inputs||

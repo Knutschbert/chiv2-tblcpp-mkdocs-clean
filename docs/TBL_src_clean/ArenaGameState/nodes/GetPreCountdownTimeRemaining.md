@@ -1,5 +1,4 @@
 ## Get Pre Countdown Time Remaining
-Get Pre Countdown Time Remaining
 ![[../img/nd_img_GetPreCountdownTimeRemaining.png]]
 
 |Inputs||

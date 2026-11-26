@@ -1,5 +1,4 @@
 ## Get Replicated Collision
-Get Replicated Collision
 ![[../img/nd_img_GetReplicatedCollision.png]]
 
 |Inputs||

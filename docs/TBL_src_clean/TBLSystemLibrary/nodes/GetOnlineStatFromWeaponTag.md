@@ -1,5 +1,4 @@
 ## Get Online Stat from Weapon Tag
-Get Online Stat from Weapon Tag
 ![[../img/nd_img_GetOnlineStatFromWeaponTag.png]]
 
 |Inputs||

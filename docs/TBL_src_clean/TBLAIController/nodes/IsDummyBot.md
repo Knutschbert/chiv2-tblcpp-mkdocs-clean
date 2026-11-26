@@ -1,5 +1,4 @@
 ## Is Dummy Bot
-Is Dummy Bot
 ![[../img/nd_img_IsDummyBot.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Set Attached
-On Set Attached
 ![[../img/nd_img_OnSetAttached.png]]
 
 |Inputs||

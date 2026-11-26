@@ -1,5 +1,4 @@
 ## Player View Unlocked Loadout Item
-Player View Unlocked Loadout Item
 ![[../img/nd_img_PlayerViewUnlockedLoadoutItem.png]]
 
 |Inputs||

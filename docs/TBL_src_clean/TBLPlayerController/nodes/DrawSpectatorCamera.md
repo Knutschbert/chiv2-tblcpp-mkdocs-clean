@@ -1,5 +1,4 @@
 ## Draw Spectator Camera
-Draw Spectator Camera
 ![[../img/nd_img_DrawSpectatorCamera.png]]
 
 |Inputs||

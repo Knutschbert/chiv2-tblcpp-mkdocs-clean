@@ -1,5 +1,4 @@
 ## Event on Hit After Death
-Event on Hit After Death
 ![[../img/nd_img_EventOnHitAfterDeath.png]]
 
 |Inputs||

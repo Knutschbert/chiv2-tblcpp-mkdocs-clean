@@ -1,5 +1,4 @@
 ## Calc Tracer Points
-Calc Tracer Points
 ![[../img/nd_img_CalcTracerPoints.png]]
 
 |Inputs||

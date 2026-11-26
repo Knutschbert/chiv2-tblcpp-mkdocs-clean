@@ -1,5 +1,4 @@
 ## Get Last Controller
-Get Last Controller
 ![[../img/nd_img_GetLastController.png]]
 
 |Inputs||

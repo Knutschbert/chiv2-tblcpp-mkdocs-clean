@@ -1,5 +1,4 @@
 ## Get Stack Count
-Get Stack Count
 ![[../img/nd_img_GetStackCount.png]]
 
 |Inputs||

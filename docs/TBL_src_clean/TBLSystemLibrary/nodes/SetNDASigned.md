@@ -1,5 +1,4 @@
 ## Set NDASigned
-Set NDASigned
 ![[../img/nd_img_SetNDASigned.png]]
 
 |Inputs||

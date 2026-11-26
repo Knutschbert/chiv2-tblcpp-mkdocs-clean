@@ -1,5 +1,4 @@
 ## Drop Heavy Object
-Drop Heavy Object
 ![[../img/nd_img_DropHeavyObject.png]]
 
 |Inputs||

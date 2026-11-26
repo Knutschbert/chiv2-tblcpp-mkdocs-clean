@@ -1,5 +1,4 @@
 ## Show No Buttons Working Dialog
-Show No Buttons Working Dialog
 ![[../img/nd_img_ShowNoButtonsWorkingDialog.png]]
 
 |Inputs||

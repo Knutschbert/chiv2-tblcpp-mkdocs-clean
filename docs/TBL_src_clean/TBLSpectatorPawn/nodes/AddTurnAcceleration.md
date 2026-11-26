@@ -1,5 +1,4 @@
 ## Add Turn Acceleration
-Add Turn Acceleration
 ![[../img/nd_img_AddTurnAcceleration.png]]
 
 |Inputs||

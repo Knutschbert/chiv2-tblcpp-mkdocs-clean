@@ -1,5 +1,4 @@
 ## Broadcast Horse to World Impact
-Broadcast Horse to World Impact
 ![[../img/nd_img_BroadcastHorseToWorldImpact.png]]
 
 |Inputs||

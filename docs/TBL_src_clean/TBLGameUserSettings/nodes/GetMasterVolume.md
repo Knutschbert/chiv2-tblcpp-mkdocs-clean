@@ -1,5 +1,4 @@
 ## Get Master Volume
-Get Master Volume
 ![[../img/nd_img_GetMasterVolume.png]]
 
 |Inputs||

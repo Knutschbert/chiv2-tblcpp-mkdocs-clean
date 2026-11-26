@@ -1,5 +1,4 @@
 ## Get Default Inventory Item Object
-Get Default Inventory Item Object
 ![[../img/nd_img_GetDefaultInventoryItemObject.png]]
 
 |Inputs||

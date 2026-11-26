@@ -1,5 +1,4 @@
 ## On Movement Action Finished
-On Movement Action Finished
 ![[../img/nd_img_OnMovementActionFinished.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Send Match Profile
-Server Send Match Profile
 ![[../img/nd_img_ServerSendMatchProfile.png]]
 
 |Inputs||

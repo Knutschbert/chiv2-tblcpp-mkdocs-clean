@@ -1,5 +1,4 @@
 ## Is Gamepad YInverted
-Is Gamepad YInverted
 ![[../img/nd_img_IsGamepadYInverted.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Interp to Mount Location
-Update Interp to Mount Location
 ![[../img/nd_img_UpdateInterpToMountLocation.png]]
 
 |Inputs||

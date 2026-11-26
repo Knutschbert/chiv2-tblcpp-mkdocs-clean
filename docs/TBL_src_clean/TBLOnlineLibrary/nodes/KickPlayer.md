@@ -1,5 +1,4 @@
 ## Kick Player
-Kick Player
 ![[../img/nd_img_KickPlayer.png]]
 
 |Inputs||

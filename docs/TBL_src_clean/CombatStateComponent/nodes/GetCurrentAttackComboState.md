@@ -1,5 +1,4 @@
 ## Get Current Attack Combo State
-Get Current Attack Combo State
 ![[../img/nd_img_GetCurrentAttackComboState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Can Clash
-Can Clash
 ![[../img/nd_img_CanClash.png]]
 
 |Inputs||

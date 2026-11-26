@@ -1,5 +1,4 @@
 ## Play Ladder Animation
-Play Ladder Animation
 ![[../img/nd_img_PlayLadderAnimation.png]]
 
 |Inputs||

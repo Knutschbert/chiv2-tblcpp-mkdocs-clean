@@ -1,5 +1,4 @@
 ## Complete Action
-Complete Action
 ![[../img/nd_img_CompleteAction.png]]
 
 |Inputs||

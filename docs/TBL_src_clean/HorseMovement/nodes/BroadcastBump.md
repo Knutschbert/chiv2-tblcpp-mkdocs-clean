@@ -1,5 +1,4 @@
 ## Broadcast Bump
-Broadcast Bump
 ![[../img/nd_img_BroadcastBump.png]]
 
 |Inputs||

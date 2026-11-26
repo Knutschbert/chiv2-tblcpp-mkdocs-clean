@@ -1,5 +1,4 @@
 ## Server Debug Apply Damage
-Server Debug Apply Damage
 ![[../img/nd_img_ServerDebugApplyDamage.png]]
 
 |Inputs||

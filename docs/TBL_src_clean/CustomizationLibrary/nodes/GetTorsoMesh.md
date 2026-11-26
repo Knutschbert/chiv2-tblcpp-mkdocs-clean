@@ -1,5 +1,4 @@
 ## Get Torso Mesh
-Get Torso Mesh
 ![[../img/nd_img_GetTorsoMesh.png]]
 
 |Inputs||

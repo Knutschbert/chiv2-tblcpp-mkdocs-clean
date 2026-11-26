@@ -1,5 +1,4 @@
 ## Sort Actor Array
-Sort Actor Array
 ![[../img/nd_img_SortActorArray.png]]
 
 |Inputs||

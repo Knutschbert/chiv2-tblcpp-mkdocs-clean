@@ -1,5 +1,4 @@
 ## Get Character Movement
-Get Character Movement
 ![[../img/nd_img_GetCharacterMovement.png]]
 
 |Inputs||

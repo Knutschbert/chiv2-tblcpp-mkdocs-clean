@@ -1,5 +1,4 @@
 ## Make Spawn Selection
-Make Spawn Selection
 ![[../img/nd_img_MakeSpawnSelection.png]]
 
 |Inputs||

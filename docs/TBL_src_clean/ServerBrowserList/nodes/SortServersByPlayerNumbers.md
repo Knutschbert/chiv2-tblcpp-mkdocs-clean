@@ -1,5 +1,4 @@
 ## Sort Servers by Player Numbers
-Sort Servers by Player Numbers
 ![[../img/nd_img_SortServersByPlayerNumbers.png]]
 
 |Inputs||

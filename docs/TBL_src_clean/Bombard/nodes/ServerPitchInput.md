@@ -1,5 +1,4 @@
 ## Server Pitch Input
-Server Pitch Input
 ![[../img/nd_img_ServerPitchInput.png]]
 
 |Inputs||

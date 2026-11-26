@@ -1,5 +1,4 @@
 ## Server Set Other Actor
-Server Set Other Actor
 ![[../img/nd_img_ServerSetOtherActor.png]]
 
 |Inputs||

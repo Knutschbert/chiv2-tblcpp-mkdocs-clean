@@ -1,5 +1,4 @@
 ## Set Is Friend
-Set Is Friend
 ![[../img/nd_img_SetIsFriend.png]]
 
 |Inputs||

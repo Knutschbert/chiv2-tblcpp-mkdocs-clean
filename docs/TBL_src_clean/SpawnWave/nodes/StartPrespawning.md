@@ -1,5 +1,4 @@
 ## Start Prespawning
-Start Prespawning
 ![[../img/nd_img_StartPrespawning.png]]
 
 |Inputs||

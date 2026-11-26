@@ -1,5 +1,4 @@
 ## Get Action Binding Text for Inventory Slot
-Get Action Binding Text for Inventory Slot
 ![[../img/nd_img_GetActionBindingTextForInventorySlot.png]]
 
 |Inputs||

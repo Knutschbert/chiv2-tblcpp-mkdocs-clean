@@ -1,5 +1,4 @@
 ## Get Custom Personality Emote Override
-Get Custom Personality Emote Override
 ![[../img/nd_img_GetCustomPersonalityEmoteOverride.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Pushable Completed
-On Pushable Completed
 ![[../img/nd_img_OnPushableCompleted.png]]
 
 |Inputs||

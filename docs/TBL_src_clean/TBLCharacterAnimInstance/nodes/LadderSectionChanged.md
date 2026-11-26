@@ -1,5 +1,4 @@
 ## Ladder Section Changed
-Ladder Section Changed
 ![[../img/nd_img_LadderSectionChanged.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Can Pickup
-Can Pickup
 ![[../img/nd_img_CanPickup.png]]
 
 |Inputs||

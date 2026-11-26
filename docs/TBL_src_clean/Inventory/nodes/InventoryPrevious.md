@@ -1,5 +1,4 @@
 ## Inventory Previous
-Inventory Previous
 ![[../img/nd_img_InventoryPrevious.png]]
 
 |Inputs||

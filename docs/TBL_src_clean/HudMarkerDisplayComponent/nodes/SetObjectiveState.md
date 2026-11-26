@@ -1,5 +1,4 @@
 ## Set Objective State
-Set Objective State
 ![[../img/nd_img_SetObjectiveState.png]]
 
 |Inputs||

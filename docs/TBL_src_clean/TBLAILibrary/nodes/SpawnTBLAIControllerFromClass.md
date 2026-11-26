@@ -1,5 +1,4 @@
 ## Spawn TBLAIController from Class
-Spawn TBLAIController from Class
 ![[../img/nd_img_SpawnTBLAIControllerFromClass.png]]
 
 |Inputs||

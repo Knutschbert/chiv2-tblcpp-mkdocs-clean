@@ -1,5 +1,4 @@
 ## Play Intro Animation
-Play Intro Animation
 ![[../img/nd_img_PlayIntroAnimation.png]]
 
 |Inputs||

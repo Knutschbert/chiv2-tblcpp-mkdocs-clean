@@ -1,5 +1,4 @@
 ## On Rep Game Mode Type
-On Rep Game Mode Type
 ![[../img/nd_img_OnRep_GameModeType.png]]
 
 |Inputs||

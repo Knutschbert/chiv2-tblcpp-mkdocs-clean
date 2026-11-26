@@ -1,5 +1,4 @@
 ## Recursive Set Visibility
-Recursive Set Visibility
 ![[../img/nd_img_RecursiveSetVisibility.png]]
 
 |Inputs||

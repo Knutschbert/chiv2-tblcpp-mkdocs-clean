@@ -1,5 +1,4 @@
 ## Start Weapon Animation
-Start Weapon Animation
 ![[../img/nd_img_StartWeaponAnimation.png]]
 
 |Inputs||

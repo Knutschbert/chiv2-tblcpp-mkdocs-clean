@@ -1,5 +1,4 @@
 ## Invite User to Party
-Invite User to Party
 ![[../img/nd_img_InviteUserToParty.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Purchase Item by String
-Purchase Item by String
 ![[../img/nd_img_PurchaseItemByString.png]]
 
 |Inputs||

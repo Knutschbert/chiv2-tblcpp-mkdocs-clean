@@ -1,5 +1,4 @@
 ## Sprint Decelerate Tick
-Sprint Decelerate Tick
 ![[../img/nd_img_SprintDecelerateTick.png]]
 
 |Inputs||

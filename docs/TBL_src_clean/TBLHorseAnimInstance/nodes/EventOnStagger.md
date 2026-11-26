@@ -1,5 +1,4 @@
 ## Event on Stagger
-Event on Stagger
 ![[../img/nd_img_EventOnStagger.png]]
 
 |Inputs||

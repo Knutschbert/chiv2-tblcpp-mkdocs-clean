@@ -1,5 +1,4 @@
 ## Client Perform Bump
-Client Perform Bump
 ![[../img/nd_img_ClientPerformBump.png]]
 
 |Inputs||

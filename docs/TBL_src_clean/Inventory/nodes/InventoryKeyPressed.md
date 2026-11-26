@@ -1,5 +1,4 @@
 ## Inventory Key Pressed
-Inventory Key Pressed
 ![[../img/nd_img_InventoryKeyPressed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Remove Viewed Item
-Remove Viewed Item
 ![[../img/nd_img_RemoveViewedItem.png]]
 
 |Inputs||

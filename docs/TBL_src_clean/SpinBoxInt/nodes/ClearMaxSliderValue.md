@@ -1,5 +1,4 @@
 ## Clear Max Slider Value
-Clear Max Slider Value
 ![[../img/nd_img_ClearMaxSliderValue.png]]
 
 |Inputs||

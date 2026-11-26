@@ -1,5 +1,4 @@
 ## Local Player Party Disbanded
-Local Player Party Disbanded
 ![[../img/nd_img_LocalPlayerPartyDisbanded.png]]
 
 |Inputs||

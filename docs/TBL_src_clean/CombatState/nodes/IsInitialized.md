@@ -1,5 +1,4 @@
 ## Is Initialized
-Is Initialized
 ![[../img/nd_img_IsInitialized.png]]
 
 |Inputs||

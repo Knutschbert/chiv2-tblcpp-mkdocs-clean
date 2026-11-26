@@ -1,5 +1,4 @@
 ## Get Horse Momentum Based Scale
-Get Horse Momentum Based Scale
 ![[../img/nd_img_GetHorseMomentumBasedScale.png]]
 
 |Inputs||

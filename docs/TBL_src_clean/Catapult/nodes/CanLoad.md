@@ -1,5 +1,4 @@
 ## Can Load
-Can Load
 ![[../img/nd_img_CanLoad.png]]
 
 |Inputs||

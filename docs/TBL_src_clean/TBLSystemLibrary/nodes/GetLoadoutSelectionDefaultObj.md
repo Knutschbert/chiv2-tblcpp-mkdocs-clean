@@ -1,5 +1,4 @@
 ## Get Loadout Selection Default Obj
-Get Loadout Selection Default Obj
 ![[../img/nd_img_GetLoadoutSelectionDefaultObj.png]]
 
 |Inputs||

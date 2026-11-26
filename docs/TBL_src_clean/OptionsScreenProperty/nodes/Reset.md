@@ -1,5 +1,4 @@
 ## Reset
-Reset
 ![[../img/nd_img_Reset.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Char Move Ticking Allowed
-Set Char Move Ticking Allowed
 ![[../img/nd_img_SetCharMoveTickingAllowed.png]]
 
 |Inputs||

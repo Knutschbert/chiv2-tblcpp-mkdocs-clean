@@ -1,5 +1,4 @@
 ## Get Current Value
-Get Current Value
 ![[../img/nd_img_GetCurrentValue.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Handle Hit Dead Character
-Handle Hit Dead Character
 ![[../img/nd_img_HandleHitDeadCharacter.png]]
 
 |Inputs||

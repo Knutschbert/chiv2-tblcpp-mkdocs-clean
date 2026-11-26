@@ -1,5 +1,4 @@
 ## Get Projectile Penetration Config
-Get Projectile Penetration Config
 ![[../img/nd_img_GetProjectilePenetrationConfig.png]]
 
 |Inputs||

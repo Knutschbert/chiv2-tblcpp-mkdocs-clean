@@ -1,5 +1,4 @@
 ## On Rep Owning Team
-On Rep Owning Team
 ![[../img/nd_img_OnRep_OwningTeam.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Start Dumping Replication
-Start Dumping Replication
 ![[../img/nd_img_StartDumpingReplication.png]]
 
 |Inputs||

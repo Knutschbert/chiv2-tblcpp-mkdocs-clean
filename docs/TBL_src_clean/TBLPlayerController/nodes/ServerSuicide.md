@@ -1,5 +1,4 @@
 ## Server Suicide
-Server Suicide
 ![[../img/nd_img_ServerSuicide.png]]
 
 |Inputs||

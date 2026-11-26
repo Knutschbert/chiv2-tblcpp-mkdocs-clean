@@ -1,5 +1,4 @@
 ## Get Horse Dismount Offset
-Get Horse Dismount Offset
 ![[../img/nd_img_GetHorseDismountOffset.png]]
 
 |Inputs||

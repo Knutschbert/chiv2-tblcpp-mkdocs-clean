@@ -1,5 +1,4 @@
 ## Get Current State Info
-Get Current State Info
 ![[../img/nd_img_GetCurrentStateInfo.png]]
 
 |Inputs||

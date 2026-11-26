@@ -1,5 +1,4 @@
 ## On Killed Internal
-On Killed Internal
 ![[../img/nd_img_OnKilledInternal.png]]
 
 |Inputs||

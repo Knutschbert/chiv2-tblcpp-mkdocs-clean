@@ -1,5 +1,4 @@
 ## On Queued Player Cause Damage
-On Queued Player Cause Damage
 ![[../img/nd_img_OnQueuedPlayerCauseDamage.png]]
 
 |Inputs||

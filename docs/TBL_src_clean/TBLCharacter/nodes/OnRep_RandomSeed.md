@@ -1,5 +1,4 @@
 ## On Rep Random Seed
-On Rep Random Seed
 ![[../img/nd_img_OnRep_RandomSeed.png]]
 
 |Inputs||

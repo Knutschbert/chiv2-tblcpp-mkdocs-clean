@@ -1,5 +1,4 @@
 ## Reset Combat Timer For
-Reset Combat Timer For
 ![[../img/nd_img_ResetCombatTimerFor.png]]
 
 |Inputs||

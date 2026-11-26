@@ -1,5 +1,4 @@
 ## Activate Marker
-Activate Marker
 ![[../img/nd_img_ActivateMarker.png]]
 
 |Inputs||

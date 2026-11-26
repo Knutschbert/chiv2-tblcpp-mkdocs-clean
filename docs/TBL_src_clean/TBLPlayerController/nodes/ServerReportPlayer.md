@@ -1,5 +1,4 @@
 ## Server Report Player
-Server Report Player
 ![[../img/nd_img_ServerReportPlayer.png]]
 
 |Inputs||

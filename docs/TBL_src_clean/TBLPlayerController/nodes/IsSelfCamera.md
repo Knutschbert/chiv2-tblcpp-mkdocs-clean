@@ -1,5 +1,4 @@
 ## Is Self Camera
-Is Self Camera
 ![[../img/nd_img_IsSelfCamera.png]]
 
 |Inputs||

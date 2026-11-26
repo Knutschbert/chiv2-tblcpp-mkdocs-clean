@@ -1,5 +1,4 @@
 ## Save Csv File
-Save Csv File
 ![[../img/nd_img_SaveCsvFile.png]]
 
 |Inputs||

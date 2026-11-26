@@ -1,5 +1,4 @@
 ## Burning Applied
-Burning Applied
 ![[../img/nd_img_BurningApplied.png]]
 
 |Inputs||

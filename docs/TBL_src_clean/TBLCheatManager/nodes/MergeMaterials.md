@@ -1,5 +1,4 @@
 ## Merge Materials
-Merge Materials
 ![[../img/nd_img_MergeMaterials.png]]
 
 |Inputs||

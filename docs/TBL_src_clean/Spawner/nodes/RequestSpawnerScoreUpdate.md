@@ -1,5 +1,4 @@
 ## Request Spawner Score Update
-Request Spawner Score Update
 ![[../img/nd_img_RequestSpawnerScoreUpdate.png]]
 
 |Inputs||

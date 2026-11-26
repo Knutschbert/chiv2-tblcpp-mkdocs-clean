@@ -1,5 +1,4 @@
 ## Client Receive Localized Objective Message
-Client Receive Localized Objective Message
 ![[../img/nd_img_ClientReceiveLocalizedObjectiveMessage.png]]
 
 |Inputs||

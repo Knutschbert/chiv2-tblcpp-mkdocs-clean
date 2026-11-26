@@ -1,5 +1,4 @@
 ## Get Spawner Score for Faction
-Get Spawner Score for Faction
 ![[../img/nd_img_GetSpawnerScoreForFaction.png]]
 
 |Inputs||

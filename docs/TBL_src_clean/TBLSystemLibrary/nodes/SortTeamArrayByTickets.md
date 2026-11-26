@@ -1,5 +1,4 @@
 ## Sort Team Array by Tickets
-Sort Team Array by Tickets
 ![[../img/nd_img_SortTeamArrayByTickets.png]]
 
 |Inputs||

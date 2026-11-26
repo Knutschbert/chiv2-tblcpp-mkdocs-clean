@@ -1,5 +1,4 @@
 ## On Reload Combat State End
-On Reload Combat State End
 ![[../img/nd_img_OnReloadCombatStateEnd.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Send Frame
-Client Send Frame
 ![[../img/nd_img_ClientSendFrame.png]]
 
 |Inputs||

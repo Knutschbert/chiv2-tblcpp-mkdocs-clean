@@ -1,5 +1,4 @@
 ## Initialize Projectile Movement
-Initialize Projectile Movement
 ![[../img/nd_img_InitializeProjectileMovement.png]]
 
 |Inputs||

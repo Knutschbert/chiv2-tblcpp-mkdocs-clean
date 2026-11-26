@@ -1,5 +1,4 @@
 ## Get Beard Mesh
-Get Beard Mesh
 ![[../img/nd_img_GetBeardMesh.png]]
 
 |Inputs||

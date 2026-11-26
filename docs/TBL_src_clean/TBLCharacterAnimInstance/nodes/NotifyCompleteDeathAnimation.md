@@ -1,5 +1,4 @@
 ## Notify Complete Death Animation
-Notify Complete Death Animation
 ![[../img/nd_img_NotifyCompleteDeathAnimation.png]]
 
 |Inputs||

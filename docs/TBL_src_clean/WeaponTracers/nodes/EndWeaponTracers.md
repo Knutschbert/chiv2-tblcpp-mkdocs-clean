@@ -1,5 +1,4 @@
 ## End Weapon Tracers
-End Weapon Tracers
 ![[../img/nd_img_EndWeaponTracers.png]]
 
 |Inputs||

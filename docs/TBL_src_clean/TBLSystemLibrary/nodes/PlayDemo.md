@@ -1,5 +1,4 @@
 ## Play Demo
-Play Demo
 ![[../img/nd_img_PlayDemo.png]]
 
 |Inputs||

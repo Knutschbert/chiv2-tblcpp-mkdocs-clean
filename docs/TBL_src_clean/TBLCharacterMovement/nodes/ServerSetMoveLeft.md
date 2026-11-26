@@ -1,5 +1,4 @@
 ## Server Set Move Left
-Server Set Move Left
 ![[../img/nd_img_ServerSetMoveLeft.png]]
 
 |Inputs||

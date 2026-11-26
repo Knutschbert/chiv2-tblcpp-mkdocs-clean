@@ -1,5 +1,4 @@
 ## Skip to End Of Current End Point
-Skip to End Of Current End Point
 ![[../img/nd_img_SkipToEndOfCurrentEndPoint.png]]
 
 |Inputs||

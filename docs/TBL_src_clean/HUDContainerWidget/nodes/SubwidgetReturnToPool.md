@@ -1,5 +1,4 @@
 ## Subwidget Return to Pool
-Subwidget Return to Pool
 ![[../img/nd_img_SubwidgetReturnToPool.png]]
 
 |Inputs||

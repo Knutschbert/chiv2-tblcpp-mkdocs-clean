@@ -1,5 +1,4 @@
 ## Get Character State
-Get Character State
 ![[../img/nd_img_GetCharacterState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Added to Inventory
-Set Added to Inventory
 ![[../img/nd_img_SetAddedToInventory.png]]
 
 |Inputs||

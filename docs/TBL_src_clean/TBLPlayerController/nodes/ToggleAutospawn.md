@@ -1,5 +1,4 @@
 ## Toggle Autospawn
-Toggle Autospawn
 ![[../img/nd_img_ToggleAutospawn.png]]
 
 |Inputs||

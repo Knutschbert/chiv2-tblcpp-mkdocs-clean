@@ -1,5 +1,4 @@
 ## Get Context Vo Object
-Get Context Vo Object
 ![[../img/nd_img_GetContextVoObject.png]]
 
 |Inputs||

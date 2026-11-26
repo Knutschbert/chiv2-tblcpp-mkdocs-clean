@@ -1,5 +1,4 @@
 ## Get Num Valid Instances for Class
-Get Num Valid Instances for Class
 ![[../img/nd_img_GetNumValidInstancesForClass.png]]
 
 |Inputs||

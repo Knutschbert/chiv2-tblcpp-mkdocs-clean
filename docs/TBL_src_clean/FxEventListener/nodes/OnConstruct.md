@@ -1,5 +1,4 @@
 ## On Construct
-On Construct
 ![[../img/nd_img_OnConstruct.png]]
 
 |Inputs||

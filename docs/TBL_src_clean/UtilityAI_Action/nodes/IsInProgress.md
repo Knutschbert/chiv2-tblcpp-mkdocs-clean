@@ -1,5 +1,4 @@
 ## Is in Progress
-Is in Progress
 ![[../img/nd_img_IsInProgress.png]]
 
 |Inputs||

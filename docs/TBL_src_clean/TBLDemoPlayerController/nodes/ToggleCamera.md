@@ -1,5 +1,4 @@
 ## Toggle Camera
-Toggle Camera
 ![[../img/nd_img_ToggleCamera.png]]
 
 |Inputs||

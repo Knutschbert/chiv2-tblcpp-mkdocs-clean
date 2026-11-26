@@ -1,5 +1,4 @@
 ## Is Store Offer Id Campaign
-Is Store Offer Id Campaign
 ![[../img/nd_img_IsStoreOfferIdCampaign.png]]
 
 |Inputs||

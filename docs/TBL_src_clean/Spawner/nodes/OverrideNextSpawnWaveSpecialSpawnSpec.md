@@ -1,5 +1,4 @@
 ## Override Next Spawn Wave Special Spawn Spec
-Override Next Spawn Wave Special Spawn Spec
 ![[../img/nd_img_OverrideNextSpawnWaveSpecialSpawnSpec.png]]
 
 |Inputs||

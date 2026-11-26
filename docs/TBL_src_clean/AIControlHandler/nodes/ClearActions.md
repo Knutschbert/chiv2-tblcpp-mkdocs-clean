@@ -1,5 +1,4 @@
 ## Clear Actions
-Clear Actions
 ![[../img/nd_img_ClearActions.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Axis Binding
-Set Axis Binding
 ![[../img/nd_img_SetAxisBinding.png]]
 
 |Inputs||

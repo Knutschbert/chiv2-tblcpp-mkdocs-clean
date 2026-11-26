@@ -1,5 +1,4 @@
 ## Set Pushing Collision Component
-Set Pushing Collision Component
 ![[../img/nd_img_SetPushingCollisionComponent.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## TBLJoin Game Session
-TBLJoin Game Session
 ![[../img/nd_img_TBLJoinGameSession.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Kill Feed Filter
-Get Kill Feed Filter
 ![[../img/nd_img_GetKillFeedFilter.png]]
 
 |Inputs||

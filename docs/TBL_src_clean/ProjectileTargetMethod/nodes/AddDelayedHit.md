@@ -1,5 +1,4 @@
 ## Add Delayed Hit
-Add Delayed Hit
 ![[../img/nd_img_AddDelayedHit.png]]
 
 |Inputs||

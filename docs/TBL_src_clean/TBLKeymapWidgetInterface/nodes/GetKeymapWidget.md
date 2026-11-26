@@ -1,5 +1,4 @@
 ## Get Keymap Widget
-Get Keymap Widget
 ![[../img/nd_img_GetKeymapWidget.png]]
 
 |Inputs||

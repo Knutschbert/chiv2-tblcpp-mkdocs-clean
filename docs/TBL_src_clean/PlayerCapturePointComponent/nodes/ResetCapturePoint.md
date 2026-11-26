@@ -1,5 +1,4 @@
 ## Reset Capture Point
-Reset Capture Point
 ![[../img/nd_img_ResetCapturePoint.png]]
 
 |Inputs||

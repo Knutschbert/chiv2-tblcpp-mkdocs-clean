@@ -1,5 +1,4 @@
 ## Server Terminate Ability
-Server Terminate Ability
 ![[../img/nd_img_ServerTerminateAbility.png]]
 
 |Inputs||

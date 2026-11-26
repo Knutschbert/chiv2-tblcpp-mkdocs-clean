@@ -1,5 +1,4 @@
 ## Is Strafing
-Is Strafing
 ![[../img/nd_img_IsStrafing.png]]
 
 |Inputs||

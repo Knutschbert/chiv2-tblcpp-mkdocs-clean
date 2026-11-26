@@ -1,5 +1,4 @@
 ## Handle on Title Data Updated
-Handle on Title Data Updated
 ![[../img/nd_img_HandleOnTitleDataUpdated.png]]
 
 |Inputs||

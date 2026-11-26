@@ -1,5 +1,4 @@
 ## Auto Attack Hold
-Auto Attack Hold
 ![[../img/nd_img_AutoAttackHold.png]]
 
 |Inputs||

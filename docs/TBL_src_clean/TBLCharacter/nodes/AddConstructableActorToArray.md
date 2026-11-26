@@ -1,5 +1,4 @@
 ## Add Constructable Actor to Array
-Add Constructable Actor to Array
 ![[../img/nd_img_AddConstructableActorToArray.png]]
 
 |Inputs||

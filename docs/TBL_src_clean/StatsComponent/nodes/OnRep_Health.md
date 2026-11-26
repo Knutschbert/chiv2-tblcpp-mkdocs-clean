@@ -1,5 +1,4 @@
 ## On Rep Health
-On Rep Health
 ![[../img/nd_img_OnRep_Health.png]]
 
 |Inputs||

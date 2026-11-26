@@ -1,5 +1,4 @@
 ## On User Pressed Login
-On User Pressed Login
 ![[../img/nd_img_OnUserPressedLogin.png]]
 
 |Inputs||

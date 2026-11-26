@@ -1,5 +1,4 @@
 ## Gear Down
-Gear Down
 ![[../img/nd_img_GearDown.png]]
 
 |Inputs||

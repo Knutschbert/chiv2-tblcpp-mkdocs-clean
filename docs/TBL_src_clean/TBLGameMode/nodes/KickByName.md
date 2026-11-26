@@ -1,5 +1,4 @@
 ## Kick by Name
-Kick by Name
 ![[../img/nd_img_KickByName.png]]
 
 |Inputs||

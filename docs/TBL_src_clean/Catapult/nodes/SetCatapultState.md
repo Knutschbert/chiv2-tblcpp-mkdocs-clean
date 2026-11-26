@@ -1,5 +1,4 @@
 ## Set Catapult State
-Set Catapult State
 ![[../img/nd_img_SetCatapultState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Check Team Collision
-Check Team Collision
 ![[../img/nd_img_CheckTeamCollision.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Generate Points
-Generate Points
 ![[../img/nd_img_GeneratePoints.png]]
 
 |Inputs||

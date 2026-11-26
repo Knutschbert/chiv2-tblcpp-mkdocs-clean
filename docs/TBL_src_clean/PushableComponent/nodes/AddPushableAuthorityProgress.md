@@ -1,5 +1,4 @@
 ## Add Pushable Authority Progress
-Add Pushable Authority Progress
 ![[../img/nd_img_AddPushableAuthorityProgress.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Award Round Victory and End Round
-Award Round Victory and End Round
 ![[../img/nd_img_AwardRoundVictoryAndEndRound.png]]
 
 |Inputs||

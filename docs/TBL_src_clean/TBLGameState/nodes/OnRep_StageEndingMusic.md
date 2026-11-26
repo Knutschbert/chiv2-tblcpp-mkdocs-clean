@@ -1,5 +1,4 @@
 ## On Rep Stage Ending Music
-On Rep Stage Ending Music
 ![[../img/nd_img_OnRep_StageEndingMusic.png]]
 
 |Inputs||

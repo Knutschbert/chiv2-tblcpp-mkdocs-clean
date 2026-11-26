@@ -1,5 +1,4 @@
 ## Break at Bone
-Break at Bone
 ![[../img/nd_img_BreakAtBone.png]]
 
 |Inputs||

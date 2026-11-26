@@ -1,5 +1,4 @@
 ## Get Native Session Member Count
-Get Native Session Member Count
 ![[../img/nd_img_GetNativeSessionMemberCount.png]]
 
 |Inputs||

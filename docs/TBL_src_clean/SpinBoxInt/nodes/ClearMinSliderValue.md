@@ -1,5 +1,4 @@
 ## Clear Min Slider Value
-Clear Min Slider Value
 ![[../img/nd_img_ClearMinSliderValue.png]]
 
 |Inputs||

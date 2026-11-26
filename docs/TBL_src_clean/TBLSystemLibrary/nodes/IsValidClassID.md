@@ -1,5 +1,4 @@
 ## Is Valid Class ID
-Is Valid Class ID
 ![[../img/nd_img_IsValidClassID.png]]
 
 |Inputs||

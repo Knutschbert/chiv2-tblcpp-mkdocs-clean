@@ -1,5 +1,4 @@
 ## On Bombard Fire Action
-On Bombard Fire Action
 ![[../img/nd_img_OnBombardFireAction.png]]
 
 |Inputs||

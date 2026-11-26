@@ -1,5 +1,4 @@
 ## Request Join Spawn Wave
-Request Join Spawn Wave
 ![[../img/nd_img_RequestJoinSpawnWave.png]]
 
 |Inputs||

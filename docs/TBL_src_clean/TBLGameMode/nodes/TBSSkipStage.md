@@ -1,5 +1,4 @@
 ## TBSSkip Stage
-TBSSkip Stage
 ![[../img/nd_img_TBSSkipStage.png]]
 
 |Inputs||

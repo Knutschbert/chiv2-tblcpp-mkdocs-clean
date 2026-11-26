@@ -1,5 +1,4 @@
 ## Player Call Kick Vote
-Player Call Kick Vote
 ![[../img/nd_img_PlayerCallKickVote.png]]
 
 |Inputs||

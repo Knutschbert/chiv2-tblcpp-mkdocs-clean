@@ -1,5 +1,4 @@
 ## Can Sprint Shove
-Can Sprint Shove
 ![[../img/nd_img_CanSprintShove.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Valid Spawn Location
-Is Valid Spawn Location
 ![[../img/nd_img_IsValidSpawnLocation.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Notify Social Screen Opened
-Notify Social Screen Opened
 ![[../img/nd_img_NotifySocialScreenOpened.png]]
 
 |Inputs||

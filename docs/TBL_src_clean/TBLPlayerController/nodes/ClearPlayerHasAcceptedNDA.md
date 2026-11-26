@@ -1,5 +1,4 @@
 ## Clear Player Has Accepted NDA
-Clear Player Has Accepted NDA
 ![[../img/nd_img_ClearPlayerHasAcceptedNDA.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Can Path Follow
-Can Path Follow
 ![[../img/nd_img_CanPathFollow.png]]
 
 |Inputs||

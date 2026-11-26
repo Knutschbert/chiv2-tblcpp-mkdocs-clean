@@ -1,5 +1,4 @@
 ## Get Faction
-Get Faction
 ![[../img/nd_img_GetFaction.png]]
 
 |Inputs||

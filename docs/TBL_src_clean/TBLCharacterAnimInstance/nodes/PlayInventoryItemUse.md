@@ -1,5 +1,4 @@
 ## Play Inventory Item Use
-Play Inventory Item Use
 ![[../img/nd_img_PlayInventoryItemUse.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Handle on Arena Round Won
-Handle on Arena Round Won
 ![[../img/nd_img_HandleOnArenaRoundWon.png]]
 
 |Inputs||

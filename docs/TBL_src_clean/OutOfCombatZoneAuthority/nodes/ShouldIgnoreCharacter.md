@@ -1,5 +1,4 @@
 ## Should Ignore Character
-Should Ignore Character
 ![[../img/nd_img_ShouldIgnoreCharacter.png]]
 
 |Inputs||

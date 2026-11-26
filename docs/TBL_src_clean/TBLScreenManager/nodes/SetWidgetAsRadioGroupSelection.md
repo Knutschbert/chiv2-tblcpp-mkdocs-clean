@@ -1,5 +1,4 @@
 ## Set Widget as Radio Group Selection
-Set Widget as Radio Group Selection
 ![[../img/nd_img_SetWidgetAsRadioGroupSelection.png]]
 
 |Inputs||

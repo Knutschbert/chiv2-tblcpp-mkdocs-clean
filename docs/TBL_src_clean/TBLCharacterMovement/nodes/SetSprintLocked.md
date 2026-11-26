@@ -1,5 +1,4 @@
 ## Set Sprint Locked
-Set Sprint Locked
 ![[../img/nd_img_SetSprintLocked.png]]
 
 |Inputs||

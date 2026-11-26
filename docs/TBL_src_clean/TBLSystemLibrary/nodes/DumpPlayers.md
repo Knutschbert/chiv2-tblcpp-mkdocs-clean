@@ -1,5 +1,4 @@
 ## Dump Players
-Dump Players
 ![[../img/nd_img_DumpPlayers.png]]
 
 |Inputs||

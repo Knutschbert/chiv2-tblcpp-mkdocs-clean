@@ -1,5 +1,4 @@
 ## Add Reload Hint
-Add Reload Hint
 ![[../img/nd_img_AddReloadHint.png]]
 
 |Inputs||

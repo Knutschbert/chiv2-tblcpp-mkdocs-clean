@@ -1,5 +1,4 @@
 ## Leave Party
-Leave Party
 ![[../img/nd_img_LeaveParty.png]]
 
 |Inputs||

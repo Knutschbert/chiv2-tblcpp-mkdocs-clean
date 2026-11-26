@@ -1,5 +1,4 @@
 ## Is Allowed Pawn Class
-Is Allowed Pawn Class
 ![[../img/nd_img_IsAllowedPawnClass.png]]
 
 |Inputs||

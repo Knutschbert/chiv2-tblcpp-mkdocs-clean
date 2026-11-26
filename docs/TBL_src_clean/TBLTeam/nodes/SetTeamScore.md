@@ -1,5 +1,4 @@
 ## Set Team Score
-Set Team Score
 ![[../img/nd_img_SetTeamScore.png]]
 
 |Inputs||

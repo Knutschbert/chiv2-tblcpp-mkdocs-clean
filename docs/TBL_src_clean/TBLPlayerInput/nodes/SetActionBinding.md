@@ -1,5 +1,4 @@
 ## Set Action Binding
-Set Action Binding
 ![[../img/nd_img_SetActionBinding.png]]
 
 |Inputs||

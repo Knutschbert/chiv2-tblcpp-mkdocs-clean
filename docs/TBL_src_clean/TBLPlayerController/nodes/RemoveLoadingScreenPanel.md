@@ -1,5 +1,4 @@
 ## Remove Loading Screen Panel
-Remove Loading Screen Panel
 ![[../img/nd_img_RemoveLoadingScreenPanel.png]]
 
 |Inputs||

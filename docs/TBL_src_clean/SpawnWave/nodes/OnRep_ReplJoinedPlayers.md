@@ -1,5 +1,4 @@
 ## On Rep Repl Joined Players
-On Rep Repl Joined Players
 ![[../img/nd_img_OnRep_ReplJoinedPlayers.png]]
 
 |Inputs||

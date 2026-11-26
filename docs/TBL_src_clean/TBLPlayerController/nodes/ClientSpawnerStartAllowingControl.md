@@ -1,5 +1,4 @@
 ## Client Spawner Start Allowing Control
-Client Spawner Start Allowing Control
 ![[../img/nd_img_ClientSpawnerStartAllowingControl.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Should Draw Debug Shield
-Should Draw Debug Shield
 ![[../img/nd_img_ShouldDrawDebugShield.png]]
 
 |Inputs||

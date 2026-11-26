@@ -1,5 +1,4 @@
 ## Server Say
-Server Say
 ![[../img/nd_img_ServerSay.png]]
 
 |Inputs||

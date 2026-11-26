@@ -1,5 +1,4 @@
 ## Health Stat Changed
-Health Stat Changed
 ![[../img/nd_img_HealthStatChanged.png]]
 
 |Inputs||

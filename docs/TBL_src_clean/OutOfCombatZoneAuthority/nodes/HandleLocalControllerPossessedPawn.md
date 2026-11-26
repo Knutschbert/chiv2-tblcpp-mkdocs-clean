@@ -1,5 +1,4 @@
 ## Handle Local Controller Possessed Pawn
-Handle Local Controller Possessed Pawn
 ![[../img/nd_img_HandleLocalControllerPossessedPawn.png]]
 
 |Inputs||

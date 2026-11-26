@@ -1,5 +1,4 @@
 ## Set Pushable Movement Type
-Set Pushable Movement Type
 ![[../img/nd_img_SetPushableMovementType.png]]
 
 |Inputs||

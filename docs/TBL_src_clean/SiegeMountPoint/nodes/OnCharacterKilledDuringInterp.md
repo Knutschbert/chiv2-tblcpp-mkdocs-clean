@@ -1,5 +1,4 @@
 ## On Character Killed During Interp
-On Character Killed During Interp
 ![[../img/nd_img_OnCharacterKilledDuringInterp.png]]
 
 |Inputs||

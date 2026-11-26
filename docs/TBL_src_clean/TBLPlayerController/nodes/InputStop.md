@@ -1,5 +1,4 @@
 ## Input Stop
-Input Stop
 ![[../img/nd_img_InputStop.png]]
 
 |Inputs||

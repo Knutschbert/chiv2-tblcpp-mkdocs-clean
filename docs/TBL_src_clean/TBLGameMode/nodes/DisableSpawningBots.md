@@ -1,5 +1,4 @@
 ## Disable Spawning Bots
-Disable Spawning Bots
 ![[../img/nd_img_DisableSpawningBots.png]]
 
 |Inputs||

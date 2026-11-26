@@ -1,5 +1,4 @@
 ## Server Set Platform OSSUnique Id
-Server Set Platform OSSUnique Id
 ![[../img/nd_img_ServerSetPlatformOSSUniqueId.png]]
 
 |Inputs||

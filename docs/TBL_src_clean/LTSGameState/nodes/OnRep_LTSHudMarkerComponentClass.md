@@ -1,5 +1,4 @@
 ## On Rep LTSHud Marker Component Class
-On Rep LTSHud Marker Component Class
 ![[../img/nd_img_OnRep_LTSHudMarkerComponentClass.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Possessed
-On Possessed
 ![[../img/nd_img_OnPossessed.png]]
 
 |Inputs||

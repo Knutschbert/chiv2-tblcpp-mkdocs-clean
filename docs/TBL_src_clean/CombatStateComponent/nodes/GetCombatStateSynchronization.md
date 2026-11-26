@@ -1,5 +1,4 @@
 ## Get Combat State Synchronization
-Get Combat State Synchronization
 ![[../img/nd_img_GetCombatStateSynchronization.png]]
 
 |Inputs||

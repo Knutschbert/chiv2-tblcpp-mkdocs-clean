@@ -1,5 +1,4 @@
 ## On Forgiveness Timer Elapsed
-On Forgiveness Timer Elapsed
 ![[../img/nd_img_OnForgivenessTimerElapsed.png]]
 
 |Inputs||

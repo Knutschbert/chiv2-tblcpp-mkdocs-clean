@@ -1,5 +1,4 @@
 ## Client End Online Game
-Client End Online Game
 ![[../img/nd_img_ClientEndOnlineGame.png]]
 
 |Inputs||

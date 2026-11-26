@@ -1,5 +1,4 @@
 ## Get Shield Collision
-Get Shield Collision
 ![[../img/nd_img_GetShieldCollision.png]]
 
 |Inputs||

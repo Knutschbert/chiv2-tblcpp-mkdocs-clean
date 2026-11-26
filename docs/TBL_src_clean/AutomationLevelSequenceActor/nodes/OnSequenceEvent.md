@@ -1,5 +1,4 @@
 ## On Sequence Event
-On Sequence Event
 ![[../img/nd_img_OnSequenceEvent.png]]
 
 |Inputs||

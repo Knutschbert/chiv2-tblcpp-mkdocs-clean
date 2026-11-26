@@ -1,5 +1,4 @@
 ## Are Hints Enabled
-Are Hints Enabled
 ![[../img/nd_img_AreHintsEnabled.png]]
 
 |Inputs||

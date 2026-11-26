@@ -1,5 +1,4 @@
 ## Client Receive Death Recap
-Client Receive Death Recap
 ![[../img/nd_img_ClientReceiveDeathRecap.png]]
 
 |Inputs||

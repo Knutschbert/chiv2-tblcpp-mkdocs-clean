@@ -1,5 +1,4 @@
 ## Advance Frame
-Advance Frame
 ![[../img/nd_img_AdvanceFrame.png]]
 
 |Inputs||

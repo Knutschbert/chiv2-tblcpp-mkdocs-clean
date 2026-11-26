@@ -1,5 +1,4 @@
 ## Client Post Game Start Matchmaking
-Client Post Game Start Matchmaking
 ![[../img/nd_img_ClientPostGameStartMatchmaking.png]]
 
 |Inputs||

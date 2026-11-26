@@ -1,5 +1,4 @@
 ## On Spawn Fake Client
-On Spawn Fake Client
 ![[../img/nd_img_OnSpawnFakeClient.png]]
 
 |Inputs||

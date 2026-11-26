@@ -1,5 +1,4 @@
 ## Broadcast Private Local Message
-Broadcast Private Local Message
 ![[../img/nd_img_BroadcastPrivateLocalMessage.png]]
 
 |Inputs||

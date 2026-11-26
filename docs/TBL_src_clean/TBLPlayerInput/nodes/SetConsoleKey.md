@@ -1,5 +1,4 @@
 ## Set Console Key
-Set Console Key
 ![[../img/nd_img_SetConsoleKey.png]]
 
 |Inputs||

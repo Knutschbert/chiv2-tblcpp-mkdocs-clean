@@ -1,5 +1,4 @@
 ## Load VOASync
-Load VOASync
 ![[../img/nd_img_LoadVOASync.png]]
 
 |Inputs||

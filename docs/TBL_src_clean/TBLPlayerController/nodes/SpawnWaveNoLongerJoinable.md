@@ -1,5 +1,4 @@
 ## Spawn Wave No Longer Joinable
-Spawn Wave No Longer Joinable
 ![[../img/nd_img_SpawnWaveNoLongerJoinable.png]]
 
 |Inputs||

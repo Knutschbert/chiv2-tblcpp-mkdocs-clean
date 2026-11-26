@@ -1,5 +1,4 @@
 ## Add
-Add
 ![[../img/nd_img_Add.png]]
 
 |Inputs||

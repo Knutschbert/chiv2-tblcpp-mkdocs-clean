@@ -1,5 +1,4 @@
 ## K2 Get Good Sprite
-K2 Get Good Sprite
 ![[../img/nd_img_K2_GetGoodSprite.png]]
 
 |Inputs||

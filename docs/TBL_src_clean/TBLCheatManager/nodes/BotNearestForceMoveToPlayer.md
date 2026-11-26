@@ -1,5 +1,4 @@
 ## Bot Nearest Force Move to Player
-Bot Nearest Force Move to Player
 ![[../img/nd_img_BotNearestForceMoveToPlayer.png]]
 
 |Inputs||

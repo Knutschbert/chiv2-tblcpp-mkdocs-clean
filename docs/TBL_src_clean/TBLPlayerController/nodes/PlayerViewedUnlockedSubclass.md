@@ -1,5 +1,4 @@
 ## Player Viewed Unlocked Subclass
-Player Viewed Unlocked Subclass
 ![[../img/nd_img_PlayerViewedUnlockedSubclass.png]]
 
 |Inputs||

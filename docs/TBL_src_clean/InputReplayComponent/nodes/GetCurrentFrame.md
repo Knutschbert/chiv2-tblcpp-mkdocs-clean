@@ -1,5 +1,4 @@
 ## Get Current Frame
-Get Current Frame
 ![[../img/nd_img_GetCurrentFrame.png]]
 
 |Inputs||

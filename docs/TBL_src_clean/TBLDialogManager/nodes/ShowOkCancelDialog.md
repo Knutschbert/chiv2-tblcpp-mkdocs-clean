@@ -1,5 +1,4 @@
 ## Show Ok Cancel Dialog
-Show Ok Cancel Dialog
 ![[../img/nd_img_ShowOkCancelDialog.png]]
 
 |Inputs||

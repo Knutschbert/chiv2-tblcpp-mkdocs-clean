@@ -1,5 +1,4 @@
 ## Set Hair Hidden
-Set Hair Hidden
 ![[../img/nd_img_SetHairHidden.png]]
 
 |Inputs||

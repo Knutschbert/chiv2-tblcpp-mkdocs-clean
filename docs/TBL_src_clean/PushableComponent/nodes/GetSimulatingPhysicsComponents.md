@@ -1,5 +1,4 @@
 ## Get Simulating Physics Components
-Get Simulating Physics Components
 ![[../img/nd_img_GetSimulatingPhysicsComponents.png]]
 
 |Inputs||

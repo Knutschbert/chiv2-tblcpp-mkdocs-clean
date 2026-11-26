@@ -1,5 +1,4 @@
 ## Get Loaded Item
-Get Loaded Item
 ![[../img/nd_img_GetLoadedItem.png]]
 
 |Inputs||

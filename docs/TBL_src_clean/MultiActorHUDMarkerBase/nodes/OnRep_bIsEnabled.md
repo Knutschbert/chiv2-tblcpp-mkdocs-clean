@@ -1,5 +1,4 @@
 ## On Rep B Is Enabled
-On Rep B Is Enabled
 ![[../img/nd_img_OnRep_bIsEnabled.png]]
 
 |Inputs||

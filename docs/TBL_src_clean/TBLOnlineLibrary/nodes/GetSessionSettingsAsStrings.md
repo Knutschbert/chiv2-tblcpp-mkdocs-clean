@@ -1,5 +1,4 @@
 ## Get Session Settings as Strings
-Get Session Settings as Strings
 ![[../img/nd_img_GetSessionSettingsAsStrings.png]]
 
 |Inputs||

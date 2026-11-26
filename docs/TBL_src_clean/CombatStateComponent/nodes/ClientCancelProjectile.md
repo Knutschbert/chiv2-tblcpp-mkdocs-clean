@@ -1,5 +1,4 @@
 ## Client Cancel Projectile
-Client Cancel Projectile
 ![[../img/nd_img_ClientCancelProjectile.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Spectator Camera
-Set Spectator Camera
 ![[../img/nd_img_SetSpectatorCamera.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Region Ping Exec
-Set Region Ping Exec
 ![[../img/nd_img_SetRegionPingExec.png]]
 
 |Inputs||

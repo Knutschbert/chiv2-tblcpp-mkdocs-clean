@@ -1,5 +1,4 @@
 ## Is Regeneration Disabled
-Is Regeneration Disabled
 ![[../img/nd_img_IsRegenerationDisabled.png]]
 
 |Inputs||

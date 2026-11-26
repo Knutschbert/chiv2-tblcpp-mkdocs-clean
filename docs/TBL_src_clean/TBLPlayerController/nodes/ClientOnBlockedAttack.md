@@ -1,5 +1,4 @@
 ## Client on Blocked Attack
-Client on Blocked Attack
 ![[../img/nd_img_ClientOnBlockedAttack.png]]
 
 |Inputs||

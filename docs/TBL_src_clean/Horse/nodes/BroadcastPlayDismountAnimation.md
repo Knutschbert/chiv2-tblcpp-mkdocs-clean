@@ -1,5 +1,4 @@
 ## Broadcast Play Dismount Animation
-Broadcast Play Dismount Animation
 ![[../img/nd_img_BroadcastPlayDismountAnimation.png]]
 
 |Inputs||

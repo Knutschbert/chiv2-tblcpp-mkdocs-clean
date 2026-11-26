@@ -1,5 +1,4 @@
 ## Sprint Start
-Sprint Start
 ![[../img/nd_img_SprintStart.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Reset All Bindings
-Reset All Bindings
 ![[../img/nd_img_ResetAllBindings.png]]
 
 |Inputs||

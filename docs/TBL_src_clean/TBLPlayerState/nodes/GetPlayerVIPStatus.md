@@ -1,5 +1,4 @@
 ## Get Player VIPStatus
-Get Player VIPStatus
 ![[../img/nd_img_GetPlayerVIPStatus.png]]
 
 |Inputs||

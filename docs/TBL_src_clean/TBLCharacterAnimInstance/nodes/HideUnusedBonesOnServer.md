@@ -1,5 +1,4 @@
 ## Hide Unused Bones on Server
-Hide Unused Bones on Server
 ![[../img/nd_img_HideUnusedBonesOnServer.png]]
 
 |Inputs||

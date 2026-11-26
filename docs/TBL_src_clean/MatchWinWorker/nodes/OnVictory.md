@@ -1,5 +1,4 @@
 ## On Victory
-On Victory
 ![[../img/nd_img_OnVictory.png]]
 
 |Inputs||

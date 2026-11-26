@@ -1,5 +1,4 @@
 ## On Equip Combat State End
-On Equip Combat State End
 ![[../img/nd_img_OnEquipCombatStateEnd.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Caused Fall Death
-Client Caused Fall Death
 ![[../img/nd_img_ClientCausedFallDeath.png]]
 
 |Inputs||

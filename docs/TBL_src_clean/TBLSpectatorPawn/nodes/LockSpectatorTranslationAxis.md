@@ -1,5 +1,4 @@
 ## Lock Spectator Translation Axis
-Lock Spectator Translation Axis
 ![[../img/nd_img_LockSpectatorTranslationAxis.png]]
 
 |Inputs||

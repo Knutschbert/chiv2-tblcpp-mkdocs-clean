@@ -1,5 +1,4 @@
 ## Close Debugger
-Close Debugger
 ![[../img/nd_img_CloseDebugger.png]]
 
 |Inputs||

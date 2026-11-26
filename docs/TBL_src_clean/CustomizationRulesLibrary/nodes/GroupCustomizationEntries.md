@@ -1,5 +1,4 @@
 ## Group Customization Entries
-Group Customization Entries
 ![[../img/nd_img_GroupCustomizationEntries.png]]
 
 |Inputs||

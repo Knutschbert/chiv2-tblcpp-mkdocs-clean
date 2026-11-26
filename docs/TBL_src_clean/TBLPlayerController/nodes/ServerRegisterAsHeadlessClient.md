@@ -1,5 +1,4 @@
 ## Server Register as Headless Client
-Server Register as Headless Client
 ![[../img/nd_img_ServerRegisterAsHeadlessClient.png]]
 
 |Inputs||

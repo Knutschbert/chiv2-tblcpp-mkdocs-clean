@@ -1,5 +1,4 @@
 ## Server Broadcast
-Server Broadcast
 ![[../img/nd_img_ServerBroadcast.png]]
 
 |Inputs||

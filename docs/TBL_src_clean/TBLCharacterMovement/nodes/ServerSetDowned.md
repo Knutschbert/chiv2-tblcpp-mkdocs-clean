@@ -1,5 +1,4 @@
 ## Server Set Downed
-Server Set Downed
 ![[../img/nd_img_ServerSetDowned.png]]
 
 |Inputs||

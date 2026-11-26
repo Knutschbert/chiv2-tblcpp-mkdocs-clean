@@ -1,5 +1,4 @@
 ## Can Resize to Next Threshold
-Can Resize to Next Threshold
 ![[../img/nd_img_CanResizeToNextThreshold.png]]
 
 |Inputs||

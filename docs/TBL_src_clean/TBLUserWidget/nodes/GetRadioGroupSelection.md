@@ -1,5 +1,4 @@
 ## Get Radio Group Selection
-Get Radio Group Selection
 ![[../img/nd_img_GetRadioGroupSelection.png]]
 
 |Inputs||

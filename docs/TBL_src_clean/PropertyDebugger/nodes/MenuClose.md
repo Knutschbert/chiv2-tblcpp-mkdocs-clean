@@ -1,5 +1,4 @@
 ## Menu Close
-Menu Close
 ![[../img/nd_img_MenuClose.png]]
 
 |Inputs||

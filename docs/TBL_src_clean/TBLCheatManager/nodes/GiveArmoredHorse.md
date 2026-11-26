@@ -1,5 +1,4 @@
 ## Give Armored Horse
-Give Armored Horse
 ![[../img/nd_img_GiveArmoredHorse.png]]
 
 |Inputs||

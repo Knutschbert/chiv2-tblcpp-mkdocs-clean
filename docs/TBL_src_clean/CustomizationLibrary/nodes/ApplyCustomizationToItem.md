@@ -1,5 +1,4 @@
 ## Apply Customization to Item
-Apply Customization to Item
 ![[../img/nd_img_ApplyCustomizationToItem.png]]
 
 |Inputs||

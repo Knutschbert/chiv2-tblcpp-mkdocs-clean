@@ -1,5 +1,4 @@
 ## Get Character Post Process MID
-Get Character Post Process MID
 ![[../img/nd_img_GetCharacterPostProcessMID.png]]
 
 |Inputs||

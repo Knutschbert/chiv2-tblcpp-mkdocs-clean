@@ -1,5 +1,4 @@
 ## Draw Facing Check
-Draw Facing Check
 ![[../img/nd_img_DrawFacingCheck.png]]
 
 |Inputs||

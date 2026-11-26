@@ -1,5 +1,4 @@
 ## Set Team Tickets
-Set Team Tickets
 ![[../img/nd_img_SetTeamTickets.png]]
 
 |Inputs||

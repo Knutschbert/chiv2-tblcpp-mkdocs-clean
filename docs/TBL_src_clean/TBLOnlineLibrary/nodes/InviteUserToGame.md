@@ -1,5 +1,4 @@
 ## Invite User to Game
-Invite User to Game
 ![[../img/nd_img_InviteUserToGame.png]]
 
 |Inputs||

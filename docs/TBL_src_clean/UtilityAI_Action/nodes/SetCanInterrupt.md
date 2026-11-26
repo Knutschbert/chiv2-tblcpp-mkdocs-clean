@@ -1,5 +1,4 @@
 ## Set Can Interrupt
-Set Can Interrupt
 ![[../img/nd_img_SetCanInterrupt.png]]
 
 |Inputs||

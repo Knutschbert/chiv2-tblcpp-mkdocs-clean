@@ -1,5 +1,4 @@
 ## Play Auto VOFrom Server
-Play Auto VOFrom Server
 ![[../img/nd_img_PlayAutoVOFromServer.png]]
 
 |Inputs||

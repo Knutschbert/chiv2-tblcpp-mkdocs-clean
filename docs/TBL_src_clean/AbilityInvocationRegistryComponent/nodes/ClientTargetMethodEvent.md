@@ -1,5 +1,4 @@
 ## Client Target Method Event
-Client Target Method Event
 ![[../img/nd_img_ClientTargetMethodEvent.png]]
 
 |Inputs||

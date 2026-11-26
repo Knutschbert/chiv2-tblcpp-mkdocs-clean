@@ -1,5 +1,4 @@
 ## Get Sub Class Max Count
-Get Sub Class Max Count
 ![[../img/nd_img_GetSubClassMaxCount.png]]
 
 |Inputs||

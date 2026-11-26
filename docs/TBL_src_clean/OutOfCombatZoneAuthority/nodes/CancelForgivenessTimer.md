@@ -1,5 +1,4 @@
 ## Cancel Forgiveness Timer
-Cancel Forgiveness Timer
 ![[../img/nd_img_CancelForgivenessTimer.png]]
 
 |Inputs||

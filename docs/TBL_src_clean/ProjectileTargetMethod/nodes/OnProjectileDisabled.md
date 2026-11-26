@@ -1,5 +1,4 @@
 ## On Projectile Disabled
-On Projectile Disabled
 ![[../img/nd_img_OnProjectileDisabled.png]]
 
 |Inputs||

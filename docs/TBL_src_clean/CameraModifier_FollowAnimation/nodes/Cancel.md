@@ -1,5 +1,4 @@
 ## Cancel
-Cancel
 ![[../img/nd_img_Cancel.png]]
 
 |Inputs||

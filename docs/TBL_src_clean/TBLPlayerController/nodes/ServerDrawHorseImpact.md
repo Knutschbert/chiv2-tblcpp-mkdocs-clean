@@ -1,5 +1,4 @@
 ## Server Draw Horse Impact
-Server Draw Horse Impact
 ![[../img/nd_img_ServerDrawHorseImpact.png]]
 
 |Inputs||

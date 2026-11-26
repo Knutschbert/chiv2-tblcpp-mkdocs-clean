@@ -1,5 +1,4 @@
 ## Was Hit by Projectile
-Was Hit by Projectile
 ![[../img/nd_img_WasHitByProjectile.png]]
 
 |Inputs||

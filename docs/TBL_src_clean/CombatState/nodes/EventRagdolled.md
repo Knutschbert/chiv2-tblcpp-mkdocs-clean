@@ -1,5 +1,4 @@
 ## Event Ragdolled
-Event Ragdolled
 ![[../img/nd_img_EventRagdolled.png]]
 
 |Inputs||

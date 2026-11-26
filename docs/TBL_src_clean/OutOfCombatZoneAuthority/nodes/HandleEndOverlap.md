@@ -1,5 +1,4 @@
 ## Handle End Overlap
-Handle End Overlap
 ![[../img/nd_img_HandleEndOverlap.png]]
 
 |Inputs||

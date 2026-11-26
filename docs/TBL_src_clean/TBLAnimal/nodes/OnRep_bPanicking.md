@@ -1,5 +1,4 @@
 ## On Rep B Panicking
-On Rep B Panicking
 ![[../img/nd_img_OnRep_bPanicking.png]]
 
 |Inputs||

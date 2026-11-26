@@ -1,5 +1,4 @@
 ## Cleanup Ability Actors Internal
-Cleanup Ability Actors Internal
 ![[../img/nd_img_CleanupAbilityActorsInternal.png]]
 
 |Inputs||

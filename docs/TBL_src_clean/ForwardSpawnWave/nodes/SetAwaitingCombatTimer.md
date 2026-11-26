@@ -1,5 +1,4 @@
 ## Set Awaiting Combat Timer
-Set Awaiting Combat Timer
 ![[../img/nd_img_SetAwaitingCombatTimer.png]]
 
 |Inputs||

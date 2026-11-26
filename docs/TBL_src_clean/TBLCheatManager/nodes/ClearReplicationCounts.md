@@ -1,5 +1,4 @@
 ## Clear Replication Counts
-Clear Replication Counts
 ![[../img/nd_img_ClearReplicationCounts.png]]
 
 |Inputs||

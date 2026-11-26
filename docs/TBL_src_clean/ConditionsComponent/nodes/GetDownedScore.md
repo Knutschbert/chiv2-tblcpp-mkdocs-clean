@@ -1,5 +1,4 @@
 ## Get Downed Score
-Get Downed Score
 ![[../img/nd_img_GetDownedScore.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Bots Become Gods
-Bots Become Gods
 ![[../img/nd_img_BotsBecomeGods.png]]
 
 |Inputs||

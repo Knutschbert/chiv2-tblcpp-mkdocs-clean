@@ -1,5 +1,4 @@
 ## Get Headlook Location
-Get Headlook Location
 ![[../img/nd_img_GetHeadlookLocation.png]]
 
 |Inputs||

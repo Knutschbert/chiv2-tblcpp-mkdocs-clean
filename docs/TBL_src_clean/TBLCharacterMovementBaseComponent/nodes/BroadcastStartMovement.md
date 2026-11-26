@@ -1,5 +1,4 @@
 ## Broadcast Start Movement
-Broadcast Start Movement
 ![[../img/nd_img_BroadcastStartMovement.png]]
 
 |Inputs||

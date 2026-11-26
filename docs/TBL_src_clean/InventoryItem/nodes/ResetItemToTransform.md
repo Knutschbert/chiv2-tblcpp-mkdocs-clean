@@ -1,5 +1,4 @@
 ## Reset Item to Transform
-Reset Item to Transform
 ![[../img/nd_img_ResetItemToTransform.png]]
 
 |Inputs||

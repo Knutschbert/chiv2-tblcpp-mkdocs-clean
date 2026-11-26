@@ -1,5 +1,4 @@
 ## Unequip All Items
-Unequip All Items
 ![[../img/nd_img_UnequipAllItems.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Movement Debugger Load File
-Server Movement Debugger Load File
 ![[../img/nd_img_ServerMovementDebuggerLoadFile.png]]
 
 |Inputs||

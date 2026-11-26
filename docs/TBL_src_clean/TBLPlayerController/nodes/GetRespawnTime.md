@@ -1,5 +1,4 @@
 ## Get Respawn Time
-Get Respawn Time
 ![[../img/nd_img_GetRespawnTime.png]]
 
 |Inputs||

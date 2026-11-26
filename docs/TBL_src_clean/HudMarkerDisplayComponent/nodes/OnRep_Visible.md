@@ -1,5 +1,4 @@
 ## On Rep Visible
-On Rep Visible
 ![[../img/nd_img_OnRep_Visible.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get All Char Mesh
-Get All Char Mesh
 ![[../img/nd_img_GetAllCharMesh.png]]
 
 |Inputs||

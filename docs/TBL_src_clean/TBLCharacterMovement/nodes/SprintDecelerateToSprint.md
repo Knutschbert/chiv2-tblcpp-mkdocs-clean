@@ -1,5 +1,4 @@
 ## Sprint Decelerate to Sprint
-Sprint Decelerate to Sprint
 ![[../img/nd_img_SprintDecelerateToSprint.png]]
 
 |Inputs||

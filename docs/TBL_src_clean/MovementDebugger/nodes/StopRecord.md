@@ -1,5 +1,4 @@
 ## Stop Record
-Stop Record
 ![[../img/nd_img_StopRecord.png]]
 
 |Inputs||

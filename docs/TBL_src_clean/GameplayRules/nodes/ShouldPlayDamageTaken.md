@@ -1,5 +1,4 @@
 ## Should Play Damage Taken
-Should Play Damage Taken
 ![[../img/nd_img_ShouldPlayDamageTaken.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Projectile Stop After Death
-On Projectile Stop After Death
 ![[../img/nd_img_OnProjectileStopAfterDeath.png]]
 
 |Inputs||

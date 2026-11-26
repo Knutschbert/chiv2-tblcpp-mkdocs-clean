@@ -1,5 +1,4 @@
 ## Set Stat Original
-Set Stat Original
 ![[../img/nd_img_SetStatOriginal.png]]
 
 |Inputs||

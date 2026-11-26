@@ -1,5 +1,4 @@
 ## On Was Hit Early
-On Was Hit Early
 ![[../img/nd_img_OnWasHitEarly.png]]
 
 |Inputs||

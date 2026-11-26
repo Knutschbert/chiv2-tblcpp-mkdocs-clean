@@ -1,5 +1,4 @@
 ## Set Actor to Display Info For
-Set Actor to Display Info For
 ![[../img/nd_img_SetActorToDisplayInfoFor.png]]
 
 |Inputs||

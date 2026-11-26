@@ -1,5 +1,4 @@
 ## Find Spawn Queue
-Find Spawn Queue
 ![[../img/nd_img_FindSpawnQueue.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Orbit Turn Scale
-Get Orbit Turn Scale
 ![[../img/nd_img_GetOrbitTurnScale.png]]
 
 |Inputs||

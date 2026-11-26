@@ -1,5 +1,4 @@
 ## Grant Flavor Entitlement Exec
-Grant Flavor Entitlement Exec
 ![[../img/nd_img_GrantFlavorEntitlementExec.png]]
 
 |Inputs||

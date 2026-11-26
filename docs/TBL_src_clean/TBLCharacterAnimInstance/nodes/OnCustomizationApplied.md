@@ -1,5 +1,4 @@
 ## On Customization Applied
-On Customization Applied
 ![[../img/nd_img_OnCustomizationApplied.png]]
 
 |Inputs||

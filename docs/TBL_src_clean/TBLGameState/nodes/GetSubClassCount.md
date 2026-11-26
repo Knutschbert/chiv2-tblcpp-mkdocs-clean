@@ -1,5 +1,4 @@
 ## Get Sub Class Count
-Get Sub Class Count
 ![[../img/nd_img_GetSubClassCount.png]]
 
 |Inputs||

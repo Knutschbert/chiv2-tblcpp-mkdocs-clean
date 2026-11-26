@@ -1,5 +1,4 @@
 ## Show Team Select Screen
-Show Team Select Screen
 ![[../img/nd_img_ShowTeamSelectScreen.png]]
 
 |Inputs||

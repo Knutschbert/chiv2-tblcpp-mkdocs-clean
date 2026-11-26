@@ -1,5 +1,4 @@
 ## Get Interactable Component
-Get Interactable Component
 ![[../img/nd_img_GetInteractableComponent.png]]
 
 |Inputs||

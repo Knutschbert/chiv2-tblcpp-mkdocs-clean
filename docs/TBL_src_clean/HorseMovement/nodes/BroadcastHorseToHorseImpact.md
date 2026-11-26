@@ -1,5 +1,4 @@
 ## Broadcast Horse to Horse Impact
-Broadcast Horse to Horse Impact
 ![[../img/nd_img_BroadcastHorseToHorseImpact.png]]
 
 |Inputs||

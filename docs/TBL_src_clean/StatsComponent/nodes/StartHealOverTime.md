@@ -1,5 +1,4 @@
 ## Start Heal Over Time
-Start Heal Over Time
 ![[../img/nd_img_StartHealOverTime.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Event Damage
-Event Damage
 ![[../img/nd_img_EventDamage.png]]
 
 |Inputs||

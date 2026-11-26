@@ -1,5 +1,4 @@
 ## Bug Animation
-Bug Animation
 ![[../img/nd_img_BugAnimation.png]]
 
 |Inputs||

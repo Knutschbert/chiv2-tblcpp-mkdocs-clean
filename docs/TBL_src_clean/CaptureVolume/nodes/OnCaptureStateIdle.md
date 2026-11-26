@@ -1,5 +1,4 @@
 ## On Capture State Idle
-On Capture State Idle
 ![[../img/nd_img_OnCaptureStateIdle.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Pending Invites
-Update Pending Invites
 ![[../img/nd_img_UpdatePendingInvites.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Fire Released
-Fire Released
 ![[../img/nd_img_FireReleased.png]]
 
 |Inputs||

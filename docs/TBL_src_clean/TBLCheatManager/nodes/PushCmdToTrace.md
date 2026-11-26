@@ -1,5 +1,4 @@
 ## Push Cmd to Trace
-Push Cmd to Trace
 ![[../img/nd_img_PushCmdToTrace.png]]
 
 |Inputs||

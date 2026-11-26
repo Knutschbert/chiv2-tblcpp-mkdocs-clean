@@ -1,5 +1,4 @@
 ## Enable HUDPost Process
-Enable HUDPost Process
 ![[../img/nd_img_EnableHUDPostProcess.png]]
 
 |Inputs||

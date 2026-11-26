@@ -1,5 +1,4 @@
 ## Get Daily Quests
-Get Daily Quests
 ![[../img/nd_img_GetDailyQuests.png]]
 
 |Inputs||

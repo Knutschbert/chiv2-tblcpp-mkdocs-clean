@@ -1,5 +1,4 @@
 ## Next Latent Command
-Next Latent Command
 ![[../img/nd_img_NextLatentCommand.png]]
 
 |Inputs||

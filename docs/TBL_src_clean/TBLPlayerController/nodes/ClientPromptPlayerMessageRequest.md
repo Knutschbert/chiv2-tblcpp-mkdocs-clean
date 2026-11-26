@@ -1,5 +1,4 @@
 ## Client Prompt Player Message Request
-Client Prompt Player Message Request
 ![[../img/nd_img_ClientPromptPlayerMessageRequest.png]]
 
 |Inputs||

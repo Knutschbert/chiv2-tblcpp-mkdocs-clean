@@ -1,5 +1,4 @@
 ## Should Draw Debug Ranged Inaccuracy
-Should Draw Debug Ranged Inaccuracy
 ![[../img/nd_img_ShouldDrawDebugRangedInaccuracy.png]]
 
 |Inputs||

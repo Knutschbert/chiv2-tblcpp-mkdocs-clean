@@ -1,5 +1,4 @@
 ## Break Canvas Icon
-Break Canvas Icon
 ![[../img/nd_img_BreakCanvasIcon.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Ragdoll Physics
-Set Ragdoll Physics
 ![[../img/nd_img_SetRagdollPhysics.png]]
 
 |Inputs||

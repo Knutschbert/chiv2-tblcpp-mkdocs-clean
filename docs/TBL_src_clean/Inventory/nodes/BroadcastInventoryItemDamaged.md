@@ -1,5 +1,4 @@
 ## Broadcast Inventory Item Damaged
-Broadcast Inventory Item Damaged
 ![[../img/nd_img_BroadcastInventoryItemDamaged.png]]
 
 |Inputs||

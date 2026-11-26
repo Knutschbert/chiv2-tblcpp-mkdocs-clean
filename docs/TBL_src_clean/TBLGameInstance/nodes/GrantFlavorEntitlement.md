@@ -1,5 +1,4 @@
 ## Grant Flavor Entitlement
-Grant Flavor Entitlement
 ![[../img/nd_img_GrantFlavorEntitlement.png]]
 
 |Inputs||

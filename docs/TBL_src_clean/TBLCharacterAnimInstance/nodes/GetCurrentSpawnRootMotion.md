@@ -1,5 +1,4 @@
 ## Get Current Spawn Root Motion
-Get Current Spawn Root Motion
 ![[../img/nd_img_GetCurrentSpawnRootMotion.png]]
 
 |Inputs||

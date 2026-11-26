@@ -1,5 +1,4 @@
 ## On Heal Over Time End
-On Heal Over Time End
 ![[../img/nd_img_OnHealOverTimeEnd.png]]
 
 |Inputs||

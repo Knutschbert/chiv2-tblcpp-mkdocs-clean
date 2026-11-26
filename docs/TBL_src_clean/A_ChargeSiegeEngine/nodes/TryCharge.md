@@ -1,5 +1,4 @@
 ## Try Charge
-Try Charge
 ![[../img/nd_img_TryCharge.png]]
 
 |Inputs||

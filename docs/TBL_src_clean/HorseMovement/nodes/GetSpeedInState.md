@@ -1,5 +1,4 @@
 ## Get Speed in State
-Get Speed in State
 ![[../img/nd_img_GetSpeedInState.png]]
 
 |Inputs||

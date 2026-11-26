@@ -1,5 +1,4 @@
 ## On Stamina Drained
-On Stamina Drained
 ![[../img/nd_img_OnStaminaDrained.png]]
 
 |Inputs||

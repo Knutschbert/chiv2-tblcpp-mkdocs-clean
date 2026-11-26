@@ -1,5 +1,4 @@
 ## Check App Ownership
-Check App Ownership
 ![[../img/nd_img_CheckAppOwnership.png]]
 
 |Inputs||

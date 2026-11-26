@@ -1,5 +1,4 @@
 ## Get Num Swatches in Category
-Get Num Swatches in Category
 ![[../img/nd_img_GetNumSwatchesInCategory.png]]
 
 |Inputs||

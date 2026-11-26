@@ -1,5 +1,4 @@
 ## On Health Changed
-On Health Changed
 ![[../img/nd_img_OnHealthChanged.png]]
 
 |Inputs||

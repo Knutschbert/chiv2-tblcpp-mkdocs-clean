@@ -1,5 +1,4 @@
 ## Get Cached Campaign Data Progress
-Get Cached Campaign Data Progress
 ![[../img/nd_img_GetCachedCampaignDataProgress.png]]
 
 |Inputs||

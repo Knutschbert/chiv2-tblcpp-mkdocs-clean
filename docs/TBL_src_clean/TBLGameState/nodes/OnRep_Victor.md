@@ -1,5 +1,4 @@
 ## On Rep Victor
-On Rep Victor
 ![[../img/nd_img_OnRep_Victor.png]]
 
 |Inputs||

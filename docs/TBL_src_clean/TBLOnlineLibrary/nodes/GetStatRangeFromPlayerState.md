@@ -1,5 +1,4 @@
 ## Get Stat Range from Player State
-Get Stat Range from Player State
 ![[../img/nd_img_GetStatRangeFromPlayerState.png]]
 
 |Inputs||

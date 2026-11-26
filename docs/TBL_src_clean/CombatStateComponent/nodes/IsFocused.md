@@ -1,5 +1,4 @@
 ## Is Focused
-Is Focused
 ![[../img/nd_img_IsFocused.png]]
 
 |Inputs||

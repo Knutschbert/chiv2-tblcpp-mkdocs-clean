@@ -1,5 +1,4 @@
 ## Set Party Invite Settings
-Set Party Invite Settings
 ![[../img/nd_img_SetPartyInviteSettings.png]]
 
 |Inputs||

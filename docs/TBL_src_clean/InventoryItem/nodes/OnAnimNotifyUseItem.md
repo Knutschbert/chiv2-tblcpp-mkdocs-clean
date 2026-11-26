@@ -1,5 +1,4 @@
 ## On Anim Notify Use Item
-On Anim Notify Use Item
 ![[../img/nd_img_OnAnimNotifyUseItem.png]]
 
 |Inputs||

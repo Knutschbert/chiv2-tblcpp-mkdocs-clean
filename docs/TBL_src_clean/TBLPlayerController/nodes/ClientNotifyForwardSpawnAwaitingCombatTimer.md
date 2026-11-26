@@ -1,5 +1,4 @@
 ## Client Notify Forward Spawn Awaiting Combat Timer
-Client Notify Forward Spawn Awaiting Combat Timer
 ![[../img/nd_img_ClientNotifyForwardSpawnAwaitingCombatTimer.png]]
 
 |Inputs||

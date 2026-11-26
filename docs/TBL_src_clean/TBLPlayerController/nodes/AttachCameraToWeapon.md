@@ -1,5 +1,4 @@
 ## Attach Camera to Weapon
-Attach Camera to Weapon
 ![[../img/nd_img_AttachCameraToWeapon.png]]
 
 |Inputs||

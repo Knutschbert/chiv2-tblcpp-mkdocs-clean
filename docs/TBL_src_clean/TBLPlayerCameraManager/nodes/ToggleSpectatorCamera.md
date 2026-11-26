@@ -1,5 +1,4 @@
 ## Toggle Spectator Camera
-Toggle Spectator Camera
 ![[../img/nd_img_ToggleSpectatorCamera.png]]
 
 |Inputs||

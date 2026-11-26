@@ -1,5 +1,4 @@
 ## Get Nickname
-Get Nickname
 ![[../img/nd_img_GetNickname.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Max Downed Score
-Get Max Downed Score
 ![[../img/nd_img_GetMaxDownedScore.png]]
 
 |Inputs||

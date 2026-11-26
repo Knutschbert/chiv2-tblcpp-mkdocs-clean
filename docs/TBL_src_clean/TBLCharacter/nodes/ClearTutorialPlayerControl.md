@@ -1,5 +1,4 @@
 ## Clear Tutorial Player Control
-Clear Tutorial Player Control
 ![[../img/nd_img_ClearTutorialPlayerControl.png]]
 
 |Inputs||

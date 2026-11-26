@@ -1,5 +1,4 @@
 ## Switch Class
-Switch Class
 ![[../img/nd_img_SwitchClass.png]]
 
 |Inputs||

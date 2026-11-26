@@ -1,5 +1,4 @@
 ## Handle Passive Shield Hit
-Handle Passive Shield Hit
 ![[../img/nd_img_HandlePassiveShieldHit.png]]
 
 |Inputs||

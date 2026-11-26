@@ -1,5 +1,4 @@
 ## Should Draw Debug Projectile
-Should Draw Debug Projectile
 ![[../img/nd_img_ShouldDrawDebugProjectile.png]]
 
 |Inputs||

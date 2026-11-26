@@ -1,5 +1,4 @@
 ## On Focus Released
-On Focus Released
 ![[../img/nd_img_OnFocusReleased.png]]
 
 |Inputs||

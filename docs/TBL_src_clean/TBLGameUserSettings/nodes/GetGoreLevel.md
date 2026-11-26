@@ -1,5 +1,4 @@
 ## Get Gore Level
-Get Gore Level
 ![[../img/nd_img_GetGoreLevel.png]]
 
 |Inputs||

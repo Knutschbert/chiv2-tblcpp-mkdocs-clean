@@ -1,5 +1,4 @@
 ## Is Active
-Is Active
 ![[../img/nd_img_IsActive.png]]
 
 |Inputs||

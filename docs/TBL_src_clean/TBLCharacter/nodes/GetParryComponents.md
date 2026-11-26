@@ -1,5 +1,4 @@
 ## Get Parry Components
-Get Parry Components
 ![[../img/nd_img_GetParryComponents.png]]
 
 |Inputs||

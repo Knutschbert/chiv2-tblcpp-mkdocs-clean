@@ -1,5 +1,4 @@
 ## Client Start Movement
-Client Start Movement
 ![[../img/nd_img_ClientStartMovement.png]]
 
 |Inputs||

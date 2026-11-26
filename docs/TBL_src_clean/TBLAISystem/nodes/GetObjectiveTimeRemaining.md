@@ -1,5 +1,4 @@
 ## Get Objective Time Remaining
-Get Objective Time Remaining
 ![[../img/nd_img_GetObjectiveTimeRemaining.png]]
 
 |Inputs||

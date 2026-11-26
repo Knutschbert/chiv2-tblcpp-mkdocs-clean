@@ -1,5 +1,4 @@
 ## Attach Component from SCS
-Attach Component from SCS
 ![[../img/nd_img_AttachComponentFromSCS.png]]
 
 |Inputs||

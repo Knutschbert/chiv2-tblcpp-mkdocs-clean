@@ -1,5 +1,4 @@
 ## Handle Hit Inventory Item
-Handle Hit Inventory Item
 ![[../img/nd_img_HandleHitInventoryItem.png]]
 
 |Inputs||

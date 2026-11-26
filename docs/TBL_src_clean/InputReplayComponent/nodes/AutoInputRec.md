@@ -1,5 +1,4 @@
 ## Auto Input Rec
-Auto Input Rec
 ![[../img/nd_img_AutoInputRec.png]]
 
 |Inputs||

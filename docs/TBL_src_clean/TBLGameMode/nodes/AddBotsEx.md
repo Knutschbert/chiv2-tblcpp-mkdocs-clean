@@ -1,5 +1,4 @@
 ## Add Bots Ex
-Add Bots Ex
 ![[../img/nd_img_AddBotsEx.png]]
 
 |Inputs||

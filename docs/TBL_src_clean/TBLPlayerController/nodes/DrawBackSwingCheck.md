@@ -1,5 +1,4 @@
 ## Draw Back Swing Check
-Draw Back Swing Check
 ![[../img/nd_img_DrawBackSwingCheck.png]]
 
 |Inputs||

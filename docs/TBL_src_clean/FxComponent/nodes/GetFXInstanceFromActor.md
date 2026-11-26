@@ -1,5 +1,4 @@
 ## Get FXInstance from Actor
-Get FXInstance from Actor
 ![[../img/nd_img_GetFXInstanceFromActor.png]]
 
 |Inputs||

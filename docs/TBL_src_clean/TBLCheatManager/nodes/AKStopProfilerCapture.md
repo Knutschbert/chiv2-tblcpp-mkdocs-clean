@@ -1,5 +1,4 @@
 ## AKStop Profiler Capture
-AKStop Profiler Capture
 ![[../img/nd_img_AKStopProfilerCapture.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Takedowns
-On Rep Takedowns
 ![[../img/nd_img_OnRep_Takedowns.png]]
 
 |Inputs||

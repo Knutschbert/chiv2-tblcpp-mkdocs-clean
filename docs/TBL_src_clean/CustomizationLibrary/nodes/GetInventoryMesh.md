@@ -1,5 +1,4 @@
 ## Get Inventory Mesh
-Get Inventory Mesh
 ![[../img/nd_img_GetInventoryMesh.png]]
 
 |Inputs||

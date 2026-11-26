@@ -1,5 +1,4 @@
 ## Broadcast Vote Finished
-Broadcast Vote Finished
 ![[../img/nd_img_BroadcastVoteFinished.png]]
 
 |Inputs||

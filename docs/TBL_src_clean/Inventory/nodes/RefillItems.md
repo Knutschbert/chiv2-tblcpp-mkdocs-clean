@@ -1,5 +1,4 @@
 ## Refill Items
-Refill Items
 ![[../img/nd_img_RefillItems.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Catapult State
-On Rep Catapult State
 ![[../img/nd_img_OnRep_CatapultState.png]]
 
 |Inputs||

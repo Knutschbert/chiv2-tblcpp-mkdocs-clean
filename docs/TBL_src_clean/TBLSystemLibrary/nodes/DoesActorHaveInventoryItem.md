@@ -1,5 +1,4 @@
 ## Does Actor Have Inventory Item
-Does Actor Have Inventory Item
 ![[../img/nd_img_DoesActorHaveInventoryItem.png]]
 
 |Inputs||

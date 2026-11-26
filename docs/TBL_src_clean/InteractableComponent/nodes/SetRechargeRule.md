@@ -1,5 +1,4 @@
 ## Set Recharge Rule
-Set Recharge Rule
 ![[../img/nd_img_SetRechargeRule.png]]
 
 |Inputs||

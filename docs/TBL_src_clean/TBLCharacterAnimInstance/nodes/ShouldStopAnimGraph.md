@@ -1,5 +1,4 @@
 ## Should Stop Anim Graph
-Should Stop Anim Graph
 ![[../img/nd_img_ShouldStopAnimGraph.png]]
 
 |Inputs||

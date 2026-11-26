@@ -1,5 +1,4 @@
 ## Can Vote Start
-Can Vote Start
 ![[../img/nd_img_CanVoteStart.png]]
 
 |Inputs||

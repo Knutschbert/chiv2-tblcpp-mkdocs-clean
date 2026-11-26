@@ -1,5 +1,4 @@
 ## Get Owner
-Get Owner
 ![[../img/nd_img_GetOwner.png]]
 
 |Inputs||

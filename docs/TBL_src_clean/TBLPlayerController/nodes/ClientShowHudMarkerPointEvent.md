@@ -1,5 +1,4 @@
 ## Client Show Hud Marker Point Event
-Client Show Hud Marker Point Event
 ![[../img/nd_img_ClientShowHudMarkerPointEvent.png]]
 
 |Inputs||

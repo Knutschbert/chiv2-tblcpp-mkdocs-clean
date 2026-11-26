@@ -1,5 +1,4 @@
 ## Spawn TBLAIFrom Class
-Spawn TBLAIFrom Class
 ![[../img/nd_img_SpawnTBLAIFromClass.png]]
 
 |Inputs||

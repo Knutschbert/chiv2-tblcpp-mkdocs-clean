@@ -1,5 +1,4 @@
 ## Event Use Pressed
-Event Use Pressed
 ![[../img/nd_img_EventUsePressed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Init Spawn Queuers
-Init Spawn Queuers
 ![[../img/nd_img_InitSpawnQueuers.png]]
 
 |Inputs||

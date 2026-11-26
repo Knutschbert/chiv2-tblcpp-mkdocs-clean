@@ -1,5 +1,4 @@
 ## Broadcast Set Character Collision
-Broadcast Set Character Collision
 ![[../img/nd_img_BroadcastSetCharacterCollision.png]]
 
 |Inputs||

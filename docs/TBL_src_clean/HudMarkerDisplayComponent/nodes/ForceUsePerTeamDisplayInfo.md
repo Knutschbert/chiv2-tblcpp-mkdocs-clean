@@ -1,5 +1,4 @@
 ## Force Use Per Team Display Info
-Force Use Per Team Display Info
 ![[../img/nd_img_ForceUsePerTeamDisplayInfo.png]]
 
 |Inputs||

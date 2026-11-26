@@ -1,5 +1,4 @@
 ## Event on Killed
-Event on Killed
 ![[../img/nd_img_EventOnKilled.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Spectator Follow
-Spectator Follow
 ![[../img/nd_img_SpectatorFollow.png]]
 
 |Inputs||

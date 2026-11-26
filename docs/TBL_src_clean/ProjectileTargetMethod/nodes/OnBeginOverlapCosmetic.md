@@ -1,5 +1,4 @@
 ## On Begin Overlap Cosmetic
-On Begin Overlap Cosmetic
 ![[../img/nd_img_OnBeginOverlapCosmetic.png]]
 
 |Inputs||

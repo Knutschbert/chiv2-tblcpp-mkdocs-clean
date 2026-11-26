@@ -1,5 +1,4 @@
 ## Chat Unmute Player
-Chat Unmute Player
 ![[../img/nd_img_ChatUnmutePlayer.png]]
 
 |Inputs||

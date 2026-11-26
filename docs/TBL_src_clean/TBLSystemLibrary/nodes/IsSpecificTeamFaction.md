@@ -1,5 +1,4 @@
 ## Is Specific Team Faction
-Is Specific Team Faction
 ![[../img/nd_img_IsSpecificTeamFaction.png]]
 
 |Inputs||

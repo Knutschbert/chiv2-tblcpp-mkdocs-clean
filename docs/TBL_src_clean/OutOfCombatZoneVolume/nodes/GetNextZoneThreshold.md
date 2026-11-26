@@ -1,5 +1,4 @@
 ## Get Next Zone Threshold
-Get Next Zone Threshold
 ![[../img/nd_img_GetNextZoneThreshold.png]]
 
 |Inputs||

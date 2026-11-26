@@ -1,5 +1,4 @@
 ## Event on Disarm
-Event on Disarm
 ![[../img/nd_img_EventOnDisarm.png]]
 
 |Inputs||

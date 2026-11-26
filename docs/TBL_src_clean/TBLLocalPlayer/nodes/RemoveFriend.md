@@ -1,5 +1,4 @@
 ## Remove Friend
-Remove Friend
 ![[../img/nd_img_RemoveFriend.png]]
 
 |Inputs||

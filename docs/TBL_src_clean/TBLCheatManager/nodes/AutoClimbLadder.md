@@ -1,5 +1,4 @@
 ## Auto Climb Ladder
-Auto Climb Ladder
 ![[../img/nd_img_AutoClimbLadder.png]]
 
 |Inputs||

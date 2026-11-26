@@ -1,5 +1,4 @@
 ## Get Game Mode Message Rows
-Get Game Mode Message Rows
 ![[../img/nd_img_GetGameModeMessageRows.png]]
 
 |Inputs||

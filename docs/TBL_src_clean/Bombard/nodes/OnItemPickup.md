@@ -1,5 +1,4 @@
 ## On Item Pickup
-On Item Pickup
 ![[../img/nd_img_OnItemPickup.png]]
 
 |Inputs||

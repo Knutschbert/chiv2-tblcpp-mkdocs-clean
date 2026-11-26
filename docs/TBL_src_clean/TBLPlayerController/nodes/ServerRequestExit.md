@@ -1,5 +1,4 @@
 ## Server Request Exit
-Server Request Exit
 ![[../img/nd_img_ServerRequestExit.png]]
 
 |Inputs||

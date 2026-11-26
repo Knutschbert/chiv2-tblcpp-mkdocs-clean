@@ -1,5 +1,4 @@
 ## Record Pose
-Record Pose
 ![[../img/nd_img_RecordPose.png]]
 
 |Inputs||

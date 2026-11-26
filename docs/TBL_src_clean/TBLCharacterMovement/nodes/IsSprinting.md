@@ -1,5 +1,4 @@
 ## Is Sprinting
-Is Sprinting
 ![[../img/nd_img_IsSprinting.png]]
 
 |Inputs||

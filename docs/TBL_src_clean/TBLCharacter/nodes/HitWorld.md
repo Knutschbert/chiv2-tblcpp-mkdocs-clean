@@ -1,5 +1,4 @@
 ## Hit World
-Hit World
 ![[../img/nd_img_HitWorld.png]]
 
 |Inputs||

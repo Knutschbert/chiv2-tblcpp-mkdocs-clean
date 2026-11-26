@@ -1,5 +1,4 @@
 ## Is Exhausted
-Is Exhausted
 ![[../img/nd_img_IsExhausted.png]]
 
 |Inputs||

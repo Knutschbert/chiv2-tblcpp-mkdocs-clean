@@ -1,5 +1,4 @@
 ## Get Battle Cry Held Progress
-Get Battle Cry Held Progress
 ![[../img/nd_img_GetBattleCryHeldProgress.png]]
 
 |Inputs||

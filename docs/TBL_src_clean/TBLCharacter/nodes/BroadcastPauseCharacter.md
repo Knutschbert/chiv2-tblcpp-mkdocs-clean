@@ -1,5 +1,4 @@
 ## Broadcast Pause Character
-Broadcast Pause Character
 ![[../img/nd_img_BroadcastPauseCharacter.png]]
 
 |Inputs||

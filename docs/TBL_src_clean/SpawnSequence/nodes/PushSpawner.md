@@ -1,5 +1,4 @@
 ## Push Spawner
-Push Spawner
 ![[../img/nd_img_PushSpawner.png]]
 
 |Inputs||

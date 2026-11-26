@@ -1,5 +1,4 @@
 ## Get Time in State Percent
-Get Time in State Percent
 ![[../img/nd_img_GetTimeInStatePercent.png]]
 
 |Inputs||

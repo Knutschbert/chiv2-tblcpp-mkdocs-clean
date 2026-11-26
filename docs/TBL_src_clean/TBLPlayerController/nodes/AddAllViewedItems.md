@@ -1,5 +1,4 @@
 ## Add All Viewed Items
-Add All Viewed Items
 ![[../img/nd_img_AddAllViewedItems.png]]
 
 |Inputs||

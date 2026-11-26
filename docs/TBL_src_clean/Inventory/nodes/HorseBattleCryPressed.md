@@ -1,5 +1,4 @@
 ## Horse Battle Cry Pressed
-Horse Battle Cry Pressed
 ![[../img/nd_img_HorseBattleCryPressed.png]]
 
 |Inputs||

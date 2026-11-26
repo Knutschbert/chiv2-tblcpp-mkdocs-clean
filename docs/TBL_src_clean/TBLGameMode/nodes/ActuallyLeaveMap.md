@@ -1,5 +1,4 @@
 ## Actually Leave Map
-Actually Leave Map
 ![[../img/nd_img_ActuallyLeaveMap.png]]
 
 |Inputs||

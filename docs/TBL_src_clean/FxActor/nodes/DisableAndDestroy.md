@@ -1,5 +1,4 @@
 ## Disable and Destroy
-Disable and Destroy
 ![[../img/nd_img_DisableAndDestroy.png]]
 
 |Inputs||

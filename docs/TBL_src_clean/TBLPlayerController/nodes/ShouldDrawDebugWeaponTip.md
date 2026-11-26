@@ -1,5 +1,4 @@
 ## Should Draw Debug Weapon Tip
-Should Draw Debug Weapon Tip
 ![[../img/nd_img_ShouldDrawDebugWeaponTip.png]]
 
 |Inputs||

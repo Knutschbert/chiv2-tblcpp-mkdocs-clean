@@ -1,5 +1,4 @@
 ## Play Low Health Effect
-Play Low Health Effect
 ![[../img/nd_img_PlayLowHealthEffect.png]]
 
 |Inputs||

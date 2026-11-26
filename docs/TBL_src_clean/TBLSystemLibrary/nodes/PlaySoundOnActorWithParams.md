@@ -1,5 +1,4 @@
 ## Play Sound on Actor with Params
-Play Sound on Actor with Params
 ![[../img/nd_img_PlaySoundOnActorWithParams.png]]
 
 |Inputs||

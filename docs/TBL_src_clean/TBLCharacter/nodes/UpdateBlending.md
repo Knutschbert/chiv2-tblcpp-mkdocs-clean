@@ -1,5 +1,4 @@
 ## Update Blending
-Update Blending
 ![[../img/nd_img_UpdateBlending.png]]
 
 |Inputs||

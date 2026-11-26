@@ -1,5 +1,4 @@
 ## Is Follower
-Is Follower
 ![[../img/nd_img_IsFollower.png]]
 
 |Inputs||

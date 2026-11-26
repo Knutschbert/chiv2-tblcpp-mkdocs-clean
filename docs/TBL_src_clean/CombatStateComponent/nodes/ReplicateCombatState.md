@@ -1,5 +1,4 @@
 ## Replicate Combat State
-Replicate Combat State
 ![[../img/nd_img_ReplicateCombatState.png]]
 
 |Inputs||

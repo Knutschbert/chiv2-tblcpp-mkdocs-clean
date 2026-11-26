@@ -1,5 +1,4 @@
 ## Request Switch Team
-Request Switch Team
 ![[../img/nd_img_RequestSwitchTeam.png]]
 
 |Inputs||

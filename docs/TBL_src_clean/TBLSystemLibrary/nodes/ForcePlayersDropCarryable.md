@@ -1,5 +1,4 @@
 ## Force Players Drop Carryable
-Force Players Drop Carryable
 ![[../img/nd_img_ForcePlayersDropCarryable.png]]
 
 |Inputs||

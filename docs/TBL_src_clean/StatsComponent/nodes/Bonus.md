@@ -1,5 +1,4 @@
 ## Bonus
-Bonus
 ![[../img/nd_img_Bonus.png]]
 
 |Inputs||

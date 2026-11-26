@@ -1,5 +1,4 @@
 ## Goto Parry Success Replicated
-Goto Parry Success Replicated
 ![[../img/nd_img_GotoParrySuccessReplicated.png]]
 
 |Inputs||

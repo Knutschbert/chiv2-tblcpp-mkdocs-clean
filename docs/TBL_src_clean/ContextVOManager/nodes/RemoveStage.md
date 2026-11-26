@@ -1,5 +1,4 @@
 ## Remove Stage
-Remove Stage
 ![[../img/nd_img_RemoveStage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Generate Spawn Components
-Generate Spawn Components
 ![[../img/nd_img_GenerateSpawnComponents.png]]
 
 |Inputs||

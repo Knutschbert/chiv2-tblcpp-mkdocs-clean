@@ -1,5 +1,4 @@
 ## Client Received Auto Balance Notification
-Client Received Auto Balance Notification
 ![[../img/nd_img_ClientReceivedAutoBalanceNotification.png]]
 
 |Inputs||

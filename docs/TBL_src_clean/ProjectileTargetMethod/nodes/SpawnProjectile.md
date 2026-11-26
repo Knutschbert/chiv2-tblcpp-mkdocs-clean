@@ -1,5 +1,4 @@
 ## Spawn Projectile
-Spawn Projectile
 ![[../img/nd_img_SpawnProjectile.png]]
 
 |Inputs||

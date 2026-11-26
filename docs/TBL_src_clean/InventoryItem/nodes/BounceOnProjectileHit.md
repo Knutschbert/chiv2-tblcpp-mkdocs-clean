@@ -1,5 +1,4 @@
 ## Bounce on Projectile Hit
-Bounce on Projectile Hit
 ![[../img/nd_img_BounceOnProjectileHit.png]]
 
 |Inputs||

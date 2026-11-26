@@ -1,5 +1,4 @@
 ## Remove Session Ban
-Remove Session Ban
 ![[../img/nd_img_RemoveSessionBan.png]]
 
 |Inputs||

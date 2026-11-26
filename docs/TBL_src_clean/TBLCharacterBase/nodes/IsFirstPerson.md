@@ -1,5 +1,4 @@
 ## Is First Person
-Is First Person
 ![[../img/nd_img_IsFirstPerson.png]]
 
 |Inputs||

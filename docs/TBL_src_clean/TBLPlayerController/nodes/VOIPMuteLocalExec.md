@@ -1,5 +1,4 @@
 ## VOIPMute Local Exec
-VOIPMute Local Exec
 ![[../img/nd_img_VOIPMuteLocalExec.png]]
 
 |Inputs||

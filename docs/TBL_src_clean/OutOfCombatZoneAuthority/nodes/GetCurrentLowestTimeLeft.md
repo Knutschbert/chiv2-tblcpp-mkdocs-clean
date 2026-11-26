@@ -1,5 +1,4 @@
 ## Get Current Lowest Time Left
-Get Current Lowest Time Left
 ![[../img/nd_img_GetCurrentLowestTimeLeft.png]]
 
 |Inputs||

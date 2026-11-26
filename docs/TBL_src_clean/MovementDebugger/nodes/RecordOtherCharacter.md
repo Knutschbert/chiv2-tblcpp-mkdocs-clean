@@ -1,5 +1,4 @@
 ## Record Other Character
-Record Other Character
 ![[../img/nd_img_RecordOtherCharacter.png]]
 
 |Inputs||

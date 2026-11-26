@@ -1,5 +1,4 @@
 ## Is in Combat Zone
-Is in Combat Zone
 ![[../img/nd_img_IsInCombatZone.png]]
 
 |Inputs||

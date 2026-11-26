@@ -1,5 +1,4 @@
 ## Get Category Swatch Names
-Get Category Swatch Names
 ![[../img/nd_img_GetCategorySwatchNames.png]]
 
 |Inputs||

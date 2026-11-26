@@ -1,5 +1,4 @@
 ## Get Friend User Id
-Get Friend User Id
 ![[../img/nd_img_GetFriendUserId.png]]
 
 |Inputs||

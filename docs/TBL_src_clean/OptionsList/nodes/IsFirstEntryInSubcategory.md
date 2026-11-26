@@ -1,5 +1,4 @@
 ## Is First Entry in Subcategory
-Is First Entry in Subcategory
 ![[../img/nd_img_IsFirstEntryInSubcategory.png]]
 
 |Inputs||

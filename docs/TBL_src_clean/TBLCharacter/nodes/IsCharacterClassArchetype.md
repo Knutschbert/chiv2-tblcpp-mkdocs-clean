@@ -1,5 +1,4 @@
 ## Is Character Class Archetype
-Is Character Class Archetype
 ![[../img/nd_img_IsCharacterClassArchetype.png]]
 
 |Inputs||

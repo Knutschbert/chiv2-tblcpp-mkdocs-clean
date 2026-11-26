@@ -1,5 +1,4 @@
 ## Enable Collision for Fake Client
-Enable Collision for Fake Client
 ![[../img/nd_img_EnableCollisionForFakeClient.png]]
 
 |Inputs||

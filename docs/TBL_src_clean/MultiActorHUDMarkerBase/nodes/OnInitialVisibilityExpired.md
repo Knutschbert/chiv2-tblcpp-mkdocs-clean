@@ -1,5 +1,4 @@
 ## On Initial Visibility Expired
-On Initial Visibility Expired
 ![[../img/nd_img_OnInitialVisibilityExpired.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update on Cinematic State Changed
-Update on Cinematic State Changed
 ![[../img/nd_img_UpdateOnCinematicStateChanged.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Broadcast Set Active
-Broadcast Set Active
 ![[../img/nd_img_BroadcastSetActive.png]]
 
 |Inputs||

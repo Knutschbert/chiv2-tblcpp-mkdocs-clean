@@ -1,5 +1,4 @@
 ## Handle Team Changed
-Handle Team Changed
 ![[../img/nd_img_HandleTeamChanged.png]]
 
 |Inputs||

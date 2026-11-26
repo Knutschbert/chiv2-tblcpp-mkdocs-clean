@@ -1,5 +1,4 @@
 ## Draw Socket
-Draw Socket
 ![[../img/nd_img_DrawSocket.png]]
 
 |Inputs||

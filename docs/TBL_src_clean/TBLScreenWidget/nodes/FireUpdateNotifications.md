@@ -1,5 +1,4 @@
 ## Fire Update Notifications
-Fire Update Notifications
 ![[../img/nd_img_FireUpdateNotifications.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Action Event
-Get Action Event
 ![[../img/nd_img_GetActionEvent.png]]
 
 |Inputs||

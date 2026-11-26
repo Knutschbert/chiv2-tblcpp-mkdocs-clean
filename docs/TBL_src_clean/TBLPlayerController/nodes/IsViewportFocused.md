@@ -1,5 +1,4 @@
 ## Is Viewport Focused
-Is Viewport Focused
 ![[../img/nd_img_IsViewportFocused.png]]
 
 |Inputs||

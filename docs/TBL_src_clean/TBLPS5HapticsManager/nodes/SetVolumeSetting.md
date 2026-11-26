@@ -1,5 +1,4 @@
 ## Set Volume Setting
-Set Volume Setting
 ![[../img/nd_img_SetVolumeSetting.png]]
 
 |Inputs||

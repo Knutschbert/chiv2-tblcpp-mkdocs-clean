@@ -1,5 +1,4 @@
 ## Event on Dismounted
-Event on Dismounted
 ![[../img/nd_img_EventOnDismounted.png]]
 
 |Inputs||

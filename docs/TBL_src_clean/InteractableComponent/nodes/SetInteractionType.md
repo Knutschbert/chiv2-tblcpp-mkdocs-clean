@@ -1,5 +1,4 @@
 ## Set Interaction Type
-Set Interaction Type
 ![[../img/nd_img_SetInteractionType.png]]
 
 |Inputs||

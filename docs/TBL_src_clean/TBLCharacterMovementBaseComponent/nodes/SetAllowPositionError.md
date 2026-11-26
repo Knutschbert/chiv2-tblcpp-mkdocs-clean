@@ -1,5 +1,4 @@
 ## Set Allow Position Error
-Set Allow Position Error
 ![[../img/nd_img_SetAllowPositionError.png]]
 
 |Inputs||

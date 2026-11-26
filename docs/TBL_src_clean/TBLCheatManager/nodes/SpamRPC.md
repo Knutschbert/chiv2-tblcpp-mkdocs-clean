@@ -1,5 +1,4 @@
 ## Spam RPC
-Spam RPC
 ![[../img/nd_img_SpamRPC.png]]
 
 |Inputs||

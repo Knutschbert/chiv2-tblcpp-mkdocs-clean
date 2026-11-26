@@ -1,5 +1,4 @@
 ## Add Dead Character
-Add Dead Character
 ![[../img/nd_img_AddDeadCharacter.png]]
 
 |Inputs||

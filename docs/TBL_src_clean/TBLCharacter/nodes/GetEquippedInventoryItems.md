@@ -1,5 +1,4 @@
 ## Get Equipped Inventory Items
-Get Equipped Inventory Items
 ![[../img/nd_img_GetEquippedInventoryItems.png]]
 
 |Inputs||

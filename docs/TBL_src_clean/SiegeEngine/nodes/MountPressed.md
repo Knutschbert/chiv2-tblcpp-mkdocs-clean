@@ -1,5 +1,4 @@
 ## Mount Pressed
-Mount Pressed
 ![[../img/nd_img_MountPressed.png]]
 
 |Inputs||

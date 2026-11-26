@@ -1,5 +1,4 @@
 ## Request Player Input
-Request Player Input
 ![[../img/nd_img_RequestPlayerInput.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Reset Ammo Attachment
-Reset Ammo Attachment
 ![[../img/nd_img_ResetAmmoAttachment.png]]
 
 |Inputs||

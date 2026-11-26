@@ -1,5 +1,4 @@
 ## Get Progress
-Get Progress
 ![[../img/nd_img_GetProgress.png]]
 
 |Inputs||

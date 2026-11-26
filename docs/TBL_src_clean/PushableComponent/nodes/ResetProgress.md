@@ -1,5 +1,4 @@
 ## Reset Progress
-Reset Progress
 ![[../img/nd_img_ResetProgress.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is in My Party
-Is in My Party
 ![[../img/nd_img_IsInMyParty.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Start Movement
-On Start Movement
 ![[../img/nd_img_OnStartMovement.png]]
 
 |Inputs||

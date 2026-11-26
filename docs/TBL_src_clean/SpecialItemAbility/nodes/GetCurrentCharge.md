@@ -1,5 +1,4 @@
 ## Get Current Charge
-Get Current Charge
 ![[../img/nd_img_GetCurrentCharge.png]]
 
 |Inputs||

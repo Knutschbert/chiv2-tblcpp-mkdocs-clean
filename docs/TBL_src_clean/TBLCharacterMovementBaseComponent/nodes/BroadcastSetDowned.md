@@ -1,5 +1,4 @@
 ## Broadcast Set Downed
-Broadcast Set Downed
 ![[../img/nd_img_BroadcastSetDowned.png]]
 
 |Inputs||

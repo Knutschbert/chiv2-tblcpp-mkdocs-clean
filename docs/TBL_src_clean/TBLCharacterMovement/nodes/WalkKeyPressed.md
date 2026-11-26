@@ -1,5 +1,4 @@
 ## Walk Key Pressed
-Walk Key Pressed
 ![[../img/nd_img_WalkKeyPressed.png]]
 
 |Inputs||

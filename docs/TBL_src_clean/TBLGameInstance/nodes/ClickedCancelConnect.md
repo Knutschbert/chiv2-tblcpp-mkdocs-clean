@@ -1,5 +1,4 @@
 ## Clicked Cancel Connect
-Clicked Cancel Connect
 ![[../img/nd_img_ClickedCancelConnect.png]]
 
 |Inputs||

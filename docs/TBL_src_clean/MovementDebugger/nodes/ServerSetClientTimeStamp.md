@@ -1,5 +1,4 @@
 ## Server Set Client Time Stamp
-Server Set Client Time Stamp
 ![[../img/nd_img_ServerSetClientTimeStamp.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Texture from Slate Brush
-Get Texture from Slate Brush
 ![[../img/nd_img_GetTextureFromSlateBrush.png]]
 
 |Inputs||

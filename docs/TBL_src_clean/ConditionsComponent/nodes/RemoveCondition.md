@@ -1,5 +1,4 @@
 ## Remove Condition
-Remove Condition
 ![[../img/nd_img_RemoveCondition.png]]
 
 |Inputs||

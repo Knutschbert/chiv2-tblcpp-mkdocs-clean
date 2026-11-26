@@ -1,5 +1,4 @@
 ## Focus on Entry
-Focus on Entry
 ![[../img/nd_img_FocusOnEntry.png]]
 
 |Inputs||

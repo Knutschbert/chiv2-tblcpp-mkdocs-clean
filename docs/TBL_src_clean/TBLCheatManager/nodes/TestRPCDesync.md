@@ -1,5 +1,4 @@
 ## Test RPCDesync
-Test RPCDesync
 ![[../img/nd_img_TestRPCDesync.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Pawn Class Archetype
-Get Pawn Class Archetype
 ![[../img/nd_img_GetPawnClassArchetype.png]]
 
 |Inputs||

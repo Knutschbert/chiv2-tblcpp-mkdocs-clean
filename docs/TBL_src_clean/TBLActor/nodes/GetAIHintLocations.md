@@ -1,5 +1,4 @@
 ## Get AIHint Locations
-Get AIHint Locations
 ![[../img/nd_img_GetAIHintLocations.png]]
 
 |Inputs||

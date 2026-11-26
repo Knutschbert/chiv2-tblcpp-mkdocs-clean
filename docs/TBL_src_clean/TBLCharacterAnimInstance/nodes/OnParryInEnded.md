@@ -1,5 +1,4 @@
 ## On Parry in Ended
-On Parry in Ended
 ![[../img/nd_img_OnParryInEnded.png]]
 
 |Inputs||

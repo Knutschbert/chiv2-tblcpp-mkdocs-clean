@@ -1,5 +1,4 @@
 ## Client Receive Chat
-Client Receive Chat
 ![[../img/nd_img_ClientReceiveChat.png]]
 
 |Inputs||

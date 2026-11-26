@@ -1,5 +1,4 @@
 ## Kill with Hit Params
-Kill with Hit Params
 ![[../img/nd_img_KillWithHitParams.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Ladder Mount Offset
-Get Ladder Mount Offset
 ![[../img/nd_img_GetLadderMountOffset.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Event Hidden Position Update
-Event Hidden Position Update
 ![[../img/nd_img_EventHiddenPositionUpdate.png]]
 
 |Inputs||

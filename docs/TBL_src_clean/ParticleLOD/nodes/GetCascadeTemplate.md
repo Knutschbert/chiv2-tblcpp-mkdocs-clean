@@ -1,5 +1,4 @@
 ## Get Cascade Template
-Get Cascade Template
 ![[../img/nd_img_GetCascadeTemplate.png]]
 
 |Inputs||

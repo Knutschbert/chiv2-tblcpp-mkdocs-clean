@@ -1,5 +1,4 @@
 ## Sprint Tick
-Sprint Tick
 ![[../img/nd_img_SprintTick.png]]
 
 |Inputs||

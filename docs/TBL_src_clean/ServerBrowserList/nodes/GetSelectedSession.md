@@ -1,5 +1,4 @@
 ## Get Selected Session
-Get Selected Session
 ![[../img/nd_img_GetSelectedSession.png]]
 
 |Inputs||

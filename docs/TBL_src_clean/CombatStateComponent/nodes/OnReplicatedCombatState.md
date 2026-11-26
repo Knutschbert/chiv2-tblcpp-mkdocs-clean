@@ -1,5 +1,4 @@
 ## On Replicated Combat State
-On Replicated Combat State
 ![[../img/nd_img_OnReplicatedCombatState.png]]
 
 |Inputs||

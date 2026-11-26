@@ -1,5 +1,4 @@
 ## Save Loadout
-Save Loadout
 ![[../img/nd_img_SaveLoadout.png]]
 
 |Inputs||

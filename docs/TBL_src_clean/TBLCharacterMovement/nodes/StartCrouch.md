@@ -1,5 +1,4 @@
 ## Start Crouch
-Start Crouch
 ![[../img/nd_img_StartCrouch.png]]
 
 |Inputs||

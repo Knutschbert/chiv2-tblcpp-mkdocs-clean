@@ -1,5 +1,4 @@
 ## Update Scrolling
-Update Scrolling
 ![[../img/nd_img_UpdateScrolling.png]]
 
 |Inputs||

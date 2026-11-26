@@ -1,5 +1,4 @@
 ## Test Controller Dialog
-Test Controller Dialog
 ![[../img/nd_img_TestControllerDialog.png]]
 
 |Inputs||

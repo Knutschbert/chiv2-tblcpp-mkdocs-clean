@@ -1,5 +1,4 @@
 ## Initialize Widget
-Initialize Widget
 ![[../img/nd_img_InitializeWidget.png]]
 
 |Inputs||

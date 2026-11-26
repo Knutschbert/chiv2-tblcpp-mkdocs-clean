@@ -1,5 +1,4 @@
 ## Is Within Window
-Is Within Window
 ![[../img/nd_img_IsWithinWindow.png]]
 
 |Inputs||

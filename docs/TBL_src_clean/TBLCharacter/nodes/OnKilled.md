@@ -1,5 +1,4 @@
 ## On Killed
-On Killed
 ![[../img/nd_img_OnKilled.png]]
 
 |Inputs||

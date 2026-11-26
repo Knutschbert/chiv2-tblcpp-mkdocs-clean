@@ -1,5 +1,4 @@
 ## On Use Held
-On Use Held
 ![[../img/nd_img_OnUseHeld.png]]
 
 |Inputs||

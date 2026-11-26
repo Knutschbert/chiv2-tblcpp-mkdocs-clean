@@ -1,5 +1,4 @@
 ## On Blocked Attack
-On Blocked Attack
 ![[../img/nd_img_OnBlockedAttack.png]]
 
 |Inputs||

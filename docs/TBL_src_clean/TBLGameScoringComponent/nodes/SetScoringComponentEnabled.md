@@ -1,5 +1,4 @@
 ## Set Scoring Component Enabled
-Set Scoring Component Enabled
 ![[../img/nd_img_SetScoringComponentEnabled.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get TBLPlayer Input
-Get TBLPlayer Input
 ![[../img/nd_img_GetTBLPlayerInput.png]]
 
 |Inputs||

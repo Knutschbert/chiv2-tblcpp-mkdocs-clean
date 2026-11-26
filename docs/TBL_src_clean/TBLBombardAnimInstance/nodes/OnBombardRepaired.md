@@ -1,5 +1,4 @@
 ## On Bombard Repaired
-On Bombard Repaired
 ![[../img/nd_img_OnBombardRepaired.png]]
 
 |Inputs||

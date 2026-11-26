@@ -1,5 +1,4 @@
 ## Get Controllers Targetting Location
-Get Controllers Targetting Location
 ![[../img/nd_img_GetControllersTargettingLocation.png]]
 
 |Inputs||

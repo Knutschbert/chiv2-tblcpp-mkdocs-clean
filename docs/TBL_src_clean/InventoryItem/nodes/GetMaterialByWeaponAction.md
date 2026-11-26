@@ -1,5 +1,4 @@
 ## Get Material by Weapon Action
-Get Material by Weapon Action
 ![[../img/nd_img_GetMaterialByWeaponAction.png]]
 
 |Inputs||

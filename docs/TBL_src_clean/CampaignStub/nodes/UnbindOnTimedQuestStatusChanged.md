@@ -1,5 +1,4 @@
 ## Unbind on Timed Quest Status Changed
-Unbind on Timed Quest Status Changed
 ![[../img/nd_img_UnbindOnTimedQuestStatusChanged.png]]
 
 |Inputs||

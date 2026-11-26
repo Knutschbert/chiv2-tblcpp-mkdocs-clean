@@ -1,5 +1,4 @@
 ## Get Falling Push Direction
-Get Falling Push Direction
 ![[../img/nd_img_GetFallingPushDirection.png]]
 
 |Inputs||

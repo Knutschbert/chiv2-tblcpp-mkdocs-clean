@@ -1,5 +1,4 @@
 ## Get Inventory Animation Length
-Get Inventory Animation Length
 ![[../img/nd_img_GetInventoryAnimationLength.png]]
 
 |Inputs||

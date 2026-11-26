@@ -1,5 +1,4 @@
 ## On Movement Sync
-On Movement Sync
 ![[../img/nd_img_OnMovementSync.png]]
 
 |Inputs||

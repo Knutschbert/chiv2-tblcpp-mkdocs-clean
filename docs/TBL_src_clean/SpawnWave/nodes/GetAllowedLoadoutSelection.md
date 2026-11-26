@@ -1,5 +1,4 @@
 ## Get Allowed Loadout Selection
-Get Allowed Loadout Selection
 ![[../img/nd_img_GetAllowedLoadoutSelection.png]]
 
 |Inputs||

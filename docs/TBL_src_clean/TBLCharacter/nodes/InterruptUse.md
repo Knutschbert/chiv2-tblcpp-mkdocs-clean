@@ -1,5 +1,4 @@
 ## Interrupt Use
-Interrupt Use
 ![[../img/nd_img_InterruptUse.png]]
 
 |Inputs||

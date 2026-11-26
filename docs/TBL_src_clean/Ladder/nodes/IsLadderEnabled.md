@@ -1,5 +1,4 @@
 ## Is Ladder Enabled
-Is Ladder Enabled
 ![[../img/nd_img_IsLadderEnabled.png]]
 
 |Inputs||

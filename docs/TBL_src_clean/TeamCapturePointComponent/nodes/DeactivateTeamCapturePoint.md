@@ -1,5 +1,4 @@
 ## Deactivate Team Capture Point
-Deactivate Team Capture Point
 ![[../img/nd_img_DeactivateTeamCapturePoint.png]]
 
 |Inputs||

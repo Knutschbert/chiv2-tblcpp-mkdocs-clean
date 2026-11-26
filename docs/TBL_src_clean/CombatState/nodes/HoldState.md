@@ -1,5 +1,4 @@
 ## Hold State
-Hold State
 ![[../img/nd_img_HoldState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Helmet Mesh
-Get Helmet Mesh
 ![[../img/nd_img_GetHelmetMesh.png]]
 
 |Inputs||

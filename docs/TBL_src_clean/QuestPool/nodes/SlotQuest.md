@@ -1,5 +1,4 @@
 ## Slot Quest
-Slot Quest
 ![[../img/nd_img_SlotQuest.png]]
 
 |Inputs||

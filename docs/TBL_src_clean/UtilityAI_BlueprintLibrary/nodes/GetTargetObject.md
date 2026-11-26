@@ -1,5 +1,4 @@
 ## Get Target Object
-Get Target Object
 ![[../img/nd_img_GetTargetObject.png]]
 
 |Inputs||

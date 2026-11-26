@@ -1,5 +1,4 @@
 ## Calc Turn Limit
-Calc Turn Limit
 ![[../img/nd_img_CalcTurnLimit.png]]
 
 |Inputs||

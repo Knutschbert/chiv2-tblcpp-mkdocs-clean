@@ -1,5 +1,4 @@
 ## Play Emote from Server
-Play Emote from Server
 ![[../img/nd_img_PlayEmoteFromServer.png]]
 
 |Inputs||

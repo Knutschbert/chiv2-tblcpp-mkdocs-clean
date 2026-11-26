@@ -1,5 +1,4 @@
 ## Rest Of Current State
-Rest Of Current State
 ![[../img/nd_img_RestOfCurrentState.png]]
 
 |Inputs||

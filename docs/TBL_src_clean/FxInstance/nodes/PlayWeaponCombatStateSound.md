@@ -1,5 +1,4 @@
 ## Play Weapon Combat State Sound
-Play Weapon Combat State Sound
 ![[../img/nd_img_PlayWeaponCombatStateSound.png]]
 
 |Inputs||

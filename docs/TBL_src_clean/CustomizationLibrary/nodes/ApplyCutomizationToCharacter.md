@@ -1,5 +1,4 @@
 ## Apply Cutomization to Character
-Apply Cutomization to Character
 ![[../img/nd_img_ApplyCutomizationToCharacter.png]]
 
 |Inputs||

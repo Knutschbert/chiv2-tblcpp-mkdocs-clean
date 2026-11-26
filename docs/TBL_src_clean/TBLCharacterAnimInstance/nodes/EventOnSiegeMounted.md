@@ -1,5 +1,4 @@
 ## Event on Siege Mounted
-Event on Siege Mounted
 ![[../img/nd_img_EventOnSiegeMounted.png]]
 
 |Inputs||

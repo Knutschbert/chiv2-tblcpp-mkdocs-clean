@@ -1,5 +1,4 @@
 ## Frame Delay
-Frame Delay
 ![[../img/nd_img_FrameDelay.png]]
 
 |Inputs||

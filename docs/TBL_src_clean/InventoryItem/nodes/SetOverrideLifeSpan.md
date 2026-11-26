@@ -1,5 +1,4 @@
 ## Set Override Life Span
-Set Override Life Span
 ![[../img/nd_img_SetOverrideLifeSpan.png]]
 
 |Inputs||

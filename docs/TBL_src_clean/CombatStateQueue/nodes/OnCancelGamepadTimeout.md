@@ -1,5 +1,4 @@
 ## On Cancel Gamepad Timeout
-On Cancel Gamepad Timeout
 ![[../img/nd_img_OnCancelGamepadTimeout.png]]
 
 |Inputs||

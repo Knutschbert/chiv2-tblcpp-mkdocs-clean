@@ -1,5 +1,4 @@
 ## Event on LODLevel Changed
-Event on LODLevel Changed
 ![[../img/nd_img_EventOnLODLevelChanged.png]]
 
 |Inputs||

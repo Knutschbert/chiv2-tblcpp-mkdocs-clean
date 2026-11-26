@@ -1,5 +1,4 @@
 ## On TOSDeclined
-On TOSDeclined
 ![[../img/nd_img_OnTOSDeclined.png]]
 
 |Inputs||

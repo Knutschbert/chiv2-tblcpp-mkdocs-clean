@@ -1,5 +1,4 @@
 ## Should Clash
-Should Clash
 ![[../img/nd_img_ShouldClash.png]]
 
 |Inputs||

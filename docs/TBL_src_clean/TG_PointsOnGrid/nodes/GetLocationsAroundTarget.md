@@ -1,5 +1,4 @@
 ## Get Locations Around Target
-Get Locations Around Target
 ![[../img/nd_img_GetLocationsAroundTarget.png]]
 
 |Inputs||

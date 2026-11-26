@@ -1,5 +1,4 @@
 ## On Controller Possessed Pawn
-On Controller Possessed Pawn
 ![[../img/nd_img_OnControllerPossessedPawn.png]]
 
 |Inputs||

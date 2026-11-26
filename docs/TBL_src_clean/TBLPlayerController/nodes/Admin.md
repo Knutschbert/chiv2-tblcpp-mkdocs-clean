@@ -1,5 +1,4 @@
 ## Admin
-Admin
 ![[../img/nd_img_Admin.png]]
 
 |Inputs||

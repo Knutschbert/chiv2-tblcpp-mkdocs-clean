@@ -1,5 +1,4 @@
 ## Stop Dumping Replication
-Stop Dumping Replication
 ![[../img/nd_img_StopDumpingReplication.png]]
 
 |Inputs||

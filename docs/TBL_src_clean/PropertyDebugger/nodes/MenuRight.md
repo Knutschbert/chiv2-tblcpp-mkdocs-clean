@@ -1,5 +1,4 @@
 ## Menu Right
-Menu Right
 ![[../img/nd_img_MenuRight.png]]
 
 |Inputs||

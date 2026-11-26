@@ -1,5 +1,4 @@
 ## Has Same Data
-Has Same Data
 ![[../img/nd_img_HasSameData.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Downed
-Is Downed
 ![[../img/nd_img_IsDowned.png]]
 
 |Inputs||

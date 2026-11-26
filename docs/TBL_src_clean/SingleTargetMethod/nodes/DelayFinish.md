@@ -1,5 +1,4 @@
 ## Delay Finish
-Delay Finish
 ![[../img/nd_img_DelayFinish.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Attach Camera to Bone
-Attach Camera to Bone
 ![[../img/nd_img_AttachCameraToBone.png]]
 
 |Inputs||

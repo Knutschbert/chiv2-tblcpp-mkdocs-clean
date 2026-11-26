@@ -1,5 +1,4 @@
 ## Get Active Camera Component
-Get Active Camera Component
 ![[../img/nd_img_GetActiveCameraComponent.png]]
 
 |Inputs||

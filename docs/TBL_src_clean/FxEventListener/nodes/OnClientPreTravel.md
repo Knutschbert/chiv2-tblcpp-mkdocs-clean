@@ -1,5 +1,4 @@
 ## On Client Pre Travel
-On Client Pre Travel
 ![[../img/nd_img_OnClientPreTravel.png]]
 
 |Inputs||

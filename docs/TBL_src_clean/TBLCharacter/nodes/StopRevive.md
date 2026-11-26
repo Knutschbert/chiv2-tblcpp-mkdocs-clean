@@ -1,5 +1,4 @@
 ## Stop Revive
-Stop Revive
 ![[../img/nd_img_StopRevive.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Try Aim
-Try Aim
 ![[../img/nd_img_TryAim.png]]
 
 |Inputs||

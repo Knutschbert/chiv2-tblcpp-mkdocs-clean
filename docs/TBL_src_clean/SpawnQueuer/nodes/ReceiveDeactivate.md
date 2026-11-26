@@ -1,5 +1,4 @@
 ## Receive Deactivate
-Receive Deactivate
 ![[../img/nd_img_ReceiveDeactivate.png]]
 
 |Inputs||

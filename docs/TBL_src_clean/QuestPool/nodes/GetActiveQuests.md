@@ -1,5 +1,4 @@
 ## Get Active Quests
-Get Active Quests
 ![[../img/nd_img_GetActiveQuests.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Packaged
-Is Packaged
 ![[../img/nd_img_IsPackaged.png]]
 
 |Inputs||

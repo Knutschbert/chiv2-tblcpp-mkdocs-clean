@@ -1,5 +1,4 @@
 ## Notify Widget Completed Fade Out
-Notify Widget Completed Fade Out
 ![[../img/nd_img_NotifyWidgetCompletedFadeOut.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is First Entry
-Is First Entry
 ![[../img/nd_img_IsFirstEntry.png]]
 
 |Inputs||

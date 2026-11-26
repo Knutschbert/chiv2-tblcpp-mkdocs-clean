@@ -1,5 +1,4 @@
 ## Bot Force Move to Player
-Bot Force Move to Player
 ![[../img/nd_img_BotForceMoveToPlayer.png]]
 
 |Inputs||

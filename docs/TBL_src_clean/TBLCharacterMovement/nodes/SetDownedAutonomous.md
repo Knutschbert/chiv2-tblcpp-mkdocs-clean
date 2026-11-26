@@ -1,5 +1,4 @@
 ## Set Downed Autonomous
-Set Downed Autonomous
 ![[../img/nd_img_SetDownedAutonomous.png]]
 
 |Inputs||

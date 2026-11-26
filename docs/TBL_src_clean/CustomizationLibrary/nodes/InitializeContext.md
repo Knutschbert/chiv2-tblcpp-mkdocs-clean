@@ -1,5 +1,4 @@
 ## Initialize Context
-Initialize Context
 ![[../img/nd_img_InitializeContext.png]]
 
 |Inputs||

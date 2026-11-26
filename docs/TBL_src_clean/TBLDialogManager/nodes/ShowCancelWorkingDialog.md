@@ -1,5 +1,4 @@
 ## Show Cancel Working Dialog
-Show Cancel Working Dialog
 ![[../img/nd_img_ShowCancelWorkingDialog.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Physics Spawn Time
-Get Physics Spawn Time
 ![[../img/nd_img_GetPhysicsSpawnTime.png]]
 
 |Inputs||

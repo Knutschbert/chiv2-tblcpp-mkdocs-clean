@@ -1,5 +1,4 @@
 ## On Possess
-On Possess
 ![[../img/nd_img_OnPossess.png]]
 
 |Inputs||

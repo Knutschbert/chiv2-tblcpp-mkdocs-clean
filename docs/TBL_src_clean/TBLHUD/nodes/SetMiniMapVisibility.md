@@ -1,5 +1,4 @@
 ## Set Mini Map Visibility
-Set Mini Map Visibility
 ![[../img/nd_img_SetMiniMapVisibility.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Show Ingame Menu
-Show Ingame Menu
 ![[../img/nd_img_ShowIngameMenu.png]]
 
 |Inputs||

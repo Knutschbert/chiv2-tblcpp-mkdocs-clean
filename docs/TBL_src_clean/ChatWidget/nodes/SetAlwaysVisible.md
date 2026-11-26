@@ -1,5 +1,4 @@
 ## Set Always Visible
-Set Always Visible
 ![[../img/nd_img_SetAlwaysVisible.png]]
 
 |Inputs||

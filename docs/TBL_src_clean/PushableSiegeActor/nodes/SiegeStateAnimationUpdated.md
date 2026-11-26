@@ -1,5 +1,4 @@
 ## Siege State Animation Updated
-Siege State Animation Updated
 ![[../img/nd_img_SiegeStateAnimationUpdated.png]]
 
 |Inputs||

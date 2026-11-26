@@ -1,5 +1,4 @@
 ## Server Set PS5Match Id
-Server Set PS5Match Id
 ![[../img/nd_img_ServerSetPS5MatchId.png]]
 
 |Inputs||

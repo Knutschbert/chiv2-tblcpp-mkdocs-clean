@@ -1,5 +1,4 @@
 ## Get Localized Item Level Type Text
-Get Localized Item Level Type Text
 ![[../img/nd_img_GetLocalizedItemLevelTypeText.png]]
 
 |Inputs||

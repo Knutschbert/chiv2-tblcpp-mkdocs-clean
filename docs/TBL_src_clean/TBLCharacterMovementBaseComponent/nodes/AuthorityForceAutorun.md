@@ -1,5 +1,4 @@
 ## Authority Force Autorun
-Authority Force Autorun
 ![[../img/nd_img_AuthorityForceAutorun.png]]
 
 |Inputs||

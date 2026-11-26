@@ -1,5 +1,4 @@
 ## On Play Tutorial Accepted
-On Play Tutorial Accepted
 ![[../img/nd_img_OnPlayTutorialAccepted.png]]
 
 |Inputs||

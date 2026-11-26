@@ -1,5 +1,4 @@
 ## On Rep Cheats Enabled
-On Rep Cheats Enabled
 ![[../img/nd_img_OnRep_CheatsEnabled.png]]
 
 |Inputs||

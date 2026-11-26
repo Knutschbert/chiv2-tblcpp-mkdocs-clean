@@ -1,5 +1,4 @@
 ## Get Rider to World Collision
-Get Rider to World Collision
 ![[../img/nd_img_GetRiderToWorldCollision.png]]
 
 |Inputs||

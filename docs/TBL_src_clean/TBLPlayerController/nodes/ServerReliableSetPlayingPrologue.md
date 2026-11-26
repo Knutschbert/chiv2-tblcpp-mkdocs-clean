@@ -1,5 +1,4 @@
 ## Server Reliable Set Playing Prologue
-Server Reliable Set Playing Prologue
 ![[../img/nd_img_ServerReliableSetPlayingPrologue.png]]
 
 |Inputs||

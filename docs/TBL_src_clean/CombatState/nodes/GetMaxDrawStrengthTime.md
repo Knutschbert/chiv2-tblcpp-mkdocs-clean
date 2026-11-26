@@ -1,5 +1,4 @@
 ## Get Max Draw Strength Time
-Get Max Draw Strength Time
 ![[../img/nd_img_GetMaxDrawStrengthTime.png]]
 
 |Inputs||

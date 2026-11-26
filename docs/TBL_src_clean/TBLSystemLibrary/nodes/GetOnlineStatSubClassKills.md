@@ -1,5 +1,4 @@
 ## Get Online Stat Sub Class Kills
-Get Online Stat Sub Class Kills
 ![[../img/nd_img_GetOnlineStatSubClassKills.png]]
 
 |Inputs||

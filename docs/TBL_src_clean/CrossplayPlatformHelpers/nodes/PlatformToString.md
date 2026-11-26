@@ -1,5 +1,4 @@
 ## Platform to String
-Platform to String
 ![[../img/nd_img_PlatformToString.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Release Gui Background Request
-Release Gui Background Request
 ![[../img/nd_img_ReleaseGuiBackgroundRequest.png]]
 
 |Inputs||

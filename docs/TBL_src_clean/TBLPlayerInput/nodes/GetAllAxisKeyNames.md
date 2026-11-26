@@ -1,5 +1,4 @@
 ## Get All Axis Key Names
-Get All Axis Key Names
 ![[../img/nd_img_GetAllAxisKeyNames.png]]
 
 |Inputs||

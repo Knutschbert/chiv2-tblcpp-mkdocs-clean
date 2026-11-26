@@ -1,5 +1,4 @@
 ## Auto Attack Ex
-Auto Attack Ex
 ![[../img/nd_img_AutoAttackEx.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## K2 on Pinned
-K2 on Pinned
 ![[../img/nd_img_K2_OnPinned.png]]
 
 |Inputs||

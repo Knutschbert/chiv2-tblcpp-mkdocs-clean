@@ -1,5 +1,4 @@
 ## Customization Weapon to Stand
-Customization Weapon to Stand
 ![[../img/nd_img_CustomizationWeaponToStand.png]]
 
 |Inputs||

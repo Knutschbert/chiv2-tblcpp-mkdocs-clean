@@ -1,5 +1,4 @@
 ## Get Times Killed Killed by Player
-Get Times Killed Killed by Player
 ![[../img/nd_img_GetTimesKilledKilledByPlayer.png]]
 
 |Inputs||

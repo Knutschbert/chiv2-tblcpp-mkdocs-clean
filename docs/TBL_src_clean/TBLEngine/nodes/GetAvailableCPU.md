@@ -1,5 +1,4 @@
 ## Get Available CPU
-Get Available CPU
 ![[../img/nd_img_GetAvailableCPU.png]]
 
 |Inputs||

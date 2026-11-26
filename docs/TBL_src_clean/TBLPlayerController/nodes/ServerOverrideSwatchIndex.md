@@ -1,5 +1,4 @@
 ## Server Override Swatch Index
-Server Override Swatch Index
 ![[../img/nd_img_ServerOverrideSwatchIndex.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Cancel Matchmaking
-Cancel Matchmaking
 ![[../img/nd_img_CancelMatchmaking.png]]
 
 |Inputs||

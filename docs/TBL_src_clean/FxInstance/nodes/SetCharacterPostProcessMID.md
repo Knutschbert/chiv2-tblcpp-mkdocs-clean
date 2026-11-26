@@ -1,5 +1,4 @@
 ## Set Character Post Process MID
-Set Character Post Process MID
 ![[../img/nd_img_SetCharacterPostProcessMID.png]]
 
 |Inputs||

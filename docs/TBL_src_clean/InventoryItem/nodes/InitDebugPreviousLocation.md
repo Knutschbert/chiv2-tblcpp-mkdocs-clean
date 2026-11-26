@@ -1,5 +1,4 @@
 ## Init Debug Previous Location
-Init Debug Previous Location
 ![[../img/nd_img_InitDebugPreviousLocation.png]]
 
 |Inputs||

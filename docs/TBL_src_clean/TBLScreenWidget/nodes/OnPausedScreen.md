@@ -1,5 +1,4 @@
 ## On Paused Screen
-On Paused Screen
 ![[../img/nd_img_OnPausedScreen.png]]
 
 |Inputs||

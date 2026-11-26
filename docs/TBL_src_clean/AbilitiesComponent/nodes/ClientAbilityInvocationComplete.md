@@ -1,5 +1,4 @@
 ## Client Ability Invocation Complete
-Client Ability Invocation Complete
 ![[../img/nd_img_ClientAbilityInvocationComplete.png]]
 
 |Inputs||

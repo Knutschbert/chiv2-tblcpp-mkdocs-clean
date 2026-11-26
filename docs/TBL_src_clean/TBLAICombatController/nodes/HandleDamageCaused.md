@@ -1,5 +1,4 @@
 ## Handle Damage Caused
-Handle Damage Caused
 ![[../img/nd_img_HandleDamageCaused.png]]
 
 |Inputs||

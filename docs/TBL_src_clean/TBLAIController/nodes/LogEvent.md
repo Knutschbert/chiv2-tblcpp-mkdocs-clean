@@ -1,5 +1,4 @@
 ## Log Event
-Log Event
 ![[../img/nd_img_LogEvent.png]]
 
 |Inputs||

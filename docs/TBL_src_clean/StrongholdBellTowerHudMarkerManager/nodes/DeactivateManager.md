@@ -1,5 +1,4 @@
 ## Deactivate Manager
-Deactivate Manager
 ![[../img/nd_img_DeactivateManager.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Should Customize Placed in World Item
-Should Customize Placed in World Item
 ![[../img/nd_img_ShouldCustomizePlacedInWorldItem.png]]
 
 |Inputs||

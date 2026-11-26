@@ -1,5 +1,4 @@
 ## Broadcast Mount
-Broadcast Mount
 ![[../img/nd_img_BroadcastMount.png]]
 
 |Inputs||

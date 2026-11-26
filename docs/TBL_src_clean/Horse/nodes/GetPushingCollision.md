@@ -1,5 +1,4 @@
 ## Get Pushing Collision
-Get Pushing Collision
 ![[../img/nd_img_GetPushingCollision.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Reset to Transform
-On Rep Reset to Transform
 ![[../img/nd_img_OnRep_ResetToTransform.png]]
 
 |Inputs||

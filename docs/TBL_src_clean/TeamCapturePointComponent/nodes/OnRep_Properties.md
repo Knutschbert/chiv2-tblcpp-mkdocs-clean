@@ -1,5 +1,4 @@
 ## On Rep Properties
-On Rep Properties
 ![[../img/nd_img_OnRep_Properties.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Calculate End Of Match Commodity
-Calculate End Of Match Commodity
 ![[../img/nd_img_CalculateEndOfMatchCommodity.png]]
 
 |Inputs||

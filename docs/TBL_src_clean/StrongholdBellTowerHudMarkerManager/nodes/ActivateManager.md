@@ -1,5 +1,4 @@
 ## Activate Manager
-Activate Manager
 ![[../img/nd_img_ActivateManager.png]]
 
 |Inputs||

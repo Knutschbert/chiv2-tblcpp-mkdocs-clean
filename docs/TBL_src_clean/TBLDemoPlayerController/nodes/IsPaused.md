@@ -1,5 +1,4 @@
 ## Is Paused
-Is Paused
 ![[../img/nd_img_IsPaused.png]]
 
 |Inputs||

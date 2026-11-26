@@ -1,5 +1,4 @@
 ## Unbind Widget
-Unbind Widget
 ![[../img/nd_img_UnbindWidget.png]]
 
 |Inputs||

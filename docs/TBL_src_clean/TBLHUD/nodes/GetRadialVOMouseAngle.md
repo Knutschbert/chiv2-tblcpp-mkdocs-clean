@@ -1,5 +1,4 @@
 ## Get Radial VOMouse Angle
-Get Radial VOMouse Angle
 ![[../img/nd_img_GetRadialVOMouseAngle.png]]
 
 |Inputs||

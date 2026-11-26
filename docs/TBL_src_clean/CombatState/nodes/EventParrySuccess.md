@@ -1,5 +1,4 @@
 ## Event Parry Success
-Event Parry Success
 ![[../img/nd_img_EventParrySuccess.png]]
 
 |Inputs||

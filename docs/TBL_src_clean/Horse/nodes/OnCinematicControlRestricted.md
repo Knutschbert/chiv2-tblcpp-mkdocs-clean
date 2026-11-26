@@ -1,5 +1,4 @@
 ## On Cinematic Control Restricted
-On Cinematic Control Restricted
 ![[../img/nd_img_OnCinematicControlRestricted.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Clear Axis Binding
-Clear Axis Binding
 ![[../img/nd_img_ClearAxisBinding.png]]
 
 |Inputs||

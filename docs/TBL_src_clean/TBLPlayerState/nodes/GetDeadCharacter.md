@@ -1,5 +1,4 @@
 ## Get Dead Character
-Get Dead Character
 ![[../img/nd_img_GetDeadCharacter.png]]
 
 |Inputs||

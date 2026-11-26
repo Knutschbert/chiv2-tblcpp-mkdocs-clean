@@ -1,5 +1,4 @@
 ## On Show in Game Menu
-On Show in Game Menu
 ![[../img/nd_img_OnShowInGameMenu.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Notify Behavior Tree Started
-Notify Behavior Tree Started
 ![[../img/nd_img_NotifyBehaviorTreeStarted.png]]
 
 |Inputs||

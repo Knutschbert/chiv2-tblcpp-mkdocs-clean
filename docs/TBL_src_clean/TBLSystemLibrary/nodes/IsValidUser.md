@@ -1,5 +1,4 @@
 ## Is Valid User
-Is Valid User
 ![[../img/nd_img_IsValidUser.png]]
 
 |Inputs||

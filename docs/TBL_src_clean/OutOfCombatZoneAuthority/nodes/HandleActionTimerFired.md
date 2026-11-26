@@ -1,5 +1,4 @@
 ## Handle Action Timer Fired
-Handle Action Timer Fired
 ![[../img/nd_img_HandleActionTimerFired.png]]
 
 |Inputs||

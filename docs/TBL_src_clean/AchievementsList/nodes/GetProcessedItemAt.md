@@ -1,5 +1,4 @@
 ## Get Processed Item At
-Get Processed Item At
 ![[../img/nd_img_GetProcessedItemAt.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is in Active Riposte Window
-Is in Active Riposte Window
 ![[../img/nd_img_IsInActiveRiposteWindow.png]]
 
 |Inputs||

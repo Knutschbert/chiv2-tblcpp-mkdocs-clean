@@ -1,5 +1,4 @@
 ## Close Dialog
-Close Dialog
 ![[../img/nd_img_CloseDialog.png]]
 
 |Inputs||

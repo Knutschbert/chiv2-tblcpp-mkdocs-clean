@@ -1,5 +1,4 @@
 ## Play from Here
-Play from Here
 ![[../img/nd_img_PlayFromHere.png]]
 
 |Inputs||

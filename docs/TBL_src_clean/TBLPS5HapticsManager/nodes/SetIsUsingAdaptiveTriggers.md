@@ -1,5 +1,4 @@
 ## Set Is Using Adaptive Triggers
-Set Is Using Adaptive Triggers
 ![[../img/nd_img_SetIsUsingAdaptiveTriggers.png]]
 
 |Inputs||

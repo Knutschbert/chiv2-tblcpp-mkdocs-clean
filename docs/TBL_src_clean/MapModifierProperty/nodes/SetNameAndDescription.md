@@ -1,5 +1,4 @@
 ## Set Name and Description
-Set Name and Description
 ![[../img/nd_img_SetNameAndDescription.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Slot Campaign
-Slot Campaign
 ![[../img/nd_img_SlotCampaign.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Has Missing Items to Refill
-Has Missing Items to Refill
 ![[../img/nd_img_HasMissingItemsToRefill.png]]
 
 |Inputs||

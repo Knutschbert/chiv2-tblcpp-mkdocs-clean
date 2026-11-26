@@ -1,5 +1,4 @@
 ## End Weapon Animation
-End Weapon Animation
 ![[../img/nd_img_EndWeaponAnimation.png]]
 
 |Inputs||

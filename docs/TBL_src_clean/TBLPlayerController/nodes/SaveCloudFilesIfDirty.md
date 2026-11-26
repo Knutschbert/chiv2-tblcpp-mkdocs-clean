@@ -1,5 +1,4 @@
 ## Save Cloud Files if Dirty
-Save Cloud Files if Dirty
 ![[../img/nd_img_SaveCloudFilesIfDirty.png]]
 
 |Inputs||

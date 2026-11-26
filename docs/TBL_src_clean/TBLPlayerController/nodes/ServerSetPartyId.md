@@ -1,5 +1,4 @@
 ## Server Set Party Id
-Server Set Party Id
 ![[../img/nd_img_ServerSetPartyId.png]]
 
 |Inputs||

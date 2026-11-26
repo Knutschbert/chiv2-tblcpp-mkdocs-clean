@@ -1,5 +1,4 @@
 ## Get Key Text from Action Binding Name
-Get Key Text from Action Binding Name
 ![[../img/nd_img_GetKeyTextFromActionBindingName.png]]
 
 |Inputs||

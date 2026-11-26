@@ -1,5 +1,4 @@
 ## Get Online User
-Get Online User
 ![[../img/nd_img_GetOnlineUser.png]]
 
 |Inputs||

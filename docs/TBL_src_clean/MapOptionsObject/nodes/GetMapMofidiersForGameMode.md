@@ -1,5 +1,4 @@
 ## Get Map Mofidiers for Game Mode
-Get Map Mofidiers for Game Mode
 ![[../img/nd_img_GetMapMofidiersForGameMode.png]]
 
 |Inputs||

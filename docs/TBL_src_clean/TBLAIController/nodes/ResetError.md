@@ -1,5 +1,4 @@
 ## Reset Error
-Reset Error
 ![[../img/nd_img_ResetError.png]]
 
 |Inputs||

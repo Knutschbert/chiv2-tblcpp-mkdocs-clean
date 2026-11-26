@@ -1,5 +1,4 @@
 ## On Unequip Combat State End
-On Unequip Combat State End
 ![[../img/nd_img_OnUnequipCombatStateEnd.png]]
 
 |Inputs||

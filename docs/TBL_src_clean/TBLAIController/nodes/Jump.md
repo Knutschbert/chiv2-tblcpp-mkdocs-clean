@@ -1,5 +1,4 @@
 ## Jump
-Jump
 ![[../img/nd_img_Jump.png]]
 
 |Inputs||

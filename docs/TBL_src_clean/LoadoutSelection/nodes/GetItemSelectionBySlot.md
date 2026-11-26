@@ -1,5 +1,4 @@
 ## Get Item Selection by Slot
-Get Item Selection by Slot
 ![[../img/nd_img_GetItemSelectionBySlot.png]]
 
 |Inputs||

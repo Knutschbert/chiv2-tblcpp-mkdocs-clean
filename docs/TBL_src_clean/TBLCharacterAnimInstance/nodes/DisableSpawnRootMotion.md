@@ -1,5 +1,4 @@
 ## Disable Spawn Root Motion
-Disable Spawn Root Motion
 ![[../img/nd_img_DisableSpawnRootMotion.png]]
 
 |Inputs||

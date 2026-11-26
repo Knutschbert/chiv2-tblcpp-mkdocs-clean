@@ -1,5 +1,4 @@
 ## Anim Notify Ram Fire Action
-Anim Notify Ram Fire Action
 ![[../img/nd_img_AnimNotify_ramFire_Action.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Attached Smoothing
-Update Attached Smoothing
 ![[../img/nd_img_UpdateAttachedSmoothing.png]]
 
 |Inputs||

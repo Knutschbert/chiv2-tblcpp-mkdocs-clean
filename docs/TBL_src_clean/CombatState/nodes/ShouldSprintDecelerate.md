@@ -1,5 +1,4 @@
 ## Should Sprint Decelerate
-Should Sprint Decelerate
 ![[../img/nd_img_ShouldSprintDecelerate.png]]
 
 |Inputs||

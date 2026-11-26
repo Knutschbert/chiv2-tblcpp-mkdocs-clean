@@ -1,5 +1,4 @@
 ## Has Role
-Has Role
 ![[../img/nd_img_HasRole.png]]
 
 |Inputs||

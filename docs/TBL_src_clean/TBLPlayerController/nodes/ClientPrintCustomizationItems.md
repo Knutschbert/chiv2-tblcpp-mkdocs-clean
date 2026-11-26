@@ -1,5 +1,4 @@
 ## Client Print Customization Items
-Client Print Customization Items
 ![[../img/nd_img_ClientPrintCustomizationItems.png]]
 
 |Inputs||

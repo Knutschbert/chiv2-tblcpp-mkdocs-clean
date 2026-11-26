@@ -1,5 +1,4 @@
 ## Client Reliable Notify Suicide
-Client Reliable Notify Suicide
 ![[../img/nd_img_ClientReliableNotifySuicide.png]]
 
 |Inputs||

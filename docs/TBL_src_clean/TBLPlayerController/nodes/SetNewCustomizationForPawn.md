@@ -1,5 +1,4 @@
 ## Set New Customization for Pawn
-Set New Customization for Pawn
 ![[../img/nd_img_SetNewCustomizationForPawn.png]]
 
 |Inputs||

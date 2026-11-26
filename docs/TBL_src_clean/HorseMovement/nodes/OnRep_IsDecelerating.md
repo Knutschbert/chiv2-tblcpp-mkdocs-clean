@@ -1,5 +1,4 @@
 ## On Rep Is Decelerating
-On Rep Is Decelerating
 ![[../img/nd_img_OnRep_IsDecelerating.png]]
 
 |Inputs||

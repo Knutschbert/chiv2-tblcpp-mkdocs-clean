@@ -1,5 +1,4 @@
 ## Should Show Game Update
-Should Show Game Update
 ![[../img/nd_img_ShouldShowGameUpdate.png]]
 
 |Inputs||

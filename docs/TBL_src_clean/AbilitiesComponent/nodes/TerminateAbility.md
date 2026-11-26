@@ -1,5 +1,4 @@
 ## Terminate Ability
-Terminate Ability
 ![[../img/nd_img_TerminateAbility.png]]
 
 |Inputs||

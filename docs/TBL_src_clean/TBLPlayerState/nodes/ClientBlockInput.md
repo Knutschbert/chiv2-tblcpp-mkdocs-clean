@@ -1,5 +1,4 @@
 ## Client Block Input
-Client Block Input
 ![[../img/nd_img_ClientBlockInput.png]]
 
 |Inputs||

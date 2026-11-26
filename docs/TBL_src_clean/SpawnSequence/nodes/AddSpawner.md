@@ -1,5 +1,4 @@
 ## Add Spawner
-Add Spawner
 ![[../img/nd_img_AddSpawner.png]]
 
 |Inputs||

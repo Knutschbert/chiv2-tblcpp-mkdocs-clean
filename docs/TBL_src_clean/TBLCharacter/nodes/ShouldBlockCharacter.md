@@ -1,5 +1,4 @@
 ## Should Block Character
-Should Block Character
 ![[../img/nd_img_ShouldBlockCharacter.png]]
 
 |Inputs||

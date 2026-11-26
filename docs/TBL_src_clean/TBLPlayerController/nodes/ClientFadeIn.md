@@ -1,5 +1,4 @@
 ## Client Fade In
-Client Fade In
 ![[../img/nd_img_ClientFadeIn.png]]
 
 |Inputs||

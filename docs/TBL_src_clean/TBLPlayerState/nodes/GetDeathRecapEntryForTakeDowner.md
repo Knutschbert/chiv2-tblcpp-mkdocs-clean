@@ -1,5 +1,4 @@
 ## Get Death Recap Entry for Take Downer
-Get Death Recap Entry for Take Downer
 ![[../img/nd_img_GetDeathRecapEntryForTakeDowner.png]]
 
 |Inputs||

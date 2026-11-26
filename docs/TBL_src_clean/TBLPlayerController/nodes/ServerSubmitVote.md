@@ -1,5 +1,4 @@
 ## Server Submit Vote
-Server Submit Vote
 ![[../img/nd_img_ServerSubmitVote.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Push Dialog
-Push Dialog
 ![[../img/nd_img_PushDialog.png]]
 
 |Inputs||

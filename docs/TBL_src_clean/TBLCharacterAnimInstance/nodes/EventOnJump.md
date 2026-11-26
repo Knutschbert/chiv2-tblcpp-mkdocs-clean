@@ -1,5 +1,4 @@
 ## Event on Jump
-Event on Jump
 ![[../img/nd_img_EventOnJump.png]]
 
 |Inputs||

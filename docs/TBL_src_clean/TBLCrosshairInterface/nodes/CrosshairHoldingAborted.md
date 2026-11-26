@@ -1,5 +1,4 @@
 ## Crosshair Holding Aborted
-Crosshair Holding Aborted
 ![[../img/nd_img_CrosshairHoldingAborted.png]]
 
 |Inputs||

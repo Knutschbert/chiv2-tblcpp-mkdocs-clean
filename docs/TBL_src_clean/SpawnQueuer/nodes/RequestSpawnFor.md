@@ -1,5 +1,4 @@
 ## Request Spawn For
-Request Spawn For
 ![[../img/nd_img_RequestSpawnFor.png]]
 
 |Inputs||

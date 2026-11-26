@@ -1,5 +1,4 @@
 ## Is Auto Attacking
-Is Auto Attacking
 ![[../img/nd_img_IsAutoAttacking.png]]
 
 |Inputs||

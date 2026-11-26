@@ -1,5 +1,4 @@
 ## Recharge Special Item
-Recharge Special Item
 ![[../img/nd_img_RechargeSpecialItem.png]]
 
 |Inputs||

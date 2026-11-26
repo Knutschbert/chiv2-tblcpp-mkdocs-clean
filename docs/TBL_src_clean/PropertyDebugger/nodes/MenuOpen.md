@@ -1,5 +1,4 @@
 ## Menu Open
-Menu Open
 ![[../img/nd_img_MenuOpen.png]]
 
 |Inputs||

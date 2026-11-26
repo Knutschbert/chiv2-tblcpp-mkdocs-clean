@@ -1,5 +1,4 @@
 ## Kill Horse
-Kill Horse
 ![[../img/nd_img_KillHorse.png]]
 
 |Inputs||

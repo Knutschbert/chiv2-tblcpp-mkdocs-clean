@@ -1,5 +1,4 @@
 ## Move Direction to Angle
-Move Direction to Angle
 ![[../img/nd_img_MoveDirectionToAngle.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Modify Target Speed
-Modify Target Speed
 ![[../img/nd_img_ModifyTargetSpeed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Vibration Based on Stamina
-Update Vibration Based on Stamina
 ![[../img/nd_img_UpdateVibrationBasedOnStamina.png]]
 
 |Inputs||

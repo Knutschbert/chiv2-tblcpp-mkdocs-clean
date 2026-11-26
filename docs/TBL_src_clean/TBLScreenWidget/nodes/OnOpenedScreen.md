@@ -1,5 +1,4 @@
 ## On Opened Screen
-On Opened Screen
 ![[../img/nd_img_OnOpenedScreen.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Create Avoidance Area
-Create Avoidance Area
 ![[../img/nd_img_CreateAvoidanceArea.png]]
 
 |Inputs||

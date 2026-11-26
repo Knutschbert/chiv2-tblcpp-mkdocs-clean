@@ -1,5 +1,4 @@
 ## Server BPCheat
-Server BPCheat
 ![[../img/nd_img_ServerBPCheat.png]]
 
 |Inputs||

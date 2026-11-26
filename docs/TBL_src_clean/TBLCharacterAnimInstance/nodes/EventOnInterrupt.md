@@ -1,5 +1,4 @@
 ## Event on Interrupt
-Event on Interrupt
 ![[../img/nd_img_EventOnInterrupt.png]]
 
 |Inputs||

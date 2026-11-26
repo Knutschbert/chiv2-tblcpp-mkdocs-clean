@@ -1,5 +1,4 @@
 ## On Level Added
-On Level Added
 ![[../img/nd_img_OnLevelAdded.png]]
 
 |Inputs||

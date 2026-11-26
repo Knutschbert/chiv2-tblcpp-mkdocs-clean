@@ -1,5 +1,4 @@
 ## Auto Save to File
-Auto Save to File
 ![[../img/nd_img_AutoSaveToFile.png]]
 
 |Inputs||

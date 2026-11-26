@@ -1,5 +1,4 @@
 ## Set Culture
-Set Culture
 ![[../img/nd_img_SetCulture.png]]
 
 |Inputs||

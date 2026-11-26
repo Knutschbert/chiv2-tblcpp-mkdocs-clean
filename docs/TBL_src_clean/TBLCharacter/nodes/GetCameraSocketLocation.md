@@ -1,5 +1,4 @@
 ## Get Camera Socket Location
-Get Camera Socket Location
 ![[../img/nd_img_GetCameraSocketLocation.png]]
 
 |Inputs||

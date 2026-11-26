@@ -1,5 +1,4 @@
 ## Accept Party Invitation from Player Exec
-Accept Party Invitation from Player Exec
 ![[../img/nd_img_AcceptPartyInvitationFromPlayerExec.png]]
 
 |Inputs||

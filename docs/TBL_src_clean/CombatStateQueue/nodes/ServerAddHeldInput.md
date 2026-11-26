@@ -1,5 +1,4 @@
 ## Server Add Held Input
-Server Add Held Input
 ![[../img/nd_img_ServerAddHeldInput.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Back to Idle Timer
-On Back to Idle Timer
 ![[../img/nd_img_OnBackToIdleTimer.png]]
 
 |Inputs||

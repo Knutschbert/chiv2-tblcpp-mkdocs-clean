@@ -1,5 +1,4 @@
 ## Event on Horse to Character Impact
-Event on Horse to Character Impact
 ![[../img/nd_img_EventOnHorseToCharacterImpact.png]]
 
 |Inputs||

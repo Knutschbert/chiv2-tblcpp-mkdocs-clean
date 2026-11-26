@@ -1,5 +1,4 @@
 ## Get Server Frame
-Get Server Frame
 ![[../img/nd_img_GetServerFrame.png]]
 
 |Inputs||

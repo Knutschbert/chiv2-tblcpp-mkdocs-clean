@@ -1,5 +1,4 @@
 ## Current
-Current
 ![[../img/nd_img_Current.png]]
 
 |Inputs||

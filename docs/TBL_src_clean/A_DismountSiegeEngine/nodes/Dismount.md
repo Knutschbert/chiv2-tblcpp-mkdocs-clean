@@ -1,5 +1,4 @@
 ## Dismount
-Dismount
 ![[../img/nd_img_Dismount.png]]
 
 |Inputs||

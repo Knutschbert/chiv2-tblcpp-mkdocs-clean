@@ -1,5 +1,4 @@
 ## Handle on Player Killed
-Handle on Player Killed
 ![[../img/nd_img_HandleOnPlayerKilled.png]]
 
 |Inputs||

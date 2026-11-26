@@ -1,5 +1,4 @@
 ## Add Compound Input Action
-Add Compound Input Action
 ![[../img/nd_img_AddCompoundInputAction.png]]
 
 |Inputs||

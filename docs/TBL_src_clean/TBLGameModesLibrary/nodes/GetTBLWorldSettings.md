@@ -1,5 +1,4 @@
 ## Get TBLWorld Settings
-Get TBLWorld Settings
 ![[../img/nd_img_GetTBLWorldSettings.png]]
 
 |Inputs||

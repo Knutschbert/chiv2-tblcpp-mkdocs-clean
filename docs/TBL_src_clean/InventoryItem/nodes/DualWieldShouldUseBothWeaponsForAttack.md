@@ -1,5 +1,4 @@
 ## Dual Wield Should Use Both Weapons for Attack
-Dual Wield Should Use Both Weapons for Attack
 ![[../img/nd_img_DualWieldShouldUseBothWeaponsForAttack.png]]
 
 |Inputs||

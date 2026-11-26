@@ -1,5 +1,4 @@
 ## Broadcast Start Vault
-Broadcast Start Vault
 ![[../img/nd_img_BroadcastStartVault.png]]
 
 |Inputs||

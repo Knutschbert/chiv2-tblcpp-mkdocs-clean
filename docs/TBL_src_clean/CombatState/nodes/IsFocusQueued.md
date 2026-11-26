@@ -1,5 +1,4 @@
 ## Is Focus Queued
-Is Focus Queued
 ![[../img/nd_img_IsFocusQueued.png]]
 
 |Inputs||

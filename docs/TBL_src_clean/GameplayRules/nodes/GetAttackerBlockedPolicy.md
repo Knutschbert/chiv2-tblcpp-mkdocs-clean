@@ -1,5 +1,4 @@
 ## Get Attacker Blocked Policy
-Get Attacker Blocked Policy
 ![[../img/nd_img_GetAttackerBlockedPolicy.png]]
 
 |Inputs||

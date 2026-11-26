@@ -1,5 +1,4 @@
 ## Can Combo from State
-Can Combo from State
 ![[../img/nd_img_CanComboFromState.png]]
 
 |Inputs||

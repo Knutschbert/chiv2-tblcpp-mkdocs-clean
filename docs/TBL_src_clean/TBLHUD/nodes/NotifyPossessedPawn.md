@@ -1,5 +1,4 @@
 ## Notify Possessed Pawn
-Notify Possessed Pawn
 ![[../img/nd_img_NotifyPossessedPawn.png]]
 
 |Inputs||

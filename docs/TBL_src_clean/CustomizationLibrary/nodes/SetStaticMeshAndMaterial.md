@@ -1,5 +1,4 @@
 ## Set Static Mesh and Material
-Set Static Mesh and Material
 ![[../img/nd_img_SetStaticMeshAndMaterial.png]]
 
 |Inputs||

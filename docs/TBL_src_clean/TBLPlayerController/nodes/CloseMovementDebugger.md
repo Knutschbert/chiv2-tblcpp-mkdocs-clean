@@ -1,5 +1,4 @@
 ## Close Movement Debugger
-Close Movement Debugger
 ![[../img/nd_img_CloseMovementDebugger.png]]
 
 |Inputs||

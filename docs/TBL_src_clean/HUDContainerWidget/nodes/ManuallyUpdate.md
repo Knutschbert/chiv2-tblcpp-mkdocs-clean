@@ -1,5 +1,4 @@
 ## Manually Update
-Manually Update
 ![[../img/nd_img_ManuallyUpdate.png]]
 
 |Inputs||

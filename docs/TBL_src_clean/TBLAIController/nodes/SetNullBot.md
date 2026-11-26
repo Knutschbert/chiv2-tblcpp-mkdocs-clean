@@ -1,5 +1,4 @@
 ## Set Null Bot
-Set Null Bot
 ![[../img/nd_img_SetNullBot.png]]
 
 |Inputs||

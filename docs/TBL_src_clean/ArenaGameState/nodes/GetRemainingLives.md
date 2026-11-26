@@ -1,5 +1,4 @@
 ## Get Remaining Lives
-Get Remaining Lives
 ![[../img/nd_img_GetRemainingLives.png]]
 
 |Inputs||

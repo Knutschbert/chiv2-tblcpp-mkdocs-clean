@@ -1,5 +1,4 @@
 ## Remove Item
-Remove Item
 ![[../img/nd_img_RemoveItem.png]]
 
 |Inputs||

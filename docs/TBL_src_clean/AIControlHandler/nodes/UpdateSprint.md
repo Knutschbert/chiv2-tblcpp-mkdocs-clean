@@ -1,5 +1,4 @@
 ## Update Sprint
-Update Sprint
 ![[../img/nd_img_UpdateSprint.png]]
 
 |Inputs||

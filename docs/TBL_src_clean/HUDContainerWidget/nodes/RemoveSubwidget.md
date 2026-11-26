@@ -1,5 +1,4 @@
 ## Remove Subwidget
-Remove Subwidget
 ![[../img/nd_img_RemoveSubwidget.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Camera Rotation
-Set Camera Rotation
 ![[../img/nd_img_SetCameraRotation.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Overall Scalability Level with Auto
-Set Overall Scalability Level with Auto
 ![[../img/nd_img_SetOverallScalabilityLevelWithAuto.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Pressed Menu Button
-Pressed Menu Button
 ![[../img/nd_img_PressedMenuButton.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Debug Input Char
-Debug Input Char
 ![[../img/nd_img_DebugInputChar.png]]
 
 |Inputs||

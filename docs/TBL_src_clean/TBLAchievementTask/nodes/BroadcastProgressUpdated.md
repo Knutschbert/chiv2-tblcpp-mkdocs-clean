@@ -1,5 +1,4 @@
 ## Broadcast Progress Updated
-Broadcast Progress Updated
 ![[../img/nd_img_BroadcastProgressUpdated.png]]
 
 |Inputs||

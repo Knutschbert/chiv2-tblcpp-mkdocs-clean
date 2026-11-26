@@ -1,5 +1,4 @@
 ## Player Request Spawn
-Player Request Spawn
 ![[../img/nd_img_PlayerRequestSpawn.png]]
 
 |Inputs||

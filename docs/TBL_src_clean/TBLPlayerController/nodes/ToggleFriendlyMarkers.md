@@ -1,5 +1,4 @@
 ## Toggle Friendly Markers
-Toggle Friendly Markers
 ![[../img/nd_img_ToggleFriendlyMarkers.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Move Direction to Vector
-Move Direction to Vector
 ![[../img/nd_img_MoveDirectionToVector.png]]
 
 |Inputs||

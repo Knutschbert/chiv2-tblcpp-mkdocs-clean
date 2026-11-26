@@ -1,5 +1,4 @@
 ## Get TBLGame State
-Get TBLGame State
 ![[../img/nd_img_GetTBLGameState.png]]
 
 |Inputs||

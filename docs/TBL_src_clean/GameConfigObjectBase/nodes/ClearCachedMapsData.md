@@ -1,5 +1,4 @@
 ## Clear Cached Maps Data
-Clear Cached Maps Data
 ![[../img/nd_img_ClearCachedMapsData.png]]
 
 |Inputs||

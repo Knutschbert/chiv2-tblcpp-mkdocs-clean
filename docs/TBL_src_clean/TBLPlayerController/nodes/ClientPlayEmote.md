@@ -1,5 +1,4 @@
 ## Client Play Emote
-Client Play Emote
 ![[../img/nd_img_ClientPlayEmote.png]]
 
 |Inputs||

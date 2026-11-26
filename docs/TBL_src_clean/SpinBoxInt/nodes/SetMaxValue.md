@@ -1,5 +1,4 @@
 ## Set Max Value
-Set Max Value
 ![[../img/nd_img_SetMaxValue.png]]
 
 |Inputs||

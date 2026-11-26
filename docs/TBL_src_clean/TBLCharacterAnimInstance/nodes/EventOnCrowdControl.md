@@ -1,5 +1,4 @@
 ## Event on Crowd Control
-Event on Crowd Control
 ![[../img/nd_img_EventOnCrowdControl.png]]
 
 |Inputs||

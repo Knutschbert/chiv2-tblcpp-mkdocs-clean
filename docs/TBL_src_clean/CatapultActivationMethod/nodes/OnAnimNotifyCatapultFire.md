@@ -1,5 +1,4 @@
 ## On Anim Notify Catapult Fire
-On Anim Notify Catapult Fire
 ![[../img/nd_img_OnAnimNotifyCatapultFire.png]]
 
 |Inputs||

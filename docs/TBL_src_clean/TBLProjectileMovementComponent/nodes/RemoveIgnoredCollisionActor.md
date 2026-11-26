@@ -1,5 +1,4 @@
 ## Remove Ignored Collision Actor
-Remove Ignored Collision Actor
 ![[../img/nd_img_RemoveIgnoredCollisionActor.png]]
 
 |Inputs||

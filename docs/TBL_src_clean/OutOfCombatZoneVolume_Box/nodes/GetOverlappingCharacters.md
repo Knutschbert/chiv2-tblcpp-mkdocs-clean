@@ -1,5 +1,4 @@
 ## Get Overlapping Characters
-Get Overlapping Characters
 ![[../img/nd_img_GetOverlappingCharacters.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Spawn Fade Out Enabled
-Is Spawn Fade Out Enabled
 ![[../img/nd_img_IsSpawnFadeOutEnabled.png]]
 
 |Inputs||

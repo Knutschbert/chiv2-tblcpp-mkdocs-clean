@@ -1,5 +1,4 @@
 ## On Rep Autorun Params
-On Rep Autorun Params
 ![[../img/nd_img_OnRep_AutorunParams.png]]
 
 |Inputs||

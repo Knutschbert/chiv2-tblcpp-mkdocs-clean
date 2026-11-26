@@ -1,5 +1,4 @@
 ## Activate Player Capture Point
-Activate Player Capture Point
 ![[../img/nd_img_ActivatePlayerCapturePoint.png]]
 
 |Inputs||

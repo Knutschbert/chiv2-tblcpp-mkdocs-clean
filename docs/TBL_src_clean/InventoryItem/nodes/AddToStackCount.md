@@ -1,5 +1,4 @@
 ## Add to Stack Count
-Add to Stack Count
 ![[../img/nd_img_AddToStackCount.png]]
 
 |Inputs||

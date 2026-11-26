@@ -1,5 +1,4 @@
 ## Get Turn Input Scale
-Get Turn Input Scale
 ![[../img/nd_img_GetTurnInputScale.png]]
 
 |Inputs||

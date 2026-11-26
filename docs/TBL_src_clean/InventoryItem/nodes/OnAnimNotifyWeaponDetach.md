@@ -1,5 +1,4 @@
 ## On Anim Notify Weapon Detach
-On Anim Notify Weapon Detach
 ![[../img/nd_img_OnAnimNotifyWeaponDetach.png]]
 
 |Inputs||

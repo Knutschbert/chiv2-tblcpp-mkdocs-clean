@@ -1,5 +1,4 @@
 ## Set Font Size
-Set Font Size
 ![[../img/nd_img_SetFontSize.png]]
 
 |Inputs||

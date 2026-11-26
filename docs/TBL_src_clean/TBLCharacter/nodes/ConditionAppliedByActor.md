@@ -1,5 +1,4 @@
 ## Condition Applied by Actor
-Condition Applied by Actor
 ![[../img/nd_img_ConditionAppliedByActor.png]]
 
 |Inputs||

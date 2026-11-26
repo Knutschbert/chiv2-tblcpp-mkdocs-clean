@@ -1,5 +1,4 @@
 ## Random Linear Color from Hsluv
-Random Linear Color from Hsluv
 ![[../img/nd_img_RandomLinearColorFromHsluv.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Vote Finished
-Vote Finished
 ![[../img/nd_img_VoteFinished.png]]
 
 |Inputs||

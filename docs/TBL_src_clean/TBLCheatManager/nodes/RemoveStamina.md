@@ -1,5 +1,4 @@
 ## Remove Stamina
-Remove Stamina
 ![[../img/nd_img_RemoveStamina.png]]
 
 |Inputs||

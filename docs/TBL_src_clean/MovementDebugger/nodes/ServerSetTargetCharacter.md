@@ -1,5 +1,4 @@
 ## Server Set Target Character
-Server Set Target Character
 ![[../img/nd_img_ServerSetTargetCharacter.png]]
 
 |Inputs||

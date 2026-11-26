@@ -1,5 +1,4 @@
 ## Stop Exec File
-Stop Exec File
 ![[../img/nd_img_StopExecFile.png]]
 
 |Inputs||

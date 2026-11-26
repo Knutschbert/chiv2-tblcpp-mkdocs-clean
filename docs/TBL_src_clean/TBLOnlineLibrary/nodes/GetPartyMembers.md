@@ -1,5 +1,4 @@
 ## Get Party Members
-Get Party Members
 ![[../img/nd_img_GetPartyMembers.png]]
 
 |Inputs||

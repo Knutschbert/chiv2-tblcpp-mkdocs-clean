@@ -1,5 +1,4 @@
 ## Is Default Value
-Is Default Value
 ![[../img/nd_img_IsDefaultValue.png]]
 
 |Inputs||

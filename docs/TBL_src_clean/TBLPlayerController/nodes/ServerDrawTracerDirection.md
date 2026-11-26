@@ -1,5 +1,4 @@
 ## Server Draw Tracer Direction
-Server Draw Tracer Direction
 ![[../img/nd_img_ServerDrawTracerDirection.png]]
 
 |Inputs||

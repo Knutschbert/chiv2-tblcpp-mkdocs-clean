@@ -1,5 +1,4 @@
 ## Anim Notify Weapon Attach
-Anim Notify Weapon Attach
 ![[../img/nd_img_AnimNotify_WeaponAttach.png]]
 
 |Inputs||

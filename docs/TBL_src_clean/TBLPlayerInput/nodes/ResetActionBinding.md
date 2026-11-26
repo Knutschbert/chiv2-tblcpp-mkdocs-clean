@@ -1,5 +1,4 @@
 ## Reset Action Binding
-Reset Action Binding
 ![[../img/nd_img_ResetActionBinding.png]]
 
 |Inputs||

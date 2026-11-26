@@ -1,5 +1,4 @@
 ## Reset Character Post Process MID
-Reset Character Post Process MID
 ![[../img/nd_img_ResetCharacterPostProcessMID.png]]
 
 |Inputs||

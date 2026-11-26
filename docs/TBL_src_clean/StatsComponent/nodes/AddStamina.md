@@ -1,5 +1,4 @@
 ## Add Stamina
-Add Stamina
 ![[../img/nd_img_AddStamina.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Dodge
-Dodge
 ![[../img/nd_img_Dodge.png]]
 
 |Inputs||

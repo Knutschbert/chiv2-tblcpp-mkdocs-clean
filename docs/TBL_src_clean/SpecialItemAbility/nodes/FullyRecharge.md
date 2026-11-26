@@ -1,5 +1,4 @@
 ## Fully Recharge
-Fully Recharge
 ![[../img/nd_img_FullyRecharge.png]]
 
 |Inputs||

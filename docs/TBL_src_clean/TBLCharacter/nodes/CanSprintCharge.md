@@ -1,5 +1,4 @@
 ## Can Sprint Charge
-Can Sprint Charge
 ![[../img/nd_img_CanSprintCharge.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Notifications
-Update Notifications
 ![[../img/nd_img_UpdateNotifications.png]]
 
 |Inputs||

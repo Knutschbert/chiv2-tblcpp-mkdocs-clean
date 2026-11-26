@@ -1,5 +1,4 @@
 ## Anim Notify End Weapon Tracers
-Anim Notify End Weapon Tracers
 ![[../img/nd_img_AnimNotify_EndWeaponTracers.png]]
 
 |Inputs||

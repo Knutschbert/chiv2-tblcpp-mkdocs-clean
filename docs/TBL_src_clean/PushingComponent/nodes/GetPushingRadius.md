@@ -1,5 +1,4 @@
 ## Get Pushing Radius
-Get Pushing Radius
 ![[../img/nd_img_GetPushingRadius.png]]
 
 |Inputs||

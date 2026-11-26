@@ -1,5 +1,4 @@
 ## Last Join Failed
-Last Join Failed
 ![[../img/nd_img_LastJoinFailed.png]]
 
 |Inputs||

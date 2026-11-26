@@ -1,5 +1,4 @@
 ## On Initialized
-On Initialized
 ![[../img/nd_img_OnInitialized.png]]
 
 |Inputs||

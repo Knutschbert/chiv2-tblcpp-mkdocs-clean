@@ -1,5 +1,4 @@
 ## Get Queued Input
-Get Queued Input
 ![[../img/nd_img_GetQueuedInput.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Input Turn
-Get Input Turn
 ![[../img/nd_img_GetInputTurn.png]]
 
 |Inputs||

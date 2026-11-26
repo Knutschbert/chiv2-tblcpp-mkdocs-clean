@@ -1,5 +1,4 @@
 ## Get Animation Set from Data
-Get Animation Set from Data
 ![[../img/nd_img_GetAnimationSetFromData.png]]
 
 |Inputs||

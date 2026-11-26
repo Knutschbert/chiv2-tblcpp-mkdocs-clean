@@ -1,5 +1,4 @@
 ## On Interactable Enabled
-On Interactable Enabled
 ![[../img/nd_img_OnInteractableEnabled.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Copy Info
-Copy Info
 ![[../img/nd_img_CopyInfo.png]]
 
 |Inputs||

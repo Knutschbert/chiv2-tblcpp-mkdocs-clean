@@ -1,5 +1,4 @@
 ## Get Parameters and Morph Targets to Apply
-Get Parameters and Morph Targets to Apply
 ![[../img/nd_img_GetParametersAndMorphTargetsToApply.png]]
 
 |Inputs||

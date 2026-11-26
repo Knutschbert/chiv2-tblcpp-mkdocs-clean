@@ -1,5 +1,4 @@
 ## Get All Axis Key Mappings
-Get All Axis Key Mappings
 ![[../img/nd_img_GetAllAxisKeyMappings.png]]
 
 |Inputs||

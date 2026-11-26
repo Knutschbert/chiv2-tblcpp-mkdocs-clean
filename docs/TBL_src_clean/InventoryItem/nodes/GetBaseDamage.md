@@ -1,5 +1,4 @@
 ## Get Base Damage
-Get Base Damage
 ![[../img/nd_img_GetBaseDamage.png]]
 
 |Inputs||

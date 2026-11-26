@@ -1,5 +1,4 @@
 ## On Inventory Item Damaged
-On Inventory Item Damaged
 ![[../img/nd_img_OnInventoryItemDamaged.png]]
 
 |Inputs||

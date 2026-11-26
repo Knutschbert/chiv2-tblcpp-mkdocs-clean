@@ -1,5 +1,4 @@
 ## Apply Filter
-Apply Filter
 ![[../img/nd_img_ApplyFilter.png]]
 
 |Inputs||

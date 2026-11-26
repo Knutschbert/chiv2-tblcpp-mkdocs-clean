@@ -1,5 +1,4 @@
 ## Filter Customization Assets
-Filter Customization Assets
 ![[../img/nd_img_FilterCustomizationAssets.png]]
 
 |Inputs||

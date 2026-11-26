@@ -1,5 +1,4 @@
 ## Server Reset Party Id
-Server Reset Party Id
 ![[../img/nd_img_ServerResetPartyId.png]]
 
 |Inputs||

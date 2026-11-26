@@ -1,5 +1,4 @@
 ## TBLSet Equipped Items on Fire
-TBLSet Equipped Items on Fire
 ![[../img/nd_img_TBLSetEquippedItemsOnFire.png]]
 
 |Inputs||

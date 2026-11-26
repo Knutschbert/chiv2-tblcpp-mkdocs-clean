@@ -1,5 +1,4 @@
 ## Get TBLLevel Script Actor
-Get TBLLevel Script Actor
 ![[../img/nd_img_GetTBLLevelScriptActor.png]]
 
 |Inputs||

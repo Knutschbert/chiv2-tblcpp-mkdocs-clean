@@ -1,5 +1,4 @@
 ## Queue Feint
-Queue Feint
 ![[../img/nd_img_QueueFeint.png]]
 
 |Inputs||

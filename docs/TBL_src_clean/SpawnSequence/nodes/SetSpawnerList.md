@@ -1,5 +1,4 @@
 ## Set Spawner List
-Set Spawner List
 ![[../img/nd_img_SetSpawnerList.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Class Limits
-On Rep Class Limits
 ![[../img/nd_img_OnRep_ClassLimits.png]]
 
 |Inputs||

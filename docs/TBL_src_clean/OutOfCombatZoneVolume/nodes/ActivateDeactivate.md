@@ -1,5 +1,4 @@
 ## Activate Deactivate
-Activate Deactivate
 ![[../img/nd_img_ActivateDeactivate.png]]
 
 |Inputs||

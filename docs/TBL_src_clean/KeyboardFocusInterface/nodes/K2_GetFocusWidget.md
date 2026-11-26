@@ -1,5 +1,4 @@
 ## K2 Get Focus Widget
-K2 Get Focus Widget
 ![[../img/nd_img_K2_GetFocusWidget.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Characters from Factions
-Get Characters from Factions
 ![[../img/nd_img_GetCharactersFromFactions.png]]
 
 |Inputs||

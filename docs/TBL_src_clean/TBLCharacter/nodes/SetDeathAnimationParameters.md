@@ -1,5 +1,4 @@
 ## Set Death Animation Parameters
-Set Death Animation Parameters
 ![[../img/nd_img_SetDeathAnimationParameters.png]]
 
 |Inputs||

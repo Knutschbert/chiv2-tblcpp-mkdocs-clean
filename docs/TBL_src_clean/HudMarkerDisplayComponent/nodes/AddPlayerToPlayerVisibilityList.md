@@ -1,5 +1,4 @@
 ## Add Player to Player Visibility List
-Add Player to Player Visibility List
 ![[../img/nd_img_AddPlayerToPlayerVisibilityList.png]]
 
 |Inputs||

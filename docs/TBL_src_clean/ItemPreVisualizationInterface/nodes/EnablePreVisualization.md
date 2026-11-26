@@ -1,5 +1,4 @@
 ## Enable Pre Visualization
-Enable Pre Visualization
 ![[../img/nd_img_EnablePreVisualization.png]]
 
 |Inputs||

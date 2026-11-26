@@ -1,5 +1,4 @@
 ## Is Merged Mesh
-Is Merged Mesh
 ![[../img/nd_img_IsMergedMesh.png]]
 
 |Inputs||

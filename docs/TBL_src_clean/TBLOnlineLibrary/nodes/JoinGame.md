@@ -1,5 +1,4 @@
 ## Join Game
-Join Game
 ![[../img/nd_img_JoinGame.png]]
 
 |Inputs||

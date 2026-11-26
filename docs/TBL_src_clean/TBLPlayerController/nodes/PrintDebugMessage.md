@@ -1,5 +1,4 @@
 ## Print Debug Message
-Print Debug Message
 ![[../img/nd_img_PrintDebugMessage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Toggle Ghost Camera Mode
-Toggle Ghost Camera Mode
 ![[../img/nd_img_ToggleGhostCameraMode.png]]
 
 |Inputs||

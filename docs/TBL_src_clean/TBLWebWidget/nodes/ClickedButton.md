@@ -1,5 +1,4 @@
 ## Clicked Button
-Clicked Button
 ![[../img/nd_img_ClickedButton.png]]
 
 |Inputs||

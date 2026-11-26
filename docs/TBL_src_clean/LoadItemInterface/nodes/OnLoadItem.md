@@ -1,5 +1,4 @@
 ## On Load Item
-On Load Item
 ![[../img/nd_img_OnLoadItem.png]]
 
 |Inputs||

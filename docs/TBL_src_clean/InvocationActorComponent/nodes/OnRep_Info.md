@@ -1,5 +1,4 @@
 ## On Rep Info
-On Rep Info
 ![[../img/nd_img_OnRep_Info.png]]
 
 |Inputs||

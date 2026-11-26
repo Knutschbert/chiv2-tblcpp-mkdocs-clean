@@ -1,5 +1,4 @@
 ## Start Hold Attack
-Start Hold Attack
 ![[../img/nd_img_StartHoldAttack.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Browse to Url
-Browse to Url
 ![[../img/nd_img_BrowseToUrl.png]]
 
 |Inputs||

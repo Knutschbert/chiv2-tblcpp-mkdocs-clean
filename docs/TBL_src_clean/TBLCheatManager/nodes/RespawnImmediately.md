@@ -1,5 +1,4 @@
 ## Respawn Immediately
-Respawn Immediately
 ![[../img/nd_img_RespawnImmediately.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Play Ladder Animation
-Server Play Ladder Animation
 ![[../img/nd_img_ServerPlayLadderAnimation.png]]
 
 |Inputs||

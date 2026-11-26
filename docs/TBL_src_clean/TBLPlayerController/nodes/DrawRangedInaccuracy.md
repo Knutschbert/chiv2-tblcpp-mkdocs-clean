@@ -1,5 +1,4 @@
 ## Draw Ranged Inaccuracy
-Draw Ranged Inaccuracy
 ![[../img/nd_img_DrawRangedInaccuracy.png]]
 
 |Inputs||

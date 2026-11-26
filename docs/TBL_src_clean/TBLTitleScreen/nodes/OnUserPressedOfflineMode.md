@@ -1,5 +1,4 @@
 ## On User Pressed Offline Mode
-On User Pressed Offline Mode
 ![[../img/nd_img_OnUserPressedOfflineMode.png]]
 
 |Inputs||

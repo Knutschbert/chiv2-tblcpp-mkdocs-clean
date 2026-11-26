@@ -1,5 +1,4 @@
 ## On Rep Objective State Text
-On Rep Objective State Text
 ![[../img/nd_img_OnRep_ObjectiveStateText.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Shuffle Loadout
-Shuffle Loadout
 ![[../img/nd_img_ShuffleLoadout.png]]
 
 |Inputs||

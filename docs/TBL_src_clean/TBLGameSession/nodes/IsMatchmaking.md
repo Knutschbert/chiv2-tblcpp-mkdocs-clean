@@ -1,5 +1,4 @@
 ## Is Matchmaking
-Is Matchmaking
 ![[../img/nd_img_IsMatchmaking.png]]
 
 |Inputs||

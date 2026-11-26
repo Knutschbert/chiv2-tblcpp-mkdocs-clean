@@ -1,5 +1,4 @@
 ## Draw Shield
-Draw Shield
 ![[../img/nd_img_DrawShield.png]]
 
 |Inputs||

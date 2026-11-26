@@ -1,5 +1,4 @@
 ## Event Damage No Interrupt
-Event Damage No Interrupt
 ![[../img/nd_img_EventDamageNoInterrupt.png]]
 
 |Inputs||

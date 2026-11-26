@@ -1,5 +1,4 @@
 ## Enemy on Combat State Begin
-Enemy on Combat State Begin
 ![[../img/nd_img_EnemyOnCombatStateBegin.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Epilogue Duration
-Get Epilogue Duration
 ![[../img/nd_img_GetEpilogueDuration.png]]
 
 |Inputs||

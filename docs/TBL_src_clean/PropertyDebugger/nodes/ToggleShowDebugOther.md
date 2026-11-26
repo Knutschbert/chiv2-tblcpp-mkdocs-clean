@@ -1,5 +1,4 @@
 ## Toggle Show Debug Other
-Toggle Show Debug Other
 ![[../img/nd_img_ToggleShowDebugOther.png]]
 
 |Inputs||

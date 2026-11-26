@@ -1,5 +1,4 @@
 ## Is Combo
-Is Combo
 ![[../img/nd_img_IsCombo.png]]
 
 |Inputs||

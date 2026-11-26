@@ -1,5 +1,4 @@
 ## On Character Mount
-On Character Mount
 ![[../img/nd_img_OnCharacterMount.png]]
 
 |Inputs||

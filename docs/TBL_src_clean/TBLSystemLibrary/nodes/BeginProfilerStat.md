@@ -1,5 +1,4 @@
 ## Begin Profiler Stat
-Begin Profiler Stat
 ![[../img/nd_img_BeginProfilerStat.png]]
 
 |Inputs||

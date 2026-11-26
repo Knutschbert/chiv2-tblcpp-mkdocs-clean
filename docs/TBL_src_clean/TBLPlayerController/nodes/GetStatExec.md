@@ -1,5 +1,4 @@
 ## Get Stat Exec
-Get Stat Exec
 ![[../img/nd_img_GetStatExec.png]]
 
 |Inputs||

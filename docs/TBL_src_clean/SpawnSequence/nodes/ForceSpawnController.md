@@ -1,5 +1,4 @@
 ## Force Spawn Controller
-Force Spawn Controller
 ![[../img/nd_img_ForceSpawnController.png]]
 
 |Inputs||

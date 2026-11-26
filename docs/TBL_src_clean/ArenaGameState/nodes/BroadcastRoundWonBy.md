@@ -1,5 +1,4 @@
 ## Broadcast Round Won By
-Broadcast Round Won By
 ![[../img/nd_img_BroadcastRoundWonBy.png]]
 
 |Inputs||

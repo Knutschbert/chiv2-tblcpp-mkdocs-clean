@@ -1,5 +1,4 @@
 ## On Update Material
-On Update Material
 ![[../img/nd_img_OnUpdateMaterial.png]]
 
 |Inputs||

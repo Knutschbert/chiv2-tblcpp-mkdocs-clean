@@ -1,5 +1,4 @@
 ## On Box Params Updated
-On Box Params Updated
 ![[../img/nd_img_OnBoxParamsUpdated.png]]
 
 |Inputs||

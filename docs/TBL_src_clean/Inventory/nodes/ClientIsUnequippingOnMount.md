@@ -1,5 +1,4 @@
 ## Client Is Unequipping on Mount
-Client Is Unequipping on Mount
 ![[../img/nd_img_ClientIsUnequippingOnMount.png]]
 
 |Inputs||

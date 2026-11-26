@@ -1,5 +1,4 @@
 ## Handle Matchmaking Cancelled
-Handle Matchmaking Cancelled
 ![[../img/nd_img_HandleMatchmakingCancelled.png]]
 
 |Inputs||

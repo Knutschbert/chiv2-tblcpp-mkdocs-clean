@@ -1,5 +1,4 @@
 ## Set Foreground Color
-Set Foreground Color
 ![[../img/nd_img_SetForegroundColor.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Impact Max Speed
-Impact Max Speed
 ![[../img/nd_img_ImpactMaxSpeed.png]]
 
 |Inputs||

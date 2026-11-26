@@ -1,5 +1,4 @@
 ## Crosshair Out Of Combat Warning
-Crosshair Out Of Combat Warning
 ![[../img/nd_img_CrosshairOutOfCombatWarning.png]]
 
 |Inputs||

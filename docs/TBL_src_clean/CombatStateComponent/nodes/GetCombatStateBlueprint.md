@@ -1,5 +1,4 @@
 ## Get Combat State Blueprint
-Get Combat State Blueprint
 ![[../img/nd_img_GetCombatStateBlueprint.png]]
 
 |Inputs||

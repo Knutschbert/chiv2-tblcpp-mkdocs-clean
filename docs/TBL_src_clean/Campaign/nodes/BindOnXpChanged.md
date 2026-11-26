@@ -1,5 +1,4 @@
 ## Bind on Xp Changed
-Bind on Xp Changed
 ![[../img/nd_img_BindOnXpChanged.png]]
 
 |Inputs||

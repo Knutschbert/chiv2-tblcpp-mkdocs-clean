@@ -1,5 +1,4 @@
 ## Knockoff Helmet
-Knockoff Helmet
 ![[../img/nd_img_KnockoffHelmet.png]]
 
 |Inputs||

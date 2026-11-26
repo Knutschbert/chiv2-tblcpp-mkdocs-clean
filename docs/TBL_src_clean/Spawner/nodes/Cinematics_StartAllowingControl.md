@@ -1,5 +1,4 @@
 ## Cinematics Start Allowing Control
-Cinematics Start Allowing Control
 ![[../img/nd_img_Cinematics_StartAllowingControl.png]]
 
 |Inputs||

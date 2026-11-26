@@ -1,5 +1,4 @@
 ## Has Motd
-Has Motd
 ![[../img/nd_img_HasMotd.png]]
 
 |Inputs||

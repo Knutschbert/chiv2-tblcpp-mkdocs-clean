@@ -1,5 +1,4 @@
 ## Is Post Match
-Is Post Match
 ![[../img/nd_img_IsPostMatch.png]]
 
 |Inputs||

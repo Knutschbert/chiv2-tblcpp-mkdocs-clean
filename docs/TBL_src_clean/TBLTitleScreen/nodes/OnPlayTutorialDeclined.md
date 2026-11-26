@@ -1,5 +1,4 @@
 ## On Play Tutorial Declined
-On Play Tutorial Declined
 ![[../img/nd_img_OnPlayTutorialDeclined.png]]
 
 |Inputs||

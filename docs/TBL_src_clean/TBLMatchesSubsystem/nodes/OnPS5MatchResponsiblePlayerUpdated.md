@@ -1,5 +1,4 @@
 ## On PS5Match Responsible Player Updated
-On PS5Match Responsible Player Updated
 ![[../img/nd_img_OnPS5MatchResponsiblePlayerUpdated.png]]
 
 |Inputs||

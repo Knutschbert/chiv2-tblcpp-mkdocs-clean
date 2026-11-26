@@ -1,5 +1,4 @@
 ## Server Set Fire Source
-Server Set Fire Source
 ![[../img/nd_img_ServerSetFireSource.png]]
 
 |Inputs||

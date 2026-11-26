@@ -1,5 +1,4 @@
 ## Can Mount Actors
-Can Mount Actors
 ![[../img/nd_img_CanMountActors.png]]
 
 |Inputs||

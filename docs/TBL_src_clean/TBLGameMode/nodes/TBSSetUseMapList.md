@@ -1,5 +1,4 @@
 ## TBSSet Use Map List
-TBSSet Use Map List
 ![[../img/nd_img_TBSSetUseMapList.png]]
 
 |Inputs||

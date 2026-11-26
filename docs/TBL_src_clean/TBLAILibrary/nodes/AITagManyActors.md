@@ -1,5 +1,4 @@
 ## AITag Many Actors
-AITag Many Actors
 ![[../img/nd_img_AITagManyActors.png]]
 
 |Inputs||

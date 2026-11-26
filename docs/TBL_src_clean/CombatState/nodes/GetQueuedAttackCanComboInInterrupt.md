@@ -1,5 +1,4 @@
 ## Get Queued Attack Can Combo in Interrupt
-Get Queued Attack Can Combo in Interrupt
 ![[../img/nd_img_GetQueuedAttackCanComboInInterrupt.png]]
 
 |Inputs||

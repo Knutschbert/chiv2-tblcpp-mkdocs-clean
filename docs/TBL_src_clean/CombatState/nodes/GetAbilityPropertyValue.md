@@ -1,5 +1,4 @@
 ## Get Ability Property Value
-Get Ability Property Value
 ![[../img/nd_img_GetAbilityPropertyValue.png]]
 
 |Inputs||

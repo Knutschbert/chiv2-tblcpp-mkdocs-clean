@@ -1,5 +1,4 @@
 ## Handle Filter Text
-Handle Filter Text
 ![[../img/nd_img_HandleFilterText.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Show Free Weekend Upsell
-Show Free Weekend Upsell
 ![[../img/nd_img_ShowFreeWeekendUpsell.png]]
 
 |Inputs||

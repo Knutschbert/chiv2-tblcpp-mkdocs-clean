@@ -1,5 +1,4 @@
 ## List Recents
-List Recents
 ![[../img/nd_img_ListRecents.png]]
 
 |Inputs||

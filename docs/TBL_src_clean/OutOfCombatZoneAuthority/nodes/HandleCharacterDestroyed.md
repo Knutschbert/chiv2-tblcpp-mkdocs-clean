@@ -1,5 +1,4 @@
 ## Handle Character Destroyed
-Handle Character Destroyed
 ![[../img/nd_img_HandleCharacterDestroyed.png]]
 
 |Inputs||

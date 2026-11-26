@@ -1,5 +1,4 @@
 ## Set Alt Attack with Movement
-Set Alt Attack with Movement
 ![[../img/nd_img_SetAltAttackWithMovement.png]]
 
 |Inputs||

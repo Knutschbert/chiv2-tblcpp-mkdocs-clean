@@ -1,5 +1,4 @@
 ## Server Reject Spawn Wave
-Server Reject Spawn Wave
 ![[../img/nd_img_ServerRejectSpawnWave.png]]
 
 |Inputs||

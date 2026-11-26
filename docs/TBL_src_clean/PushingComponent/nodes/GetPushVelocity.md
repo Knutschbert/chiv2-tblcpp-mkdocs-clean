@@ -1,5 +1,4 @@
 ## Get Push Velocity
-Get Push Velocity
 ![[../img/nd_img_GetPushVelocity.png]]
 
 |Inputs||

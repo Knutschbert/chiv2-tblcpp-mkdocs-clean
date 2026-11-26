@@ -1,5 +1,4 @@
 ## Mount Ladder
-Mount Ladder
 ![[../img/nd_img_MountLadder.png]]
 
 |Inputs||

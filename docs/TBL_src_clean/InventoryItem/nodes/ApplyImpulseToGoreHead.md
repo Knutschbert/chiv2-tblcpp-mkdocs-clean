@@ -1,5 +1,4 @@
 ## Apply Impulse to Gore Head
-Apply Impulse to Gore Head
 ![[../img/nd_img_ApplyImpulseToGoreHead.png]]
 
 |Inputs||

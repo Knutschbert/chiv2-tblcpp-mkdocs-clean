@@ -1,5 +1,4 @@
 ## Get Difficulty
-Get Difficulty
 ![[../img/nd_img_GetDifficulty.png]]
 
 |Inputs||

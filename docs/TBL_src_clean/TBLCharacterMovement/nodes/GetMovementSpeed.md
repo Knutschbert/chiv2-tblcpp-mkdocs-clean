@@ -1,5 +1,4 @@
 ## Get Movement Speed
-Get Movement Speed
 ![[../img/nd_img_GetMovementSpeed.png]]
 
 |Inputs||

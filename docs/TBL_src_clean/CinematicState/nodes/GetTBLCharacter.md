@@ -1,5 +1,4 @@
 ## Get TBLCharacter
-Get TBLCharacter
 ![[../img/nd_img_GetTBLCharacter.png]]
 
 |Inputs||

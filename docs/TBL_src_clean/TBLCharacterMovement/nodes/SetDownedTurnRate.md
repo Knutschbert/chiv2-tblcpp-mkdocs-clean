@@ -1,5 +1,4 @@
 ## Set Downed Turn Rate
-Set Downed Turn Rate
 ![[../img/nd_img_SetDownedTurnRate.png]]
 
 |Inputs||

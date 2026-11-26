@@ -1,5 +1,4 @@
 ## Get TDMOptions
-Get TDMOptions
 ![[../img/nd_img_GetTDMOptions.png]]
 
 |Inputs||

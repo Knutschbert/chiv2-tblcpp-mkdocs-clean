@@ -1,5 +1,4 @@
 ## Logout
-Logout
 ![[../img/nd_img_Logout.png]]
 
 |Inputs||

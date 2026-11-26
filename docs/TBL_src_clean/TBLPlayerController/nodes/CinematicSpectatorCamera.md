@@ -1,5 +1,4 @@
 ## Cinematic Spectator Camera
-Cinematic Spectator Camera
 ![[../img/nd_img_CinematicSpectatorCamera.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Spawn Montage
-Get Spawn Montage
 ![[../img/nd_img_GetSpawnMontage.png]]
 
 |Inputs||

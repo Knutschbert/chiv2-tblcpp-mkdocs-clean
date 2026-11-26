@@ -1,5 +1,4 @@
 ## Downed Sprint Start
-Downed Sprint Start
 ![[../img/nd_img_DownedSprintStart.png]]
 
 |Inputs||

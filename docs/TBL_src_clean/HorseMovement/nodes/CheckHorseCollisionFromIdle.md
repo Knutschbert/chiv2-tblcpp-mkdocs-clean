@@ -1,5 +1,4 @@
 ## Check Horse Collision from Idle
-Check Horse Collision from Idle
 ![[../img/nd_img_CheckHorseCollisionFromIdle.png]]
 
 |Inputs||

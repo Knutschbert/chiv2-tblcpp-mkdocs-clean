@@ -1,5 +1,4 @@
 ## Get HUDMarker Location
-Get HUDMarker Location
 ![[../img/nd_img_GetHUDMarkerLocation.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Report Player
-Report Player
 ![[../img/nd_img_ReportPlayer.png]]
 
 |Inputs||

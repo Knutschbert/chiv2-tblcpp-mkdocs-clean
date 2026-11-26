@@ -1,5 +1,4 @@
 ## Get Text from Namespace
-Get Text from Namespace
 ![[../img/nd_img_GetTextFromNamespace.png]]
 
 |Inputs||

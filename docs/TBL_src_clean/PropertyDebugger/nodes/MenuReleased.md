@@ -1,5 +1,4 @@
 ## Menu Released
-Menu Released
 ![[../img/nd_img_MenuReleased.png]]
 
 |Inputs||

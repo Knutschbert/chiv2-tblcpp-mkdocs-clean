@@ -1,5 +1,4 @@
 ## Sort Player State Array by Player Score
-Sort Player State Array by Player Score
 ![[../img/nd_img_SortPlayerStateArrayByPlayerScore.png]]
 
 |Inputs||

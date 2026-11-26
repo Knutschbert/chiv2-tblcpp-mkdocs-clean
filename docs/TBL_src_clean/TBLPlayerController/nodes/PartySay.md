@@ -1,5 +1,4 @@
 ## Party Say
-Party Say
 ![[../img/nd_img_PartySay.png]]
 
 |Inputs||

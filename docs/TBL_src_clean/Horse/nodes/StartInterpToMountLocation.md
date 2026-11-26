@@ -1,5 +1,4 @@
 ## Start Interp to Mount Location
-Start Interp to Mount Location
 ![[../img/nd_img_StartInterpToMountLocation.png]]
 
 |Inputs||

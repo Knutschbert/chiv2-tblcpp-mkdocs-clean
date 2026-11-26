@@ -1,5 +1,4 @@
 ## Override Sequencer Animation
-Override Sequencer Animation
 ![[../img/nd_img_OverrideSequencerAnimation.png]]
 
 |Inputs||

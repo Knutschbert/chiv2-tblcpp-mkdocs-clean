@@ -1,5 +1,4 @@
 ## Handle Hit Character
-Handle Hit Character
 ![[../img/nd_img_HandleHitCharacter.png]]
 
 |Inputs||

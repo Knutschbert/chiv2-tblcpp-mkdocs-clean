@@ -1,5 +1,4 @@
 ## Is Matchmaking Queue Selected
-Is Matchmaking Queue Selected
 ![[../img/nd_img_IsMatchmakingQueueSelected.png]]
 
 |Inputs||

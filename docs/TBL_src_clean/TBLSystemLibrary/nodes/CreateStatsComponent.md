@@ -1,5 +1,4 @@
 ## Create Stats Component
-Create Stats Component
 ![[../img/nd_img_CreateStatsComponent.png]]
 
 |Inputs||

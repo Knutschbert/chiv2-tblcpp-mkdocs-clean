@@ -1,5 +1,4 @@
 ## Save Hit Actor
-Save Hit Actor
 ![[../img/nd_img_SaveHitActor.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Spawner Score
-Get Spawner Score
 ![[../img/nd_img_GetSpawnerScore.png]]
 
 |Inputs||

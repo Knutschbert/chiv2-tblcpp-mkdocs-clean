@@ -1,5 +1,4 @@
 ## On Ammo Initialize
-On Ammo Initialize
 ![[../img/nd_img_OnAmmoInitialize.png]]
 
 |Inputs||

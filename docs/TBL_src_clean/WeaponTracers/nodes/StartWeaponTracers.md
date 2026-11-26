@@ -1,5 +1,4 @@
 ## Start Weapon Tracers
-Start Weapon Tracers
 ![[../img/nd_img_StartWeaponTracers.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Set Customization Swatches
-Client Set Customization Swatches
 ![[../img/nd_img_ClientSetCustomizationSwatches.png]]
 
 |Inputs||

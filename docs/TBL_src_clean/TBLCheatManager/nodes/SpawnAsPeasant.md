@@ -1,5 +1,4 @@
 ## Spawn as Peasant
-Spawn as Peasant
 ![[../img/nd_img_SpawnAsPeasant.png]]
 
 |Inputs||

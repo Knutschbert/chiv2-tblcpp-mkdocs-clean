@@ -1,5 +1,4 @@
 ## Is Done or Can Interrupt
-Is Done or Can Interrupt
 ![[../img/nd_img_IsDoneOrCanInterrupt.png]]
 
 |Inputs||

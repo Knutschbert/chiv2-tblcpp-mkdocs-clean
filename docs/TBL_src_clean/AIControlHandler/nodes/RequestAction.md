@@ -1,5 +1,4 @@
 ## Request Action
-Request Action
 ![[../img/nd_img_RequestAction.png]]
 
 |Inputs||

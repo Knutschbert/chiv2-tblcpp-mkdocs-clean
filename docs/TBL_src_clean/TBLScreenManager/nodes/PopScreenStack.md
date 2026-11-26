@@ -1,5 +1,4 @@
 ## Pop Screen Stack
-Pop Screen Stack
 ![[../img/nd_img_PopScreenStack.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Merged Material
-Is Merged Material
 ![[../img/nd_img_IsMergedMaterial.png]]
 
 |Inputs||

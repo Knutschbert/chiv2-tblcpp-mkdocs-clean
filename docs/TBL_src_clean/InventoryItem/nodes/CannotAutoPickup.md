@@ -1,5 +1,4 @@
 ## Cannot Auto Pickup
-Cannot Auto Pickup
 ![[../img/nd_img_CannotAutoPickup.png]]
 
 |Inputs||

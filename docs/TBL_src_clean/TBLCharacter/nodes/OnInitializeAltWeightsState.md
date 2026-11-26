@@ -1,5 +1,4 @@
 ## On Initialize Alt Weights State
-On Initialize Alt Weights State
 ![[../img/nd_img_OnInitializeAltWeightsState.png]]
 
 |Inputs||

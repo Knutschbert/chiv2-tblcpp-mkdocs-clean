@@ -1,5 +1,4 @@
 ## Mark Finished
-Mark Finished
 ![[../img/nd_img_MarkFinished.png]]
 
 |Inputs||

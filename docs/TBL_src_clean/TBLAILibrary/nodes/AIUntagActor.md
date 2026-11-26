@@ -1,5 +1,4 @@
 ## AIUntag Actor
-AIUntag Actor
 ![[../img/nd_img_AIUntagActor.png]]
 
 |Inputs||

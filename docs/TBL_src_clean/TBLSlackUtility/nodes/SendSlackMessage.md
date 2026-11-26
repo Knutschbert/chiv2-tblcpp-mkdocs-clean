@@ -1,5 +1,4 @@
 ## Send Slack Message
-Send Slack Message
 ![[../img/nd_img_SendSlackMessage.png]]
 
 |Inputs||

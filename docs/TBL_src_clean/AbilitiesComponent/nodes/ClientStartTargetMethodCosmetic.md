@@ -1,5 +1,4 @@
 ## Client Start Target Method Cosmetic
-Client Start Target Method Cosmetic
 ![[../img/nd_img_ClientStartTargetMethodCosmetic.png]]
 
 |Inputs||

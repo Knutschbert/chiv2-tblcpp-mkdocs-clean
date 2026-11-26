@@ -1,5 +1,4 @@
 ## Set Loadout
-Set Loadout
 ![[../img/nd_img_SetLoadout.png]]
 
 |Inputs||

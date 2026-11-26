@@ -1,5 +1,4 @@
 ## Apply Bonus
-Apply Bonus
 ![[../img/nd_img_ApplyBonus.png]]
 
 |Inputs||

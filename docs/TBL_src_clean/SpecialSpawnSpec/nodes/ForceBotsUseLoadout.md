@@ -1,5 +1,4 @@
 ## Force Bots Use Loadout
-Force Bots Use Loadout
 ![[../img/nd_img_ForceBotsUseLoadout.png]]
 
 |Inputs||

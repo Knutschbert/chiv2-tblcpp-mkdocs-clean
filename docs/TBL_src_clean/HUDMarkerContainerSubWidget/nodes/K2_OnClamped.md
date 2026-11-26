@@ -1,5 +1,4 @@
 ## K2 on Clamped
-K2 on Clamped
 ![[../img/nd_img_K2_OnClamped.png]]
 
 |Inputs||

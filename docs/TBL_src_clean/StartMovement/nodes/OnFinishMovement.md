@@ -1,5 +1,4 @@
 ## On Finish Movement
-On Finish Movement
 ![[../img/nd_img_OnFinishMovement.png]]
 
 |Inputs||

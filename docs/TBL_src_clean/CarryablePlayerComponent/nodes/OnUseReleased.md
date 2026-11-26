@@ -1,5 +1,4 @@
 ## On Use Released
-On Use Released
 ![[../img/nd_img_OnUseReleased.png]]
 
 |Inputs||

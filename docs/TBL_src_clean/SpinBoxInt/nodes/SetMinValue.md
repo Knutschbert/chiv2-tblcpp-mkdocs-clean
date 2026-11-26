@@ -1,5 +1,4 @@
 ## Set Min Value
-Set Min Value
 ![[../img/nd_img_SetMinValue.png]]
 
 |Inputs||

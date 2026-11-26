@@ -1,5 +1,4 @@
 ## Handle AIPossessed Pawn
-Handle AIPossessed Pawn
 ![[../img/nd_img_HandleAIPossessedPawn.png]]
 
 |Inputs||

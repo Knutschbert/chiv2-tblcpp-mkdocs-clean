@@ -1,5 +1,4 @@
 ## Get Equipped Item by Slot
-Get Equipped Item by Slot
 ![[../img/nd_img_GetEquippedItemBySlot.png]]
 
 |Inputs||

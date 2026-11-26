@@ -1,5 +1,4 @@
 ## On Reload Collision
-On Reload Collision
 ![[../img/nd_img_OnReloadCollision.png]]
 
 |Inputs||

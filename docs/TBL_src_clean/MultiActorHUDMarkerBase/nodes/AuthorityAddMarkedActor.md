@@ -1,5 +1,4 @@
 ## Authority Add Marked Actor
-Authority Add Marked Actor
 ![[../img/nd_img_AuthorityAddMarkedActor.png]]
 
 |Inputs||

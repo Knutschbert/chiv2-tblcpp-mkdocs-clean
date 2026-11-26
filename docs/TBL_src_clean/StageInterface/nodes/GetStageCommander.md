@@ -1,5 +1,4 @@
 ## Get Stage Commander
-Get Stage Commander
 ![[../img/nd_img_GetStageCommander.png]]
 
 |Inputs||

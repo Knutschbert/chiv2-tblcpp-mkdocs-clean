@@ -1,5 +1,4 @@
 ## Arrow Cam Pressed
-Arrow Cam Pressed
 ![[../img/nd_img_ArrowCamPressed.png]]
 
 |Inputs||

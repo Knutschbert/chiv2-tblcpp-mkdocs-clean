@@ -1,5 +1,4 @@
 ## On Mount Siege Engine
-On Mount Siege Engine
 ![[../img/nd_img_OnMountSiegeEngine.png]]
 
 |Inputs||

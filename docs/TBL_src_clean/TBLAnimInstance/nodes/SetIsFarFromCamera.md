@@ -1,5 +1,4 @@
 ## Set Is Far from Camera
-Set Is Far from Camera
 ![[../img/nd_img_SetIsFarFromCamera.png]]
 
 |Inputs||

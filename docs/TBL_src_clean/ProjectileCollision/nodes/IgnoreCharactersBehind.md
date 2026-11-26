@@ -1,5 +1,4 @@
 ## Ignore Characters Behind
-Ignore Characters Behind
 ![[../img/nd_img_IgnoreCharactersBehind.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Event on Camera Offset Begin
-Event on Camera Offset Begin
 ![[../img/nd_img_EventOnCameraOffsetBegin.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Play Button Animation
-Play Button Animation
 ![[../img/nd_img_PlayButtonAnimation.png]]
 
 |Inputs||

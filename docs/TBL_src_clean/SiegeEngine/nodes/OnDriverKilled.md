@@ -1,5 +1,4 @@
 ## On Driver Killed
-On Driver Killed
 ![[../img/nd_img_OnDriverKilled.png]]
 
 |Inputs||

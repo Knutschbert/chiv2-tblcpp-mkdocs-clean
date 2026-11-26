@@ -1,5 +1,4 @@
 ## Sync Server Initiate Ability
-Sync Server Initiate Ability
 ![[../img/nd_img_SyncServerInitiateAbility.png]]
 
 |Inputs||

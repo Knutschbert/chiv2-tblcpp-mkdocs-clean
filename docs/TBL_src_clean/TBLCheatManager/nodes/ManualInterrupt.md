@@ -1,5 +1,4 @@
 ## Manual Interrupt
-Manual Interrupt
 ![[../img/nd_img_ManualInterrupt.png]]
 
 |Inputs||

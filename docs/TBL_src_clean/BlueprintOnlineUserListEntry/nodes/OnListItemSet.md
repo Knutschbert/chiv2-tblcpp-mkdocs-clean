@@ -1,5 +1,4 @@
 ## On List Item Set
-On List Item Set
 ![[../img/nd_img_OnListItemSet.png]]
 
 |Inputs||

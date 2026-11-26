@@ -1,5 +1,4 @@
 ## Route on Analog Value Changed
-Route on Analog Value Changed
 ![[../img/nd_img_RouteOnAnalogValueChanged.png]]
 
 |Inputs||

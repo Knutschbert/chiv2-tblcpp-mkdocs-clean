@@ -1,5 +1,4 @@
 ## On Refresh Lists
-On Refresh Lists
 ![[../img/nd_img_OnRefreshLists.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Hold Attack Pressed
-Is Hold Attack Pressed
 ![[../img/nd_img_IsHoldAttackPressed.png]]
 
 |Inputs||

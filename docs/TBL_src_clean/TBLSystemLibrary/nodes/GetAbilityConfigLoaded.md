@@ -1,5 +1,4 @@
 ## Get Ability Config Loaded
-Get Ability Config Loaded
 ![[../img/nd_img_GetAbilityConfigLoaded.png]]
 
 |Inputs||

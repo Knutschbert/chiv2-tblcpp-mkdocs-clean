@@ -1,5 +1,4 @@
 ## Start Cleanup Timer
-Start Cleanup Timer
 ![[../img/nd_img_StartCleanupTimer.png]]
 
 |Inputs||

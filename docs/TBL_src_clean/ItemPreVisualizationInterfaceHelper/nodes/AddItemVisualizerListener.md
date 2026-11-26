@@ -1,5 +1,4 @@
 ## Add Item Visualizer Listener
-Add Item Visualizer Listener
 ![[../img/nd_img_AddItemVisualizerListener.png]]
 
 |Inputs||

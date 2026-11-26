@@ -1,5 +1,4 @@
 ## Set Ear Hidden
-Set Ear Hidden
 ![[../img/nd_img_SetEarHidden.png]]
 
 |Inputs||

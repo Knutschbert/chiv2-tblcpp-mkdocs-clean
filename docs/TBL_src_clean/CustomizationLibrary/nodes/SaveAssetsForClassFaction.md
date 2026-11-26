@@ -1,5 +1,4 @@
 ## Save Assets for Class Faction
-Save Assets for Class Faction
 ![[../img/nd_img_SaveAssetsForClassFaction.png]]
 
 |Inputs||

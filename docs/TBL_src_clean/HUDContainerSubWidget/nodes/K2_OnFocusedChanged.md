@@ -1,5 +1,4 @@
 ## K2 on Focused Changed
-K2 on Focused Changed
 ![[../img/nd_img_K2_OnFocusedChanged.png]]
 
 |Inputs||

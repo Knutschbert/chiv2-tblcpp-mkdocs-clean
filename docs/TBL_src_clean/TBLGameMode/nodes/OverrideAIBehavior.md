@@ -1,5 +1,4 @@
 ## Override AIBehavior
-Override AIBehavior
 ![[../img/nd_img_OverrideAIBehavior.png]]
 
 |Inputs||

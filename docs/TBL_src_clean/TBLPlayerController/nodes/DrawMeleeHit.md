@@ -1,5 +1,4 @@
 ## Draw Melee Hit
-Draw Melee Hit
 ![[../img/nd_img_DrawMeleeHit.png]]
 
 |Inputs||

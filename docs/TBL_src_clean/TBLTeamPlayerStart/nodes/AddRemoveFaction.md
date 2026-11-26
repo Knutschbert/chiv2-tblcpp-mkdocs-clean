@@ -1,5 +1,4 @@
 ## Add Remove Faction
-Add Remove Faction
 ![[../img/nd_img_AddRemoveFaction.png]]
 
 |Inputs||

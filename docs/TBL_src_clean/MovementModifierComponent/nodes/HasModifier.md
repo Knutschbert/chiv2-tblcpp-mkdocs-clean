@@ -1,5 +1,4 @@
 ## Has Modifier
-Has Modifier
 ![[../img/nd_img_HasModifier.png]]
 
 |Inputs||

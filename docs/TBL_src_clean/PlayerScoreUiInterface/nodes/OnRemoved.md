@@ -1,5 +1,4 @@
 ## On Removed
-On Removed
 ![[../img/nd_img_OnRemoved.png]]
 
 |Inputs||

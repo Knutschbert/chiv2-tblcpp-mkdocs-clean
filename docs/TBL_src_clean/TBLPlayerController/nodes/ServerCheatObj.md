@@ -1,5 +1,4 @@
 ## Server Cheat Obj
-Server Cheat Obj
 ![[../img/nd_img_ServerCheatObj.png]]
 
 |Inputs||

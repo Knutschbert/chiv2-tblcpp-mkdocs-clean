@@ -1,5 +1,4 @@
 ## Set Camera Shake Property
-Set Camera Shake Property
 ![[../img/nd_img_SetCameraShakeProperty.png]]
 
 |Inputs||

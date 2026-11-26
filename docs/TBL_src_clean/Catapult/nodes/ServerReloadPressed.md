@@ -1,5 +1,4 @@
 ## Server Reload Pressed
-Server Reload Pressed
 ![[../img/nd_img_ServerReloadPressed.png]]
 
 |Inputs||

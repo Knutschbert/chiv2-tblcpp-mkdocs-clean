@@ -1,5 +1,4 @@
 ## Initiate Kick
-Initiate Kick
 ![[../img/nd_img_InitiateKick.png]]
 
 |Inputs||

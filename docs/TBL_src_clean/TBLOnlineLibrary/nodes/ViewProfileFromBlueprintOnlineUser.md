@@ -1,5 +1,4 @@
 ## View Profile from Blueprint Online User
-View Profile from Blueprint Online User
 ![[../img/nd_img_ViewProfileFromBlueprintOnlineUser.png]]
 
 |Inputs||

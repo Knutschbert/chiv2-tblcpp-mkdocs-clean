@@ -1,5 +1,4 @@
 ## Receive Activate
-Receive Activate
 ![[../img/nd_img_ReceiveActivate.png]]
 
 |Inputs||

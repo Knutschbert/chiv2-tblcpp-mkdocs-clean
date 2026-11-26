@@ -1,5 +1,4 @@
 ## Get Max Speed
-Get Max Speed
 ![[../img/nd_img_GetMaxSpeed.png]]
 
 |Inputs||

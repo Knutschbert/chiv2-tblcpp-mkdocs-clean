@@ -1,5 +1,4 @@
 ## Crosshair Post Respawn Message
-Crosshair Post Respawn Message
 ![[../img/nd_img_CrosshairPostRespawnMessage.png]]
 
 |Inputs||

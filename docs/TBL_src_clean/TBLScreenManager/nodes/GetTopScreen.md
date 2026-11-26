@@ -1,5 +1,4 @@
 ## Get Top Screen
-Get Top Screen
 ![[../img/nd_img_GetTopScreen.png]]
 
 |Inputs||

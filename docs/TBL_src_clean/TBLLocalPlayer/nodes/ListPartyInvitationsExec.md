@@ -1,5 +1,4 @@
 ## List Party Invitations Exec
-List Party Invitations Exec
 ![[../img/nd_img_ListPartyInvitationsExec.png]]
 
 |Inputs||

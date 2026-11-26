@@ -1,5 +1,4 @@
 ## Dump Ownership
-Dump Ownership
 ![[../img/nd_img_DumpOwnership.png]]
 
 |Inputs||

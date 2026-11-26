@@ -1,5 +1,4 @@
 ## Handle Trap Event
-Handle Trap Event
 ![[../img/nd_img_HandleTrapEvent.png]]
 
 |Inputs||

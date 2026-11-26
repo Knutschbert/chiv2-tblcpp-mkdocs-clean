@@ -1,5 +1,4 @@
 ## Get Ammo Item
-Get Ammo Item
 ![[../img/nd_img_GetAmmoItem.png]]
 
 |Inputs||

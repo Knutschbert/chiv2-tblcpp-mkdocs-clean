@@ -1,5 +1,4 @@
 ## Event Mount Ladder
-Event Mount Ladder
 ![[../img/nd_img_EventMountLadder.png]]
 
 |Inputs||

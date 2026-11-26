@@ -1,5 +1,4 @@
 ## On Root Motion Changed
-On Root Motion Changed
 ![[../img/nd_img_OnRootMotionChanged.png]]
 
 |Inputs||

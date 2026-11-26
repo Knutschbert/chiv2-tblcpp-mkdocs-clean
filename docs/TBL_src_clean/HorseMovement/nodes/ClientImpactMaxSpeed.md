@@ -1,5 +1,4 @@
 ## Client Impact Max Speed
-Client Impact Max Speed
 ![[../img/nd_img_ClientImpactMaxSpeed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Stop Sound by Id
-Stop Sound by Id
 ![[../img/nd_img_StopSoundById.png]]
 
 |Inputs||

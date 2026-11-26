@@ -1,5 +1,4 @@
 ## Set Third Person Death Camera
-Set Third Person Death Camera
 ![[../img/nd_img_SetThirdPersonDeathCamera.png]]
 
 |Inputs||

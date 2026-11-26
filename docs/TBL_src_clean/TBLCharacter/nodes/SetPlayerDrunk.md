@@ -1,5 +1,4 @@
 ## Set Player Drunk
-Set Player Drunk
 ![[../img/nd_img_SetPlayerDrunk.png]]
 
 |Inputs||

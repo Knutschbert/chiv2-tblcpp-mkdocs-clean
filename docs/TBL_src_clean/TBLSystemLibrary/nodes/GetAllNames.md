@@ -1,5 +1,4 @@
 ## Get All Names
-Get All Names
 ![[../img/nd_img_GetAllNames.png]]
 
 |Inputs||

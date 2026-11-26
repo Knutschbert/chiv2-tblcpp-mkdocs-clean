@@ -1,5 +1,4 @@
 ## Set Current Music State
-Set Current Music State
 ![[../img/nd_img_SetCurrentMusicState.png]]
 
 |Inputs||

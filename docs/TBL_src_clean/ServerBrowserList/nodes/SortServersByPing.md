@@ -1,5 +1,4 @@
 ## Sort Servers by Ping
-Sort Servers by Ping
 ![[../img/nd_img_SortServersByPing.png]]
 
 |Inputs||

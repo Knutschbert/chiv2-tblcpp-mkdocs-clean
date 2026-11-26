@@ -1,5 +1,4 @@
 ## Get World Collision Legs
-Get World Collision Legs
 ![[../img/nd_img_GetWorldCollisionLegs.png]]
 
 |Inputs||

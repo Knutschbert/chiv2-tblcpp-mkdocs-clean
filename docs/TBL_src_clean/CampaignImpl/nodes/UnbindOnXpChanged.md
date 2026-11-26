@@ -1,5 +1,4 @@
 ## Unbind on Xp Changed
-Unbind on Xp Changed
 ![[../img/nd_img_UnbindOnXpChanged.png]]
 
 |Inputs||

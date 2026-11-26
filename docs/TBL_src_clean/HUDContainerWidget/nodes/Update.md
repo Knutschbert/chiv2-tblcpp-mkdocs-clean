@@ -1,5 +1,4 @@
 ## Update
-Update
 ![[../img/nd_img_Update.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Do Frame
-Do Frame
 ![[../img/nd_img_DoFrame.png]]
 
 |Inputs||

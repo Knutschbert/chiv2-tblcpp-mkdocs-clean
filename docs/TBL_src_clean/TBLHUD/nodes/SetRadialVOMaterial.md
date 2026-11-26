@@ -1,5 +1,4 @@
 ## Set Radial VOMaterial
-Set Radial VOMaterial
 ![[../img/nd_img_SetRadialVOMaterial.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Key Get Short Display Name
-Key Get Short Display Name
 ![[../img/nd_img_Key_GetShortDisplayName.png]]
 
 |Inputs||

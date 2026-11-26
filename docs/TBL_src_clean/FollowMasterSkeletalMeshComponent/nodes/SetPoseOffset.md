@@ -1,5 +1,4 @@
 ## Set Pose Offset
-Set Pose Offset
 ![[../img/nd_img_SetPoseOffset.png]]
 
 |Inputs||

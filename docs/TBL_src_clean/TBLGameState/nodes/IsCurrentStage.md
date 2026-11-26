@@ -1,5 +1,4 @@
 ## Is Current Stage
-Is Current Stage
 ![[../img/nd_img_IsCurrentStage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Reload Pressed
-On Reload Pressed
 ![[../img/nd_img_OnReloadPressed.png]]
 
 |Inputs||

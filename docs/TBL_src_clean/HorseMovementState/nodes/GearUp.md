@@ -1,5 +1,4 @@
 ## Gear Up
-Gear Up
 ![[../img/nd_img_GearUp.png]]
 
 |Inputs||

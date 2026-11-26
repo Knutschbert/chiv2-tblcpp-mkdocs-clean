@@ -1,5 +1,4 @@
 ## Update PS5Match Responsibility
-Update PS5Match Responsibility
 ![[../img/nd_img_UpdatePS5MatchResponsibility.png]]
 
 |Inputs||

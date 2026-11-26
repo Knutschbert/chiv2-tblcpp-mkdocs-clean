@@ -1,5 +1,4 @@
 ## Reset All Animations
-Reset All Animations
 ![[../img/nd_img_ResetAllAnimations.png]]
 
 |Inputs||

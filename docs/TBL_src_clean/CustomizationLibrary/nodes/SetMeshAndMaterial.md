@@ -1,5 +1,4 @@
 ## Set Mesh and Material
-Set Mesh and Material
 ![[../img/nd_img_SetMeshAndMaterial.png]]
 
 |Inputs||

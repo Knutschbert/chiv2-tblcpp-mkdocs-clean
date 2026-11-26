@@ -1,5 +1,4 @@
 ## Process Button Click
-Process Button Click
 ![[../img/nd_img_ProcessButtonClick.png]]
 
 |Inputs||

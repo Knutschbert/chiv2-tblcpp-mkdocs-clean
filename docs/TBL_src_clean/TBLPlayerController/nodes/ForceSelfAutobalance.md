@@ -1,5 +1,4 @@
 ## Force Self Autobalance
-Force Self Autobalance
 ![[../img/nd_img_ForceSelfAutobalance.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Debug Montage Instances
-Get Debug Montage Instances
 ![[../img/nd_img_GetDebugMontageInstances.png]]
 
 |Inputs||

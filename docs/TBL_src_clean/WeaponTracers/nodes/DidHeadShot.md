@@ -1,5 +1,4 @@
 ## Did Head Shot
-Did Head Shot
 ![[../img/nd_img_DidHeadShot.png]]
 
 |Inputs||

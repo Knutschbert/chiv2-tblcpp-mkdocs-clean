@@ -1,5 +1,4 @@
 ## Linear Color from Hsluv
-Linear Color from Hsluv
 ![[../img/nd_img_LinearColorFromHsluv.png]]
 
 |Inputs||

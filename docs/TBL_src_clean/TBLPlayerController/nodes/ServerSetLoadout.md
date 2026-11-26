@@ -1,5 +1,4 @@
 ## Server Set Loadout
-Server Set Loadout
 ![[../img/nd_img_ServerSetLoadout.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Start Action
-Start Action
 ![[../img/nd_img_StartAction.png]]
 
 |Inputs||

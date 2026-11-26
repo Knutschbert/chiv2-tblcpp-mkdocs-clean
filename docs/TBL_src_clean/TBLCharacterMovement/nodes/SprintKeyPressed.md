@@ -1,5 +1,4 @@
 ## Sprint Key Pressed
-Sprint Key Pressed
 ![[../img/nd_img_SprintKeyPressed.png]]
 
 |Inputs||

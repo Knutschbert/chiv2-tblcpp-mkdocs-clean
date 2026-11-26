@@ -1,5 +1,4 @@
 ## Set Only Allow Owning Player
-Set Only Allow Owning Player
 ![[../img/nd_img_SetOnlyAllowOwningPlayer.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Replicated Sprint Turn
-On Rep Replicated Sprint Turn
 ![[../img/nd_img_OnRep_ReplicatedSprintTurn.png]]
 
 |Inputs||

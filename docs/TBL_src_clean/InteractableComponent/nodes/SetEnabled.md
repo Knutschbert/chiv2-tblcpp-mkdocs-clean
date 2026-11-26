@@ -1,5 +1,4 @@
 ## Set Enabled
-Set Enabled
 ![[../img/nd_img_SetEnabled.png]]
 
 |Inputs||

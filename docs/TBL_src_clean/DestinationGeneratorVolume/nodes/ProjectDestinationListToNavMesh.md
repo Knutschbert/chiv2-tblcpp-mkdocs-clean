@@ -1,5 +1,4 @@
 ## Project Destination List to Nav Mesh
-Project Destination List to Nav Mesh
 ![[../img/nd_img_ProjectDestinationListToNavMesh.png]]
 
 |Inputs||

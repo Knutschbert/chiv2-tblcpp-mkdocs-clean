@@ -1,5 +1,4 @@
 ## Set Object for Item Load
-Set Object for Item Load
 ![[../img/nd_img_SetObjectForItemLoad.png]]
 
 |Inputs||

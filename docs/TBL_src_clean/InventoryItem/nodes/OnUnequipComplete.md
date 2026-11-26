@@ -1,5 +1,4 @@
 ## On Unequip Complete
-On Unequip Complete
 ![[../img/nd_img_OnUnequipComplete.png]]
 
 |Inputs||

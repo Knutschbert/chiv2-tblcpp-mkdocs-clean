@@ -1,5 +1,4 @@
 ## Get Hit Direction Name
-Get Hit Direction Name
 ![[../img/nd_img_GetHitDirectionName.png]]
 
 |Inputs||

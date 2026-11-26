@@ -1,5 +1,4 @@
 ## Add Timer Handle
-Add Timer Handle
 ![[../img/nd_img_AddTimerHandle.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Make Map Option
-Make Map Option
 ![[../img/nd_img_MakeMapOption.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Debug Set Base
-Server Debug Set Base
 ![[../img/nd_img_ServerDebugSetBase.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Player Capture Point Properties
-Set Player Capture Point Properties
 ![[../img/nd_img_SetPlayerCapturePointProperties.png]]
 
 |Inputs||

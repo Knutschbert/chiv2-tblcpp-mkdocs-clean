@@ -1,5 +1,4 @@
 ## Push Show Mouse Cursor Stack Suppressor
-Push Show Mouse Cursor Stack Suppressor
 ![[../img/nd_img_PushShowMouseCursorStackSuppressor.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Disable Ladder
-Disable Ladder
 ![[../img/nd_img_DisableLadder.png]]
 
 |Inputs||

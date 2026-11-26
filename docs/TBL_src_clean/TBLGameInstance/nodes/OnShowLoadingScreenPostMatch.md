@@ -1,5 +1,4 @@
 ## On Show Loading Screen Post Match
-On Show Loading Screen Post Match
 ![[../img/nd_img_OnShowLoadingScreenPostMatch.png]]
 
 |Inputs||

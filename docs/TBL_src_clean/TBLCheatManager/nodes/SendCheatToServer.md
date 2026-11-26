@@ -1,5 +1,4 @@
 ## Send Cheat to Server
-Send Cheat to Server
 ![[../img/nd_img_SendCheatToServer.png]]
 
 |Inputs||

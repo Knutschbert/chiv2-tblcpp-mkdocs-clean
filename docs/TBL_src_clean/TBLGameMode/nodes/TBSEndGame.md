@@ -1,5 +1,4 @@
 ## TBSEnd Game
-TBSEnd Game
 ![[../img/nd_img_TBSEndGame.png]]
 
 |Inputs||

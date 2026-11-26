@@ -1,5 +1,4 @@
 ## On Ready
-On Ready
 ![[../img/nd_img_OnReady.png]]
 
 |Inputs||

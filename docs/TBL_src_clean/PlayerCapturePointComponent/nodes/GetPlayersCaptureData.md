@@ -1,5 +1,4 @@
 ## Get Players Capture Data
-Get Players Capture Data
 ![[../img/nd_img_GetPlayersCaptureData.png]]
 
 |Inputs||

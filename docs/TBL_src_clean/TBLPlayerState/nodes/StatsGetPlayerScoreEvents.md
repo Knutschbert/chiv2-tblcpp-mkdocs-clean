@@ -1,5 +1,4 @@
 ## Stats Get Player Score Events
-Stats Get Player Score Events
 ![[../img/nd_img_StatsGetPlayerScoreEvents.png]]
 
 |Inputs||

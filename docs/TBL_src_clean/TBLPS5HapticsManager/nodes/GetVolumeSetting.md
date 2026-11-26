@@ -1,5 +1,4 @@
 ## Get Volume Setting
-Get Volume Setting
 ![[../img/nd_img_GetVolumeSetting.png]]
 
 |Inputs||

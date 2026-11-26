@@ -1,5 +1,4 @@
 ## On Rep Wave State
-On Rep Wave State
 ![[../img/nd_img_OnRep_WaveState.png]]
 
 |Inputs||

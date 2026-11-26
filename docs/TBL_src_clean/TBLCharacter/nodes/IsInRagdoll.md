@@ -1,5 +1,4 @@
 ## Is in Ragdoll
-Is in Ragdoll
 ![[../img/nd_img_IsInRagdoll.png]]
 
 |Inputs||

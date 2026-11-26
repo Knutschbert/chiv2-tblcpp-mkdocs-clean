@@ -1,5 +1,4 @@
 ## Play Equip Animation
-Play Equip Animation
 ![[../img/nd_img_PlayEquipAnimation.png]]
 
 |Inputs||

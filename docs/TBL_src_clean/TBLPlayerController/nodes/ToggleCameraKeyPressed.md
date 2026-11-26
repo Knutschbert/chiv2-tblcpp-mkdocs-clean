@@ -1,5 +1,4 @@
 ## Toggle Camera Key Pressed
-Toggle Camera Key Pressed
 ![[../img/nd_img_ToggleCameraKeyPressed.png]]
 
 |Inputs||

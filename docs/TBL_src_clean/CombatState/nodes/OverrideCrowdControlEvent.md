@@ -1,5 +1,4 @@
 ## Override Crowd Control Event
-Override Crowd Control Event
 ![[../img/nd_img_OverrideCrowdControlEvent.png]]
 
 |Inputs||

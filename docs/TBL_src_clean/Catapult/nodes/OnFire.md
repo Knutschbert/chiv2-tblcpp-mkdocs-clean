@@ -1,5 +1,4 @@
 ## On Fire
-On Fire
 ![[../img/nd_img_OnFire.png]]
 
 |Inputs||

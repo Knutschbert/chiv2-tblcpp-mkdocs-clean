@@ -1,5 +1,4 @@
 ## Set Texture Parameter Value on Materials
-Set Texture Parameter Value on Materials
 ![[../img/nd_img_SetTextureParameterValueOnMaterials.png]]
 
 |Inputs||

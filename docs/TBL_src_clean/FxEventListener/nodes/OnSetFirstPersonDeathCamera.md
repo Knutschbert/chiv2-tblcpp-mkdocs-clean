@@ -1,5 +1,4 @@
 ## On Set First Person Death Camera
-On Set First Person Death Camera
 ![[../img/nd_img_OnSetFirstPersonDeathCamera.png]]
 
 |Inputs||

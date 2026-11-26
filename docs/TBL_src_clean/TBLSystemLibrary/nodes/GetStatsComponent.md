@@ -1,5 +1,4 @@
 ## Get Stats Component
-Get Stats Component
 ![[../img/nd_img_GetStatsComponent.png]]
 
 |Inputs||

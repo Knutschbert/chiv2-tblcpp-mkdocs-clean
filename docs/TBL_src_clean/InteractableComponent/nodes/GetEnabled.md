@@ -1,5 +1,4 @@
 ## Get Enabled
-Get Enabled
 ![[../img/nd_img_GetEnabled.png]]
 
 |Inputs||

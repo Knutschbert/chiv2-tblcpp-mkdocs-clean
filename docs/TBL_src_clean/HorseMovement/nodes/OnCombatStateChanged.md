@@ -1,5 +1,4 @@
 ## On Combat State Changed
-On Combat State Changed
 ![[../img/nd_img_OnCombatStateChanged.png]]
 
 |Inputs||

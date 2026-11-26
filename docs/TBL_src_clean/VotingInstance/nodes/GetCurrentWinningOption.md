@@ -1,5 +1,4 @@
 ## Get Current Winning Option
-Get Current Winning Option
 ![[../img/nd_img_GetCurrentWinningOption.png]]
 
 |Inputs||

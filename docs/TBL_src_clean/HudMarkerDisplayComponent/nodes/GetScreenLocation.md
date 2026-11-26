@@ -1,5 +1,4 @@
 ## Get Screen Location
-Get Screen Location
 ![[../img/nd_img_GetScreenLocation.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Target Actor
-Set Target Actor
 ![[../img/nd_img_SetTargetActor.png]]
 
 |Inputs||

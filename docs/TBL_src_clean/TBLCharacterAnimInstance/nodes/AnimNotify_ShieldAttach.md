@@ -1,5 +1,4 @@
 ## Anim Notify Shield Attach
-Anim Notify Shield Attach
 ![[../img/nd_img_AnimNotify_ShieldAttach.png]]
 
 |Inputs||

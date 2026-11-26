@@ -1,5 +1,4 @@
 ## Auto Move to Character
-Auto Move to Character
 ![[../img/nd_img_AutoMoveToCharacter.png]]
 
 |Inputs||

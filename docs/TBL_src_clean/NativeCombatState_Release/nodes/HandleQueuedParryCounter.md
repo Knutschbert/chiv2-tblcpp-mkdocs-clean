@@ -1,5 +1,4 @@
 ## Handle Queued Parry Counter
-Handle Queued Parry Counter
 ![[../img/nd_img_HandleQueuedParryCounter.png]]
 
 |Inputs||

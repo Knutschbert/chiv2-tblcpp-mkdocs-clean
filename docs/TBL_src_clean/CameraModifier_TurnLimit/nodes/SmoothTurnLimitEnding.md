@@ -1,5 +1,4 @@
 ## Smooth Turn Limit Ending
-Smooth Turn Limit Ending
 ![[../img/nd_img_SmoothTurnLimitEnding.png]]
 
 |Inputs||

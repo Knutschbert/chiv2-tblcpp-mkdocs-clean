@@ -1,5 +1,4 @@
 ## Tutorial Player Control
-Tutorial Player Control
 ![[../img/nd_img_TutorialPlayerControl.png]]
 
 |Inputs||

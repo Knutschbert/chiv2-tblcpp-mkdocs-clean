@@ -1,5 +1,4 @@
 ## Get Total Reservations
-Get Total Reservations
 ![[../img/nd_img_GetTotalReservations.png]]
 
 |Inputs||

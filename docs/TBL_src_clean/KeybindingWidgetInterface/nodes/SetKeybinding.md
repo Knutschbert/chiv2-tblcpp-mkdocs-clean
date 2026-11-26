@@ -1,5 +1,4 @@
 ## Set Keybinding
-Set Keybinding
 ![[../img/nd_img_SetKeybinding.png]]
 
 |Inputs||

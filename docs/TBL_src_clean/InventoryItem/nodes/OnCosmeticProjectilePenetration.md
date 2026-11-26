@@ -1,5 +1,4 @@
 ## On Cosmetic Projectile Penetration
-On Cosmetic Projectile Penetration
 ![[../img/nd_img_OnCosmeticProjectilePenetration.png]]
 
 |Inputs||

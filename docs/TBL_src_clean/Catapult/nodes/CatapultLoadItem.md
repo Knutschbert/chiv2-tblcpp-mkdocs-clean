@@ -1,5 +1,4 @@
 ## Catapult Load Item
-Catapult Load Item
 ![[../img/nd_img_CatapultLoadItem.png]]
 
 |Inputs||

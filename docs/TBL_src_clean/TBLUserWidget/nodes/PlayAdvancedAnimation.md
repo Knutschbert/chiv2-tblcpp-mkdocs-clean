@@ -1,5 +1,4 @@
 ## Play Advanced Animation
-Play Advanced Animation
 ![[../img/nd_img_PlayAdvancedAnimation.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Event End Possess
-Event End Possess
 ![[../img/nd_img_EventEndPossess.png]]
 
 |Inputs||

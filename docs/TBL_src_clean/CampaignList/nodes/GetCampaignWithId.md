@@ -1,5 +1,4 @@
 ## Get Campaign with Id
-Get Campaign with Id
 ![[../img/nd_img_GetCampaignWithId.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Set for FFAPlayer
-Server Set for FFAPlayer
 ![[../img/nd_img_ServerSetForFFAPlayer.png]]
 
 |Inputs||

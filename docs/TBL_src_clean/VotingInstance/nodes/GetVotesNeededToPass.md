@@ -1,5 +1,4 @@
 ## Get Votes Needed to Pass
-Get Votes Needed to Pass
 ![[../img/nd_img_GetVotesNeededToPass.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Remove Item Visualizer Listener
-Remove Item Visualizer Listener
 ![[../img/nd_img_RemoveItemVisualizerListener.png]]
 
 |Inputs||

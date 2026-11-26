@@ -1,5 +1,4 @@
 ## Start Peasant Animation
-Start Peasant Animation
 ![[../img/nd_img_StartPeasantAnimation.png]]
 
 |Inputs||

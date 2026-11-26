@@ -1,5 +1,4 @@
 ## Begin Epilogue
-Begin Epilogue
 ![[../img/nd_img_BeginEpilogue.png]]
 
 |Inputs||

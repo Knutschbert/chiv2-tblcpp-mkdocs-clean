@@ -1,5 +1,4 @@
 ## Player Request Begin Spectating
-Player Request Begin Spectating
 ![[../img/nd_img_PlayerRequestBeginSpectating.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Useable by Team
-Get Useable by Team
 ![[../img/nd_img_GetUseableByTeam.png]]
 
 |Inputs||

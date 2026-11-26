@@ -1,5 +1,4 @@
 ## Load Cinematic Sublevel
-Load Cinematic Sublevel
 ![[../img/nd_img_LoadCinematicSublevel.png]]
 
 |Inputs||

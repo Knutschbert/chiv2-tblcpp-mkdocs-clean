@@ -1,5 +1,4 @@
 ## Get Character
-Get Character
 ![[../img/nd_img_GetCharacter.png]]
 
 |Inputs||

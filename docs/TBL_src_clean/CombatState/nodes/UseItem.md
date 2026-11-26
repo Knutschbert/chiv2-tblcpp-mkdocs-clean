@@ -1,5 +1,4 @@
 ## Use Item
-Use Item
 ![[../img/nd_img_UseItem.png]]
 
 |Inputs||

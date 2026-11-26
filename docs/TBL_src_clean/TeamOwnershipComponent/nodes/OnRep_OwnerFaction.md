@@ -1,5 +1,4 @@
 ## On Rep Owner Faction
-On Rep Owner Faction
 ![[../img/nd_img_OnRep_OwnerFaction.png]]
 
 |Inputs||

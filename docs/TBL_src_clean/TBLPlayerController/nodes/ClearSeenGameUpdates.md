@@ -1,5 +1,4 @@
 ## Clear Seen Game Updates
-Clear Seen Game Updates
 ![[../img/nd_img_ClearSeenGameUpdates.png]]
 
 |Inputs||

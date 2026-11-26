@@ -1,5 +1,4 @@
 ## Draw Projectile
-Draw Projectile
 ![[../img/nd_img_DrawProjectile.png]]
 
 |Inputs||

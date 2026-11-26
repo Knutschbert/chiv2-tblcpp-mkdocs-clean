@@ -1,5 +1,4 @@
 ## Add Recent
-Add Recent
 ![[../img/nd_img_AddRecent.png]]
 
 |Inputs||

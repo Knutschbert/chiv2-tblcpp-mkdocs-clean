@@ -1,5 +1,4 @@
 ## Get Reload Collision
-Get Reload Collision
 ![[../img/nd_img_GetReloadCollision.png]]
 
 |Inputs||

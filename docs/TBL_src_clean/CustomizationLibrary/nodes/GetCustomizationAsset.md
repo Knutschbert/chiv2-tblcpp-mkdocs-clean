@@ -1,5 +1,4 @@
 ## Get Customization Asset
-Get Customization Asset
 ![[../img/nd_img_GetCustomizationAsset.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Auto Attack Loop
-Auto Attack Loop
 ![[../img/nd_img_AutoAttackLoop.png]]
 
 |Inputs||

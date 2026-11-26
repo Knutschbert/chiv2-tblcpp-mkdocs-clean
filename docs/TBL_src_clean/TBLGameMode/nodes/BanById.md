@@ -1,5 +1,4 @@
 ## Ban by Id
-Ban by Id
 ![[../img/nd_img_BanById.png]]
 
 |Inputs||

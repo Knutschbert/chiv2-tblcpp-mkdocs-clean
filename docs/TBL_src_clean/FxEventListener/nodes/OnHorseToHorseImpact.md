@@ -1,5 +1,4 @@
 ## On Horse to Horse Impact
-On Horse to Horse Impact
 ![[../img/nd_img_OnHorseToHorseImpact.png]]
 
 |Inputs||

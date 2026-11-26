@@ -1,5 +1,4 @@
 ## Reset Held Parry
-Reset Held Parry
 ![[../img/nd_img_ResetHeldParry.png]]
 
 |Inputs||

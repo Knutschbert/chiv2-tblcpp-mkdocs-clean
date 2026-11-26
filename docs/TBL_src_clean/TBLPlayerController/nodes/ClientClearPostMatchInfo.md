@@ -1,5 +1,4 @@
 ## Client Clear Post Match Info
-Client Clear Post Match Info
 ![[../img/nd_img_ClientClearPostMatchInfo.png]]
 
 |Inputs||

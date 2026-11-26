@@ -1,5 +1,4 @@
 ## Get Session Settings Keys
-Get Session Settings Keys
 ![[../img/nd_img_GetSessionSettingsKeys.png]]
 
 |Inputs||

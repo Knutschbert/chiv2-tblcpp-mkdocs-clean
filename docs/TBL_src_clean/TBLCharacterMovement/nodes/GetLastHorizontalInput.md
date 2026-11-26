@@ -1,5 +1,4 @@
 ## Get Last Horizontal Input
-Get Last Horizontal Input
 ![[../img/nd_img_GetLastHorizontalInput.png]]
 
 |Inputs||

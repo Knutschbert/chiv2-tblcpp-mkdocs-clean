@@ -1,5 +1,4 @@
 ## Unequip Customization Item
-Unequip Customization Item
 ![[../img/nd_img_UnequipCustomizationItem.png]]
 
 |Inputs||

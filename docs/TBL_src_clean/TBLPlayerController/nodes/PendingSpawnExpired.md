@@ -1,5 +1,4 @@
 ## Pending Spawn Expired
-Pending Spawn Expired
 ![[../img/nd_img_PendingSpawnExpired.png]]
 
 |Inputs||

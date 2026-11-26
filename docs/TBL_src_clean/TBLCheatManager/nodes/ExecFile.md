@@ -1,5 +1,4 @@
 ## Exec File
-Exec File
 ![[../img/nd_img_ExecFile.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Remaining Lives
-On Rep Remaining Lives
 ![[../img/nd_img_OnRep_RemainingLives.png]]
 
 |Inputs||

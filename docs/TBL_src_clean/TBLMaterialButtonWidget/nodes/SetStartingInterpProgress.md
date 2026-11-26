@@ -1,5 +1,4 @@
 ## Set Starting Interp Progress
-Set Starting Interp Progress
 ![[../img/nd_img_SetStartingInterpProgress.png]]
 
 |Inputs||

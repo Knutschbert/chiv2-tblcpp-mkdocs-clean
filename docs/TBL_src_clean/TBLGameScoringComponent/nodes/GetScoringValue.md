@@ -1,5 +1,4 @@
 ## Get Scoring Value
-Get Scoring Value
 ![[../img/nd_img_GetScoringValue.png]]
 
 |Inputs||

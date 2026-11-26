@@ -1,5 +1,4 @@
 ## Open Debug Menu
-Open Debug Menu
 ![[../img/nd_img_OpenDebugMenu.png]]
 
 |Inputs||

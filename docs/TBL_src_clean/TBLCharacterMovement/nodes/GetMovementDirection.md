@@ -1,5 +1,4 @@
 ## Get Movement Direction
-Get Movement Direction
 ![[../img/nd_img_GetMovementDirection.png]]
 
 |Inputs||

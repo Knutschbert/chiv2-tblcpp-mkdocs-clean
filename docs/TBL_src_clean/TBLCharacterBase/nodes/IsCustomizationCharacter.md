@@ -1,5 +1,4 @@
 ## Is Customization Character
-Is Customization Character
 ![[../img/nd_img_IsCustomizationCharacter.png]]
 
 |Inputs||

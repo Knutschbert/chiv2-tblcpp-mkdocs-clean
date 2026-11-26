@@ -1,5 +1,4 @@
 ## Goto Counter Ready State Replicated
-Goto Counter Ready State Replicated
 ![[../img/nd_img_GotoCounterReadyStateReplicated.png]]
 
 |Inputs||

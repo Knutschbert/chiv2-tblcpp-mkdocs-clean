@@ -1,5 +1,4 @@
 ## Get Friend List
-Get Friend List
 ![[../img/nd_img_GetFriendList.png]]
 
 |Inputs||

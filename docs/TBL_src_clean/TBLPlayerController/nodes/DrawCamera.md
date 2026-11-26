@@ -1,5 +1,4 @@
 ## Draw Camera
-Draw Camera
 ![[../img/nd_img_DrawCamera.png]]
 
 |Inputs||

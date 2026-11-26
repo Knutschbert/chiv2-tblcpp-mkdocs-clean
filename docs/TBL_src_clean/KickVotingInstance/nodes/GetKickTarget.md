@@ -1,5 +1,4 @@
 ## Get Kick Target
-Get Kick Target
 ![[../img/nd_img_GetKickTarget.png]]
 
 |Inputs||

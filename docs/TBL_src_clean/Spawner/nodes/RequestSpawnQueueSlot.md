@@ -1,5 +1,4 @@
 ## Request Spawn Queue Slot
-Request Spawn Queue Slot
 ![[../img/nd_img_RequestSpawnQueueSlot.png]]
 
 |Inputs||

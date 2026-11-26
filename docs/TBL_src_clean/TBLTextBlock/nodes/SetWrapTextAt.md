@@ -1,5 +1,4 @@
 ## Set Wrap Text At
-Set Wrap Text At
 ![[../img/nd_img_SetWrapTextAt.png]]
 
 |Inputs||

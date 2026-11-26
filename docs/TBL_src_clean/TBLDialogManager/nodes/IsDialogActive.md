@@ -1,5 +1,4 @@
 ## Is Dialog Active
-Is Dialog Active
 ![[../img/nd_img_IsDialogActive.png]]
 
 |Inputs||

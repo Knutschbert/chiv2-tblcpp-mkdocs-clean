@@ -1,5 +1,4 @@
 ## Handle Hit World
-Handle Hit World
 ![[../img/nd_img_HandleHitWorld.png]]
 
 |Inputs||

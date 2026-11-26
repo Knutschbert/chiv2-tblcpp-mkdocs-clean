@@ -1,5 +1,4 @@
 ## On Bounce
-On Bounce
 ![[../img/nd_img_OnBounce.png]]
 
 |Inputs||

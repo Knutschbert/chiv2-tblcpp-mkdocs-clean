@@ -1,5 +1,4 @@
 ## Apply Assets
-Apply Assets
 ![[../img/nd_img_ApplyAssets.png]]
 
 |Inputs||

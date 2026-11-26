@@ -1,5 +1,4 @@
 ## Draw Debug
-Draw Debug
 ![[../img/nd_img_DrawDebug.png]]
 
 |Inputs||

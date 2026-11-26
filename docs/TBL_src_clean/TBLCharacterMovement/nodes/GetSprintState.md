@@ -1,5 +1,4 @@
 ## Get Sprint State
-Get Sprint State
 ![[../img/nd_img_GetSprintState.png]]
 
 |Inputs||

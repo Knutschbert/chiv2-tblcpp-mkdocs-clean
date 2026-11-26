@@ -1,5 +1,4 @@
 ## Set Camera Offset
-Set Camera Offset
 ![[../img/nd_img_SetCameraOffset.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Torn Off
-On Torn Off
 ![[../img/nd_img_OnTornOff.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Rep Character Movement State
-On Rep Character Movement State
 ![[../img/nd_img_OnRep_CharacterMovementState.png]]
 
 |Inputs||

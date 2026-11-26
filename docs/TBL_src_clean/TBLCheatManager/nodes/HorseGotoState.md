@@ -1,5 +1,4 @@
 ## Horse Goto State
-Horse Goto State
 ![[../img/nd_img_HorseGotoState.png]]
 
 |Inputs||

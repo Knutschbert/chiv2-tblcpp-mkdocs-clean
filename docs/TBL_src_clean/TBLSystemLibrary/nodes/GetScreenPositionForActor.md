@@ -1,5 +1,4 @@
 ## Get Screen Position for Actor
-Get Screen Position for Actor
 ![[../img/nd_img_GetScreenPositionForActor.png]]
 
 |Inputs||

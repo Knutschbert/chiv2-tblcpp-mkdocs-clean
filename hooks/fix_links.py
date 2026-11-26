@@ -139,10 +139,38 @@ def _transform(md, page_src):
     return md
 
 
+def _symbol_of(path):
+    """Display symbol from a page path: classATBLPlayerController.md -> ATBLPlayerController."""
+    stem = os.path.basename(path)[:-3]
+    for p in _FILE_PREFIXES:
+        if stem.startswith(p) and len(stem) > len(p) and stem[len(p)].isupper():
+            return stem[len(p):]
+    return stem
+
+
+def _inject_backlink(md, page_src):
+    """A Blueprint-node page (TBL_src_clean/<Owner>/nodes/<Node>.md) gets a link
+    back to its owning class page, resolved via the filename index."""
+    parts = page_src.split("/")
+    if not (len(parts) >= 4 and parts[0] == "TBL_src_clean" and parts[-2] == "nodes"):
+        return md
+    owner = parts[-3]
+    target = _index.get(_simplify(owner)) if _index else None
+    if not target or target == page_src:
+        return md
+    note = f"\n*Part of [{_symbol_of(target)}](<{_rel(page_src, target)}>)*\n"
+    lines = md.splitlines(keepends=True)
+    hi = next((i for i, ln in enumerate(lines) if ln.lstrip().startswith("#")), None)
+    if hi is None:
+        return note + md
+    lines.insert(hi + 1, note)
+    return "".join(lines)
+
+
 @mkdocs.plugins.event_priority(100)  # before roamlinks (priority 0)
 def on_page_markdown(markdown, page=None, config=None, files=None, **kwargs):
     page_src = page.file.src_path.replace(os.sep, "/")
     parts = _CODE_RE.split(markdown)
     for i in range(0, len(parts), 2):          # skip code regions (odd indices)
         parts[i] = _transform(parts[i], page_src)
-    return "".join(parts)
+    return _inject_backlink("".join(parts), page_src)

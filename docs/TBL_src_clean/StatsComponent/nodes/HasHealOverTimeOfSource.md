@@ -1,5 +1,4 @@
 ## Has Heal Over Time Of Source
-Has Heal Over Time Of Source
 ![[../img/nd_img_HasHealOverTimeOfSource.png]]
 
 |Inputs||

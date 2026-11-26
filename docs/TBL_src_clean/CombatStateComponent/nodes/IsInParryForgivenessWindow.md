@@ -1,5 +1,4 @@
 ## Is in Parry Forgiveness Window
-Is in Parry Forgiveness Window
 ![[../img/nd_img_IsInParryForgivenessWindow.png]]
 
 |Inputs||

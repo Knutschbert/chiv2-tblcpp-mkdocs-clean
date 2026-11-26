@@ -1,5 +1,4 @@
 ## Get Killed Actor
-Get Killed Actor
 ![[../img/nd_img_GetKilledActor.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Pushed Velocity
-Set Pushed Velocity
 ![[../img/nd_img_SetPushedVelocity.png]]
 
 |Inputs||

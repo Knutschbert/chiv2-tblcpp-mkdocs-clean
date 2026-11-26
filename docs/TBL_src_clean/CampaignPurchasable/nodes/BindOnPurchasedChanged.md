@@ -1,5 +1,4 @@
 ## Bind on Purchased Changed
-Bind on Purchased Changed
 ![[../img/nd_img_BindOnPurchasedChanged.png]]
 
 |Inputs||

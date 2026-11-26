@@ -1,5 +1,4 @@
 ## On Ability Initiated
-On Ability Initiated
 ![[../img/nd_img_OnAbilityInitiated.png]]
 
 |Inputs||

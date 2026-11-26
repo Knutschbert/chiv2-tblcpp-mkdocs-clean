@@ -1,5 +1,4 @@
 ## On Ability on Cooldown
-On Ability on Cooldown
 ![[../img/nd_img_OnAbilityOnCooldown.png]]
 
 |Inputs||

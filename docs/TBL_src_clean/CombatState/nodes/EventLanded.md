@@ -1,5 +1,4 @@
 ## Event Landed
-Event Landed
 ![[../img/nd_img_EventLanded.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Catapult Launch Characters
-Catapult Launch Characters
 ![[../img/nd_img_CatapultLaunchCharacters.png]]
 
 |Inputs||

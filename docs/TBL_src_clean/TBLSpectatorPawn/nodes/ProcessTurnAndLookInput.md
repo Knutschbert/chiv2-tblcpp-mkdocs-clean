@@ -1,5 +1,4 @@
 ## Process Turn and Look Input
-Process Turn and Look Input
 ![[../img/nd_img_ProcessTurnAndLookInput.png]]
 
 |Inputs||

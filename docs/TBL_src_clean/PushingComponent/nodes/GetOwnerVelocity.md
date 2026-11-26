@@ -1,5 +1,4 @@
 ## Get Owner Velocity
-Get Owner Velocity
 ![[../img/nd_img_GetOwnerVelocity.png]]
 
 |Inputs||

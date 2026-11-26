@@ -1,5 +1,4 @@
 ## Is Visible
-Is Visible
 ![[../img/nd_img_IsVisible.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Can Spawn Horse
-Can Spawn Horse
 ![[../img/nd_img_CanSpawnHorse.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Num Bots
-Get Num Bots
 ![[../img/nd_img_GetNumBots.png]]
 
 |Inputs||

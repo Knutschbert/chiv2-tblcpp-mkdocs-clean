@@ -1,5 +1,4 @@
 ## Authority Remove Marked Actor
-Authority Remove Marked Actor
 ![[../img/nd_img_AuthorityRemoveMarkedActor.png]]
 
 |Inputs||

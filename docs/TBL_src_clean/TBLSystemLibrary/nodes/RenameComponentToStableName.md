@@ -1,5 +1,4 @@
 ## Rename Component to Stable Name
-Rename Component to Stable Name
 ![[../img/nd_img_RenameComponentToStableName.png]]
 
 |Inputs||

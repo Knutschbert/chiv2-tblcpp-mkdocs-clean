@@ -1,5 +1,4 @@
 ## Get Movement Mode
-Get Movement Mode
 ![[../img/nd_img_GetMovementMode.png]]
 
 |Inputs||

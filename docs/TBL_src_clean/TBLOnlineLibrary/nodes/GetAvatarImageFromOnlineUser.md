@@ -1,5 +1,4 @@
 ## Get Avatar Image from Online User
-Get Avatar Image from Online User
 ![[../img/nd_img_GetAvatarImageFromOnlineUser.png]]
 
 |Inputs||

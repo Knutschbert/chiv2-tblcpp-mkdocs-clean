@@ -1,5 +1,4 @@
 ## Update Pushing While Falling
-Update Pushing While Falling
 ![[../img/nd_img_UpdatePushingWhileFalling.png]]
 
 |Inputs||

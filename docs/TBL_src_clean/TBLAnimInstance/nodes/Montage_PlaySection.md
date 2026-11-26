@@ -1,5 +1,4 @@
 ## Montage Play Section
-Montage Play Section
 ![[../img/nd_img_Montage_PlaySection.png]]
 
 |Inputs||

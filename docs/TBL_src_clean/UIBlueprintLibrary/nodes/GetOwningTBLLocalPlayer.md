@@ -1,5 +1,4 @@
 ## Get Owning TBLLocal Player
-Get Owning TBLLocal Player
 ![[../img/nd_img_GetOwningTBLLocalPlayer.png]]
 
 |Inputs||

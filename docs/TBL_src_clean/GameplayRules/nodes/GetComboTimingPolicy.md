@@ -1,5 +1,4 @@
 ## Get Combo Timing Policy
-Get Combo Timing Policy
 ![[../img/nd_img_GetComboTimingPolicy.png]]
 
 |Inputs||

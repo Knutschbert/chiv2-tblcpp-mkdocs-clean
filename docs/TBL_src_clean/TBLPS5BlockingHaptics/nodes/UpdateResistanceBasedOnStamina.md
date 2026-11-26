@@ -1,5 +1,4 @@
 ## Update Resistance Based on Stamina
-Update Resistance Based on Stamina
 ![[../img/nd_img_UpdateResistanceBasedOnStamina.png]]
 
 |Inputs||

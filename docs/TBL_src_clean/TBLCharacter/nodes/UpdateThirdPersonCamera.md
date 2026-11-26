@@ -1,5 +1,4 @@
 ## Update Third Person Camera
-Update Third Person Camera
 ![[../img/nd_img_UpdateThirdPersonCamera.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Game Update Data
-Get Game Update Data
 ![[../img/nd_img_GetGameUpdateData.png]]
 
 |Inputs||

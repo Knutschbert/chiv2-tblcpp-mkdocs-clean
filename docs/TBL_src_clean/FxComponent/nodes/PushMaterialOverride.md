@@ -1,5 +1,4 @@
 ## Push Material Override
-Push Material Override
 ![[../img/nd_img_PushMaterialOverride.png]]
 
 |Inputs||

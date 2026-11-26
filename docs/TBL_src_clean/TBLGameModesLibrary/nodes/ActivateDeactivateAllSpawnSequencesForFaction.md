@@ -1,5 +1,4 @@
 ## Activate Deactivate All Spawn Sequences for Faction
-Activate Deactivate All Spawn Sequences for Faction
 ![[../img/nd_img_ActivateDeactivateAllSpawnSequencesForFaction.png]]
 
 |Inputs||

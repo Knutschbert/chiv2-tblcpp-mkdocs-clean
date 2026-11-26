@@ -1,5 +1,4 @@
 ## Start Movement
-Start Movement
 ![[../img/nd_img_StartMovement.png]]
 
 |Inputs||

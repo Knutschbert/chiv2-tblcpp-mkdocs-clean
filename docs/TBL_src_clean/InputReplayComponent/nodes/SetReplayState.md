@@ -1,5 +1,4 @@
 ## Set Replay State
-Set Replay State
 ![[../img/nd_img_SetReplayState.png]]
 
 |Inputs||

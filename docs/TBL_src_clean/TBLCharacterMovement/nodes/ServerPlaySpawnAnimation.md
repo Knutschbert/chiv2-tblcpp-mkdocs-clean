@@ -1,5 +1,4 @@
 ## Server Play Spawn Animation
-Server Play Spawn Animation
 ![[../img/nd_img_ServerPlaySpawnAnimation.png]]
 
 |Inputs||

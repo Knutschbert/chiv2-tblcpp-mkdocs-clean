@@ -1,5 +1,4 @@
 ## Horse Client Adjust Position
-Horse Client Adjust Position
 ![[../img/nd_img_Horse_ClientAdjustPosition.png]]
 
 |Inputs||

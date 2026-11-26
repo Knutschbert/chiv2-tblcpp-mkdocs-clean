@@ -1,5 +1,4 @@
 ## Subwidget Init from Pool
-Subwidget Init from Pool
 ![[../img/nd_img_SubwidgetInitFromPool.png]]
 
 |Inputs||

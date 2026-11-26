@@ -1,5 +1,4 @@
 ## Switch to Broken Item
-Switch to Broken Item
 ![[../img/nd_img_SwitchToBrokenItem.png]]
 
 |Inputs||

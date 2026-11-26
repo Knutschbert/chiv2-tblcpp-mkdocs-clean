@@ -1,5 +1,4 @@
 ## Remove Tag from Actor
-Remove Tag from Actor
 ![[../img/nd_img_RemoveTagFromActor.png]]
 
 |Inputs||

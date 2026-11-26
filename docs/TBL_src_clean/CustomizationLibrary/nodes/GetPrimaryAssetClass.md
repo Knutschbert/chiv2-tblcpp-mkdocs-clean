@@ -1,5 +1,4 @@
 ## Get Primary Asset Class
-Get Primary Asset Class
 ![[../img/nd_img_GetPrimaryAssetClass.png]]
 
 |Inputs||

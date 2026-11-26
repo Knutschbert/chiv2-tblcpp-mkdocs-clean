@@ -1,5 +1,4 @@
 ## Is in Forgiveness Time
-Is in Forgiveness Time
 ![[../img/nd_img_IsInForgivenessTime.png]]
 
 |Inputs||

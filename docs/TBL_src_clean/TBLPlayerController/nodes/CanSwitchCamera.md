@@ -1,5 +1,4 @@
 ## Can Switch Camera
-Can Switch Camera
 ![[../img/nd_img_CanSwitchCamera.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Send Party Invitation to Player Id
-Send Party Invitation to Player Id
 ![[../img/nd_img_SendPartyInvitationToPlayerId.png]]
 
 |Inputs||

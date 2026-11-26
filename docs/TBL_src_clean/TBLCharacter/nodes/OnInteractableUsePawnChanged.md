@@ -1,5 +1,4 @@
 ## On Interactable Use Pawn Changed
-On Interactable Use Pawn Changed
 ![[../img/nd_img_OnInteractableUsePawnChanged.png]]
 
 |Inputs||

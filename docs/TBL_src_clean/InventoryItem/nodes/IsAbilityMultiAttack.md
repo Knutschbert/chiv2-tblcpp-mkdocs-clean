@@ -1,5 +1,4 @@
 ## Is Ability Multi Attack
-Is Ability Multi Attack
 ![[../img/nd_img_IsAbilityMultiAttack.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## TBSModify Team Score
-TBSModify Team Score
 ![[../img/nd_img_TBSModifyTeamScore.png]]
 
 |Inputs||

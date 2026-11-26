@@ -1,5 +1,4 @@
 ## Did Hit Actor
-Did Hit Actor
 ![[../img/nd_img_DidHitActor.png]]
 
 |Inputs||

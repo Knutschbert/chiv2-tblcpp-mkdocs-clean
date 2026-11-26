@@ -1,5 +1,4 @@
 ## Remove from Queue
-Remove from Queue
 ![[../img/nd_img_RemoveFromQueue.png]]
 
 |Inputs||

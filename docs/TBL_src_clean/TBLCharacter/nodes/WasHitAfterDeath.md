@@ -1,5 +1,4 @@
 ## Was Hit After Death
-Was Hit After Death
 ![[../img/nd_img_WasHitAfterDeath.png]]
 
 |Inputs||

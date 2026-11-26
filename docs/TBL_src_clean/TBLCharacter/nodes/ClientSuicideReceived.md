@@ -1,5 +1,4 @@
 ## Client Suicide Received
-Client Suicide Received
 ![[../img/nd_img_ClientSuicideReceived.png]]
 
 |Inputs||

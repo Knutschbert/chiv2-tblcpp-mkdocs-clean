@@ -1,5 +1,4 @@
 ## On Recently Rendered
-On Recently Rendered
 ![[../img/nd_img_OnRecentlyRendered.png]]
 
 |Inputs||

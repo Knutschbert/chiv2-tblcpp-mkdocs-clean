@@ -1,5 +1,4 @@
 ## Get Sound
-Get Sound
 ![[../img/nd_img_GetSound.png]]
 
 |Inputs||

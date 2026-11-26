@@ -1,5 +1,4 @@
 ## Interpolate Float Over Time
-Interpolate Float Over Time
 ![[../img/nd_img_InterpolateFloatOverTime.png]]
 
 |Inputs||

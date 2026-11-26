@@ -1,5 +1,4 @@
 ## Get Sprint Time
-Get Sprint Time
 ![[../img/nd_img_GetSprintTime.png]]
 
 |Inputs||

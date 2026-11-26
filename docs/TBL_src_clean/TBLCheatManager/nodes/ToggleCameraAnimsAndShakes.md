@@ -1,5 +1,4 @@
 ## Toggle Camera Anims and Shakes
-Toggle Camera Anims and Shakes
 ![[../img/nd_img_ToggleCameraAnimsAndShakes.png]]
 
 |Inputs||

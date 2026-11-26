@@ -1,5 +1,4 @@
 ## Set Autorun Elapsed Time
-Set Autorun Elapsed Time
 ![[../img/nd_img_SetAutorunElapsedTime.png]]
 
 |Inputs||

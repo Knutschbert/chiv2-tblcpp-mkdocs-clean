@@ -1,5 +1,4 @@
 ## Can Initiate
-Can Initiate
 ![[../img/nd_img_CanInitiate.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Objective Context Text
-Set Objective Context Text
 ![[../img/nd_img_SetObjectiveContextText.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Crosshair Was Parried
-Crosshair Was Parried
 ![[../img/nd_img_CrosshairWasParried.png]]
 
 |Inputs||

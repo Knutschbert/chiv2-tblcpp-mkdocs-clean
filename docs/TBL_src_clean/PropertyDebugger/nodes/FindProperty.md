@@ -1,5 +1,4 @@
 ## Find Property
-Find Property
 ![[../img/nd_img_FindProperty.png]]
 
 |Inputs||

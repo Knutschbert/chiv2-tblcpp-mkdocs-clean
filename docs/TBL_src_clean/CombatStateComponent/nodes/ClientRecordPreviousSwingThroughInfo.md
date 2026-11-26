@@ -1,5 +1,4 @@
 ## Client Record Previous Swing Through Info
-Client Record Previous Swing Through Info
 ![[../img/nd_img_ClientRecordPreviousSwingThroughInfo.png]]
 
 |Inputs||

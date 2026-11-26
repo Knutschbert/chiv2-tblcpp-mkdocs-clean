@@ -1,5 +1,4 @@
 ## Disable Death Cam
-Disable Death Cam
 ![[../img/nd_img_DisableDeathCam.png]]
 
 |Inputs||

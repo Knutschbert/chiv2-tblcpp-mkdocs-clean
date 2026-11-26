@@ -1,5 +1,4 @@
 ## Should Attack be Countered
-Should Attack be Countered
 ![[../img/nd_img_ShouldAttackBeCountered.png]]
 
 |Inputs||

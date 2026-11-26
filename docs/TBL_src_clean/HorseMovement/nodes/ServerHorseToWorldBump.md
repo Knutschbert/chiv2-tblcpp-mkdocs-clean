@@ -1,5 +1,4 @@
 ## Server Horse to World Bump
-Server Horse to World Bump
 ![[../img/nd_img_ServerHorseToWorldBump.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Action Goto State
-Action Goto State
 ![[../img/nd_img_ActionGotoState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Ladder Animation Ended
-On Ladder Animation Ended
 ![[../img/nd_img_OnLadderAnimationEnded.png]]
 
 |Inputs||

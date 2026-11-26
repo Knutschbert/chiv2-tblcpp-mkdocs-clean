@@ -1,5 +1,4 @@
 ## Get Item Icon from Asset Id
-Get Item Icon from Asset Id
 ![[../img/nd_img_GetItemIconFromAssetId.png]]
 
 |Inputs||

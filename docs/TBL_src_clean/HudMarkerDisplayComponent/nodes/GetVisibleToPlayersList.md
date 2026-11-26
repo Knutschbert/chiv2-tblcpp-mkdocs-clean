@@ -1,5 +1,4 @@
 ## Get Visible to Players List
-Get Visible to Players List
 ![[../img/nd_img_GetVisibleToPlayersList.png]]
 
 |Inputs||

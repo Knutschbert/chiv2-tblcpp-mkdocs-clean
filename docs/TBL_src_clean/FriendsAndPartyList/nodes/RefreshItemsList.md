@@ -1,5 +1,4 @@
 ## Refresh Items List
-Refresh Items List
 ![[../img/nd_img_RefreshItemsList.png]]
 
 |Inputs||

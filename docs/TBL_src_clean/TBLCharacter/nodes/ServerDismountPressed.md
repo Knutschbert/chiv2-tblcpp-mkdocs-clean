@@ -1,5 +1,4 @@
 ## Server Dismount Pressed
-Server Dismount Pressed
 ![[../img/nd_img_ServerDismountPressed.png]]
 
 |Inputs||

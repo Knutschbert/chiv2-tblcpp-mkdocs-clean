@@ -1,5 +1,4 @@
 ## Set Marked Actors
-Set Marked Actors
 ![[../img/nd_img_SetMarkedActors.png]]
 
 |Inputs||

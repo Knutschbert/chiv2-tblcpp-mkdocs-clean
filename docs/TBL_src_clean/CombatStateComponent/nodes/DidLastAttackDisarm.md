@@ -1,5 +1,4 @@
 ## Did Last Attack Disarm
-Did Last Attack Disarm
 ![[../img/nd_img_DidLastAttackDisarm.png]]
 
 |Inputs||

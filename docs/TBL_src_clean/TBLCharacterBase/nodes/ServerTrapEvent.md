@@ -1,5 +1,4 @@
 ## Server Trap Event
-Server Trap Event
 ![[../img/nd_img_ServerTrapEvent.png]]
 
 |Inputs||

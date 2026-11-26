@@ -1,5 +1,4 @@
 ## Set LODLevel
-Set LODLevel
 ![[../img/nd_img_SetLODLevel.png]]
 
 |Inputs||

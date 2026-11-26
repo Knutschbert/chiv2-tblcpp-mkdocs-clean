@@ -1,5 +1,4 @@
 ## Client Bot
-Client Bot
 ![[../img/nd_img_ClientBot.png]]
 
 |Inputs||

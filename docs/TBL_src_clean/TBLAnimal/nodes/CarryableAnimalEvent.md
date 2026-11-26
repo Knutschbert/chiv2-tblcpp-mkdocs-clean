@@ -1,5 +1,4 @@
 ## Carryable Animal Event
-Carryable Animal Event
 ![[../img/nd_img_CarryableAnimalEvent.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Invocation Complete
-On Invocation Complete
 ![[../img/nd_img_OnInvocationComplete.png]]
 
 |Inputs||

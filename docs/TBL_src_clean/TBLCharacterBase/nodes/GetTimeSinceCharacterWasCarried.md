@@ -1,5 +1,4 @@
 ## Get Time Since Character Was Carried
-Get Time Since Character Was Carried
 ![[../img/nd_img_GetTimeSinceCharacterWasCarried.png]]
 
 |Inputs||

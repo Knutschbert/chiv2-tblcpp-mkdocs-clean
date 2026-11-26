@@ -1,5 +1,4 @@
 ## Is Valid Self Inflicted Damage Source
-Is Valid Self Inflicted Damage Source
 ![[../img/nd_img_IsValidSelfInflictedDamageSource.png]]
 
 |Inputs||

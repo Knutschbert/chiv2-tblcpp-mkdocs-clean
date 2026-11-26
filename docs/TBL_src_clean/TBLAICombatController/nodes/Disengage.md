@@ -1,5 +1,4 @@
 ## Disengage
-Disengage
 ![[../img/nd_img_Disengage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Should Start Projectile Counter Window
-Should Start Projectile Counter Window
 ![[../img/nd_img_ShouldStartProjectileCounterWindow.png]]
 
 |Inputs||

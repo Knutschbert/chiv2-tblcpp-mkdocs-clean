@@ -1,5 +1,4 @@
 ## Update Bot Backfill
-Update Bot Backfill
 ![[../img/nd_img_UpdateBotBackfill.png]]
 
 |Inputs||

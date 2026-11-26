@@ -1,5 +1,4 @@
 ## Should Score Kill
-Should Score Kill
 ![[../img/nd_img_ShouldScoreKill.png]]
 
 |Inputs||

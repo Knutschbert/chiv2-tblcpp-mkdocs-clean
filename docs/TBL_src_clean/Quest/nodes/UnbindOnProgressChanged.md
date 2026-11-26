@@ -1,5 +1,4 @@
 ## Unbind on Progress Changed
-Unbind on Progress Changed
 ![[../img/nd_img_UnbindOnProgressChanged.png]]
 
 |Inputs||

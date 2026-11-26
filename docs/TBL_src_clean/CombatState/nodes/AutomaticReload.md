@@ -1,5 +1,4 @@
 ## Automatic Reload
-Automatic Reload
 ![[../img/nd_img_AutomaticReload.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Equipped Customization Weapon Asset
-Get Equipped Customization Weapon Asset
 ![[../img/nd_img_GetEquippedCustomizationWeaponAsset.png]]
 
 |Inputs||

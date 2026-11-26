@@ -1,5 +1,4 @@
 ## Limit Sprint Turn Rate
-Limit Sprint Turn Rate
 ![[../img/nd_img_LimitSprintTurnRate.png]]
 
 |Inputs||

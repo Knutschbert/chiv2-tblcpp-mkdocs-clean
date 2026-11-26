@@ -1,5 +1,4 @@
 ## Say
-Say
 ![[../img/nd_img_Say.png]]
 
 |Inputs||

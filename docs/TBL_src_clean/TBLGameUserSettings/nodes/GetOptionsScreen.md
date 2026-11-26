@@ -1,5 +1,4 @@
 ## Get Options Screen
-Get Options Screen
 ![[../img/nd_img_GetOptionsScreen.png]]
 
 |Inputs||

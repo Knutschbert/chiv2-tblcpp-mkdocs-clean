@@ -1,5 +1,4 @@
 ## Can Initiate Crouch
-Can Initiate Crouch
 ![[../img/nd_img_CanInitiateCrouch.png]]
 
 |Inputs||

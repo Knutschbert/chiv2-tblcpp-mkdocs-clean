@@ -1,5 +1,4 @@
 ## Client Push Cmd
-Client Push Cmd
 ![[../img/nd_img_ClientPushCmd.png]]
 
 |Inputs||

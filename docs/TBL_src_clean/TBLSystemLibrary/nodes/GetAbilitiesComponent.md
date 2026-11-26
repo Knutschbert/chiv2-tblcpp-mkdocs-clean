@@ -1,5 +1,4 @@
 ## Get Abilities Component
-Get Abilities Component
 ![[../img/nd_img_GetAbilitiesComponent.png]]
 
 |Inputs||

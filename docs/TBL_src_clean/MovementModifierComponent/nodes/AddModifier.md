@@ -1,5 +1,4 @@
 ## Add Modifier
-Add Modifier
 ![[../img/nd_img_AddModifier.png]]
 
 |Inputs||

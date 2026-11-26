@@ -1,5 +1,4 @@
 ## Update Virtual Good
-Update Virtual Good
 ![[../img/nd_img_UpdateVirtualGood.png]]
 
 |Inputs||

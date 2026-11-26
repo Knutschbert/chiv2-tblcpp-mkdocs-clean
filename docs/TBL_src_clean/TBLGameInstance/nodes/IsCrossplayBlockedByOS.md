@@ -1,5 +1,4 @@
 ## Is Crossplay Blocked by OS
-Is Crossplay Blocked by OS
 ![[../img/nd_img_IsCrossplayBlockedByOS.png]]
 
 |Inputs||

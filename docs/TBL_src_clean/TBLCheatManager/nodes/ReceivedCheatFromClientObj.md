@@ -1,5 +1,4 @@
 ## Received Cheat from Client Obj
-Received Cheat from Client Obj
 ![[../img/nd_img_ReceivedCheatFromClientObj.png]]
 
 |Inputs||

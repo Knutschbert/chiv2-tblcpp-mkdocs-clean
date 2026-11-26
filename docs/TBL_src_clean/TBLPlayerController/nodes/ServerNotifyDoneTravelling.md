@@ -1,5 +1,4 @@
 ## Server Notify Done Travelling
-Server Notify Done Travelling
 ![[../img/nd_img_ServerNotifyDoneTravelling.png]]
 
 |Inputs||

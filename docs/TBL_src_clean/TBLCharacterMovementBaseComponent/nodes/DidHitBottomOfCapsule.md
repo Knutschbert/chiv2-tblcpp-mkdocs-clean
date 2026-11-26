@@ -1,5 +1,4 @@
 ## Did Hit Bottom Of Capsule
-Did Hit Bottom Of Capsule
 ![[../img/nd_img_DidHitBottomOfCapsule.png]]
 
 |Inputs||

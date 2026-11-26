@@ -1,5 +1,4 @@
 ## Check Char Move Tick
-Check Char Move Tick
 ![[../img/nd_img_CheckCharMoveTick.png]]
 
 |Inputs||

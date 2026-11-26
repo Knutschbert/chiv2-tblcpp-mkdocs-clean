@@ -1,5 +1,4 @@
 ## Is Viewed Item
-Is Viewed Item
 ![[../img/nd_img_IsViewedItem.png]]
 
 |Inputs||

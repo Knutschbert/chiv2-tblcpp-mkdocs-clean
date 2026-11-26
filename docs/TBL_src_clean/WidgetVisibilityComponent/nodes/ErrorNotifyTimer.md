@@ -1,5 +1,4 @@
 ## Error Notify Timer
-Error Notify Timer
 ![[../img/nd_img_ErrorNotifyTimer.png]]
 
 |Inputs||

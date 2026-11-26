@@ -1,5 +1,4 @@
 ## Add Stage Time
-Add Stage Time
 ![[../img/nd_img_AddStageTime.png]]
 
 |Inputs||

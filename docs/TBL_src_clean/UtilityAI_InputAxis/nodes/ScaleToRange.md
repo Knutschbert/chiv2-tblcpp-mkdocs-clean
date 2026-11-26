@@ -1,5 +1,4 @@
 ## Scale to Range
-Scale to Range
 ![[../img/nd_img_ScaleToRange.png]]
 
 |Inputs||

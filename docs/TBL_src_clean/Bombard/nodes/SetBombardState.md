@@ -1,5 +1,4 @@
 ## Set Bombard State
-Set Bombard State
 ![[../img/nd_img_SetBombardState.png]]
 
 |Inputs||

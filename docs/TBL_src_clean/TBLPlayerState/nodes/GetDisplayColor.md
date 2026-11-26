@@ -1,5 +1,4 @@
 ## Get Display Color
-Get Display Color
 ![[../img/nd_img_GetDisplayColor.png]]
 
 |Inputs||

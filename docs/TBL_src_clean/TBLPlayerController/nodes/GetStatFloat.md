@@ -1,5 +1,4 @@
 ## Get Stat Float
-Get Stat Float
 ![[../img/nd_img_GetStatFloat.png]]
 
 |Inputs||

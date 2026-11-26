@@ -1,5 +1,4 @@
 ## Get Current Attack Info
-Get Current Attack Info
 ![[../img/nd_img_GetCurrentAttackInfo.png]]
 
 |Inputs||

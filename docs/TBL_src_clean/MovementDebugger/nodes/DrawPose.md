@@ -1,5 +1,4 @@
 ## Draw Pose
-Draw Pose
 ![[../img/nd_img_DrawPose.png]]
 
 |Inputs||

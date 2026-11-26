@@ -1,5 +1,4 @@
 ## Set Min Slider Value
-Set Min Slider Value
 ![[../img/nd_img_SetMinSliderValue.png]]
 
 |Inputs||

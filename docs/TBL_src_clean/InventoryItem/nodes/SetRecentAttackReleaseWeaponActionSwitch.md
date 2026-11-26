@@ -1,5 +1,4 @@
 ## Set Recent Attack Release Weapon Action Switch
-Set Recent Attack Release Weapon Action Switch
 ![[../img/nd_img_SetRecentAttackReleaseWeaponActionSwitch.png]]
 
 |Inputs||

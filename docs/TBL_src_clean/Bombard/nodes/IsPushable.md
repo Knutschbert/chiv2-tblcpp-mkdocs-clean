@@ -1,5 +1,4 @@
 ## Is Pushable
-Is Pushable
 ![[../img/nd_img_IsPushable.png]]
 
 |Inputs||

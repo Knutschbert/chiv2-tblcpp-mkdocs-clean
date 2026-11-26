@@ -1,5 +1,4 @@
 ## Play Character Action Event
-Play Character Action Event
 ![[../img/nd_img_PlayCharacterActionEvent.png]]
 
 |Inputs||

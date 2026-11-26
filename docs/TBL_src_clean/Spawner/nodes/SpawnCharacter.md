@@ -1,5 +1,4 @@
 ## Spawn Character
-Spawn Character
 ![[../img/nd_img_SpawnCharacter.png]]
 
 |Inputs||

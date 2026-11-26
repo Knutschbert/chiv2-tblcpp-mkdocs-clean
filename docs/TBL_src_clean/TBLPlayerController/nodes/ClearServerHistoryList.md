@@ -1,5 +1,4 @@
 ## Clear Server History List
-Clear Server History List
 ![[../img/nd_img_ClearServerHistoryList.png]]
 
 |Inputs||

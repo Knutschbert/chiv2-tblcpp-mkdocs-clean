@@ -1,5 +1,4 @@
 ## Set Beard Hidden
-Set Beard Hidden
 ![[../img/nd_img_SetBeardHidden.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Ability Error
-On Ability Error
 ![[../img/nd_img_OnAbilityError.png]]
 
 |Inputs||

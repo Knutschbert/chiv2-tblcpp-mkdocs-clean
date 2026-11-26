@@ -1,5 +1,4 @@
 ## Downed Sprint Finished
-Downed Sprint Finished
 ![[../img/nd_img_DownedSprintFinished.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Add Player Null Bots
-Add Player Null Bots
 ![[../img/nd_img_AddPlayerNullBots.png]]
 
 |Inputs||

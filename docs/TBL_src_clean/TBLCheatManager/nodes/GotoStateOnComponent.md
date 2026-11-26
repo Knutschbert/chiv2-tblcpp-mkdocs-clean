@@ -1,5 +1,4 @@
 ## Goto State on Component
-Goto State on Component
 ![[../img/nd_img_GotoStateOnComponent.png]]
 
 |Inputs||

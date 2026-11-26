@@ -1,5 +1,4 @@
 ## Event Blocked
-Event Blocked
 ![[../img/nd_img_EventBlocked.png]]
 
 |Inputs||

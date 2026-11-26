@@ -1,5 +1,4 @@
 ## Make Damage Taken Event
-Make Damage Taken Event
 ![[../img/nd_img_MakeDamageTakenEvent.png]]
 
 |Inputs||

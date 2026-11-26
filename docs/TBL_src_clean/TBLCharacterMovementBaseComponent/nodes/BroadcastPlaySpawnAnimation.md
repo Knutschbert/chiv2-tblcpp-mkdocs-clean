@@ -1,5 +1,4 @@
 ## Broadcast Play Spawn Animation
-Broadcast Play Spawn Animation
 ![[../img/nd_img_BroadcastPlaySpawnAnimation.png]]
 
 |Inputs||

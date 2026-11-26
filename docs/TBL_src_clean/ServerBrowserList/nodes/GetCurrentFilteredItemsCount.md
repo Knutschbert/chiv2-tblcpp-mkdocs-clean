@@ -1,5 +1,4 @@
 ## Get Current Filtered Items Count
-Get Current Filtered Items Count
 ![[../img/nd_img_GetCurrentFilteredItemsCount.png]]
 
 |Inputs||

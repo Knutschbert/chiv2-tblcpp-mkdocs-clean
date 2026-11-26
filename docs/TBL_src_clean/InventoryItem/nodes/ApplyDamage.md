@@ -1,5 +1,4 @@
 ## Apply Damage
-Apply Damage
 ![[../img/nd_img_ApplyDamage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Experience Level
-Get Experience Level
 ![[../img/nd_img_GetExperienceLevel.png]]
 
 |Inputs||

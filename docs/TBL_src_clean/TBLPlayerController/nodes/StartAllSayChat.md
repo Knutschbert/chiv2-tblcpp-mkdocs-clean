@@ -1,5 +1,4 @@
 ## Start All Say Chat
-Start All Say Chat
 ![[../img/nd_img_StartAllSayChat.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Was Parried
-On Was Parried
 ![[../img/nd_img_OnWasParried.png]]
 
 |Inputs||

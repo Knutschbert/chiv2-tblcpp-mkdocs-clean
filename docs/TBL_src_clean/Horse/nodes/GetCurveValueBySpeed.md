@@ -1,5 +1,4 @@
 ## Get Curve Value by Speed
-Get Curve Value by Speed
 ![[../img/nd_img_GetCurveValueBySpeed.png]]
 
 |Inputs||

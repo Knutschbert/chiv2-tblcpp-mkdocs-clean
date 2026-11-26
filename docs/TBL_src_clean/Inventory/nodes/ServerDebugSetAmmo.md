@@ -1,5 +1,4 @@
 ## Server Debug Set Ammo
-Server Debug Set Ammo
 ![[../img/nd_img_ServerDebugSetAmmo.png]]
 
 |Inputs||

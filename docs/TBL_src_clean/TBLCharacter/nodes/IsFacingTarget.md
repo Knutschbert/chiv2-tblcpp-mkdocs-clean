@@ -1,5 +1,4 @@
 ## Is Facing Target
-Is Facing Target
 ![[../img/nd_img_IsFacingTarget.png]]
 
 |Inputs||

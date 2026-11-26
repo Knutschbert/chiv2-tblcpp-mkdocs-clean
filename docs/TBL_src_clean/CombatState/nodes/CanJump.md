@@ -1,5 +1,4 @@
 ## Can Jump
-Can Jump
 ![[../img/nd_img_CanJump.png]]
 
 |Inputs||

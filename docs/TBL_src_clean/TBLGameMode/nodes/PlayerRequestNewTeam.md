@@ -1,5 +1,4 @@
 ## Player Request New Team
-Player Request New Team
 ![[../img/nd_img_PlayerRequestNewTeam.png]]
 
 |Inputs||

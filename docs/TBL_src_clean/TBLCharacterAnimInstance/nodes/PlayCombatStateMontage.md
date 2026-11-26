@@ -1,5 +1,4 @@
 ## Play Combat State Montage
-Play Combat State Montage
 ![[../img/nd_img_PlayCombatStateMontage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Event End Animation
-Event End Animation
 ![[../img/nd_img_EventEndAnimation.png]]
 
 |Inputs||

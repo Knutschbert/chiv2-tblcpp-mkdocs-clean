@@ -1,5 +1,4 @@
 ## Get Random Class Loadout
-Get Random Class Loadout
 ![[../img/nd_img_GetRandomClassLoadout.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Atlas Character Textures
-Atlas Character Textures
 ![[../img/nd_img_AtlasCharacterTextures.png]]
 
 |Inputs||

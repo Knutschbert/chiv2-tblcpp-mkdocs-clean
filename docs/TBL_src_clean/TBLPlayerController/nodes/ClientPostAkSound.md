@@ -1,5 +1,4 @@
 ## Client Post Ak Sound
-Client Post Ak Sound
 ![[../img/nd_img_ClientPostAkSound.png]]
 
 |Inputs||

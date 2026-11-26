@@ -1,5 +1,4 @@
 ## Menu Delete
-Menu Delete
 ![[../img/nd_img_MenuDelete.png]]
 
 |Inputs||

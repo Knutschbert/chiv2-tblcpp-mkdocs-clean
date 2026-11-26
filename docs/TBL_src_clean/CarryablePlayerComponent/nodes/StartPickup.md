@@ -1,5 +1,4 @@
 ## Start Pickup
-Start Pickup
 ![[../img/nd_img_StartPickup.png]]
 
 |Inputs||

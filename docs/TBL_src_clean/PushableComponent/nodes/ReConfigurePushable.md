@@ -1,5 +1,4 @@
 ## Re Configure Pushable
-Re Configure Pushable
 ![[../img/nd_img_ReConfigurePushable.png]]
 
 |Inputs||

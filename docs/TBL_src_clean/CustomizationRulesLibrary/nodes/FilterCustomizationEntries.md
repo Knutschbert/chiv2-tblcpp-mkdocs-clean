@@ -1,5 +1,4 @@
 ## Filter Customization Entries
-Filter Customization Entries
 ![[../img/nd_img_FilterCustomizationEntries.png]]
 
 |Inputs||

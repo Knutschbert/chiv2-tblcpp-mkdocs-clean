@@ -1,5 +1,4 @@
 ## Server on Loadout Screen State
-Server on Loadout Screen State
 ![[../img/nd_img_ServerOnLoadoutScreenState.png]]
 
 |Inputs||

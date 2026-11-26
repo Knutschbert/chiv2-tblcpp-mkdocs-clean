@@ -1,5 +1,4 @@
 ## Handle Delayed Hits Cosmetic
-Handle Delayed Hits Cosmetic
 ![[../img/nd_img_HandleDelayedHitsCosmetic.png]]
 
 |Inputs||

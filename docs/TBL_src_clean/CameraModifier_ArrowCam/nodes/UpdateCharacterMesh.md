@@ -1,5 +1,4 @@
 ## Update Character Mesh
-Update Character Mesh
 ![[../img/nd_img_UpdateCharacterMesh.png]]
 
 |Inputs||

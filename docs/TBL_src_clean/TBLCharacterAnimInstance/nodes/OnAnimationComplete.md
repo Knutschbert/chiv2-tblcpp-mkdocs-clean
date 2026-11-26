@@ -1,5 +1,4 @@
 ## On Animation Complete
-On Animation Complete
 ![[../img/nd_img_OnAnimationComplete.png]]
 
 |Inputs||

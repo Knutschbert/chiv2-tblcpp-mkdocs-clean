@@ -1,5 +1,4 @@
 ## Show Message Dialog
-Show Message Dialog
 ![[../img/nd_img_ShowMessageDialog.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Request Analytics Stop
-Server Request Analytics Stop
 ![[../img/nd_img_ServerRequestAnalyticsStop.png]]
 
 |Inputs||

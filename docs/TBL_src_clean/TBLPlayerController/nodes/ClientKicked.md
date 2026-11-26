@@ -1,5 +1,4 @@
 ## Client Kicked
-Client Kicked
 ![[../img/nd_img_ClientKicked.png]]
 
 |Inputs||

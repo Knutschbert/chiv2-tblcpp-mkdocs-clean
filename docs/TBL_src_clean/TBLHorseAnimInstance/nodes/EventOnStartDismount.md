@@ -1,5 +1,4 @@
 ## Event on Start Dismount
-Event on Start Dismount
 ![[../img/nd_img_EventOnStartDismount.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Crosshair Gameplay Event
-Crosshair Gameplay Event
 ![[../img/nd_img_CrosshairGameplayEvent.png]]
 
 |Inputs||

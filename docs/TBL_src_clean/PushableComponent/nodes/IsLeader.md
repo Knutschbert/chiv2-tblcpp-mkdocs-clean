@@ -1,5 +1,4 @@
 ## Is Leader
-Is Leader
 ![[../img/nd_img_IsLeader.png]]
 
 |Inputs||

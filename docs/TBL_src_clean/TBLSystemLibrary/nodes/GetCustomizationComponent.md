@@ -1,5 +1,4 @@
 ## Get Customization Component
-Get Customization Component
 ![[../img/nd_img_GetCustomizationComponent.png]]
 
 |Inputs||

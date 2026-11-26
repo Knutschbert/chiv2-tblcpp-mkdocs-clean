@@ -1,5 +1,4 @@
 ## Party Kick Exec
-Party Kick Exec
 ![[../img/nd_img_PartyKickExec.png]]
 
 |Inputs||

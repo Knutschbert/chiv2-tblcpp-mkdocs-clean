@@ -1,5 +1,4 @@
 ## Event on Wants to Gallop
-Event on Wants to Gallop
 ![[../img/nd_img_EventOnWantsToGallop.png]]
 
 |Inputs||

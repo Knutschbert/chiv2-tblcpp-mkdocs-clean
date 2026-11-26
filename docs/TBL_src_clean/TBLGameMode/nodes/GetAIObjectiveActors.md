@@ -1,5 +1,4 @@
 ## Get AIObjective Actors
-Get AIObjective Actors
 ![[../img/nd_img_GetAIObjectiveActors.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Verify Customization Online Ownership
-Verify Customization Online Ownership
 ![[../img/nd_img_VerifyCustomizationOnlineOwnership.png]]
 
 |Inputs||

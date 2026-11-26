@@ -1,5 +1,4 @@
 ## Impact Slowdown
-Impact Slowdown
 ![[../img/nd_img_ImpactSlowdown.png]]
 
 |Inputs||

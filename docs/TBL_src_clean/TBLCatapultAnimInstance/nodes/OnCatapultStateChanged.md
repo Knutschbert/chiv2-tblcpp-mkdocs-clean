@@ -1,5 +1,4 @@
 ## On Catapult State Changed
-On Catapult State Changed
 ![[../img/nd_img_OnCatapultStateChanged.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Stat Changed
-On Stat Changed
 ![[../img/nd_img_OnStatChanged.png]]
 
 |Inputs||

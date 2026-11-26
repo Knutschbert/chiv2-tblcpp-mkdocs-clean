@@ -1,5 +1,4 @@
 ## On Carryable Parent Combat State Begin
-On Carryable Parent Combat State Begin
 ![[../img/nd_img_OnCarryableParent_CombatStateBegin.png]]
 
 |Inputs||

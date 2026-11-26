@@ -1,5 +1,4 @@
 ## On Pushable Activated
-On Pushable Activated
 ![[../img/nd_img_OnPushableActivated.png]]
 
 |Inputs||

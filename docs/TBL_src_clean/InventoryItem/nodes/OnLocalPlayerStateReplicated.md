@@ -1,5 +1,4 @@
 ## On Local Player State Replicated
-On Local Player State Replicated
 ![[../img/nd_img_OnLocalPlayerStateReplicated.png]]
 
 |Inputs||

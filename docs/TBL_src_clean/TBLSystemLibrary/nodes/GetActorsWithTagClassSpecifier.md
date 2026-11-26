@@ -1,5 +1,4 @@
 ## Get Actors with Tag Class Specifier
-Get Actors with Tag Class Specifier
 ![[../img/nd_img_GetActorsWithTagClassSpecifier.png]]
 
 |Inputs||

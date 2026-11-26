@@ -1,5 +1,4 @@
 ## Broadcast Horse to Character Impact
-Broadcast Horse to Character Impact
 ![[../img/nd_img_BroadcastHorseToCharacterImpact.png]]
 
 |Inputs||

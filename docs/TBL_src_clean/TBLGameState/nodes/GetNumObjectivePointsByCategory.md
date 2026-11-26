@@ -1,5 +1,4 @@
 ## Get Num Objective Points by Category
-Get Num Objective Points by Category
 ![[../img/nd_img_GetNumObjectivePointsByCategory.png]]
 
 |Inputs||

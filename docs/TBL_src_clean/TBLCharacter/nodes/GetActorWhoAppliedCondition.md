@@ -1,5 +1,4 @@
 ## Get Actor Who Applied Condition
-Get Actor Who Applied Condition
 ![[../img/nd_img_GetActorWhoAppliedCondition.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Begin Overlap
-Client Begin Overlap
 ![[../img/nd_img_ClientBeginOverlap.png]]
 
 |Inputs||

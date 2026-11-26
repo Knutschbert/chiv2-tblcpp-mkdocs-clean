@@ -1,5 +1,4 @@
 ## Is Time Available
-Is Time Available
 ![[../img/nd_img_IsTimeAvailable.png]]
 
 |Inputs||

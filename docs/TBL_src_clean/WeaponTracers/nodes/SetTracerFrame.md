@@ -1,5 +1,4 @@
 ## Set Tracer Frame
-Set Tracer Frame
 ![[../img/nd_img_SetTracerFrame.png]]
 
 |Inputs||

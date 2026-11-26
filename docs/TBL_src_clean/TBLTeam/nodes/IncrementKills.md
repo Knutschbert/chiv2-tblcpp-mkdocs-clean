@@ -1,5 +1,4 @@
 ## Increment Kills
-Increment Kills
 ![[../img/nd_img_IncrementKills.png]]
 
 |Inputs||

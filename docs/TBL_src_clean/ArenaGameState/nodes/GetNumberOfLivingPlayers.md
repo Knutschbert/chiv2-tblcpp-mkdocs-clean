@@ -1,5 +1,4 @@
 ## Get Number Of Living Players
-Get Number Of Living Players
 ![[../img/nd_img_GetNumberOfLivingPlayers.png]]
 
 |Inputs||

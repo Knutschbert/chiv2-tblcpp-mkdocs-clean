@@ -1,5 +1,4 @@
 ## Get Queued Attack Type Category
-Get Queued Attack Type Category
 ![[../img/nd_img_GetQueuedAttackTypeCategory.png]]
 
 |Inputs||

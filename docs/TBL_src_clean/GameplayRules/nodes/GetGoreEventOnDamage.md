@@ -1,5 +1,4 @@
 ## Get Gore Event on Damage
-Get Gore Event on Damage
 ![[../img/nd_img_GetGoreEventOnDamage.png]]
 
 |Inputs||

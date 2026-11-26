@@ -1,5 +1,4 @@
 ## Get Instant Kick Speed
-Get Instant Kick Speed
 ![[../img/nd_img_GetInstantKickSpeed.png]]
 
 |Inputs||

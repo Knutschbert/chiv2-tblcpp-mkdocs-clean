@@ -1,5 +1,4 @@
 ## Toggle Show Both Meshes
-Toggle Show Both Meshes
 ![[../img/nd_img_ToggleShowBothMeshes.png]]
 
 |Inputs||

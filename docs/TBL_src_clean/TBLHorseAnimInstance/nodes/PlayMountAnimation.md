@@ -1,5 +1,4 @@
 ## Play Mount Animation
-Play Mount Animation
 ![[../img/nd_img_PlayMountAnimation.png]]
 
 |Inputs||

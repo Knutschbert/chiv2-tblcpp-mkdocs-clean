@@ -1,5 +1,4 @@
 ## Reverse Pushable by Distance
-Reverse Pushable by Distance
 ![[../img/nd_img_ReversePushableByDistance.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Can Character Subclass Use Primary Weapon
-Can Character Subclass Use Primary Weapon
 ![[../img/nd_img_CanCharacterSubclassUsePrimaryWeapon.png]]
 
 |Inputs||

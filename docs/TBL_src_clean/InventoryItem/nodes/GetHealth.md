@@ -1,5 +1,4 @@
 ## Get Health
-Get Health
 ![[../img/nd_img_GetHealth.png]]
 
 |Inputs||

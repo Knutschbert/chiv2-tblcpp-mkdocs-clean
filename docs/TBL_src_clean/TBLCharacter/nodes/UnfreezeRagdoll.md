@@ -1,5 +1,4 @@
 ## Unfreeze Ragdoll
-Unfreeze Ragdoll
 ![[../img/nd_img_UnfreezeRagdoll.png]]
 
 |Inputs||

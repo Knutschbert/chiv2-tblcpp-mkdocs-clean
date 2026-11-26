@@ -1,5 +1,4 @@
 ## Did Hit Dead Horse
-Did Hit Dead Horse
 ![[../img/nd_img_DidHitDeadHorse.png]]
 
 |Inputs||

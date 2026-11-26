@@ -1,5 +1,4 @@
 ## Get Interaction Type
-Get Interaction Type
 ![[../img/nd_img_GetInteractionType.png]]
 
 |Inputs||

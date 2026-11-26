@@ -1,5 +1,4 @@
 ## On Parry Break
-On Parry Break
 ![[../img/nd_img_OnParryBreak.png]]
 
 |Inputs||

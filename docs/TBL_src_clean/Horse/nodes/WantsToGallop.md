@@ -1,5 +1,4 @@
 ## Wants to Gallop
-Wants to Gallop
 ![[../img/nd_img_WantsToGallop.png]]
 
 |Inputs||

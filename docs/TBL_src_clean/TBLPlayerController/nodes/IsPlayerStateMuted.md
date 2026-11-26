@@ -1,5 +1,4 @@
 ## Is Player State Muted
-Is Player State Muted
 ![[../img/nd_img_IsPlayerStateMuted.png]]
 
 |Inputs||

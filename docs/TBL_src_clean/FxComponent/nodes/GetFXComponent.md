@@ -1,5 +1,4 @@
 ## Get FXComponent
-Get FXComponent
 ![[../img/nd_img_GetFXComponent.png]]
 
 |Inputs||

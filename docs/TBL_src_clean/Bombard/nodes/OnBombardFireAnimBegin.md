@@ -1,5 +1,4 @@
 ## On Bombard Fire Anim Begin
-On Bombard Fire Anim Begin
 ![[../img/nd_img_OnBombardFireAnimBegin.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Suicide
-On Suicide
 ![[../img/nd_img_OnSuicide.png]]
 
 |Inputs||

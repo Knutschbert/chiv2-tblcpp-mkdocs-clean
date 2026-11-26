@@ -1,5 +1,4 @@
 ## Set Shadow Color and Opacity
-Set Shadow Color and Opacity
 ![[../img/nd_img_SetShadowColorAndOpacity.png]]
 
 |Inputs||

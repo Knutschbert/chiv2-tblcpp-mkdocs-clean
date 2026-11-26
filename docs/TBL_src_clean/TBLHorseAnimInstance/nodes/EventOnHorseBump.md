@@ -1,5 +1,4 @@
 ## Event on Horse Bump
-Event on Horse Bump
 ![[../img/nd_img_EventOnHorseBump.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Arrow Cam Game Pad Released
-Arrow Cam Game Pad Released
 ![[../img/nd_img_ArrowCamGamePadReleased.png]]
 
 |Inputs||

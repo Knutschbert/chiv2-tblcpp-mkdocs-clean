@@ -1,5 +1,4 @@
 ## Get Cached Data
-Get Cached Data
 ![[../img/nd_img_GetCachedData.png]]
 
 |Inputs||

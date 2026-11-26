@@ -1,5 +1,4 @@
 ## Clear Spectator Cams
-Clear Spectator Cams
 ![[../img/nd_img_ClearSpectatorCams.png]]
 
 |Inputs||

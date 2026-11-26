@@ -1,5 +1,4 @@
 ## Give Weapon
-Give Weapon
 ![[../img/nd_img_GiveWeapon.png]]
 
 |Inputs||

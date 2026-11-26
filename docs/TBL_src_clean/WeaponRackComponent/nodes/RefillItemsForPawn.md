@@ -1,5 +1,4 @@
 ## Refill Items for Pawn
-Refill Items for Pawn
 ![[../img/nd_img_RefillItemsForPawn.png]]
 
 |Inputs||

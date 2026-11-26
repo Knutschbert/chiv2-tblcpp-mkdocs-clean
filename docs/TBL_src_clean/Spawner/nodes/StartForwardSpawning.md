@@ -1,5 +1,4 @@
 ## Start Forward Spawning
-Start Forward Spawning
 ![[../img/nd_img_StartForwardSpawning.png]]
 
 |Inputs||

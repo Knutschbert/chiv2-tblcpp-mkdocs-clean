@@ -1,5 +1,4 @@
 ## On Loaded Ammo Porjectile Movement Finished
-On Loaded Ammo Porjectile Movement Finished
 ![[../img/nd_img_OnLoadedAmmoPorjectileMovementFinished.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Recharge Rule
-Get Recharge Rule
 ![[../img/nd_img_GetRechargeRule.png]]
 
 |Inputs||

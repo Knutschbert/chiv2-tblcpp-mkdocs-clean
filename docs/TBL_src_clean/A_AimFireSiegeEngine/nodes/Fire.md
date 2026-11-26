@@ -1,5 +1,4 @@
 ## Fire
-Fire
 ![[../img/nd_img_Fire.png]]
 
 |Inputs||

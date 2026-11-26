@@ -1,5 +1,4 @@
 ## Set Color Parameter Value on Materials
-Set Color Parameter Value on Materials
 ![[../img/nd_img_SetColorParameterValueOnMaterials.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Ladder Montage Ended
-Ladder Montage Ended
 ![[../img/nd_img_LadderMontageEnded.png]]
 
 |Inputs||

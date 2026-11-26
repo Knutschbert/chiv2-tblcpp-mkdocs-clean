@@ -1,5 +1,4 @@
 ## Reset Native Achievements
-Reset Native Achievements
 ![[../img/nd_img_ResetNativeAchievements.png]]
 
 |Inputs||

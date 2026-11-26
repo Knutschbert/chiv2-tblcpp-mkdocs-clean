@@ -1,5 +1,4 @@
 ## Deactivate Marker
-Deactivate Marker
 ![[../img/nd_img_DeactivateMarker.png]]
 
 |Inputs||

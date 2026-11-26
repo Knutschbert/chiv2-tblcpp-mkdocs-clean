@@ -1,5 +1,4 @@
 ## Client on Player Revived
-Client on Player Revived
 ![[../img/nd_img_ClientOnPlayerRevived.png]]
 
 |Inputs||

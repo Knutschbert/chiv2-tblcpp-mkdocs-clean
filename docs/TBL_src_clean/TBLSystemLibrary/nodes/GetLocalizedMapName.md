@@ -1,5 +1,4 @@
 ## Get Localized Map Name
-Get Localized Map Name
 ![[../img/nd_img_GetLocalizedMapName.png]]
 
 |Inputs||

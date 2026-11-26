@@ -1,5 +1,4 @@
 ## Remove Friend from Blueprint Online User
-Remove Friend from Blueprint Online User
 ![[../img/nd_img_RemoveFriendFromBlueprintOnlineUser.png]]
 
 |Inputs||

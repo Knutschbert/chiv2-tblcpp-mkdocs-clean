@@ -1,5 +1,4 @@
 ## Spawn Movement Debugger
-Spawn Movement Debugger
 ![[../img/nd_img_SpawnMovementDebugger.png]]
 
 |Inputs||

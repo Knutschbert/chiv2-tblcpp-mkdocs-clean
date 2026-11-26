@@ -1,5 +1,4 @@
 ## Dismount Released
-Dismount Released
 ![[../img/nd_img_DismountReleased.png]]
 
 |Inputs||

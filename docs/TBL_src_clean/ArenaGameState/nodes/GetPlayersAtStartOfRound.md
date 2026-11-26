@@ -1,5 +1,4 @@
 ## Get Players at Start Of Round
-Get Players at Start Of Round
 ![[../img/nd_img_GetPlayersAtStartOfRound.png]]
 
 |Inputs||

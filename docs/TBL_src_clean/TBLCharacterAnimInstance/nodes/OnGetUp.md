@@ -1,5 +1,4 @@
 ## On Get Up
-On Get Up
 ![[../img/nd_img_OnGetUp.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Event on Sprint State
-Event on Sprint State
 ![[../img/nd_img_EventOnSprintState.png]]
 
 |Inputs||

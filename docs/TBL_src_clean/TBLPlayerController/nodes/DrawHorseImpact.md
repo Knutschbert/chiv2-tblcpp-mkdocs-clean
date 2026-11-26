@@ -1,5 +1,4 @@
 ## Draw Horse Impact
-Draw Horse Impact
 ![[../img/nd_img_DrawHorseImpact.png]]
 
 |Inputs||

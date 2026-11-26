@@ -1,5 +1,4 @@
 ## Get Actors by AITag
-Get Actors by AITag
 ![[../img/nd_img_GetActorsByAITag.png]]
 
 |Inputs||

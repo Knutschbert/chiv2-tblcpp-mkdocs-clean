@@ -1,5 +1,4 @@
 ## Did Hit in Release
-Did Hit in Release
 ![[../img/nd_img_DidHitInRelease.png]]
 
 |Inputs||

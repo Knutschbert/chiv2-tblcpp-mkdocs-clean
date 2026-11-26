@@ -1,5 +1,4 @@
 ## Get World Collision Rider
-Get World Collision Rider
 ![[../img/nd_img_GetWorldCollisionRider.png]]
 
 |Inputs||

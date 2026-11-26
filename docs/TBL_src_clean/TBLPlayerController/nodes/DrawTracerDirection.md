@@ -1,5 +1,4 @@
 ## Draw Tracer Direction
-Draw Tracer Direction
 ![[../img/nd_img_DrawTracerDirection.png]]
 
 |Inputs||

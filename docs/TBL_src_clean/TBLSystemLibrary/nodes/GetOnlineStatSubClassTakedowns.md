@@ -1,5 +1,4 @@
 ## Get Online Stat Sub Class Takedowns
-Get Online Stat Sub Class Takedowns
 ![[../img/nd_img_GetOnlineStatSubClassTakedowns.png]]
 
 |Inputs||

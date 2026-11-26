@@ -1,5 +1,4 @@
 ## Is Pawn Subclass
-Is Pawn Subclass
 ![[../img/nd_img_IsPawnSubclass.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Backfill Bot
-Is Backfill Bot
 ![[../img/nd_img_IsBackfillBot.png]]
 
 |Inputs||

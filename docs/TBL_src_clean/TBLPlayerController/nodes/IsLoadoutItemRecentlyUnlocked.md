@@ -1,5 +1,4 @@
 ## Is Loadout Item Recently Unlocked
-Is Loadout Item Recently Unlocked
 ![[../img/nd_img_IsLoadoutItemRecentlyUnlocked.png]]
 
 |Inputs||

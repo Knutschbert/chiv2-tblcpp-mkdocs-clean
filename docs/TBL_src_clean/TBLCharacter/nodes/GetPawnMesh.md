@@ -1,5 +1,4 @@
 ## Get Pawn Mesh
-Get Pawn Mesh
 ![[../img/nd_img_GetPawnMesh.png]]
 
 |Inputs||

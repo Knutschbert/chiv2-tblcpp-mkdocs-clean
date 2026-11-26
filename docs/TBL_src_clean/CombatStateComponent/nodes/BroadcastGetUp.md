@@ -1,5 +1,4 @@
 ## Broadcast Get Up
-Broadcast Get Up
 ![[../img/nd_img_BroadcastGetUp.png]]
 
 |Inputs||

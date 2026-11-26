@@ -1,5 +1,4 @@
 ## On Campaign List Ready
-On Campaign List Ready
 ![[../img/nd_img_OnCampaignListReady.png]]
 
 |Inputs||

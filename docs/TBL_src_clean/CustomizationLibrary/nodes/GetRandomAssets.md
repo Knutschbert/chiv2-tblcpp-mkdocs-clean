@@ -1,5 +1,4 @@
 ## Get Random Assets
-Get Random Assets
 ![[../img/nd_img_GetRandomAssets.png]]
 
 |Inputs||

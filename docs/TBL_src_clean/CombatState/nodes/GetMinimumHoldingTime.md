@@ -1,5 +1,4 @@
 ## Get Minimum Holding Time
-Get Minimum Holding Time
 ![[../img/nd_img_GetMinimumHoldingTime.png]]
 
 |Inputs||

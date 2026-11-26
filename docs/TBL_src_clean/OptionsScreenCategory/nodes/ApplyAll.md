@@ -1,5 +1,4 @@
 ## Apply All
-Apply All
 ![[../img/nd_img_ApplyAll.png]]
 
 |Inputs||

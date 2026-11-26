@@ -1,5 +1,4 @@
 ## Build Store Offers
-Build Store Offers
 ![[../img/nd_img_BuildStoreOffers.png]]
 
 |Inputs||

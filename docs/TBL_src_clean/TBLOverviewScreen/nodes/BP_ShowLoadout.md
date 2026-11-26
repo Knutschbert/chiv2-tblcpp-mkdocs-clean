@@ -1,5 +1,4 @@
 ## BP Show Loadout
-BP Show Loadout
 ![[../img/nd_img_BP_ShowLoadout.png]]
 
 |Inputs||

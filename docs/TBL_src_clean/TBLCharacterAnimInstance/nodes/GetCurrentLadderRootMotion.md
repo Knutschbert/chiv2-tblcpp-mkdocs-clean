@@ -1,5 +1,4 @@
 ## Get Current Ladder Root Motion
-Get Current Ladder Root Motion
 ![[../img/nd_img_GetCurrentLadderRootMotion.png]]
 
 |Inputs||

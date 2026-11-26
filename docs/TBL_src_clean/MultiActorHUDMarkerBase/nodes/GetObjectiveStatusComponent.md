@@ -1,5 +1,4 @@
 ## Get Objective Status Component
-Get Objective Status Component
 ![[../img/nd_img_GetObjectiveStatusComponent.png]]
 
 |Inputs||

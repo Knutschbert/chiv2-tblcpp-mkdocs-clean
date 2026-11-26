@@ -1,5 +1,4 @@
 ## Get Sphere Center
-Get Sphere Center
 ![[../img/nd_img_GetSphereCenter.png]]
 
 |Inputs||

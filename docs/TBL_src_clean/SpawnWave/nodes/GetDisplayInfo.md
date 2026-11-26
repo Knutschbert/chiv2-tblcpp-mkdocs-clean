@@ -1,5 +1,4 @@
 ## Get Display Info
-Get Display Info
 ![[../img/nd_img_GetDisplayInfo.png]]
 
 |Inputs||

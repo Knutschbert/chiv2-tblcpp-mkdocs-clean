@@ -1,5 +1,4 @@
 ## Get Ranged Inaccuracy
-Get Ranged Inaccuracy
 ![[../img/nd_img_GetRangedInaccuracy.png]]
 
 |Inputs||

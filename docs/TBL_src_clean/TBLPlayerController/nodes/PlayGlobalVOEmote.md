@@ -1,5 +1,4 @@
 ## Play Global VOEmote
-Play Global VOEmote
 ![[../img/nd_img_PlayGlobalVOEmote.png]]
 
 |Inputs||

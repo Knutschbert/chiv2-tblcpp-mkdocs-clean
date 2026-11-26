@@ -1,5 +1,4 @@
 ## Init HUD
-Init HUD
 ![[../img/nd_img_InitHUD.png]]
 
 |Inputs||

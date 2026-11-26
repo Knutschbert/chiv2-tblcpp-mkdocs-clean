@@ -1,5 +1,4 @@
 ## Get Owner Player Controller
-Get Owner Player Controller
 ![[../img/nd_img_GetOwnerPlayerController.png]]
 
 |Inputs||

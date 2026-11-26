@@ -1,5 +1,4 @@
 ## Server Start Spawn Bonus
-Server Start Spawn Bonus
 ![[../img/nd_img_ServerStartSpawnBonus.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Physics Mesh
-Get Physics Mesh
 ![[../img/nd_img_GetPhysicsMesh.png]]
 
 |Inputs||

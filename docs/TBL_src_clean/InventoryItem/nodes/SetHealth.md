@@ -1,5 +1,4 @@
 ## Set Health
-Set Health
 ![[../img/nd_img_SetHealth.png]]
 
 |Inputs||

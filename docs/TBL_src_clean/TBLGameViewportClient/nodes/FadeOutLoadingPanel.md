@@ -1,5 +1,4 @@
 ## Fade Out Loading Panel
-Fade Out Loading Panel
 ![[../img/nd_img_FadeOutLoadingPanel.png]]
 
 |Inputs||

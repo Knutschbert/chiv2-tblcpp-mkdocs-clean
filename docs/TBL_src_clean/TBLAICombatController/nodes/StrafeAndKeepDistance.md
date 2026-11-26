@@ -1,5 +1,4 @@
 ## Strafe and Keep Distance
-Strafe and Keep Distance
 ![[../img/nd_img_StrafeAndKeepDistance.png]]
 
 |Inputs||

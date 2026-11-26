@@ -1,5 +1,4 @@
 ## Say Chat Type
-Say Chat Type
 ![[../img/nd_img_SayChatType.png]]
 
 |Inputs||

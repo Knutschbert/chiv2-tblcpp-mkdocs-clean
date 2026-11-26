@@ -1,5 +1,4 @@
 ## Get Party Leader Exec
-Get Party Leader Exec
 ![[../img/nd_img_GetPartyLeaderExec.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Impact Turn
-Impact Turn
 ![[../img/nd_img_ImpactTurn.png]]
 
 |Inputs||

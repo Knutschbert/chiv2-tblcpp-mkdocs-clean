@@ -1,5 +1,4 @@
 ## Abandon Quest
-Abandon Quest
 ![[../img/nd_img_AbandonQuest.png]]
 
 |Inputs||

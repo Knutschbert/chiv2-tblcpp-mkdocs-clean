@@ -1,5 +1,4 @@
 ## Get Current Attack Direction
-Get Current Attack Direction
 ![[../img/nd_img_GetCurrentAttackDirection.png]]
 
 |Inputs||

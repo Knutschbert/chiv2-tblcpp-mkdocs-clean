@@ -1,5 +1,4 @@
 ## On Finished Blocked Movement Response
-On Finished Blocked Movement Response
 ![[../img/nd_img_OnFinishedBlockedMovementResponse.png]]
 
 |Inputs||

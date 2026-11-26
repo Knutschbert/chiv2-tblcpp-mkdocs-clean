@@ -1,5 +1,4 @@
 ## Display Debug Scroll Up
-Display Debug Scroll Up
 ![[../img/nd_img_DisplayDebugScrollUp.png]]
 
 |Inputs||

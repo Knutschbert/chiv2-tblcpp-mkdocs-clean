@@ -1,5 +1,4 @@
 ## On Pushable Begin Overlap
-On Pushable Begin Overlap
 ![[../img/nd_img_OnPushableBeginOverlap.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Revoke Sprint
-Revoke Sprint
 ![[../img/nd_img_RevokeSprint.png]]
 
 |Inputs||

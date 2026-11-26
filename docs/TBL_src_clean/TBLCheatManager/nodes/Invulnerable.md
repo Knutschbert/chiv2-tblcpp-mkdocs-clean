@@ -1,5 +1,4 @@
 ## Invulnerable
-Invulnerable
 ![[../img/nd_img_Invulnerable.png]]
 
 |Inputs||

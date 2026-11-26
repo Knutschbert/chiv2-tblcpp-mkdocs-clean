@@ -1,5 +1,4 @@
 ## Client Post AKSound at Location
-Client Post AKSound at Location
 ![[../img/nd_img_ClientPostAKSoundAtLocation.png]]
 
 |Inputs||

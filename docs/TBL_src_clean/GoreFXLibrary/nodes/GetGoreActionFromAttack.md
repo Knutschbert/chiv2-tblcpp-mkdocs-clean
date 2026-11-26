@@ -1,5 +1,4 @@
 ## Get Gore Action from Attack
-Get Gore Action from Attack
 ![[../img/nd_img_GetGoreActionFromAttack.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Time Remaining
-Get Time Remaining
 ![[../img/nd_img_GetTimeRemaining.png]]
 
 |Inputs||

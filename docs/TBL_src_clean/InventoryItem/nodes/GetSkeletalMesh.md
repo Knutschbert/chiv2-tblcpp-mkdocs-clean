@@ -1,5 +1,4 @@
 ## Get Skeletal Mesh
-Get Skeletal Mesh
 ![[../img/nd_img_GetSkeletalMesh.png]]
 
 |Inputs||

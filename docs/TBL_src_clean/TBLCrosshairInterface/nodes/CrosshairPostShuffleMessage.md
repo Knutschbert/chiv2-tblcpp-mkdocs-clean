@@ -1,5 +1,4 @@
 ## Crosshair Post Shuffle Message
-Crosshair Post Shuffle Message
 ![[../img/nd_img_CrosshairPostShuffleMessage.png]]
 
 |Inputs||

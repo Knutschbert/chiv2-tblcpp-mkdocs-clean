@@ -1,5 +1,4 @@
 ## Show Hint
-Show Hint
 ![[../img/nd_img_ShowHint.png]]
 
 |Inputs||

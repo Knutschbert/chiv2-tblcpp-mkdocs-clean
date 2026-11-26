@@ -1,5 +1,4 @@
 ## On Movement Changed in Jump Collider
-On Movement Changed in Jump Collider
 ![[../img/nd_img_OnMovementChangedInJumpCollider.png]]
 
 |Inputs||

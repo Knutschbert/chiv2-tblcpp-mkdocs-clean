@@ -1,5 +1,4 @@
 ## Set Show Debug Target Actor
-Set Show Debug Target Actor
 ![[../img/nd_img_SetShowDebugTargetActor.png]]
 
 |Inputs||

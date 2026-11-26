@@ -1,5 +1,4 @@
 ## Route on Key Up to Widget
-Route on Key Up to Widget
 ![[../img/nd_img_RouteOnKeyUpToWidget.png]]
 
 |Inputs||

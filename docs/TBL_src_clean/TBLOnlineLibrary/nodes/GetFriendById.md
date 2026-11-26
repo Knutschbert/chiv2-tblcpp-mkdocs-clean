@@ -1,5 +1,4 @@
 ## Get Friend by Id
-Get Friend by Id
 ![[../img/nd_img_GetFriendById.png]]
 
 |Inputs||

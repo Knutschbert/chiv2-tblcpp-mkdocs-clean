@@ -1,5 +1,4 @@
 ## Init Party Widget
-Init Party Widget
 ![[../img/nd_img_InitPartyWidget.png]]
 
 |Inputs||

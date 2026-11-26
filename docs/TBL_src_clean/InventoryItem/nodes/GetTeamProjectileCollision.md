@@ -1,5 +1,4 @@
 ## Get Team Projectile Collision
-Get Team Projectile Collision
 ![[../img/nd_img_GetTeamProjectileCollision.png]]
 
 |Inputs||

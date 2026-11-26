@@ -1,5 +1,4 @@
 ## Server Request Analytics Start
-Server Request Analytics Start
 ![[../img/nd_img_ServerRequestAnalyticsStart.png]]
 
 |Inputs||

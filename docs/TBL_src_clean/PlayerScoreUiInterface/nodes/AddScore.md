@@ -1,5 +1,4 @@
 ## Add Score
-Add Score
 ![[../img/nd_img_AddScore.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Add Constructable Actor
-Add Constructable Actor
 ![[../img/nd_img_AddConstructableActor.png]]
 
 |Inputs||

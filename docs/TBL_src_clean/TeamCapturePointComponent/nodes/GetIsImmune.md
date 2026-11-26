@@ -1,5 +1,4 @@
 ## Get Is Immune
-Get Is Immune
 ![[../img/nd_img_GetIsImmune.png]]
 
 |Inputs||

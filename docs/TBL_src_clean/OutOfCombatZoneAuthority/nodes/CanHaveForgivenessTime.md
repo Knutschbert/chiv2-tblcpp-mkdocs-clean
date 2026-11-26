@@ -1,5 +1,4 @@
 ## Can Have Forgiveness Time
-Can Have Forgiveness Time
 ![[../img/nd_img_CanHaveForgivenessTime.png]]
 
 |Inputs||

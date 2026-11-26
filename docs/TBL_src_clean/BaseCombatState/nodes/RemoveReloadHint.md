@@ -1,5 +1,4 @@
 ## Remove Reload Hint
-Remove Reload Hint
 ![[../img/nd_img_RemoveReloadHint.png]]
 
 |Inputs||

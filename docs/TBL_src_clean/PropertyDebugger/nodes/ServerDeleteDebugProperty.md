@@ -1,5 +1,4 @@
 ## Server Delete Debug Property
-Server Delete Debug Property
 ![[../img/nd_img_ServerDeleteDebugProperty.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Attach Camera to Projectile
-Attach Camera to Projectile
 ![[../img/nd_img_AttachCameraToProjectile.png]]
 
 |Inputs||

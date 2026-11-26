@@ -1,5 +1,4 @@
 ## On Outro Animation Done
-On Outro Animation Done
 ![[../img/nd_img_OnOutroAnimationDone.png]]
 
 |Inputs||

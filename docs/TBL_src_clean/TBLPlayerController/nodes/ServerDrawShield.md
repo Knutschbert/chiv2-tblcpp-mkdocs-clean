@@ -1,5 +1,4 @@
 ## Server Draw Shield
-Server Draw Shield
 ![[../img/nd_img_ServerDrawShield.png]]
 
 |Inputs||

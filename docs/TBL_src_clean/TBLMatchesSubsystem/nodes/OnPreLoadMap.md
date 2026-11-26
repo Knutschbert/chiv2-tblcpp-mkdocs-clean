@@ -1,5 +1,4 @@
 ## On Pre Load Map
-On Pre Load Map
 ![[../img/nd_img_OnPreLoadMap.png]]
 
 |Inputs||

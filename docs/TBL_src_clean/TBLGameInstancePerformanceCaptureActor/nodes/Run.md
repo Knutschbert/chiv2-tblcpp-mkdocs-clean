@@ -1,5 +1,4 @@
 ## Run
-Run
 ![[../img/nd_img_Run.png]]
 
 |Inputs||

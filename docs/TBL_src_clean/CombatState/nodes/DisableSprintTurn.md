@@ -1,5 +1,4 @@
 ## Disable Sprint Turn
-Disable Sprint Turn
 ![[../img/nd_img_DisableSprintTurn.png]]
 
 |Inputs||

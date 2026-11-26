@@ -1,5 +1,4 @@
 ## On Closed
-On Closed
 ![[../img/nd_img_OnClosed.png]]
 
 |Inputs||

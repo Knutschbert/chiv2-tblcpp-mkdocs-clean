@@ -1,5 +1,4 @@
 ## Get Fall Damage Scale
-Get Fall Damage Scale
 ![[../img/nd_img_GetFallDamageScale.png]]
 
 |Inputs||

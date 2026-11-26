@@ -1,5 +1,4 @@
 ## Blueprint Debug Menu
-Blueprint Debug Menu
 ![[../img/nd_img_BlueprintDebugMenu.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Create Sound Actor
-Create Sound Actor
 ![[../img/nd_img_CreateSoundActor.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Allowed Class
-Is Allowed Class
 ![[../img/nd_img_IsAllowedClass.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## K2 Should Ignore Marked Actor
-K2 Should Ignore Marked Actor
 ![[../img/nd_img_K2_ShouldIgnoreMarkedActor.png]]
 
 |Inputs||

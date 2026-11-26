@@ -1,5 +1,4 @@
 ## On Vault
-On Vault
 ![[../img/nd_img_OnVault.png]]
 
 |Inputs||

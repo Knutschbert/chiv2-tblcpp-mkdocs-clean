@@ -1,5 +1,4 @@
 ## On Input Exit Death Cam
-On Input Exit Death Cam
 ![[../img/nd_img_OnInputExitDeathCam.png]]
 
 |Inputs||

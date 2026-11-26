@@ -1,5 +1,4 @@
 ## Draw Tracer Cache
-Draw Tracer Cache
 ![[../img/nd_img_DrawTracerCache.png]]
 
 |Inputs||

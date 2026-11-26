@@ -1,5 +1,4 @@
 ## Is Campaign Owned
-Is Campaign Owned
 ![[../img/nd_img_IsCampaignOwned.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Kick No Driver
-On Kick No Driver
 ![[../img/nd_img_OnKickNoDriver.png]]
 
 |Inputs||

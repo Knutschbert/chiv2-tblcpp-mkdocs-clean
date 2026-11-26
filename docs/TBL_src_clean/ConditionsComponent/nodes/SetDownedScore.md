@@ -1,5 +1,4 @@
 ## Set Downed Score
-Set Downed Score
 ![[../img/nd_img_SetDownedScore.png]]
 
 |Inputs||

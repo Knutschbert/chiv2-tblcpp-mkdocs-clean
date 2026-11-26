@@ -1,5 +1,4 @@
 ## Stop Music
-Stop Music
 ![[../img/nd_img_StopMusic.png]]
 
 |Inputs||

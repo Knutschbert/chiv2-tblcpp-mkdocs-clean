@@ -1,5 +1,4 @@
 ## Free Cam
-Free Cam
 ![[../img/nd_img_FreeCam.png]]
 
 |Inputs||

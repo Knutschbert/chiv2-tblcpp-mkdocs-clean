@@ -1,5 +1,4 @@
 ## Broadcast Pause Ragdolls
-Broadcast Pause Ragdolls
 ![[../img/nd_img_BroadcastPauseRagdolls.png]]
 
 |Inputs||

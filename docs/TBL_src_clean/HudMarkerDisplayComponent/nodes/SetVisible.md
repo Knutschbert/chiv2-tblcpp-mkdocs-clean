@@ -1,5 +1,4 @@
 ## Set Visible
-Set Visible
 ![[../img/nd_img_SetVisible.png]]
 
 |Inputs||

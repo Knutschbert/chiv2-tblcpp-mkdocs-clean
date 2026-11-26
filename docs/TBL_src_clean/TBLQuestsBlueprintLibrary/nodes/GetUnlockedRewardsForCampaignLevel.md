@@ -1,5 +1,4 @@
 ## Get Unlocked Rewards for Campaign Level
-Get Unlocked Rewards for Campaign Level
 ![[../img/nd_img_GetUnlockedRewardsForCampaignLevel.png]]
 
 |Inputs||

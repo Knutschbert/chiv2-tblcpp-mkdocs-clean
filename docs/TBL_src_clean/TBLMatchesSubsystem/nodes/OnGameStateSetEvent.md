@@ -1,5 +1,4 @@
 ## On Game State Set Event
-On Game State Set Event
 ![[../img/nd_img_OnGameStateSetEvent.png]]
 
 |Inputs||

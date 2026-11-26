@@ -1,5 +1,4 @@
 ## Get Actor Materials
-Get Actor Materials
 ![[../img/nd_img_GetActorMaterials.png]]
 
 |Inputs||

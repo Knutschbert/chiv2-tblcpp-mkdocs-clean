@@ -1,5 +1,4 @@
 ## Broadcast Was Hit Early
-Broadcast Was Hit Early
 ![[../img/nd_img_BroadcastWasHitEarly.png]]
 
 |Inputs||

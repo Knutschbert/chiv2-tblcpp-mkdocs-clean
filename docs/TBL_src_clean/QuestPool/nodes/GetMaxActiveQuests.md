@@ -1,5 +1,4 @@
 ## Get Max Active Quests
-Get Max Active Quests
 ![[../img/nd_img_GetMaxActiveQuests.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Play Spawn Animation
-Play Spawn Animation
 ![[../img/nd_img_PlaySpawnAnimation.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Ack Done Travelling
-Client Ack Done Travelling
 ![[../img/nd_img_ClientAckDoneTravelling.png]]
 
 |Inputs||

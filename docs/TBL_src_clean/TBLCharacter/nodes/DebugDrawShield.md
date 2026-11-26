@@ -1,5 +1,4 @@
 ## Debug Draw Shield
-Debug Draw Shield
 ![[../img/nd_img_DebugDrawShield.png]]
 
 |Inputs||

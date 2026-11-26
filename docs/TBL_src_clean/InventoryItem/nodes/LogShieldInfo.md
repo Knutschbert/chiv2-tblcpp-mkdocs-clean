@@ -1,5 +1,4 @@
 ## Log Shield Info
-Log Shield Info
 ![[../img/nd_img_LogShieldInfo.png]]
 
 |Inputs||

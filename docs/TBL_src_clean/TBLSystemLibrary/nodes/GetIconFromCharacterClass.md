@@ -1,5 +1,4 @@
 ## Get Icon from Character Class
-Get Icon from Character Class
 ![[../img/nd_img_GetIconFromCharacterClass.png]]
 
 |Inputs||

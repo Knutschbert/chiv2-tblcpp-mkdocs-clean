@@ -1,5 +1,4 @@
 ## Slomo
-Slomo
 ![[../img/nd_img_Slomo.png]]
 
 |Inputs||

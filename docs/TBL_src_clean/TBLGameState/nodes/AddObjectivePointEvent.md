@@ -1,5 +1,4 @@
 ## Add Objective Point Event
-Add Objective Point Event
 ![[../img/nd_img_AddObjectivePointEvent.png]]
 
 |Inputs||

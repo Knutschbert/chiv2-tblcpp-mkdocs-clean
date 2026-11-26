@@ -1,5 +1,4 @@
 ## Debug Set Party Setting
-Debug Set Party Setting
 ![[../img/nd_img_DebugSetPartySetting.png]]
 
 |Inputs||

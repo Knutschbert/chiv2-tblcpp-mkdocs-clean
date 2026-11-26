@@ -1,5 +1,4 @@
 ## Send to All
-Send to All
 ![[../img/nd_img_SendToAll.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Target Character
-Set Target Character
 ![[../img/nd_img_SetTargetCharacter.png]]
 
 |Inputs||

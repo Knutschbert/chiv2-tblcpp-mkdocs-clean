@@ -1,5 +1,4 @@
 ## Play Inventory Animation
-Play Inventory Animation
 ![[../img/nd_img_PlayInventoryAnimation.png]]
 
 |Inputs||

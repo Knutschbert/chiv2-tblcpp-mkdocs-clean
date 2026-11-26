@@ -1,5 +1,4 @@
 ## Remove All Items
-Remove All Items
 ![[../img/nd_img_RemoveAllItems.png]]
 
 |Inputs||

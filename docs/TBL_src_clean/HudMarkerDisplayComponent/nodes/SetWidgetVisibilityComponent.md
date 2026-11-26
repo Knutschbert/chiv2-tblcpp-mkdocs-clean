@@ -1,5 +1,4 @@
 ## Set Widget Visibility Component
-Set Widget Visibility Component
 ![[../img/nd_img_SetWidgetVisibilityComponent.png]]
 
 |Inputs||

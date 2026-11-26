@@ -1,5 +1,4 @@
 ## Set Minimum Spawn Delay Override
-Set Minimum Spawn Delay Override
 ![[../img/nd_img_SetMinimumSpawnDelayOverride.png]]
 
 |Inputs||

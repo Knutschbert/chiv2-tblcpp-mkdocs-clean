@@ -1,5 +1,4 @@
 ## Client Receive Objective Context Message
-Client Receive Objective Context Message
 ![[../img/nd_img_ClientReceiveObjectiveContextMessage.png]]
 
 |Inputs||

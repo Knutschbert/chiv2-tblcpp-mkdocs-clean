@@ -1,5 +1,4 @@
 ## Bombard Load Item
-Bombard Load Item
 ![[../img/nd_img_BombardLoadItem.png]]
 
 |Inputs||

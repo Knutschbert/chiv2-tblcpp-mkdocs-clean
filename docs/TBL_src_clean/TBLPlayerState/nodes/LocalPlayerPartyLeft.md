@@ -1,5 +1,4 @@
 ## Local Player Party Left
-Local Player Party Left
 ![[../img/nd_img_LocalPlayerPartyLeft.png]]
 
 |Inputs||

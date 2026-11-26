@@ -1,5 +1,4 @@
 ## Play Low Priority Character Action Event
-Play Low Priority Character Action Event
 ![[../img/nd_img_PlayLowPriorityCharacterActionEvent.png]]
 
 |Inputs||

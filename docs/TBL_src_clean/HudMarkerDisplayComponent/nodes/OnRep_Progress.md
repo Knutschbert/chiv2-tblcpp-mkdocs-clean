@@ -1,5 +1,4 @@
 ## On Rep Progress
-On Rep Progress
 ![[../img/nd_img_OnRep_Progress.png]]
 
 |Inputs||

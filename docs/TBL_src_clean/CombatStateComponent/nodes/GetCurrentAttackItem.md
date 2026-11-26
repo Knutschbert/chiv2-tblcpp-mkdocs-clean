@@ -1,5 +1,4 @@
 ## Get Current Attack Item
-Get Current Attack Item
 ![[../img/nd_img_GetCurrentAttackItem.png]]
 
 |Inputs||

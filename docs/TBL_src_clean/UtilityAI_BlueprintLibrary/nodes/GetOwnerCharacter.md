@@ -1,5 +1,4 @@
 ## Get Owner Character
-Get Owner Character
 ![[../img/nd_img_GetOwnerCharacter.png]]
 
 |Inputs||

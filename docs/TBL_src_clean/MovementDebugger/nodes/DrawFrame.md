@@ -1,5 +1,4 @@
 ## Draw Frame
-Draw Frame
 ![[../img/nd_img_DrawFrame.png]]
 
 |Inputs||

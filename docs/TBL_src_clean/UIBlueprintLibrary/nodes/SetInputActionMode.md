@@ -1,5 +1,4 @@
 ## Set Input Action Mode
-Set Input Action Mode
 ![[../img/nd_img_SetInputActionMode.png]]
 
 |Inputs||

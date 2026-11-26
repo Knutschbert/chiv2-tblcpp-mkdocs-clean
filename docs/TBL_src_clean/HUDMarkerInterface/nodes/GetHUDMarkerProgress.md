@@ -1,5 +1,4 @@
 ## Get HUDMarker Progress
-Get HUDMarker Progress
 ![[../img/nd_img_GetHUDMarkerProgress.png]]
 
 |Inputs||

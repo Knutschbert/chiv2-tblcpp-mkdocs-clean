@@ -1,5 +1,4 @@
 ## Reset to Default
-Reset to Default
 ![[../img/nd_img_ResetToDefault.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Online Stat Sub Class Playtime
-Get Online Stat Sub Class Playtime
 ![[../img/nd_img_GetOnlineStatSubClassPlaytime.png]]
 
 |Inputs||

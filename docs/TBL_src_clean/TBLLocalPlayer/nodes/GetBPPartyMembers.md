@@ -1,5 +1,4 @@
 ## Get BPParty Members
-Get BPParty Members
 ![[../img/nd_img_GetBPPartyMembers.png]]
 
 |Inputs||

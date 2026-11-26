@@ -1,5 +1,4 @@
 ## Exec File Delay
-Exec File Delay
 ![[../img/nd_img_ExecFileDelay.png]]
 
 |Inputs||

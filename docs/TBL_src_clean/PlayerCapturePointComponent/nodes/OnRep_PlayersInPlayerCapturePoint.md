@@ -1,5 +1,4 @@
 ## On Rep Players in Player Capture Point
-On Rep Players in Player Capture Point
 ![[../img/nd_img_OnRep_PlayersInPlayerCapturePoint.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Image Downloaded
-On Image Downloaded
 ![[../img/nd_img_OnImageDownloaded.png]]
 
 |Inputs||

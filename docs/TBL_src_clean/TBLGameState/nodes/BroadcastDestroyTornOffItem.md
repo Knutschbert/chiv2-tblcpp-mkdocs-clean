@@ -1,5 +1,4 @@
 ## Broadcast Destroy Torn Off Item
-Broadcast Destroy Torn Off Item
 ![[../img/nd_img_BroadcastDestroyTornOffItem.png]]
 
 |Inputs||

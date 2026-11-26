@@ -1,5 +1,4 @@
 ## Get Team Score
-Get Team Score
 ![[../img/nd_img_GetTeamScore.png]]
 
 |Inputs||

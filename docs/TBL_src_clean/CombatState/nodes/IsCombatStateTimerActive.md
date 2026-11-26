@@ -1,5 +1,4 @@
 ## Is Combat State Timer Active
-Is Combat State Timer Active
 ![[../img/nd_img_IsCombatStateTimerActive.png]]
 
 |Inputs||

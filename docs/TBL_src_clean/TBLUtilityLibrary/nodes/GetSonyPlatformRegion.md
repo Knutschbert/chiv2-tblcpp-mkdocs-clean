@@ -1,5 +1,4 @@
 ## Get Sony Platform Region
-Get Sony Platform Region
 ![[../img/nd_img_GetSonyPlatformRegion.png]]
 
 |Inputs||

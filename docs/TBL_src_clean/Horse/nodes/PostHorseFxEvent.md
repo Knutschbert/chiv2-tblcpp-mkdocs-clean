@@ -1,5 +1,4 @@
 ## Post Horse Fx Event
-Post Horse Fx Event
 ![[../img/nd_img_PostHorseFxEvent.png]]
 
 |Inputs||

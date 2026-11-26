@@ -1,5 +1,4 @@
 ## Get Pushable Progress Summary
-Get Pushable Progress Summary
 ![[../img/nd_img_GetPushableProgressSummary.png]]
 
 |Inputs||

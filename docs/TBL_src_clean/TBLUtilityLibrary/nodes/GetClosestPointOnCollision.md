@@ -1,5 +1,4 @@
 ## Get Closest Point on Collision
-Get Closest Point on Collision
 ![[../img/nd_img_GetClosestPointOnCollision.png]]
 
 |Inputs||

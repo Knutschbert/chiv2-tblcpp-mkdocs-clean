@@ -1,5 +1,4 @@
 ## Get Platform
-Get Platform
 ![[../img/nd_img_GetPlatform.png]]
 
 |Inputs||

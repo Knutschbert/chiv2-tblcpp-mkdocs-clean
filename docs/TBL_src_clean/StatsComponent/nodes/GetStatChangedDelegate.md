@@ -1,5 +1,4 @@
 ## Get Stat Changed Delegate
-Get Stat Changed Delegate
 ![[../img/nd_img_GetStatChangedDelegate.png]]
 
 |Inputs||

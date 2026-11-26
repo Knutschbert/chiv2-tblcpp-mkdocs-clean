@@ -1,5 +1,4 @@
 ## On Rep Desired Pushed Velocity
-On Rep Desired Pushed Velocity
 ![[../img/nd_img_OnRep_DesiredPushedVelocity.png]]
 
 |Inputs||

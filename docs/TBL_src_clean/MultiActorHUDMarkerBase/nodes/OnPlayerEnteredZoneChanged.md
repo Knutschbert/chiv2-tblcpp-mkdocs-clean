@@ -1,5 +1,4 @@
 ## On Player Entered Zone Changed
-On Player Entered Zone Changed
 ![[../img/nd_img_OnPlayerEnteredZoneChanged.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Use Held Start
-Server Use Held Start
 ![[../img/nd_img_ServerUseHeldStart.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Value Text
-Get Value Text
 ![[../img/nd_img_GetValueText.png]]
 
 |Inputs||

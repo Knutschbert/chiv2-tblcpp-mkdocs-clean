@@ -1,5 +1,4 @@
 ## Do Battlecry Ability
-Do Battlecry Ability
 ![[../img/nd_img_DoBattlecryAbility.png]]
 
 |Inputs||

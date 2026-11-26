@@ -1,5 +1,4 @@
 ## Show Platform Specific Player Details
-Show Platform Specific Player Details
 ![[../img/nd_img_ShowPlatformSpecificPlayerDetails.png]]
 
 |Inputs||

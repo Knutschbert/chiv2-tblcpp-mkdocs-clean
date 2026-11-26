@@ -1,5 +1,4 @@
 ## Primary Asset IDTo Preview Camera
-Primary Asset IDTo Preview Camera
 ![[../img/nd_img_PrimaryAssetIDToPreviewCamera.png]]
 
 |Inputs||

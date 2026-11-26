@@ -1,5 +1,4 @@
 ## Get Current Attacking Weapons
-Get Current Attacking Weapons
 ![[../img/nd_img_GetCurrentAttackingWeapons.png]]
 
 |Inputs||

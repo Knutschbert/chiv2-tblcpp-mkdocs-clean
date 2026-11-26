@@ -1,5 +1,4 @@
 ## Client Approved Loadout
-Client Approved Loadout
 ![[../img/nd_img_ClientApprovedLoadout.png]]
 
 |Inputs||

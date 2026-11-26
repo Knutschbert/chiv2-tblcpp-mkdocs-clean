@@ -1,5 +1,4 @@
 ## Get Owner Customization Weapon Items
-Get Owner Customization Weapon Items
 ![[../img/nd_img_GetOwnerCustomizationWeaponItems.png]]
 
 |Inputs||

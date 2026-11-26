@@ -1,5 +1,4 @@
 ## Server Use Held Complete
-Server Use Held Complete
 ![[../img/nd_img_ServerUseHeldComplete.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Acknowledge Team Request
-Client Acknowledge Team Request
 ![[../img/nd_img_ClientAcknowledgeTeamRequest.png]]
 
 |Inputs||

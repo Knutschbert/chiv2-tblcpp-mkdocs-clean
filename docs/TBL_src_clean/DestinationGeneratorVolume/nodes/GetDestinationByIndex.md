@@ -1,5 +1,4 @@
 ## Get Destination by Index
-Get Destination by Index
 ![[../img/nd_img_GetDestinationByIndex.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## K2 Handle Skip Stage
-K2 Handle Skip Stage
 ![[../img/nd_img_K2_HandleSkipStage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Rider to World Impact
-Rider to World Impact
 ![[../img/nd_img_RiderToWorldImpact.png]]
 
 |Inputs||

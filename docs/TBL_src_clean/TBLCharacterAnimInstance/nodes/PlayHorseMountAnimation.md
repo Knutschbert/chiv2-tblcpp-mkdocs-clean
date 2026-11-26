@@ -1,5 +1,4 @@
 ## Play Horse Mount Animation
-Play Horse Mount Animation
 ![[../img/nd_img_PlayHorseMountAnimation.png]]
 
 |Inputs||

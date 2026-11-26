@@ -1,5 +1,4 @@
 ## Bind on Level Changed
-Bind on Level Changed
 ![[../img/nd_img_BindOnLevelChanged.png]]
 
 |Inputs||

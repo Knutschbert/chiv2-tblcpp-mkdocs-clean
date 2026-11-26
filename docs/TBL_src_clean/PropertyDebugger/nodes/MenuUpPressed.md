@@ -1,5 +1,4 @@
 ## Menu Up Pressed
-Menu Up Pressed
 ![[../img/nd_img_MenuUpPressed.png]]
 
 |Inputs||

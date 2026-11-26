@@ -1,5 +1,4 @@
 ## Get Relative Facing Angle
-Get Relative Facing Angle
 ![[../img/nd_img_GetRelativeFacingAngle.png]]
 
 |Inputs||

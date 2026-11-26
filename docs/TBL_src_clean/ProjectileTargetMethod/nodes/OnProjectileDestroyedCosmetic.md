@@ -1,5 +1,4 @@
 ## On Projectile Destroyed Cosmetic
-On Projectile Destroyed Cosmetic
 ![[../img/nd_img_OnProjectileDestroyedCosmetic.png]]
 
 |Inputs||

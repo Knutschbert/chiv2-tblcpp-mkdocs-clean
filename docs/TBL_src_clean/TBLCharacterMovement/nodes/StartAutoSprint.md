@@ -1,5 +1,4 @@
 ## Start Auto Sprint
-Start Auto Sprint
 ![[../img/nd_img_StartAutoSprint.png]]
 
 |Inputs||

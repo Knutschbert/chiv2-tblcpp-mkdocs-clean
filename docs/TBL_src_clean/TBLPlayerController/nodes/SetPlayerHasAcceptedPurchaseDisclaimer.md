@@ -1,5 +1,4 @@
 ## Set Player Has Accepted Purchase Disclaimer
-Set Player Has Accepted Purchase Disclaimer
 ![[../img/nd_img_SetPlayerHasAcceptedPurchaseDisclaimer.png]]
 
 |Inputs||

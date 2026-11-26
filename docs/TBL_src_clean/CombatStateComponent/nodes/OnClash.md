@@ -1,5 +1,4 @@
 ## On Clash
-On Clash
 ![[../img/nd_img_OnClash.png]]
 
 |Inputs||

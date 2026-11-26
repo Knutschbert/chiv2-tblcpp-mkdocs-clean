@@ -1,5 +1,4 @@
 ## Set Shadow Offset
-Set Shadow Offset
 ![[../img/nd_img_SetShadowOffset.png]]
 
 |Inputs||

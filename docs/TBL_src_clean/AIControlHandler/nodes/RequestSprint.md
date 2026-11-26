@@ -1,5 +1,4 @@
 ## Request Sprint
-Request Sprint
 ![[../img/nd_img_RequestSprint.png]]
 
 |Inputs||

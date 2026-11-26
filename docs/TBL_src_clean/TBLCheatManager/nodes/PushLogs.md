@@ -1,5 +1,4 @@
 ## Push Logs
-Push Logs
 ![[../img/nd_img_PushLogs.png]]
 
 |Inputs||

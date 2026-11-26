@@ -1,5 +1,4 @@
 ## Should Draw Debug Parry Hit
-Should Draw Debug Parry Hit
 ![[../img/nd_img_ShouldDrawDebugParryHit.png]]
 
 |Inputs||

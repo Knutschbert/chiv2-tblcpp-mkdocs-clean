@@ -1,5 +1,4 @@
 ## Request Gui Background
-Request Gui Background
 ![[../img/nd_img_RequestGuiBackground.png]]
 
 |Inputs||

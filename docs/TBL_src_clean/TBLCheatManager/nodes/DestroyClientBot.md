@@ -1,5 +1,4 @@
 ## Destroy Client Bot
-Destroy Client Bot
 ![[../img/nd_img_DestroyClientBot.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Dead Characters
-Update Dead Characters
 ![[../img/nd_img_UpdateDeadCharacters.png]]
 
 |Inputs||

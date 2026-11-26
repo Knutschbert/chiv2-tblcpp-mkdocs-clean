@@ -1,5 +1,4 @@
 ## Notify Controller Target
-Notify Controller Target
 ![[../img/nd_img_NotifyControllerTarget.png]]
 
 |Inputs||

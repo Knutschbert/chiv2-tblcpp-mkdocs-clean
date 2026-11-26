@@ -1,5 +1,4 @@
 ## On Countered Attack
-On Countered Attack
 ![[../img/nd_img_OnCounteredAttack.png]]
 
 |Inputs||

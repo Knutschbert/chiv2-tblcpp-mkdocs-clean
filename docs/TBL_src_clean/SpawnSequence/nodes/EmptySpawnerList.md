@@ -1,5 +1,4 @@
 ## Empty Spawner List
-Empty Spawner List
 ![[../img/nd_img_EmptySpawnerList.png]]
 
 |Inputs||

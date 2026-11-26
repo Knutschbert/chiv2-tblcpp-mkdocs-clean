@@ -1,5 +1,4 @@
 ## Set Audio Enemy RTPC
-Set Audio Enemy RTPC
 ![[../img/nd_img_SetAudioEnemyRTPC.png]]
 
 |Inputs||

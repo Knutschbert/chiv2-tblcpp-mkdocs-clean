@@ -1,5 +1,4 @@
 ## TBLApply Damage
-TBLApply Damage
 ![[../img/nd_img_TBLApplyDamage.png]]
 
 |Inputs||

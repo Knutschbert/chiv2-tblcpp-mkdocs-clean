@@ -1,5 +1,4 @@
 ## Blueprint Online User Equals
-Blueprint Online User Equals
 ![[../img/nd_img_BlueprintOnlineUserEquals.png]]
 
 |Inputs||

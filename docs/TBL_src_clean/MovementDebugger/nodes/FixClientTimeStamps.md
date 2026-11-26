@@ -1,5 +1,4 @@
 ## Fix Client Time Stamps
-Fix Client Time Stamps
 ![[../img/nd_img_FixClientTimeStamps.png]]
 
 |Inputs||

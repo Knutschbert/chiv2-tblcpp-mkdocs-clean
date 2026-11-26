@@ -1,5 +1,4 @@
 ## On Child Attached to Mesh
-On Child Attached to Mesh
 ![[../img/nd_img_OnChildAttachedToMesh.png]]
 
 |Inputs||

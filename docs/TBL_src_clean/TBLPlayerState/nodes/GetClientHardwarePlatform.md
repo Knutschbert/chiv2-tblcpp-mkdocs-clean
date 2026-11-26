@@ -1,5 +1,4 @@
 ## Get Client Hardware Platform
-Get Client Hardware Platform
 ![[../img/nd_img_GetClientHardwarePlatform.png]]
 
 |Inputs||

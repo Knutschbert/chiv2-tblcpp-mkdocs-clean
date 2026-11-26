@@ -1,5 +1,4 @@
 ## On Rep Added to Inventory
-On Rep Added to Inventory
 ![[../img/nd_img_OnRep_AddedToInventory.png]]
 
 |Inputs||

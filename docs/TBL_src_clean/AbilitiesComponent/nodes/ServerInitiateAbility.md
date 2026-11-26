@@ -1,5 +1,4 @@
 ## Server Initiate Ability
-Server Initiate Ability
 ![[../img/nd_img_ServerInitiateAbility.png]]
 
 |Inputs||

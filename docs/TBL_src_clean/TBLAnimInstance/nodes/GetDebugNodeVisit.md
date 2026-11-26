@@ -1,5 +1,4 @@
 ## Get Debug Node Visit
-Get Debug Node Visit
 ![[../img/nd_img_GetDebugNodeVisit.png]]
 
 |Inputs||

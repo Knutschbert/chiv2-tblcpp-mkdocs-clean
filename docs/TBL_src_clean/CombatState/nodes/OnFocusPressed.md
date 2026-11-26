@@ -1,5 +1,4 @@
 ## On Focus Pressed
-On Focus Pressed
 ![[../img/nd_img_OnFocusPressed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Valid Collision Components
-Get Valid Collision Components
 ![[../img/nd_img_GetValidCollisionComponents.png]]
 
 |Inputs||

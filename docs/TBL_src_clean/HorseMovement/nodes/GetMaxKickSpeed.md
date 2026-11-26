@@ -1,5 +1,4 @@
 ## Get Max Kick Speed
-Get Max Kick Speed
 ![[../img/nd_img_GetMaxKickSpeed.png]]
 
 |Inputs||

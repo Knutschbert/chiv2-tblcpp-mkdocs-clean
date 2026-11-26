@@ -1,5 +1,4 @@
 ## Force Immediate Respawn
-Force Immediate Respawn
 ![[../img/nd_img_ForceImmediateRespawn.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Cleanup
-Cleanup
 ![[../img/nd_img_Cleanup.png]]
 
 |Inputs||

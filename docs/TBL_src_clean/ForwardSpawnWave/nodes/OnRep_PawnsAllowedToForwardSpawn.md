@@ -1,5 +1,4 @@
 ## On Rep Pawns Allowed to Forward Spawn
-On Rep Pawns Allowed to Forward Spawn
 ![[../img/nd_img_OnRep_PawnsAllowedToForwardSpawn.png]]
 
 |Inputs||

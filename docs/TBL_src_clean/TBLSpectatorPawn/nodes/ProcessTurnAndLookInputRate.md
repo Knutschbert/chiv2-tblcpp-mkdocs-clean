@@ -1,5 +1,4 @@
 ## Process Turn and Look Input Rate
-Process Turn and Look Input Rate
 ![[../img/nd_img_ProcessTurnAndLookInputRate.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Server Identifier
-Get Server Identifier
 ![[../img/nd_img_GetServerIdentifier.png]]
 
 |Inputs||

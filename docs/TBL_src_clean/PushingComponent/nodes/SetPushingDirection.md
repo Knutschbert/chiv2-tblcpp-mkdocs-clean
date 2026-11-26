@@ -1,5 +1,4 @@
 ## Set Pushing Direction
-Set Pushing Direction
 ![[../img/nd_img_SetPushingDirection.png]]
 
 |Inputs||

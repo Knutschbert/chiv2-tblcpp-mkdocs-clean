@@ -1,5 +1,4 @@
 ## On Begin Overlap
-On Begin Overlap
 ![[../img/nd_img_OnBeginOverlap.png]]
 
 |Inputs||

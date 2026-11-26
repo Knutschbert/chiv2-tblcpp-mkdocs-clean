@@ -1,5 +1,4 @@
 ## Client Request Post Match Info
-Client Request Post Match Info
 ![[../img/nd_img_ClientRequestPostMatchInfo.png]]
 
 |Inputs||

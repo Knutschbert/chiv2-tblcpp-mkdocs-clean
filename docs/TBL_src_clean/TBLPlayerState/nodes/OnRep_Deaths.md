@@ -1,5 +1,4 @@
 ## On Rep Deaths
-On Rep Deaths
 ![[../img/nd_img_OnRep_Deaths.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Load Volume Begin Overlap
-On Load Volume Begin Overlap
 ![[../img/nd_img_OnLoadVolumeBeginOverlap.png]]
 
 |Inputs||

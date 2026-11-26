@@ -1,5 +1,4 @@
 ## Apply Damage Conditions
-Apply Damage Conditions
 ![[../img/nd_img_ApplyDamageConditions.png]]
 
 |Inputs||

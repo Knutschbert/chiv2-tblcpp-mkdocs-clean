@@ -1,5 +1,4 @@
 ## Start Parry Attack
-Start Parry Attack
 ![[../img/nd_img_StartParryAttack.png]]
 
 |Inputs||

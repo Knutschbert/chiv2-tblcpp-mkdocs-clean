@@ -1,5 +1,4 @@
 ## Set Player Has Played Tutorial
-Set Player Has Played Tutorial
 ![[../img/nd_img_SetPlayerHasPlayedTutorial.png]]
 
 |Inputs||

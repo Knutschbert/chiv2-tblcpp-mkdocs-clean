@@ -1,5 +1,4 @@
 ## Update Replay
-Update Replay
 ![[../img/nd_img_UpdateReplay.png]]
 
 |Inputs||

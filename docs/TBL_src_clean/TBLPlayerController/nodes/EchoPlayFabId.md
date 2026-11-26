@@ -1,5 +1,4 @@
 ## Echo Play Fab Id
-Echo Play Fab Id
 ![[../img/nd_img_EchoPlayFabId.png]]
 
 |Inputs||

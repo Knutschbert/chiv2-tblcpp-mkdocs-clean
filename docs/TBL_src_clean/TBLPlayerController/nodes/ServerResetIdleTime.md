@@ -1,5 +1,4 @@
 ## Server Reset Idle Time
-Server Reset Idle Time
 ![[../img/nd_img_ServerResetIdleTime.png]]
 
 |Inputs||

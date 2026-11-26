@@ -1,5 +1,4 @@
 ## Complete Stage
-Complete Stage
 ![[../img/nd_img_CompleteStage.png]]
 
 |Inputs||

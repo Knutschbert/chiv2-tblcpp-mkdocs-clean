@@ -1,5 +1,4 @@
 ## Get Heal Over Time Left
-Get Heal Over Time Left
 ![[../img/nd_img_GetHealOverTimeLeft.png]]
 
 |Inputs||

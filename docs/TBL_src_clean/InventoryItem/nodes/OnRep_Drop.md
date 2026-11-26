@@ -1,5 +1,4 @@
 ## On Rep Drop
-On Rep Drop
 ![[../img/nd_img_OnRep_Drop.png]]
 
 |Inputs||

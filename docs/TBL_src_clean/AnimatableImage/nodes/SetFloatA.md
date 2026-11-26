@@ -1,5 +1,4 @@
 ## Set Float A
-Set Float A
 ![[../img/nd_img_SetFloatA.png]]
 
 |Inputs||

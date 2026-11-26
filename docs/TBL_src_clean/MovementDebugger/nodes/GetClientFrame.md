@@ -1,5 +1,4 @@
 ## Get Client Frame
-Get Client Frame
 ![[../img/nd_img_GetClientFrame.png]]
 
 |Inputs||

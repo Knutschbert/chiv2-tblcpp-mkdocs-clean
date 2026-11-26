@@ -1,5 +1,4 @@
 ## On Catapult Fire No Driver
-On Catapult Fire No Driver
 ![[../img/nd_img_OnCatapultFireNoDriver.png]]
 
 |Inputs||

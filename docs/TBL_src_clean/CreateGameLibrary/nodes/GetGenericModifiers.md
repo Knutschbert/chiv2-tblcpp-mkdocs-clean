@@ -1,5 +1,4 @@
 ## Get Generic Modifiers
-Get Generic Modifiers
 ![[../img/nd_img_GetGenericModifiers.png]]
 
 |Inputs||

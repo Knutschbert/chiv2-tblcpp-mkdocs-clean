@@ -1,5 +1,4 @@
 ## Get Always on Music Manager
-Get Always on Music Manager
 ![[../img/nd_img_GetAlwaysOnMusicManager.png]]
 
 |Inputs||

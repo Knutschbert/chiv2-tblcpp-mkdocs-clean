@@ -1,5 +1,4 @@
 ## Get Current State Tag
-Get Current State Tag
 ![[../img/nd_img_GetCurrentStateTag.png]]
 
 |Inputs||

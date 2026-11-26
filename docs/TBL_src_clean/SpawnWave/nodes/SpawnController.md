@@ -1,5 +1,4 @@
 ## Spawn Controller
-Spawn Controller
 ![[../img/nd_img_SpawnController.png]]
 
 |Inputs||

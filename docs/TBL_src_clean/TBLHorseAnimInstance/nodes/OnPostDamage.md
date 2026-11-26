@@ -1,5 +1,4 @@
 ## On Post Damage
-On Post Damage
 ![[../img/nd_img_OnPostDamage.png]]
 
 |Inputs||

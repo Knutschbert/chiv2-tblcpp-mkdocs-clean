@@ -1,5 +1,4 @@
 ## Should Clear Debug Tracers
-Should Clear Debug Tracers
 ![[../img/nd_img_ShouldClearDebugTracers.png]]
 
 |Inputs||

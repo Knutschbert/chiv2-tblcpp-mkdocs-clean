@@ -1,5 +1,4 @@
 ## Record Capsule
-Record Capsule
 ![[../img/nd_img_RecordCapsule.png]]
 
 |Inputs||

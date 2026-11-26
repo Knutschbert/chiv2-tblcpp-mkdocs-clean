@@ -1,5 +1,4 @@
 ## Kill
-Kill
 ![[../img/nd_img_Kill.png]]
 
 |Inputs||

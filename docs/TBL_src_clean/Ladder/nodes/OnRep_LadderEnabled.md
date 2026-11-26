@@ -1,5 +1,4 @@
 ## On Rep Ladder Enabled
-On Rep Ladder Enabled
 ![[../img/nd_img_OnRep_LadderEnabled.png]]
 
 |Inputs||

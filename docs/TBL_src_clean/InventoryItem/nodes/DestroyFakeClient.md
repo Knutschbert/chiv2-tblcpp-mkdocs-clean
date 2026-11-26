@@ -1,5 +1,4 @@
 ## Destroy Fake Client
-Destroy Fake Client
 ![[../img/nd_img_DestroyFakeClient.png]]
 
 |Inputs||

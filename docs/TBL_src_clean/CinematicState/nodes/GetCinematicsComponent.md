@@ -1,5 +1,4 @@
 ## Get Cinematics Component
-Get Cinematics Component
 ![[../img/nd_img_GetCinematicsComponent.png]]
 
 |Inputs||

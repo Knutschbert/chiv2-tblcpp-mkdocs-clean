@@ -1,5 +1,4 @@
 ## Get Number Of Players on Faction
-Get Number Of Players on Faction
 ![[../img/nd_img_GetNumberOfPlayersOnFaction.png]]
 
 |Inputs||

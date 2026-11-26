@@ -1,5 +1,4 @@
 ## Award FFAVictory
-Award FFAVictory
 ![[../img/nd_img_AwardFFAVictory.png]]
 
 |Inputs||

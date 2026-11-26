@@ -1,5 +1,4 @@
 ## Add Achievement Progress
-Add Achievement Progress
 ![[../img/nd_img_AddAchievementProgress.png]]
 
 |Inputs||

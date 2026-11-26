@@ -1,5 +1,4 @@
 ## Clear Hint
-Clear Hint
 ![[../img/nd_img_ClearHint.png]]
 
 |Inputs||

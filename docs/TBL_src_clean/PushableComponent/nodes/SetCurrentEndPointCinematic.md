@@ -1,5 +1,4 @@
 ## Set Current End Point Cinematic
-Set Current End Point Cinematic
 ![[../img/nd_img_SetCurrentEndPointCinematic.png]]
 
 |Inputs||

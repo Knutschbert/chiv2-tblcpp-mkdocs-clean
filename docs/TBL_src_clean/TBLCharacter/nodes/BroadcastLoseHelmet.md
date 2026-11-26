@@ -1,5 +1,4 @@
 ## Broadcast Lose Helmet
-Broadcast Lose Helmet
 ![[../img/nd_img_BroadcastLoseHelmet.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Is Defending Team Allowed to Gain Score
-Set Is Defending Team Allowed to Gain Score
 ![[../img/nd_img_SetIsDefendingTeamAllowedToGainScore.png]]
 
 |Inputs||

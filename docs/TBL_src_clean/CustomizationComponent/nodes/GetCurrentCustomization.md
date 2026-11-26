@@ -1,5 +1,4 @@
 ## Get Current Customization
-Get Current Customization
 ![[../img/nd_img_GetCurrentCustomization.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Deactivated
-On Deactivated
 ![[../img/nd_img_OnDeactivated.png]]
 
 |Inputs||

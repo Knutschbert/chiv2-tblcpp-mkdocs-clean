@@ -1,5 +1,4 @@
 ## Should Block Same Attack
-Should Block Same Attack
 ![[../img/nd_img_ShouldBlockSameAttack.png]]
 
 |Inputs||

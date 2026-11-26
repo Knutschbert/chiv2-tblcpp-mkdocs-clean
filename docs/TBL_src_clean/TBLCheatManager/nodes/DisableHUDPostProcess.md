@@ -1,5 +1,4 @@
 ## Disable HUDPost Process
-Disable HUDPost Process
 ![[../img/nd_img_DisableHUDPostProcess.png]]
 
 |Inputs||

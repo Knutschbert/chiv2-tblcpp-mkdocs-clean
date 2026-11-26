@@ -1,5 +1,4 @@
 ## On Activate Ability
-On Activate Ability
 ![[../img/nd_img_OnActivateAbility.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Random Carryable
-Get Random Carryable
 ![[../img/nd_img_GetRandomCarryable.png]]
 
 |Inputs||

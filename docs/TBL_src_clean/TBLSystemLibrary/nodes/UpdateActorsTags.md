@@ -1,5 +1,4 @@
 ## Update Actors Tags
-Update Actors Tags
 ![[../img/nd_img_UpdateActorsTags.png]]
 
 |Inputs||

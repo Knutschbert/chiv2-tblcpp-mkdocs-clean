@@ -1,5 +1,4 @@
 ## Get Max Horse Count
-Get Max Horse Count
 ![[../img/nd_img_GetMaxHorseCount.png]]
 
 |Inputs||

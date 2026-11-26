@@ -1,5 +1,4 @@
 ## Get Owner Customization Items
-Get Owner Customization Items
 ![[../img/nd_img_GetOwnerCustomizationItems.png]]
 
 |Inputs||

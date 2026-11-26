@@ -1,5 +1,4 @@
 ## On Damaged
-On Damaged
 ![[../img/nd_img_OnDamaged.png]]
 
 |Inputs||

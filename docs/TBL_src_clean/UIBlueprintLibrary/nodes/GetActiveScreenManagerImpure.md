@@ -1,5 +1,4 @@
 ## Get Active Screen Manager Impure
-Get Active Screen Manager Impure
 ![[../img/nd_img_GetActiveScreenManagerImpure.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Can Mount
-Can Mount
 ![[../img/nd_img_CanMount.png]]
 
 |Inputs||

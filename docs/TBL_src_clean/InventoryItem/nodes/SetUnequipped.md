@@ -1,5 +1,4 @@
 ## Set Unequipped
-Set Unequipped
 ![[../img/nd_img_SetUnequipped.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Horse Damaged
-On Horse Damaged
 ![[../img/nd_img_OnHorseDamaged.png]]
 
 |Inputs||

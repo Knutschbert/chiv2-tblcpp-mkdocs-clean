@@ -1,5 +1,4 @@
 ## Can Player Vote
-Can Player Vote
 ![[../img/nd_img_CanPlayerVote.png]]
 
 |Inputs||

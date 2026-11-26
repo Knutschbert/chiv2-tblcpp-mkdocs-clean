@@ -1,5 +1,4 @@
 ## Drop Item
-Drop Item
 ![[../img/nd_img_DropItem.png]]
 
 |Inputs||

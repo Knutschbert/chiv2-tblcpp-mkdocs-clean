@@ -1,5 +1,4 @@
 ## Server Show Debug Capture
-Server Show Debug Capture
 ![[../img/nd_img_ServerShowDebugCapture.png]]
 
 |Inputs||

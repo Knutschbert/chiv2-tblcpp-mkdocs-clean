@@ -1,5 +1,4 @@
 ## Set Url
-Set Url
 ![[../img/nd_img_SetUrl.png]]
 
 |Inputs||

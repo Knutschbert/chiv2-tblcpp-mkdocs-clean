@@ -1,5 +1,4 @@
 ## Remove Block
-Remove Block
 ![[../img/nd_img_RemoveBlock.png]]
 
 |Inputs||

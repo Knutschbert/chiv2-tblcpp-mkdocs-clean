@@ -1,5 +1,4 @@
 ## Get Combat State Component
-Get Combat State Component
 ![[../img/nd_img_GetCombatStateComponent.png]]
 
 |Inputs||

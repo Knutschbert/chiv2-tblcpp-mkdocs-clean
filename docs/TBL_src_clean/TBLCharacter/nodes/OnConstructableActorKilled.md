@@ -1,5 +1,4 @@
 ## On Constructable Actor Killed
-On Constructable Actor Killed
 ![[../img/nd_img_OnConstructableActorKilled.png]]
 
 |Inputs||

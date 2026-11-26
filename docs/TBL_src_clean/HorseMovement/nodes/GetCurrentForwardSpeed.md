@@ -1,5 +1,4 @@
 ## Get Current Forward Speed
-Get Current Forward Speed
 ![[../img/nd_img_GetCurrentForwardSpeed.png]]
 
 |Inputs||

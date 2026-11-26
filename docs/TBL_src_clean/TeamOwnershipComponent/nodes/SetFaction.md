@@ -1,5 +1,4 @@
 ## Set Faction
-Set Faction
 ![[../img/nd_img_SetFaction.png]]
 
 |Inputs||

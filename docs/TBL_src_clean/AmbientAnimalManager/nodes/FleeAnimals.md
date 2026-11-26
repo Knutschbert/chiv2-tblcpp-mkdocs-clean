@@ -1,5 +1,4 @@
 ## Flee Animals
-Flee Animals
 ![[../img/nd_img_FleeAnimals.png]]
 
 |Inputs||

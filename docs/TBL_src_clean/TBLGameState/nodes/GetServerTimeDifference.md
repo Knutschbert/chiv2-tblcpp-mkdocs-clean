@@ -1,5 +1,4 @@
 ## Get Server Time Difference
-Get Server Time Difference
 ![[../img/nd_img_GetServerTimeDifference.png]]
 
 |Inputs||

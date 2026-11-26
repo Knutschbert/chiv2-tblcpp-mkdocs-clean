@@ -1,5 +1,4 @@
 ## Apply Random Asset
-Apply Random Asset
 ![[../img/nd_img_ApplyRandomAsset.png]]
 
 |Inputs||

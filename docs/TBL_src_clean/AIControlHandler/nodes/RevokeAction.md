@@ -1,5 +1,4 @@
 ## Revoke Action
-Revoke Action
 ![[../img/nd_img_RevokeAction.png]]
 
 |Inputs||

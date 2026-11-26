@@ -1,5 +1,4 @@
 ## Event Unfreeze Ragdoll Physics
-Event Unfreeze Ragdoll Physics
 ![[../img/nd_img_EventUnfreezeRagdollPhysics.png]]
 
 |Inputs||

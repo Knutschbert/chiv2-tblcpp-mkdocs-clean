@@ -1,5 +1,4 @@
 ## On Player Team Replicated
-On Player Team Replicated
 ![[../img/nd_img_OnPlayerTeamReplicated.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Move Input
-Move Input
 ![[../img/nd_img_MoveInput.png]]
 
 |Inputs||

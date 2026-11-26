@@ -1,5 +1,4 @@
 ## Purchase Offer
-Purchase Offer
 ![[../img/nd_img_PurchaseOffer.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Dump Replication Counts
-Dump Replication Counts
 ![[../img/nd_img_DumpReplicationCounts.png]]
 
 |Inputs||

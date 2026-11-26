@@ -1,5 +1,4 @@
 ## Client Draw Debug String
-Client Draw Debug String
 ![[../img/nd_img_ClientDrawDebugString.png]]
 
 |Inputs||

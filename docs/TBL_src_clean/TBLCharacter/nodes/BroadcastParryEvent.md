@@ -1,5 +1,4 @@
 ## Broadcast Parry Event
-Broadcast Parry Event
 ![[../img/nd_img_BroadcastParryEvent.png]]
 
 |Inputs||

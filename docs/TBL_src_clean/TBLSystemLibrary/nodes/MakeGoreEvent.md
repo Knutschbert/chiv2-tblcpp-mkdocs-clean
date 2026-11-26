@@ -1,5 +1,4 @@
 ## Make Gore Event
-Make Gore Event
 ![[../img/nd_img_MakeGoreEvent.png]]
 
 |Inputs||

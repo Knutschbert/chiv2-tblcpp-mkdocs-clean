@@ -1,5 +1,4 @@
 ## Client Apply Condition
-Client Apply Condition
 ![[../img/nd_img_ClientApplyCondition.png]]
 
 |Inputs||

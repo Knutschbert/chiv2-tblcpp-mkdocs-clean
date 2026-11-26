@@ -1,5 +1,4 @@
 ## Get Faction Color
-Get Faction Color
 ![[../img/nd_img_GetFactionColor.png]]
 
 |Inputs||

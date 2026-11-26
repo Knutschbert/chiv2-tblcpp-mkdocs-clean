@@ -1,5 +1,4 @@
 ## Get Uses
-Get Uses
 ![[../img/nd_img_GetUses.png]]
 
 |Inputs||

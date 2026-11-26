@@ -1,5 +1,4 @@
 ## Get HUDMarker Component
-Get HUDMarker Component
 ![[../img/nd_img_GetHUDMarkerComponent.png]]
 
 |Inputs||

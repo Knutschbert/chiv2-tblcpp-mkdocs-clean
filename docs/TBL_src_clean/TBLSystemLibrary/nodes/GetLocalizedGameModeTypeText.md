@@ -1,5 +1,4 @@
 ## Get Localized Game Mode Type Text
-Get Localized Game Mode Type Text
 ![[../img/nd_img_GetLocalizedGameModeTypeText.png]]
 
 |Inputs||

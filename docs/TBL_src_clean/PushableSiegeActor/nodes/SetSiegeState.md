@@ -1,5 +1,4 @@
 ## Set Siege State
-Set Siege State
 ![[../img/nd_img_SetSiegeState.png]]
 
 |Inputs||

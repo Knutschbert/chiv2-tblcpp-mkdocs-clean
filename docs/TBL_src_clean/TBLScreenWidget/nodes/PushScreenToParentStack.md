@@ -1,5 +1,4 @@
 ## Push Screen to Parent Stack
-Push Screen to Parent Stack
 ![[../img/nd_img_PushScreenToParentStack.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Attack Montage Section Changed
-On Attack Montage Section Changed
 ![[../img/nd_img_OnAttackMontageSectionChanged.png]]
 
 |Inputs||

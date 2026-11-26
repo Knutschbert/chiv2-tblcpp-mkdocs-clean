@@ -1,5 +1,4 @@
 ## Get Siege Engine Combat State Component
-Get Siege Engine Combat State Component
 ![[../img/nd_img_GetSiegeEngineCombatStateComponent.png]]
 
 |Inputs||

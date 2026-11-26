@@ -1,5 +1,4 @@
 ## Pause AI
-Pause AI
 ![[../img/nd_img_PauseAI.png]]
 
 |Inputs||

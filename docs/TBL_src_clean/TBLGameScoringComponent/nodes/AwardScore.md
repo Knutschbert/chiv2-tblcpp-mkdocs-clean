@@ -1,5 +1,4 @@
 ## Award Score
-Award Score
 ![[../img/nd_img_AwardScore.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## What Build
-What Build
 ![[../img/nd_img_WhatBuild.png]]
 
 |Inputs||

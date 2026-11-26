@@ -1,5 +1,4 @@
 ## Get Weekly Quests
-Get Weekly Quests
 ![[../img/nd_img_GetWeeklyQuests.png]]
 
 |Inputs||

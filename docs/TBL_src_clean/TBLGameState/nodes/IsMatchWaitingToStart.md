@@ -1,5 +1,4 @@
 ## Is Match Waiting to Start
-Is Match Waiting to Start
 ![[../img/nd_img_IsMatchWaitingToStart.png]]
 
 |Inputs||

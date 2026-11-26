@@ -1,5 +1,4 @@
 ## Handle Owner Pre Broadcast Damage
-Handle Owner Pre Broadcast Damage
 ![[../img/nd_img_HandleOwnerPreBroadcastDamage.png]]
 
 |Inputs||

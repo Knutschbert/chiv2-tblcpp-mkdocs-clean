@@ -1,5 +1,4 @@
 ## Server Spawn Gore Head
-Server Spawn Gore Head
 ![[../img/nd_img_ServerSpawnGoreHead.png]]
 
 |Inputs||

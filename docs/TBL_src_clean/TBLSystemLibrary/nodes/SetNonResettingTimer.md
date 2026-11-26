@@ -1,5 +1,4 @@
 ## Set Non Resetting Timer
-Set Non Resetting Timer
 ![[../img/nd_img_SetNonResettingTimer.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Record Bone Chain
-Record Bone Chain
 ![[../img/nd_img_RecordBoneChain.png]]
 
 |Inputs||

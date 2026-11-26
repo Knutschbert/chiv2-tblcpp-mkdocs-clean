@@ -1,5 +1,4 @@
 ## Is VOBank Loaded
-Is VOBank Loaded
 ![[../img/nd_img_IsVOBankLoaded.png]]
 
 |Inputs||

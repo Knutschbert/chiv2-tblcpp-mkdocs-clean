@@ -1,5 +1,4 @@
 ## Set Ammo
-Set Ammo
 ![[../img/nd_img_SetAmmo.png]]
 
 |Inputs||

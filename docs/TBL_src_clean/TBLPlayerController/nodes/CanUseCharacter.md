@@ -1,5 +1,4 @@
 ## Can Use Character
-Can Use Character
 ![[../img/nd_img_CanUseCharacter.png]]
 
 |Inputs||

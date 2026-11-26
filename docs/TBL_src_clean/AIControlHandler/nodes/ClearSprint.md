@@ -1,5 +1,4 @@
 ## Clear Sprint
-Clear Sprint
 ![[../img/nd_img_ClearSprint.png]]
 
 |Inputs||

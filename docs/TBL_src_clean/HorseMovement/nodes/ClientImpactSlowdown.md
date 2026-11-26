@@ -1,5 +1,4 @@
 ## Client Impact Slowdown
-Client Impact Slowdown
 ![[../img/nd_img_ClientImpactSlowdown.png]]
 
 |Inputs||

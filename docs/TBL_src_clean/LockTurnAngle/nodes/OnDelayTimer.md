@@ -1,5 +1,4 @@
 ## On Delay Timer
-On Delay Timer
 ![[../img/nd_img_OnDelayTimer.png]]
 
 |Inputs||

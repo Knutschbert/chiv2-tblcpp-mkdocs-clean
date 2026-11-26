@@ -1,5 +1,4 @@
 ## Is Admin BP
-Is Admin BP
 ![[../img/nd_img_IsAdminBP.png]]
 
 |Inputs||

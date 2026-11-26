@@ -1,5 +1,4 @@
 ## Set Visible to Team
-Set Visible to Team
 ![[../img/nd_img_SetVisibleToTeam.png]]
 
 |Inputs||

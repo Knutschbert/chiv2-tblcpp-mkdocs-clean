@@ -1,5 +1,4 @@
 ## Client Notify Pending Spawn
-Client Notify Pending Spawn
 ![[../img/nd_img_ClientNotifyPendingSpawn.png]]
 
 |Inputs||

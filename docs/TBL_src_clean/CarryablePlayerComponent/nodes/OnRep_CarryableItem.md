@@ -1,5 +1,4 @@
 ## On Rep Carryable Item
-On Rep Carryable Item
 ![[../img/nd_img_OnRep_CarryableItem.png]]
 
 |Inputs||

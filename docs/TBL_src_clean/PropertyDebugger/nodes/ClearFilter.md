@@ -1,5 +1,4 @@
 ## Clear Filter
-Clear Filter
 ![[../img/nd_img_ClearFilter.png]]
 
 |Inputs||

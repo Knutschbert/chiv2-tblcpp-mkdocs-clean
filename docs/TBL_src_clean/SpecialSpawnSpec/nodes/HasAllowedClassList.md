@@ -1,5 +1,4 @@
 ## Has Allowed Class List
-Has Allowed Class List
 ![[../img/nd_img_HasAllowedClassList.png]]
 
 |Inputs||

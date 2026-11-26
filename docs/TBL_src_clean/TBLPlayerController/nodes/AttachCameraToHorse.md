@@ -1,5 +1,4 @@
 ## Attach Camera to Horse
-Attach Camera to Horse
 ![[../img/nd_img_AttachCameraToHorse.png]]
 
 |Inputs||

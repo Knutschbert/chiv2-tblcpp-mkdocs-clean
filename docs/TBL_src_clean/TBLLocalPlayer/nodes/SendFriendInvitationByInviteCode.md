@@ -1,5 +1,4 @@
 ## Send Friend Invitation by Invite Code
-Send Friend Invitation by Invite Code
 ![[../img/nd_img_SendFriendInvitationByInviteCode.png]]
 
 |Inputs||

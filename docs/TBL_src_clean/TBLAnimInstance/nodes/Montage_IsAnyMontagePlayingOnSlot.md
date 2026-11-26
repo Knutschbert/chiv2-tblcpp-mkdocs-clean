@@ -1,5 +1,4 @@
 ## Montage Is Any Montage Playing on Slot
-Montage Is Any Montage Playing on Slot
 ![[../img/nd_img_Montage_IsAnyMontagePlayingOnSlot.png]]
 
 |Inputs||

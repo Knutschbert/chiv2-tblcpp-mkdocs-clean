@@ -1,5 +1,4 @@
 ## Server Remove Held Input
-Server Remove Held Input
 ![[../img/nd_img_ServerRemoveHeldInput.png]]
 
 |Inputs||

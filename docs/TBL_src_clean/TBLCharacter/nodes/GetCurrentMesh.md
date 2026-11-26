@@ -1,5 +1,4 @@
 ## Get Current Mesh
-Get Current Mesh
 ![[../img/nd_img_GetCurrentMesh.png]]
 
 |Inputs||

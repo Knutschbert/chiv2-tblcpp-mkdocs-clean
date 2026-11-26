@@ -1,5 +1,4 @@
 ## Has Speed for Attack
-Has Speed for Attack
 ![[../img/nd_img_HasSpeedForAttack.png]]
 
 |Inputs||

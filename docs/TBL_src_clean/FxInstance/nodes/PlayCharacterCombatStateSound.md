@@ -1,5 +1,4 @@
 ## Play Character Combat State Sound
-Play Character Combat State Sound
 ![[../img/nd_img_PlayCharacterCombatStateSound.png]]
 
 |Inputs||

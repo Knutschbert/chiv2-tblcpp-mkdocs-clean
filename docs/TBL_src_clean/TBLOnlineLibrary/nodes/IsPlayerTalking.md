@@ -1,5 +1,4 @@
 ## Is Player Talking
-Is Player Talking
 ![[../img/nd_img_IsPlayerTalking.png]]
 
 |Inputs||

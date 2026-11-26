@@ -1,5 +1,4 @@
 ## Bot Gods Become Mortal
-Bot Gods Become Mortal
 ![[../img/nd_img_BotGodsBecomeMortal.png]]
 
 |Inputs||

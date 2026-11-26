@@ -1,5 +1,4 @@
 ## On Actor Destroyed
-On Actor Destroyed
 ![[../img/nd_img_OnActorDestroyed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Component Overlap
-On Component Overlap
 ![[../img/nd_img_OnComponentOverlap.png]]
 
 |Inputs||

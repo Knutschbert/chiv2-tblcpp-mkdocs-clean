@@ -1,5 +1,4 @@
 ## List Players
-List Players
 ![[../img/nd_img_ListPlayers.png]]
 
 |Inputs||

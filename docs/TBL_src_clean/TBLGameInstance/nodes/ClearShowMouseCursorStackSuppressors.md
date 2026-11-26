@@ -1,5 +1,4 @@
 ## Clear Show Mouse Cursor Stack Suppressors
-Clear Show Mouse Cursor Stack Suppressors
 ![[../img/nd_img_ClearShowMouseCursorStackSuppressors.png]]
 
 |Inputs||

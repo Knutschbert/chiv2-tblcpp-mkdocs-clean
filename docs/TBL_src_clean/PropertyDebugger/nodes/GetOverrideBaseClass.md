@@ -1,5 +1,4 @@
 ## Get Override Base Class
-Get Override Base Class
 ![[../img/nd_img_GetOverrideBaseClass.png]]
 
 |Inputs||

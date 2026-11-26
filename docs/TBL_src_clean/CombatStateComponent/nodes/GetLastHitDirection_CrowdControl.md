@@ -1,5 +1,4 @@
 ## Get Last Hit Direction Crowd Control
-Get Last Hit Direction Crowd Control
 ![[../img/nd_img_GetLastHitDirection_CrowdControl.png]]
 
 |Inputs||

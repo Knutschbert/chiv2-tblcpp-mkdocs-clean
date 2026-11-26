@@ -1,5 +1,4 @@
 ## Set Enabled Render Main Scene
-Set Enabled Render Main Scene
 ![[../img/nd_img_SetEnabledRenderMainScene.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Character Audio Type
-Get Character Audio Type
 ![[../img/nd_img_GetCharacterAudioType.png]]
 
 |Inputs||

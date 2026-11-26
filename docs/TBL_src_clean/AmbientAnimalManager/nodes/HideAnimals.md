@@ -1,5 +1,4 @@
 ## Hide Animals
-Hide Animals
 ![[../img/nd_img_HideAnimals.png]]
 
 |Inputs||

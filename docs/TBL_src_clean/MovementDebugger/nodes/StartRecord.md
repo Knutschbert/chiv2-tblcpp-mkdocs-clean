@@ -1,5 +1,4 @@
 ## Start Record
-Start Record
 ![[../img/nd_img_StartRecord.png]]
 
 |Inputs||

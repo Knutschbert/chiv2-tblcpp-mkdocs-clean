@@ -1,5 +1,4 @@
 ## Add Sub Score Event
-Add Sub Score Event
 ![[../img/nd_img_AddSubScoreEvent.png]]
 
 |Inputs||

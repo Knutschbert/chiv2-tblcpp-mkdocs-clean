@@ -1,5 +1,4 @@
 ## Event Tick
-Event Tick
 ![[../img/nd_img_EventTick.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Allowed Damaging Faction
-Set Allowed Damaging Faction
 ![[../img/nd_img_SetAllowedDamagingFaction.png]]
 
 |Inputs||

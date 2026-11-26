@@ -1,5 +1,4 @@
 ## Terminate
-Terminate
 ![[../img/nd_img_Terminate.png]]
 
 |Inputs||

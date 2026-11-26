@@ -1,5 +1,4 @@
 ## Kick by Net Id with Timer
-Kick by Net Id with Timer
 ![[../img/nd_img_KickByNetIdWithTimer.png]]
 
 |Inputs||

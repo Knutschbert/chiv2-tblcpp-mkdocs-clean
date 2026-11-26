@@ -1,5 +1,4 @@
 ## Award Override Score to Player
-Award Override Score to Player
 ![[../img/nd_img_AwardOverrideScoreToPlayer.png]]
 
 |Inputs||

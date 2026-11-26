@@ -1,5 +1,4 @@
 ## Event Hit
-Event Hit
 ![[../img/nd_img_EventHit.png]]
 
 |Inputs||

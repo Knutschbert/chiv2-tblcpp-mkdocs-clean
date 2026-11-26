@@ -1,5 +1,4 @@
 ## On Create Exit Dialog
-On Create Exit Dialog
 ![[../img/nd_img_OnCreateExitDialog.png]]
 
 |Inputs||

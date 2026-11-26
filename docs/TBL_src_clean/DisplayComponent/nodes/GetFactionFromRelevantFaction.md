@@ -1,5 +1,4 @@
 ## Get Faction from Relevant Faction
-Get Faction from Relevant Faction
 ![[../img/nd_img_GetFactionFromRelevantFaction.png]]
 
 |Inputs||

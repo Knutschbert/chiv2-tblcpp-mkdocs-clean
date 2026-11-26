@@ -1,5 +1,4 @@
 ## Team Say
-Team Say
 ![[../img/nd_img_TeamSay.png]]
 
 |Inputs||

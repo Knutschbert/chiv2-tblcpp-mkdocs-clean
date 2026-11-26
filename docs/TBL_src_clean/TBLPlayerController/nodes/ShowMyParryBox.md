@@ -1,5 +1,4 @@
 ## Show My Parry Box
-Show My Parry Box
 ![[../img/nd_img_ShowMyParryBox.png]]
 
 |Inputs||

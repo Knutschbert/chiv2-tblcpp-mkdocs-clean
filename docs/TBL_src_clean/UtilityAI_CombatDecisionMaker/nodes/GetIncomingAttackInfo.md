@@ -1,5 +1,4 @@
 ## Get Incoming Attack Info
-Get Incoming Attack Info
 ![[../img/nd_img_GetIncomingAttackInfo.png]]
 
 |Inputs||

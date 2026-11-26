@@ -1,5 +1,4 @@
 ## Get Online Stat Weapon Deaths
-Get Online Stat Weapon Deaths
 ![[../img/nd_img_GetOnlineStatWeaponDeaths.png]]
 
 |Inputs||

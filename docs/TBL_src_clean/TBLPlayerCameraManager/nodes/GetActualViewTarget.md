@@ -1,5 +1,4 @@
 ## Get Actual View Target
-Get Actual View Target
 ![[../img/nd_img_GetActualViewTarget.png]]
 
 |Inputs||

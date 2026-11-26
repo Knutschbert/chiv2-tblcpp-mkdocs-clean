@@ -1,5 +1,4 @@
 ## Player Satisfies Capture Requirments
-Player Satisfies Capture Requirments
 ![[../img/nd_img_PlayerSatisfiesCaptureRequirments.png]]
 
 |Inputs||

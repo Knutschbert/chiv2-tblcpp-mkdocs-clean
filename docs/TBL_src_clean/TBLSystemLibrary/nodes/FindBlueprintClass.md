@@ -1,5 +1,4 @@
 ## Find Blueprint Class
-Find Blueprint Class
 ![[../img/nd_img_FindBlueprintClass.png]]
 
 |Inputs||

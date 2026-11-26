@@ -1,5 +1,4 @@
 ## Is Ghost Camera Mode
-Is Ghost Camera Mode
 ![[../img/nd_img_IsGhostCameraMode.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On VOIPTick
-On VOIPTick
 ![[../img/nd_img_OnVOIPTick.png]]
 
 |Inputs||

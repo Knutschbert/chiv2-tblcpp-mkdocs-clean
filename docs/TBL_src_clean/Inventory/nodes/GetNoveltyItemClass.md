@@ -1,5 +1,4 @@
 ## Get Novelty Item Class
-Get Novelty Item Class
 ![[../img/nd_img_GetNoveltyItemClass.png]]
 
 |Inputs||

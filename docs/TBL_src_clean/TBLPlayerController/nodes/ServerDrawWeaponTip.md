@@ -1,5 +1,4 @@
 ## Server Draw Weapon Tip
-Server Draw Weapon Tip
 ![[../img/nd_img_ServerDrawWeaponTip.png]]
 
 |Inputs||

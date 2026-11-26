@@ -1,5 +1,4 @@
 ## Broadcast Pending Spawn
-Broadcast Pending Spawn
 ![[../img/nd_img_BroadcastPendingSpawn.png]]
 
 |Inputs||

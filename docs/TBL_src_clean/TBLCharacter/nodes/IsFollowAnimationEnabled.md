@@ -1,5 +1,4 @@
 ## Is Follow Animation Enabled
-Is Follow Animation Enabled
 ![[../img/nd_img_IsFollowAnimationEnabled.png]]
 
 |Inputs||

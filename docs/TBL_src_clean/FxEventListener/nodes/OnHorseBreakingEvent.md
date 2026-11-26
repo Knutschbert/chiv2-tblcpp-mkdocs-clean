@@ -1,5 +1,4 @@
 ## On Horse Breaking Event
-On Horse Breaking Event
 ![[../img/nd_img_OnHorseBreakingEvent.png]]
 
 |Inputs||

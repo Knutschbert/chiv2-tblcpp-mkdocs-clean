@@ -1,5 +1,4 @@
 ## Add Viewed Item
-Add Viewed Item
 ![[../img/nd_img_AddViewedItem.png]]
 
 |Inputs||

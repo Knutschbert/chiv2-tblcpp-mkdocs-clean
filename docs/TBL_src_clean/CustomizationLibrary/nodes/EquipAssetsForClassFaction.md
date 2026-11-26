@@ -1,5 +1,4 @@
 ## Equip Assets for Class Faction
-Equip Assets for Class Faction
 ![[../img/nd_img_EquipAssetsForClassFaction.png]]
 
 |Inputs||

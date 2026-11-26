@@ -1,5 +1,4 @@
 ## Get Opposite Team
-Get Opposite Team
 ![[../img/nd_img_GetOppositeTeam.png]]
 
 |Inputs||

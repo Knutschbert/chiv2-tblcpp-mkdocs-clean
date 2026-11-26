@@ -1,5 +1,4 @@
 ## Get Faction Order
-Get Faction Order
 ![[../img/nd_img_GetFactionOrder.png]]
 
 |Inputs||

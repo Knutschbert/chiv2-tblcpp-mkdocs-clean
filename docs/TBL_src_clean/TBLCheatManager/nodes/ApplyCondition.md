@@ -1,5 +1,4 @@
 ## Apply Condition
-Apply Condition
 ![[../img/nd_img_ApplyCondition.png]]
 
 |Inputs||

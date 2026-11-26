@@ -1,5 +1,4 @@
 ## Get Preferred Faction
-Get Preferred Faction
 ![[../img/nd_img_GetPreferredFaction.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Spawnable Teams
-Get Spawnable Teams
 ![[../img/nd_img_GetSpawnableTeams.png]]
 
 |Inputs||

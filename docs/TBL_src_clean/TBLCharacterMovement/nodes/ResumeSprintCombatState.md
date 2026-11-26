@@ -1,5 +1,4 @@
 ## Resume Sprint Combat State
-Resume Sprint Combat State
 ![[../img/nd_img_ResumeSprintCombatState.png]]
 
 |Inputs||

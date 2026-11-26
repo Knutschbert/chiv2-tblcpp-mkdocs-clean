@@ -1,5 +1,4 @@
 ## Request Reject Spawn Wave
-Request Reject Spawn Wave
 ![[../img/nd_img_RequestRejectSpawnWave.png]]
 
 |Inputs||

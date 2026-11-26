@@ -1,5 +1,4 @@
 ## Get Campaign for Premium Good
-Get Campaign for Premium Good
 ![[../img/nd_img_GetCampaignForPremiumGood.png]]
 
 |Inputs||

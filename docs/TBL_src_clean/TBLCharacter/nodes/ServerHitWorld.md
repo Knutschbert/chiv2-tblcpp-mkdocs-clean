@@ -1,5 +1,4 @@
 ## Server Hit World
-Server Hit World
 ![[../img/nd_img_ServerHitWorld.png]]
 
 |Inputs||

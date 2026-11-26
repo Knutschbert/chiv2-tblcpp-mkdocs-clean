@@ -1,5 +1,4 @@
 ## On Collision Changed
-On Collision Changed
 ![[../img/nd_img_OnCollisionChanged.png]]
 
 |Inputs||

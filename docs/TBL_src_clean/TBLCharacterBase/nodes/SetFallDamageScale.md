@@ -1,5 +1,4 @@
 ## Set Fall Damage Scale
-Set Fall Damage Scale
 ![[../img/nd_img_SetFallDamageScale.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Mute Client
-Mute Client
 ![[../img/nd_img_MuteClient.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Category
-Set Category
 ![[../img/nd_img_SetCategory.png]]
 
 |Inputs||

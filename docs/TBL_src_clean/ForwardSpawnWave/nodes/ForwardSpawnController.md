@@ -1,5 +1,4 @@
 ## Forward Spawn Controller
-Forward Spawn Controller
 ![[../img/nd_img_ForwardSpawnController.png]]
 
 |Inputs||

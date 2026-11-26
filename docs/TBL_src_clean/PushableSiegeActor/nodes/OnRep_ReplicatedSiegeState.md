@@ -1,5 +1,4 @@
 ## On Rep Replicated Siege State
-On Rep Replicated Siege State
 ![[../img/nd_img_OnRep_ReplicatedSiegeState.png]]
 
 |Inputs||

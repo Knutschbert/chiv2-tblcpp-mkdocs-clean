@@ -1,5 +1,4 @@
 ## Get Defender Blocked Policy
-Get Defender Blocked Policy
 ![[../img/nd_img_GetDefenderBlockedPolicy.png]]
 
 |Inputs||

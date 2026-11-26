@@ -1,5 +1,4 @@
 ## Unlimited Ammo
-Unlimited Ammo
 ![[../img/nd_img_UnlimitedAmmo.png]]
 
 |Inputs||

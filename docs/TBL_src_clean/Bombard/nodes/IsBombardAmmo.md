@@ -1,5 +1,4 @@
 ## Is Bombard Ammo
-Is Bombard Ammo
 ![[../img/nd_img_IsBombardAmmo.png]]
 
 |Inputs||

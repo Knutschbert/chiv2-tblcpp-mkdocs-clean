@@ -1,5 +1,4 @@
 ## Client Cinematic Restrict Control
-Client Cinematic Restrict Control
 ![[../img/nd_img_ClientCinematicRestrictControl.png]]
 
 |Inputs||

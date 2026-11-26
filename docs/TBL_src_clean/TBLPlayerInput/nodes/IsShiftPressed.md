@@ -1,5 +1,4 @@
 ## Is Shift Pressed
-Is Shift Pressed
 ![[../img/nd_img_IsShiftPressed.png]]
 
 |Inputs||

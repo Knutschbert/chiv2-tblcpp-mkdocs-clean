@@ -1,5 +1,4 @@
 ## Released Menu Button
-Released Menu Button
 ![[../img/nd_img_ReleasedMenuButton.png]]
 
 |Inputs||

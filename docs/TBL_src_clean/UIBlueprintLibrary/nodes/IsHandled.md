@@ -1,5 +1,4 @@
 ## Is Handled
-Is Handled
 ![[../img/nd_img_IsHandled.png]]
 
 |Inputs||

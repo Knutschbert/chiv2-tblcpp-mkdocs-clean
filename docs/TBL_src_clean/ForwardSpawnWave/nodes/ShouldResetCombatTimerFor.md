@@ -1,5 +1,4 @@
 ## Should Reset Combat Timer For
-Should Reset Combat Timer For
 ![[../img/nd_img_ShouldResetCombatTimerFor.png]]
 
 |Inputs||

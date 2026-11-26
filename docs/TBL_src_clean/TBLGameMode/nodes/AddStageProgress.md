@@ -1,5 +1,4 @@
 ## Add Stage Progress
-Add Stage Progress
 ![[../img/nd_img_AddStageProgress.png]]
 
 |Inputs||

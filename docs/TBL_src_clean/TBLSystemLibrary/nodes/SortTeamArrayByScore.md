@@ -1,5 +1,4 @@
 ## Sort Team Array by Score
-Sort Team Array by Score
 ![[../img/nd_img_SortTeamArrayByScore.png]]
 
 |Inputs||

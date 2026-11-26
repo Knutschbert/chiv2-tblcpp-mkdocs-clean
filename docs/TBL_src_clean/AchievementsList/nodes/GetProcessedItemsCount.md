@@ -1,5 +1,4 @@
 ## Get Processed Items Count
-Get Processed Items Count
 ![[../img/nd_img_GetProcessedItemsCount.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Auto VODistance Sqrd by Type
-Get Auto VODistance Sqrd by Type
 ![[../img/nd_img_GetAutoVODistanceSqrdByType.png]]
 
 |Inputs||

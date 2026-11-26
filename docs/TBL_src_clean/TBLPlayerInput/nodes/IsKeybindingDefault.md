@@ -1,5 +1,4 @@
 ## Is Keybinding Default
-Is Keybinding Default
 ![[../img/nd_img_IsKeybindingDefault.png]]
 
 |Inputs||

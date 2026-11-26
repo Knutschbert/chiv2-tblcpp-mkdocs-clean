@@ -1,5 +1,4 @@
 ## Get All Components from Class
-Get All Components from Class
 ![[../img/nd_img_GetAllComponentsFromClass.png]]
 
 |Inputs||

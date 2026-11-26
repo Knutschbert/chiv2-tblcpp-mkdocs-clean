@@ -1,5 +1,4 @@
 ## Apply Knockback
-Apply Knockback
 ![[../img/nd_img_ApplyKnockback.png]]
 
 |Inputs||

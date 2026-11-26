@@ -1,5 +1,4 @@
 ## Auto Attack End Charge
-Auto Attack End Charge
 ![[../img/nd_img_AutoAttackEndCharge.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Ragdoll Enabled
-Is Ragdoll Enabled
 ![[../img/nd_img_IsRagdollEnabled.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Return Selected Class
-Client Return Selected Class
 ![[../img/nd_img_ClientReturnSelectedClass.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Newest Game Update
-Get Newest Game Update
 ![[../img/nd_img_GetNewestGameUpdate.png]]
 
 |Inputs||

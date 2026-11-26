@@ -1,5 +1,4 @@
 ## Client Draw Debug Point
-Client Draw Debug Point
 ![[../img/nd_img_ClientDrawDebugPoint.png]]
 
 |Inputs||

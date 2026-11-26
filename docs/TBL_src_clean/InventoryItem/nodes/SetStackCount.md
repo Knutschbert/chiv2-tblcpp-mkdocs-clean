@@ -1,5 +1,4 @@
 ## Set Stack Count
-Set Stack Count
 ![[../img/nd_img_SetStackCount.png]]
 
 |Inputs||

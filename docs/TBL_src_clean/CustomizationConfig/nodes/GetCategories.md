@@ -1,5 +1,4 @@
 ## Get Categories
-Get Categories
 ![[../img/nd_img_GetCategories.png]]
 
 |Inputs||

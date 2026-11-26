@@ -1,5 +1,4 @@
 ## Get Level from Item Id
-Get Level from Item Id
 ![[../img/nd_img_GetLevelFromItemId.png]]
 
 |Inputs||

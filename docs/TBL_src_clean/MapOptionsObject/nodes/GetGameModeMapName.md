@@ -1,5 +1,4 @@
 ## Get Game Mode Map Name
-Get Game Mode Map Name
 ![[../img/nd_img_GetGameModeMapName.png]]
 
 |Inputs||

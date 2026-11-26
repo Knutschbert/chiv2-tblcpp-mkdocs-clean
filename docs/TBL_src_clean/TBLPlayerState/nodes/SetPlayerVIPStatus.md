@@ -1,5 +1,4 @@
 ## Set Player VIPStatus
-Set Player VIPStatus
 ![[../img/nd_img_SetPlayerVIPStatus.png]]
 
 |Inputs||

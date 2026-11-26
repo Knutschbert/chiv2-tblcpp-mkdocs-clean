@@ -1,5 +1,4 @@
 ## Reset Axis Binding
-Reset Axis Binding
 ![[../img/nd_img_ResetAxisBinding.png]]
 
 |Inputs||

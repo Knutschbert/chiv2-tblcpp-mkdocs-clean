@@ -1,5 +1,4 @@
 ## Can Join Game
-Can Join Game
 ![[../img/nd_img_CanJoinGame.png]]
 
 |Inputs||

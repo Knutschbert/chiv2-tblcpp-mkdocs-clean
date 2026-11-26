@@ -1,5 +1,4 @@
 ## On Resumed Screen
-On Resumed Screen
 ![[../img/nd_img_OnResumedScreen.png]]
 
 |Inputs||

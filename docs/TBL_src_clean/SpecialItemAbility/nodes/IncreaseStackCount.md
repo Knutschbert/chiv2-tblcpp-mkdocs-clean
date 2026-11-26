@@ -1,5 +1,4 @@
 ## Increase Stack Count
-Increase Stack Count
 ![[../img/nd_img_IncreaseStackCount.png]]
 
 |Inputs||

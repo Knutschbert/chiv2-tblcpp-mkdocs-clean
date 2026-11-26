@@ -1,5 +1,4 @@
 ## Can Leave Native Session
-Can Leave Native Session
 ![[../img/nd_img_CanLeaveNativeSession.png]]
 
 |Inputs||

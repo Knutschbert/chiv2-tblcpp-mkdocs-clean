@@ -1,5 +1,4 @@
 ## Commit Round Result
-Commit Round Result
 ![[../img/nd_img_CommitRoundResult.png]]
 
 |Inputs||

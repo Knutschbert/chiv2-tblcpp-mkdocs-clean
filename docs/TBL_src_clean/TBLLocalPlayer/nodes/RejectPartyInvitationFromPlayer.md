@@ -1,5 +1,4 @@
 ## Reject Party Invitation from Player
-Reject Party Invitation from Player
 ![[../img/nd_img_RejectPartyInvitationFromPlayer.png]]
 
 |Inputs||

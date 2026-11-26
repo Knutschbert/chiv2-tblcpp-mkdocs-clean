@@ -1,5 +1,4 @@
 ## On Player Score Event
-On Player Score Event
 ![[../img/nd_img_OnPlayerScoreEvent.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Spawn Center
-Get Spawn Center
 ![[../img/nd_img_GetSpawnCenter.png]]
 
 |Inputs||

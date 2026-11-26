@@ -1,5 +1,4 @@
 ## Randomize Animal
-Randomize Animal
 ![[../img/nd_img_RandomizeAnimal.png]]
 
 |Inputs||

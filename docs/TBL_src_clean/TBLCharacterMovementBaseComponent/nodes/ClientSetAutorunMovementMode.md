@@ -1,5 +1,4 @@
 ## Client Set Autorun Movement Mode
-Client Set Autorun Movement Mode
 ![[../img/nd_img_ClientSetAutorunMovementMode.png]]
 
 |Inputs||

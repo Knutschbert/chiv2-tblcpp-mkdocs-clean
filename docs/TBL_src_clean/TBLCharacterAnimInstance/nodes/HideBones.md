@@ -1,5 +1,4 @@
 ## Hide Bones
-Hide Bones
 ![[../img/nd_img_HideBones.png]]
 
 |Inputs||

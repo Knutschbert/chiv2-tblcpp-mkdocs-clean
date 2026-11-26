@@ -1,5 +1,4 @@
 ## Add Blacklisted Pawn
-Add Blacklisted Pawn
 ![[../img/nd_img_AddBlacklistedPawn.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Aim Penalty
-Update Aim Penalty
 ![[../img/nd_img_UpdateAimPenalty.png]]
 
 |Inputs||

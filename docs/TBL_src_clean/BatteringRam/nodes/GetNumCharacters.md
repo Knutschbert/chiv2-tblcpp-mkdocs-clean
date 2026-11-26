@@ -1,5 +1,4 @@
 ## Get Num Characters
-Get Num Characters
 ![[../img/nd_img_GetNumCharacters.png]]
 
 |Inputs||

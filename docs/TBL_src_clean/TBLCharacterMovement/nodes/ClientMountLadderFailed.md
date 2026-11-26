@@ -1,5 +1,4 @@
 ## Client Mount Ladder Failed
-Client Mount Ladder Failed
 ![[../img/nd_img_ClientMountLadderFailed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Avatar Image from Player State
-Get Avatar Image from Player State
 ![[../img/nd_img_GetAvatarImageFromPlayerState.png]]
 
 |Inputs||

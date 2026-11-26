@@ -1,5 +1,4 @@
 ## Get Carried Character
-Get Carried Character
 ![[../img/nd_img_GetCarriedCharacter.png]]
 
 |Inputs||

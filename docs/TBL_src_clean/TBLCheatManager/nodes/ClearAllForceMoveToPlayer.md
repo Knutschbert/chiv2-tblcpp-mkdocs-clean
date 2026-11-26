@@ -1,5 +1,4 @@
 ## Clear All Force Move to Player
-Clear All Force Move to Player
 ![[../img/nd_img_ClearAllForceMoveToPlayer.png]]
 
 |Inputs||

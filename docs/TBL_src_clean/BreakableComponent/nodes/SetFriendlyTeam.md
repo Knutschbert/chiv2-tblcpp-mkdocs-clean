@@ -1,5 +1,4 @@
 ## Set Friendly Team
-Set Friendly Team
 ![[../img/nd_img_SetFriendlyTeam.png]]
 
 |Inputs||

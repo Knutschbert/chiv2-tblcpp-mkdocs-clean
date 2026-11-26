@@ -1,5 +1,4 @@
 ## Broadcast Start Fire
-Broadcast Start Fire
 ![[../img/nd_img_BroadcastStartFire.png]]
 
 |Inputs||

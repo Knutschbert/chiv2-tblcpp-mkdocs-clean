@@ -1,5 +1,4 @@
 ## Get Default Keys for Action
-Get Default Keys for Action
 ![[../img/nd_img_GetDefaultKeysForAction.png]]
 
 |Inputs||

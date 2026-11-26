@@ -1,5 +1,4 @@
 ## On Player Revived
-On Player Revived
 ![[../img/nd_img_OnPlayerRevived.png]]
 
 |Inputs||

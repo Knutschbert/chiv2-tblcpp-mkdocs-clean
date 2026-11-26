@@ -1,5 +1,4 @@
 ## Get Attached Actors
-Get Attached Actors
 ![[../img/nd_img_GetAttachedActors.png]]
 
 |Inputs||

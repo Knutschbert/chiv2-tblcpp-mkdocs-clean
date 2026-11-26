@@ -1,5 +1,4 @@
 ## Get Action Binding from Name
-Get Action Binding from Name
 ![[../img/nd_img_GetActionBindingFromName.png]]
 
 |Inputs||

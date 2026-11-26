@@ -1,5 +1,4 @@
 ## Get Assigned Actor
-Get Assigned Actor
 ![[../img/nd_img_GetAssignedActor.png]]
 
 |Inputs||

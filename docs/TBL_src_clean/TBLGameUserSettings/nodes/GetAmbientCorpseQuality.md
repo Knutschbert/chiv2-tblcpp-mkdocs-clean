@@ -1,5 +1,4 @@
 ## Get Ambient Corpse Quality
-Get Ambient Corpse Quality
 ![[../img/nd_img_GetAmbientCorpseQuality.png]]
 
 |Inputs||

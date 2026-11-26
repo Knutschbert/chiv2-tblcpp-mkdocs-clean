@@ -1,5 +1,4 @@
 ## Get Stat Range Int from Experience
-Get Stat Range Int from Experience
 ![[../img/nd_img_GetStatRangeIntFromExperience.png]]
 
 |Inputs||

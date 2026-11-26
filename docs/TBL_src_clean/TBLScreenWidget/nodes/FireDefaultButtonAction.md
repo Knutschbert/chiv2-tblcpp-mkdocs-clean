@@ -1,5 +1,4 @@
 ## Fire Default Button Action
-Fire Default Button Action
 ![[../img/nd_img_FireDefaultButtonAction.png]]
 
 |Inputs||

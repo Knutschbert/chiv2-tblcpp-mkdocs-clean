@@ -1,5 +1,4 @@
 ## Create Fake Servers
-Create Fake Servers
 ![[../img/nd_img_CreateFakeServers.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Preferred Faction
-Set Preferred Faction
 ![[../img/nd_img_SetPreferredFaction.png]]
 
 |Inputs||

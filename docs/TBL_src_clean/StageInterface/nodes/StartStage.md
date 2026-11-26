@@ -1,5 +1,4 @@
 ## Start Stage
-Start Stage
 ![[../img/nd_img_StartStage.png]]
 
 |Inputs||

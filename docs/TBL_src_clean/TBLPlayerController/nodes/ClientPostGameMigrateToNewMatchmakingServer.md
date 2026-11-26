@@ -1,5 +1,4 @@
 ## Client Post Game Migrate to New Matchmaking Server
-Client Post Game Migrate to New Matchmaking Server
 ![[../img/nd_img_ClientPostGameMigrateToNewMatchmakingServer.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Add Player to Capture Point
-Add Player to Capture Point
 ![[../img/nd_img_AddPlayerToCapturePoint.png]]
 
 |Inputs||

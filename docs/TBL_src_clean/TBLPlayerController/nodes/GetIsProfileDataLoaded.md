@@ -1,5 +1,4 @@
 ## Get Is Profile Data Loaded
-Get Is Profile Data Loaded
 ![[../img/nd_img_GetIsProfileDataLoaded.png]]
 
 |Inputs||

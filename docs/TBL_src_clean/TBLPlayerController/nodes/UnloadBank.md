@@ -1,5 +1,4 @@
 ## Unload Bank
-Unload Bank
 ![[../img/nd_img_UnloadBank.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Mesh Visibility Flag
-Get Mesh Visibility Flag
 ![[../img/nd_img_GetMeshVisibilityFlag.png]]
 
 |Inputs||

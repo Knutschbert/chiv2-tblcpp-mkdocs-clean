@@ -1,5 +1,4 @@
 ## Get Perceived Location Of Actor
-Get Perceived Location Of Actor
 ![[../img/nd_img_GetPerceivedLocationOfActor.png]]
 
 |Inputs||

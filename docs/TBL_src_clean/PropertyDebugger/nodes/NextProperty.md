@@ -1,5 +1,4 @@
 ## Next Property
-Next Property
 ![[../img/nd_img_NextProperty.png]]
 
 |Inputs||

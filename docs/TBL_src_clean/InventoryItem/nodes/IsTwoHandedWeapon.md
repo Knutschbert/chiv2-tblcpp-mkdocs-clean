@@ -1,5 +1,4 @@
 ## Is Two Handed Weapon
-Is Two Handed Weapon
 ![[../img/nd_img_IsTwoHandedWeapon.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Base
-Set Base
 ![[../img/nd_img_SetBase.png]]
 
 |Inputs||

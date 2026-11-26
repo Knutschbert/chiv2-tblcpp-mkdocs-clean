@@ -1,5 +1,4 @@
 ## On Ragdoll Hit
-On Ragdoll Hit
 ![[../img/nd_img_OnRagdollHit.png]]
 
 |Inputs||

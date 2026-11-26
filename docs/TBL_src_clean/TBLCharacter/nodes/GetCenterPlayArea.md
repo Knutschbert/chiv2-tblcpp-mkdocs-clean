@@ -1,5 +1,4 @@
 ## Get Center Play Area
-Get Center Play Area
 ![[../img/nd_img_GetCenterPlayArea.png]]
 
 |Inputs||

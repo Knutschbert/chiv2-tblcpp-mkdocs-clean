@@ -1,5 +1,4 @@
 ## Activate Team Capture Point
-Activate Team Capture Point
 ![[../img/nd_img_ActivateTeamCapturePoint.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Player in Spawn Wave
-Is Player in Spawn Wave
 ![[../img/nd_img_IsPlayerInSpawnWave.png]]
 
 |Inputs||

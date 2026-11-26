@@ -1,5 +1,4 @@
 ## Server Join Spawn Wave
-Server Join Spawn Wave
 ![[../img/nd_img_ServerJoinSpawnWave.png]]
 
 |Inputs||

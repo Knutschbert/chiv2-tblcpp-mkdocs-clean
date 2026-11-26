@@ -1,5 +1,4 @@
 ## Input Action
-Input Action
 ![[../img/nd_img_InputAction.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Game Mode Widget Class
-Get Game Mode Widget Class
 ![[../img/nd_img_GetGameModeWidgetClass.png]]
 
 |Inputs||

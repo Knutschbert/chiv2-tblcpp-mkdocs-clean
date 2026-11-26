@@ -1,5 +1,4 @@
 ## Get Max Value
-Get Max Value
 ![[../img/nd_img_GetMaxValue.png]]
 
 |Inputs||

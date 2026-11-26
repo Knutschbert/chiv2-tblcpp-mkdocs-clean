@@ -1,5 +1,4 @@
 ## Is Ghost
-Is Ghost
 ![[../img/nd_img_IsGhost.png]]
 
 |Inputs||

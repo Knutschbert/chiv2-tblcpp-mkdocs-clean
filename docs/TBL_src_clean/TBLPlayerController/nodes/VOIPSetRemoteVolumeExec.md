@@ -1,5 +1,4 @@
 ## VOIPSet Remote Volume Exec
-VOIPSet Remote Volume Exec
 ![[../img/nd_img_VOIPSetRemoteVolumeExec.png]]
 
 |Inputs||

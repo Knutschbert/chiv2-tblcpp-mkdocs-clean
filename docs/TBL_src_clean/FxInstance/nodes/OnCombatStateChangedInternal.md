@@ -1,5 +1,4 @@
 ## On Combat State Changed Internal
-On Combat State Changed Internal
 ![[../img/nd_img_OnCombatStateChangedInternal.png]]
 
 |Inputs||

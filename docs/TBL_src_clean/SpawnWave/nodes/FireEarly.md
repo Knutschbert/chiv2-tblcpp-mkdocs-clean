@@ -1,5 +1,4 @@
 ## Fire Early
-Fire Early
 ![[../img/nd_img_FireEarly.png]]
 
 |Inputs||

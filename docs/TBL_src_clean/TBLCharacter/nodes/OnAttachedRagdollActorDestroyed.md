@@ -1,5 +1,4 @@
 ## On Attached Ragdoll Actor Destroyed
-On Attached Ragdoll Actor Destroyed
 ![[../img/nd_img_OnAttachedRagdollActorDestroyed.png]]
 
 |Inputs||

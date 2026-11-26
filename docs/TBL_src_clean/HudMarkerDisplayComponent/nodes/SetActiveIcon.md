@@ -1,5 +1,4 @@
 ## Set Active Icon
-Set Active Icon
 ![[../img/nd_img_SetActiveIcon.png]]
 
 |Inputs||

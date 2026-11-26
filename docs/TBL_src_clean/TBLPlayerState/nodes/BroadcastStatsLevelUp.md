@@ -1,5 +1,4 @@
 ## Broadcast Stats Level Up
-Broadcast Stats Level Up
 ![[../img/nd_img_BroadcastStatsLevelUp.png]]
 
 |Inputs||

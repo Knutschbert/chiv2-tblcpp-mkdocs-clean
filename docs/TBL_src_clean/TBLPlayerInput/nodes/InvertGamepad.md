@@ -1,5 +1,4 @@
 ## Invert Gamepad
-Invert Gamepad
 ![[../img/nd_img_InvertGamepad.png]]
 
 |Inputs||

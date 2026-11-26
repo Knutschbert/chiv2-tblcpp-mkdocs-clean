@@ -1,5 +1,4 @@
 ## Used Chat
-Used Chat
 ![[../img/nd_img_UsedChat.png]]
 
 |Inputs||

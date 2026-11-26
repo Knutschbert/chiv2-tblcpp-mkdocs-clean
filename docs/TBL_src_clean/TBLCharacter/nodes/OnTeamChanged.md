@@ -1,5 +1,4 @@
 ## On Team Changed
-On Team Changed
 ![[../img/nd_img_OnTeamChanged.png]]
 
 |Inputs||

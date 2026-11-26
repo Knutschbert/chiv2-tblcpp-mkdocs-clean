@@ -1,5 +1,4 @@
 ## On Ballista Mounted
-On Ballista Mounted
 ![[../img/nd_img_OnBallistaMounted.png]]
 
 |Inputs||

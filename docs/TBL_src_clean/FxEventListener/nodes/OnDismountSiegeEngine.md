@@ -1,5 +1,4 @@
 ## On Dismount Siege Engine
-On Dismount Siege Engine
 ![[../img/nd_img_OnDismountSiegeEngine.png]]
 
 |Inputs||

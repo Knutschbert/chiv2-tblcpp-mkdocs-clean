@@ -1,5 +1,4 @@
 ## Get Online Stat Battlecries
-Get Online Stat Battlecries
 ![[../img/nd_img_GetOnlineStatBattlecries.png]]
 
 |Inputs||

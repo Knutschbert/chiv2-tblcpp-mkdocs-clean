@@ -1,5 +1,4 @@
 ## Get Speed
-Get Speed
 ![[../img/nd_img_GetSpeed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Do Battlecry
-Do Battlecry
 ![[../img/nd_img_DoBattlecry.png]]
 
 |Inputs||

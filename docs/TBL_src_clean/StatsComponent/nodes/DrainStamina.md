@@ -1,5 +1,4 @@
 ## Drain Stamina
-Drain Stamina
 ![[../img/nd_img_DrainStamina.png]]
 
 |Inputs||

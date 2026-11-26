@@ -1,5 +1,4 @@
 ## Event Get Achievement Category
-Event Get Achievement Category
 ![[../img/nd_img_EventGetAchievementCategory.png]]
 
 |Inputs||

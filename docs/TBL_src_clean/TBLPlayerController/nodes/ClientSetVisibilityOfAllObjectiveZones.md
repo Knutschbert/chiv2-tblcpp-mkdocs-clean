@@ -1,5 +1,4 @@
 ## Client Set Visibility Of All Objective Zones
-Client Set Visibility Of All Objective Zones
 ![[../img/nd_img_ClientSetVisibilityOfAllObjectiveZones.png]]
 
 |Inputs||

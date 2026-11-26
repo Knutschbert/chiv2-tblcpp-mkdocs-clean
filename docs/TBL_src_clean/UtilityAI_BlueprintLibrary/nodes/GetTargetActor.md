@@ -1,5 +1,4 @@
 ## Get Target Actor
-Get Target Actor
 ![[../img/nd_img_GetTargetActor.png]]
 
 |Inputs||

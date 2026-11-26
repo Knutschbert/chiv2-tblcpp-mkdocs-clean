@@ -1,5 +1,4 @@
 ## No Stop Autorun Expired
-No Stop Autorun Expired
 ![[../img/nd_img_NoStopAutorunExpired.png]]
 
 |Inputs||

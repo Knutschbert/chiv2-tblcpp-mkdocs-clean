@@ -1,5 +1,4 @@
 ## Getup
-Getup
 ![[../img/nd_img_Getup.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Font
-Set Font
 ![[../img/nd_img_SetFont.png]]
 
 |Inputs||

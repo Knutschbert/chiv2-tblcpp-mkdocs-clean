@@ -1,5 +1,4 @@
 ## Broadcast Killed
-Broadcast Killed
 ![[../img/nd_img_BroadcastKilled.png]]
 
 |Inputs||

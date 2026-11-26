@@ -1,5 +1,4 @@
 ## Set Server Browser Num Free Slot Servers
-Set Server Browser Num Free Slot Servers
 ![[../img/nd_img_SetServerBrowserNumFreeSlotServers.png]]
 
 |Inputs||

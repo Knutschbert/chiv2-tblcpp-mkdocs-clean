@@ -1,5 +1,4 @@
 ## Should Draw Debug Melee Hit
-Should Draw Debug Melee Hit
 ![[../img/nd_img_ShouldDrawDebugMeleeHit.png]]
 
 |Inputs||

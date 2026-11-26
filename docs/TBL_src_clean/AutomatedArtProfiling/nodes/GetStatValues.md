@@ -1,5 +1,4 @@
 ## Get Stat Values
-Get Stat Values
 ![[../img/nd_img_GetStatValues.png]]
 
 |Inputs||

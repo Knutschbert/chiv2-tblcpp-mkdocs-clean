@@ -1,5 +1,4 @@
 ## Get Character Class Audio Switch
-Get Character Class Audio Switch
 ![[../img/nd_img_GetCharacterClassAudioSwitch.png]]
 
 |Inputs||

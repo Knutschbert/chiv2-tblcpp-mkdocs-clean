@@ -1,5 +1,4 @@
 ## Award Victory
-Award Victory
 ![[../img/nd_img_AwardVictory.png]]
 
 |Inputs||

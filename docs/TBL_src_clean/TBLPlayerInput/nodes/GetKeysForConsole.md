@@ -1,5 +1,4 @@
 ## Get Keys for Console
-Get Keys for Console
 ![[../img/nd_img_GetKeysForConsole.png]]
 
 |Inputs||

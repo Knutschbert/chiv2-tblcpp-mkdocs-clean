@@ -1,5 +1,4 @@
 ## Set Off Fire
-Set Off Fire
 ![[../img/nd_img_SetOffFire.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Stop Analytics
-Stop Analytics
 ![[../img/nd_img_StopAnalytics.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Init from Active Campaigns
-Init from Active Campaigns
 ![[../img/nd_img_InitFromActiveCampaigns.png]]
 
 |Inputs||

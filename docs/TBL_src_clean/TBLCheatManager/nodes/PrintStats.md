@@ -1,5 +1,4 @@
 ## Print Stats
-Print Stats
 ![[../img/nd_img_PrintStats.png]]
 
 |Inputs||

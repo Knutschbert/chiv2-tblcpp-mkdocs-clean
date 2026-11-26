@@ -1,5 +1,4 @@
 ## Server Draw Visibility Check
-Server Draw Visibility Check
 ![[../img/nd_img_ServerDrawVisibilityCheck.png]]
 
 |Inputs||

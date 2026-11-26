@@ -1,5 +1,4 @@
 ## Get Damage Source Display Name
-Get Damage Source Display Name
 ![[../img/nd_img_GetDamageSourceDisplayName.png]]
 
 |Inputs||

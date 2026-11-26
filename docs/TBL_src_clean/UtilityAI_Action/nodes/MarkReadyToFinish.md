@@ -1,5 +1,4 @@
 ## Mark Ready to Finish
-Mark Ready to Finish
 ![[../img/nd_img_MarkReadyToFinish.png]]
 
 |Inputs||

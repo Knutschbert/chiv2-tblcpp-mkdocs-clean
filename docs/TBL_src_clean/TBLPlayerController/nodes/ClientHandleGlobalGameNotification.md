@@ -1,5 +1,4 @@
 ## Client Handle Global Game Notification
-Client Handle Global Game Notification
 ![[../img/nd_img_ClientHandleGlobalGameNotification.png]]
 
 |Inputs||

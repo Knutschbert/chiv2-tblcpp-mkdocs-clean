@@ -1,5 +1,4 @@
 ## Is Widget Disabled
-Is Widget Disabled
 ![[../img/nd_img_IsWidgetDisabled.png]]
 
 |Inputs||

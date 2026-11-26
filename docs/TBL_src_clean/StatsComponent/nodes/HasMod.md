@@ -1,5 +1,4 @@
 ## Has Mod
-Has Mod
 ![[../img/nd_img_HasMod.png]]
 
 |Inputs||

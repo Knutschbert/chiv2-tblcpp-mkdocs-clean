@@ -1,5 +1,4 @@
 ## On Rep Round Victories
-On Rep Round Victories
 ![[../img/nd_img_OnRep_RoundVictories.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Cinematic Allow Control
-Client Cinematic Allow Control
 ![[../img/nd_img_ClientCinematicAllowControl.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Session Settings Value
-Get Session Settings Value
 ![[../img/nd_img_GetSessionSettingsValue.png]]
 
 |Inputs||

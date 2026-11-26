@@ -1,5 +1,4 @@
 ## Push Cmd
-Push Cmd
 ![[../img/nd_img_PushCmd.png]]
 
 |Inputs||

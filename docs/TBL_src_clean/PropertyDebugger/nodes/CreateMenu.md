@@ -1,5 +1,4 @@
 ## Create Menu
-Create Menu
 ![[../img/nd_img_CreateMenu.png]]
 
 |Inputs||

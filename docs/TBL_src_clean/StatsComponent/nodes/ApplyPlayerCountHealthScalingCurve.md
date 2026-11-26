@@ -1,5 +1,4 @@
 ## Apply Player Count Health Scaling Curve
-Apply Player Count Health Scaling Curve
 ![[../img/nd_img_ApplyPlayerCountHealthScalingCurve.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## AIObjective Here
-AIObjective Here
 ![[../img/nd_img_AIObjectiveHere.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Regenerate and Reseed Animal Actors
-Regenerate and Reseed Animal Actors
 ![[../img/nd_img_RegenerateAndReseedAnimalActors.png]]
 
 |Inputs||

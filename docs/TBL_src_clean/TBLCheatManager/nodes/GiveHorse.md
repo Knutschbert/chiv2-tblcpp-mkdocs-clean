@@ -1,5 +1,4 @@
 ## Give Horse
-Give Horse
 ![[../img/nd_img_GiveHorse.png]]
 
 |Inputs||

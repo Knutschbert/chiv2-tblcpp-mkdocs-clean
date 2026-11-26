@@ -1,5 +1,4 @@
 ## Get Quests Cached Data
-Get Quests Cached Data
 ![[../img/nd_img_GetQuestsCachedData.png]]
 
 |Inputs||

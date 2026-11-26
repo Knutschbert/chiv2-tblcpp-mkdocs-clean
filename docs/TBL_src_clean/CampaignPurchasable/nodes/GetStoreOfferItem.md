@@ -1,5 +1,4 @@
 ## Get Store Offer Item
-Get Store Offer Item
 ![[../img/nd_img_GetStoreOfferItem.png]]
 
 |Inputs||

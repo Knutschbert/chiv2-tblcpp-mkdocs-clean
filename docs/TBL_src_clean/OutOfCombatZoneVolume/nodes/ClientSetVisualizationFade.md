@@ -1,5 +1,4 @@
 ## Client Set Visualization Fade
-Client Set Visualization Fade
 ![[../img/nd_img_ClientSetVisualizationFade.png]]
 
 |Inputs||

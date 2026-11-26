@@ -1,5 +1,4 @@
 ## Add Button Action
-Add Button Action
 ![[../img/nd_img_AddButtonAction.png]]
 
 |Inputs||

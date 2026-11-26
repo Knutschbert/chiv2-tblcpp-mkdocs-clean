@@ -1,5 +1,4 @@
 ## Print to File
-Print to File
 ![[../img/nd_img_PrintToFile.png]]
 
 |Inputs||

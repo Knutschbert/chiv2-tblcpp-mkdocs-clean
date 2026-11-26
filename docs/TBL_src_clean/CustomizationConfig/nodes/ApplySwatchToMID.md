@@ -1,5 +1,4 @@
 ## Apply Swatch to MID
-Apply Swatch to MID
 ![[../img/nd_img_ApplySwatchToMID.png]]
 
 |Inputs||

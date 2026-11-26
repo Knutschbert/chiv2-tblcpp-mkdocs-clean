@@ -1,5 +1,4 @@
 ## Client Play Podium Sequence
-Client Play Podium Sequence
 ![[../img/nd_img_ClientPlayPodiumSequence.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Blueprint on Animation Set Changed
-Blueprint on Animation Set Changed
 ![[../img/nd_img_BlueprintOnAnimationSetChanged.png]]
 
 |Inputs||

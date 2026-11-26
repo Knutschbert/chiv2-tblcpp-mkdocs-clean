@@ -1,5 +1,4 @@
 ## Server Reload Released
-Server Reload Released
 ![[../img/nd_img_ServerReloadReleased.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Remove Temporary Perk
-Remove Temporary Perk
 ![[../img/nd_img_RemoveTemporaryPerk.png]]
 
 |Inputs||

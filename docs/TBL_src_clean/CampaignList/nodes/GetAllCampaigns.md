@@ -1,5 +1,4 @@
 ## Get All Campaigns
-Get All Campaigns
 ![[../img/nd_img_GetAllCampaigns.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Combat State Queue
-Get Combat State Queue
 ![[../img/nd_img_GetCombatStateQueue.png]]
 
 |Inputs||

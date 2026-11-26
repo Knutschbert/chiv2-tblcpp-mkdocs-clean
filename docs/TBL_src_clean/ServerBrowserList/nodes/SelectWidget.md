@@ -1,5 +1,4 @@
 ## Select Widget
-Select Widget
 ![[../img/nd_img_SelectWidget.png]]
 
 |Inputs||

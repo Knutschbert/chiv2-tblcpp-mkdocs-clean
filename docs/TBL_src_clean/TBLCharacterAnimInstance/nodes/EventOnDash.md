@@ -1,5 +1,4 @@
 ## Event on Dash
-Event on Dash
 ![[../img/nd_img_EventOnDash.png]]
 
 |Inputs||

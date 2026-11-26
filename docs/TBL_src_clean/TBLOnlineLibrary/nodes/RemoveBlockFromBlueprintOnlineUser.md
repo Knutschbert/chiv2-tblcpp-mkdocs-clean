@@ -1,5 +1,4 @@
 ## Remove Block from Blueprint Online User
-Remove Block from Blueprint Online User
 ![[../img/nd_img_RemoveBlockFromBlueprintOnlineUser.png]]
 
 |Inputs||

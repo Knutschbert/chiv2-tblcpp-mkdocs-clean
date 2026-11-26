@@ -1,5 +1,4 @@
 ## Unregister Display Component
-Unregister Display Component
 ![[../img/nd_img_UnregisterDisplayComponent.png]]
 
 |Inputs||

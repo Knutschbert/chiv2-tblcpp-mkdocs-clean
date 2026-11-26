@@ -1,5 +1,4 @@
 ## Only Customization Assets Compatible with Owner Preset
-Only Customization Assets Compatible with Owner Preset
 ![[../img/nd_img_OnlyCustomizationAssetsCompatibleWithOwnerPreset.png]]
 
 |Inputs||

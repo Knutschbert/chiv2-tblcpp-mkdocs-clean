@@ -1,5 +1,4 @@
 ## Set Listener Enabled
-Set Listener Enabled
 ![[../img/nd_img_SetListenerEnabled.png]]
 
 |Inputs||

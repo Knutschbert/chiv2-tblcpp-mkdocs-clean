@@ -1,5 +1,4 @@
 ## Set Client Join Time
-Set Client Join Time
 ![[../img/nd_img_SetClientJoinTime.png]]
 
 |Inputs||

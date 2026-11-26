@@ -1,5 +1,4 @@
 ## Play Sound
-Play Sound
 ![[../img/nd_img_PlaySound.png]]
 
 |Inputs||

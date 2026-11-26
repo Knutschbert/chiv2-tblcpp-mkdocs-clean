@@ -1,5 +1,4 @@
 ## On Rep Client Platform
-On Rep Client Platform
 ![[../img/nd_img_OnRep_ClientPlatform.png]]
 
 |Inputs||

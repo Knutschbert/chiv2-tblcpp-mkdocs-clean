@@ -1,5 +1,4 @@
 ## Get Pending Party Members
-Get Pending Party Members
 ![[../img/nd_img_GetPendingPartyMembers.png]]
 
 |Inputs||

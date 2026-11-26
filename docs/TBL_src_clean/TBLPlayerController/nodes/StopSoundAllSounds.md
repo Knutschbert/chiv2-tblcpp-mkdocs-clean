@@ -1,5 +1,4 @@
 ## Stop Sound All Sounds
-Stop Sound All Sounds
 ![[../img/nd_img_StopSoundAllSounds.png]]
 
 |Inputs||

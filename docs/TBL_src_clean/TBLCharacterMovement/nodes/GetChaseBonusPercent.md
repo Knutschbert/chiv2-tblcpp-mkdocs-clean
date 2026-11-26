@@ -1,5 +1,4 @@
 ## Get Chase Bonus Percent
-Get Chase Bonus Percent
 ![[../img/nd_img_GetChaseBonusPercent.png]]
 
 |Inputs||

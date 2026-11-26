@@ -1,5 +1,4 @@
 ## Get Display Info from Character Class
-Get Display Info from Character Class
 ![[../img/nd_img_GetDisplayInfoFromCharacterClass.png]]
 
 |Inputs||

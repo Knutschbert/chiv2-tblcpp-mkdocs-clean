@@ -1,5 +1,4 @@
 ## Get Preparing Match Time Remaining
-Get Preparing Match Time Remaining
 ![[../img/nd_img_GetPreparingMatchTimeRemaining.png]]
 
 |Inputs||

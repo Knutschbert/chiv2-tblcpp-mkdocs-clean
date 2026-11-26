@@ -1,5 +1,4 @@
 ## Set Player Has Accepted NDA
-Set Player Has Accepted NDA
 ![[../img/nd_img_SetPlayerHasAcceptedNDA.png]]
 
 |Inputs||

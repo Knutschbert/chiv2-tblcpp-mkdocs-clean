@@ -1,5 +1,4 @@
 ## Get Allowed Character Classes
-Get Allowed Character Classes
 ![[../img/nd_img_GetAllowedCharacterClasses.png]]
 
 |Inputs||

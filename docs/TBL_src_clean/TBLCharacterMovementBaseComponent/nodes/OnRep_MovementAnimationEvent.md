@@ -1,5 +1,4 @@
 ## On Rep Movement Animation Event
-On Rep Movement Animation Event
 ![[../img/nd_img_OnRep_MovementAnimationEvent.png]]
 
 |Inputs||

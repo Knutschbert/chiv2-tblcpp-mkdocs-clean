@@ -1,5 +1,4 @@
 ## On Rep Recording
-On Rep Recording
 ![[../img/nd_img_OnRep_Recording.png]]
 
 |Inputs||

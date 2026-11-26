@@ -1,5 +1,4 @@
 ## On Pawn Damaged
-On Pawn Damaged
 ![[../img/nd_img_OnPawnDamaged.png]]
 
 |Inputs||

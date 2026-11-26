@@ -1,5 +1,4 @@
 ## List Blocks
-List Blocks
 ![[../img/nd_img_ListBlocks.png]]
 
 |Inputs||

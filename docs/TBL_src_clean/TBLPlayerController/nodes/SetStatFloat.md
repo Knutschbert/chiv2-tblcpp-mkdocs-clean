@@ -1,5 +1,4 @@
 ## Set Stat Float
-Set Stat Float
 ![[../img/nd_img_SetStatFloat.png]]
 
 |Inputs||

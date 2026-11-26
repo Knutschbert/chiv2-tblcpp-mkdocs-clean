@@ -1,5 +1,4 @@
 ## Impact Bump Off
-Impact Bump Off
 ![[../img/nd_img_ImpactBumpOff.png]]
 
 |Inputs||

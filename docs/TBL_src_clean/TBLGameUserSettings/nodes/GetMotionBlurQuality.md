@@ -1,5 +1,4 @@
 ## Get Motion Blur Quality
-Get Motion Blur Quality
 ![[../img/nd_img_GetMotionBlurQuality.png]]
 
 |Inputs||

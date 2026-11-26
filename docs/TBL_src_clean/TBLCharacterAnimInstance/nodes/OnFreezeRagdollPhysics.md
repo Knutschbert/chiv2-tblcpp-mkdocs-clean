@@ -1,5 +1,4 @@
 ## On Freeze Ragdoll Physics
-On Freeze Ragdoll Physics
 ![[../img/nd_img_OnFreezeRagdollPhysics.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Spawn Animation Complete
-On Spawn Animation Complete
 ![[../img/nd_img_OnSpawnAnimationComplete.png]]
 
 |Inputs||

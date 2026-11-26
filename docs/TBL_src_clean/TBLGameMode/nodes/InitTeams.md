@@ -1,5 +1,4 @@
 ## Init Teams
-Init Teams
 ![[../img/nd_img_InitTeams.png]]
 
 |Inputs||

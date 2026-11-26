@@ -1,5 +1,4 @@
 ## Montage Stop All
-Montage Stop All
 ![[../img/nd_img_Montage_StopAll.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Attack Interrupted
-On Attack Interrupted
 ![[../img/nd_img_OnAttackInterrupted.png]]
 
 |Inputs||

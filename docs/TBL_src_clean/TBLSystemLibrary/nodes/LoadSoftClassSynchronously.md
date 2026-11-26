@@ -1,5 +1,4 @@
 ## Load Soft Class Synchronously
-Load Soft Class Synchronously
 ![[../img/nd_img_LoadSoftClassSynchronously.png]]
 
 |Inputs||

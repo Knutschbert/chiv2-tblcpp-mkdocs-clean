@@ -1,5 +1,4 @@
 ## Reject Spawn
-Reject Spawn
 ![[../img/nd_img_RejectSpawn.png]]
 
 |Inputs||

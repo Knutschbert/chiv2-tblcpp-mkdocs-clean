@@ -1,5 +1,4 @@
 ## Client Draw Debug Tracer Sphere
-Client Draw Debug Tracer Sphere
 ![[../img/nd_img_ClientDrawDebugTracerSphere.png]]
 
 |Inputs||

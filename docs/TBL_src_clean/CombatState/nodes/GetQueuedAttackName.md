@@ -1,5 +1,4 @@
 ## Get Queued Attack Name
-Get Queued Attack Name
 ![[../img/nd_img_GetQueuedAttackName.png]]
 
 |Inputs||

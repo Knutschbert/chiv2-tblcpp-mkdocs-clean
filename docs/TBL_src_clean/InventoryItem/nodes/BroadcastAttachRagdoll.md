@@ -1,5 +1,4 @@
 ## Broadcast Attach Ragdoll
-Broadcast Attach Ragdoll
 ![[../img/nd_img_BroadcastAttachRagdoll.png]]
 
 |Inputs||

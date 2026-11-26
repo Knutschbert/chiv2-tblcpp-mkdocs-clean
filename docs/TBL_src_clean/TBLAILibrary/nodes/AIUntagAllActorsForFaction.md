@@ -1,5 +1,4 @@
 ## AIUntag All Actors for Faction
-AIUntag All Actors for Faction
 ![[../img/nd_img_AIUntagAllActorsForFaction.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Toggle Debug Hud
-Toggle Debug Hud
 ![[../img/nd_img_ToggleDebugHud.png]]
 
 |Inputs||

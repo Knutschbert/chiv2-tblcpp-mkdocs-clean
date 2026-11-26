@@ -1,5 +1,4 @@
 ## Is Cinematic Restricted Control
-Is Cinematic Restricted Control
 ![[../img/nd_img_IsCinematicRestrictedControl.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Report Spawn Failure
-Report Spawn Failure
 ![[../img/nd_img_ReportSpawnFailure.png]]
 
 |Inputs||

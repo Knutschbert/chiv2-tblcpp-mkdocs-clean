@@ -1,5 +1,4 @@
 ## Destroy Controller and Pawn
-Destroy Controller and Pawn
 ![[../img/nd_img_DestroyControllerAndPawn.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Server List Refresh Complete
-On Server List Refresh Complete
 ![[../img/nd_img_OnServerListRefreshComplete.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Setup Components Array
-Setup Components Array
 ![[../img/nd_img_SetupComponentsArray.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Ragdoll Custom Tick
-Is Ragdoll Custom Tick
 ![[../img/nd_img_IsRagdollCustomTick.png]]
 
 |Inputs||

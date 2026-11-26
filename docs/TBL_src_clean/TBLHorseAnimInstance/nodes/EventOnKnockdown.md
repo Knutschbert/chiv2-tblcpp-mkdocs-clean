@@ -1,5 +1,4 @@
 ## Event on Knockdown
-Event on Knockdown
 ![[../img/nd_img_EventOnKnockdown.png]]
 
 |Inputs||

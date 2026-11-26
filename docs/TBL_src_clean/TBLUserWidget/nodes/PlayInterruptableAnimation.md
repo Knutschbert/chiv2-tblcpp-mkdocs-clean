@@ -1,5 +1,4 @@
 ## Play Interruptable Animation
-Play Interruptable Animation
 ![[../img/nd_img_PlayInterruptableAnimation.png]]
 
 |Inputs||

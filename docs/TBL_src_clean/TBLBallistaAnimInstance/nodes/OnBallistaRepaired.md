@@ -1,5 +1,4 @@
 ## On Ballista Repaired
-On Ballista Repaired
 ![[../img/nd_img_OnBallistaRepaired.png]]
 
 |Inputs||

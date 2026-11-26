@@ -1,5 +1,4 @@
 ## On Inventory Projectile Hit Passive Shield
-On Inventory Projectile Hit Passive Shield
 ![[../img/nd_img_OnInventoryProjectileHitPassiveShield.png]]
 
 |Inputs||

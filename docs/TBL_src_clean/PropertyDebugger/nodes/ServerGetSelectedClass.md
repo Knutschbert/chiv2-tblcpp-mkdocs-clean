@@ -1,5 +1,4 @@
 ## Server Get Selected Class
-Server Get Selected Class
 ![[../img/nd_img_ServerGetSelectedClass.png]]
 
 |Inputs||

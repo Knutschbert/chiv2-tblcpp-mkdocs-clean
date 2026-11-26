@@ -1,5 +1,4 @@
 ## Toggle Hud
-Toggle Hud
 ![[../img/nd_img_ToggleHud.png]]
 
 |Inputs||

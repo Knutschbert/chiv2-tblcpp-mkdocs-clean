@@ -1,5 +1,4 @@
 ## Get Num Players
-Get Num Players
 ![[../img/nd_img_GetNumPlayers.png]]
 
 |Inputs||

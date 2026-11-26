@@ -1,5 +1,4 @@
 ## Client Impact Turn
-Client Impact Turn
 ![[../img/nd_img_ClientImpactTurn.png]]
 
 |Inputs||

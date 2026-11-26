@@ -1,5 +1,4 @@
 ## On Fake Client Projectile Hit
-On Fake Client Projectile Hit
 ![[../img/nd_img_OnFakeClientProjectileHit.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Build Derived Properties
-Build Derived Properties
 ![[../img/nd_img_BuildDerivedProperties.png]]
 
 |Inputs||

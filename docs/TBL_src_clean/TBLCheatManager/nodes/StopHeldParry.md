@@ -1,5 +1,4 @@
 ## Stop Held Parry
-Stop Held Parry
 ![[../img/nd_img_StopHeldParry.png]]
 
 |Inputs||

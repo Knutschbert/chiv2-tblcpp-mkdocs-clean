@@ -1,5 +1,4 @@
 ## Process Initially Spawned Characters
-Process Initially Spawned Characters
 ![[../img/nd_img_ProcessInitiallySpawnedCharacters.png]]
 
 |Inputs||

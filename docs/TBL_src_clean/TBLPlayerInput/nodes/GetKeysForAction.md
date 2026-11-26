@@ -1,5 +1,4 @@
 ## Get Keys for Action
-Get Keys for Action
 ![[../img/nd_img_GetKeysForAction.png]]
 
 |Inputs||

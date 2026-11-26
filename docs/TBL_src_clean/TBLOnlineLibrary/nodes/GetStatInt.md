@@ -1,5 +1,4 @@
 ## Get Stat Int
-Get Stat Int
 ![[../img/nd_img_GetStatInt.png]]
 
 |Inputs||

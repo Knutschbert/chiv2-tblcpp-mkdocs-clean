@@ -1,5 +1,4 @@
 ## Server Clear PS5Match Id
-Server Clear PS5Match Id
 ![[../img/nd_img_ServerClearPS5MatchId.png]]
 
 |Inputs||

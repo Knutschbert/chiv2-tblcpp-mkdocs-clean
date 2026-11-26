@@ -1,5 +1,4 @@
 ## Is Character Recently Unlocked
-Is Character Recently Unlocked
 ![[../img/nd_img_IsCharacterRecentlyUnlocked.png]]
 
 |Inputs||

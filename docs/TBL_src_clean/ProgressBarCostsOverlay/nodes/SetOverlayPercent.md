@@ -1,5 +1,4 @@
 ## Set Overlay Percent
-Set Overlay Percent
 ![[../img/nd_img_SetOverlayPercent.png]]
 
 |Inputs||

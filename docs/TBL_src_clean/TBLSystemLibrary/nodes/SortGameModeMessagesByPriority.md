@@ -1,5 +1,4 @@
 ## Sort Game Mode Messages by Priority
-Sort Game Mode Messages by Priority
 ![[../img/nd_img_SortGameModeMessagesByPriority.png]]
 
 |Inputs||

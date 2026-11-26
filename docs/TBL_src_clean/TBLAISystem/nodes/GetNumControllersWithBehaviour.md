@@ -1,5 +1,4 @@
 ## Get Num Controllers with Behaviour
-Get Num Controllers with Behaviour
 ![[../img/nd_img_GetNumControllersWithBehaviour.png]]
 
 |Inputs||

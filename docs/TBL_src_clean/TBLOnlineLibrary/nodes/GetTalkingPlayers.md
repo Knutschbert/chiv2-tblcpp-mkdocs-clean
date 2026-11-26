@@ -1,5 +1,4 @@
 ## Get Talking Players
-Get Talking Players
 ![[../img/nd_img_GetTalkingPlayers.png]]
 
 |Inputs||

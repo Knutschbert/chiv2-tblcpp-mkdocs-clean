@@ -1,5 +1,4 @@
 ## Get Display Info for Faction
-Get Display Info for Faction
 ![[../img/nd_img_GetDisplayInfoForFaction.png]]
 
 |Inputs||

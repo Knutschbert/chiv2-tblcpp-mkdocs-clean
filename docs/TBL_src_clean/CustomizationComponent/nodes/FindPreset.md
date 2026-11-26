@@ -1,5 +1,4 @@
 ## Find Preset
-Find Preset
 ![[../img/nd_img_FindPreset.png]]
 
 |Inputs||

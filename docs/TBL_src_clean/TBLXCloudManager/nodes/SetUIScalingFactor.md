@@ -1,5 +1,4 @@
 ## Set UIScaling Factor
-Set UIScaling Factor
 ![[../img/nd_img_SetUIScalingFactor.png]]
 
 |Inputs||

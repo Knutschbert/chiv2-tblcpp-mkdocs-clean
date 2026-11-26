@@ -1,5 +1,4 @@
 ## Reset Queued Inputs
-Reset Queued Inputs
 ![[../img/nd_img_ResetQueuedInputs.png]]
 
 |Inputs||

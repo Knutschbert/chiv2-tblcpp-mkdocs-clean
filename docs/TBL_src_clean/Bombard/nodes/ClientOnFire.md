@@ -1,5 +1,4 @@
 ## Client on Fire
-Client on Fire
 ![[../img/nd_img_ClientOnFire.png]]
 
 |Inputs||

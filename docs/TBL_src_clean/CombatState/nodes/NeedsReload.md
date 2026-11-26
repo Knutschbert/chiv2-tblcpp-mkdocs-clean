@@ -1,5 +1,4 @@
 ## Needs Reload
-Needs Reload
 ![[../img/nd_img_NeedsReload.png]]
 
 |Inputs||

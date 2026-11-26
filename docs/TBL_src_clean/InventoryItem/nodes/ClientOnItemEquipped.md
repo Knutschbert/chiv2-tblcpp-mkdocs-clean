@@ -1,5 +1,4 @@
 ## Client on Item Equipped
-Client on Item Equipped
 ![[../img/nd_img_ClientOnItemEquipped.png]]
 
 |Inputs||

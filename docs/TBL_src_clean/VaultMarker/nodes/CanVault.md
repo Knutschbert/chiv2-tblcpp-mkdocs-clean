@@ -1,5 +1,4 @@
 ## Can Vault
-Can Vault
 ![[../img/nd_img_CanVault.png]]
 
 |Inputs||

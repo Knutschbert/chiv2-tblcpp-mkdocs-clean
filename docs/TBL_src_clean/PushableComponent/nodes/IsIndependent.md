@@ -1,5 +1,4 @@
 ## Is Independent
-Is Independent
 ![[../img/nd_img_IsIndependent.png]]
 
 |Inputs||

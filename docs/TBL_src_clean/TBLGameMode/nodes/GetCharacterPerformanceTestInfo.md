@@ -1,5 +1,4 @@
 ## Get Character Performance Test Info
-Get Character Performance Test Info
 ![[../img/nd_img_GetCharacterPerformanceTestInfo.png]]
 
 |Inputs||

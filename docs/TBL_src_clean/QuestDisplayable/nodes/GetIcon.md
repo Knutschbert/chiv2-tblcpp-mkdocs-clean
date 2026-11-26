@@ -1,5 +1,4 @@
 ## Get Icon
-Get Icon
 ![[../img/nd_img_GetIcon.png]]
 
 |Inputs||

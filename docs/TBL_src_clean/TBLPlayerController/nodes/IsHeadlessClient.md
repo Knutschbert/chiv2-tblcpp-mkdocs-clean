@@ -1,5 +1,4 @@
 ## Is Headless Client
-Is Headless Client
 ![[../img/nd_img_IsHeadlessClient.png]]
 
 |Inputs||

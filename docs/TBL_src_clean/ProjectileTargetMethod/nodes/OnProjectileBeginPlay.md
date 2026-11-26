@@ -1,5 +1,4 @@
 ## On Projectile Begin Play
-On Projectile Begin Play
 ![[../img/nd_img_OnProjectileBeginPlay.png]]
 
 |Inputs||

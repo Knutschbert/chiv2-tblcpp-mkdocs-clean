@@ -1,5 +1,4 @@
 ## Purchase Item Exec
-Purchase Item Exec
 ![[../img/nd_img_PurchaseItemExec.png]]
 
 |Inputs||

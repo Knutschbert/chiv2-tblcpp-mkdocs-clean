@@ -1,5 +1,4 @@
 ## On Character Dismounted
-On Character Dismounted
 ![[../img/nd_img_OnCharacterDismounted.png]]
 
 |Inputs||

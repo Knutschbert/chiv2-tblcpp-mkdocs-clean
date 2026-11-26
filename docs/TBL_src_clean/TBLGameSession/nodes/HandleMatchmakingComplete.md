@@ -1,5 +1,4 @@
 ## Handle Matchmaking Complete
-Handle Matchmaking Complete
 ![[../img/nd_img_HandleMatchmakingComplete.png]]
 
 |Inputs||

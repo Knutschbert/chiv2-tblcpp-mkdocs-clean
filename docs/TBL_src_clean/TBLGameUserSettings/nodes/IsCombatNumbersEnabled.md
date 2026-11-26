@@ -1,5 +1,4 @@
 ## Is Combat Numbers Enabled
-Is Combat Numbers Enabled
 ![[../img/nd_img_IsCombatNumbersEnabled.png]]
 
 |Inputs||

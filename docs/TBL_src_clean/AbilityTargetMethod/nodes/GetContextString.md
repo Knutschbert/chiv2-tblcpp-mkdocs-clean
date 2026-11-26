@@ -1,5 +1,4 @@
 ## Get Context String
-Get Context String
 ![[../img/nd_img_GetContextString.png]]
 
 |Inputs||

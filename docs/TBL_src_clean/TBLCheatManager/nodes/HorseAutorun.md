@@ -1,5 +1,4 @@
 ## Horse Autorun
-Horse Autorun
 ![[../img/nd_img_HorseAutorun.png]]
 
 |Inputs||

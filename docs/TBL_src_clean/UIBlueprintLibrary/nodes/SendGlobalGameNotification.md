@@ -1,5 +1,4 @@
 ## Send Global Game Notification
-Send Global Game Notification
 ![[../img/nd_img_SendGlobalGameNotification.png]]
 
 |Inputs||

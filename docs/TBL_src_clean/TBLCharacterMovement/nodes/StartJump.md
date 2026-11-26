@@ -1,5 +1,4 @@
 ## Start Jump
-Start Jump
 ![[../img/nd_img_StartJump.png]]
 
 |Inputs||

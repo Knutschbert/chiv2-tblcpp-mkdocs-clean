@@ -1,5 +1,4 @@
 ## Toggle Ghost
-Toggle Ghost
 ![[../img/nd_img_ToggleGhost.png]]
 
 |Inputs||

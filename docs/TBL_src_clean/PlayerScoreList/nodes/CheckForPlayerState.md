@@ -1,5 +1,4 @@
 ## Check for Player State
-Check for Player State
 ![[../img/nd_img_CheckForPlayerState.png]]
 
 |Inputs||

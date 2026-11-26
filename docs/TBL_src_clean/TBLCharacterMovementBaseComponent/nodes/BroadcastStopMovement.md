@@ -1,5 +1,4 @@
 ## Broadcast Stop Movement
-Broadcast Stop Movement
 ![[../img/nd_img_BroadcastStopMovement.png]]
 
 |Inputs||

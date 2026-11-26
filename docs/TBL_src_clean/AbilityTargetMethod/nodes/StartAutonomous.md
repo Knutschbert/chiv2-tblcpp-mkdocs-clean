@@ -1,5 +1,4 @@
 ## Start Autonomous
-Start Autonomous
 ![[../img/nd_img_StartAutonomous.png]]
 
 |Inputs||

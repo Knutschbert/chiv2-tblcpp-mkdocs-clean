@@ -1,5 +1,4 @@
 ## Set Damaged State
-Set Damaged State
 ![[../img/nd_img_SetDamagedState.png]]
 
 |Inputs||

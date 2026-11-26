@@ -1,5 +1,4 @@
 ## Unbind on Purchased Changed
-Unbind on Purchased Changed
 ![[../img/nd_img_UnbindOnPurchasedChanged.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Current UIState
-Get Current UIState
 ![[../img/nd_img_GetCurrentUIState.png]]
 
 |Inputs||

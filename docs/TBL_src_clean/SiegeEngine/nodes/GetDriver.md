@@ -1,5 +1,4 @@
 ## Get Driver
-Get Driver
 ![[../img/nd_img_GetDriver.png]]
 
 |Inputs||

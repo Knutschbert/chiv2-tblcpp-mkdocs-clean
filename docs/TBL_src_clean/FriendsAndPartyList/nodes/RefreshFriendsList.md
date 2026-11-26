@@ -1,5 +1,4 @@
 ## Refresh Friends List
-Refresh Friends List
 ![[../img/nd_img_RefreshFriendsList.png]]
 
 |Inputs||

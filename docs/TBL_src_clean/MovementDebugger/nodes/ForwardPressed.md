@@ -1,5 +1,4 @@
 ## Forward Pressed
-Forward Pressed
 ![[../img/nd_img_ForwardPressed.png]]
 
 |Inputs||

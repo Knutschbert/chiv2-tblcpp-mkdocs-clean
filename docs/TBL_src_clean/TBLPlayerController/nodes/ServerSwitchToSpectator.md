@@ -1,5 +1,4 @@
 ## Server Switch to Spectator
-Server Switch to Spectator
 ![[../img/nd_img_ServerSwitchToSpectator.png]]
 
 |Inputs||

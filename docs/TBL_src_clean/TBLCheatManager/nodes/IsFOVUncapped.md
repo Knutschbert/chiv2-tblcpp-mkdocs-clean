@@ -1,5 +1,4 @@
 ## Is FOVUncapped
-Is FOVUncapped
 ![[../img/nd_img_IsFOVUncapped.png]]
 
 |Inputs||

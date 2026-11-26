@@ -1,5 +1,4 @@
 ## Enable Combat Condition
-Enable Combat Condition
 ![[../img/nd_img_EnableCombatCondition.png]]
 
 |Inputs||

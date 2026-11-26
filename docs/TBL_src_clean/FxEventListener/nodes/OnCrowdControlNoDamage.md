@@ -1,5 +1,4 @@
 ## On Crowd Control No Damage
-On Crowd Control No Damage
 ![[../img/nd_img_OnCrowdControlNoDamage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Movement State Greater Than
-Is Movement State Greater Than
 ![[../img/nd_img_IsMovementStateGreaterThan.png]]
 
 |Inputs||

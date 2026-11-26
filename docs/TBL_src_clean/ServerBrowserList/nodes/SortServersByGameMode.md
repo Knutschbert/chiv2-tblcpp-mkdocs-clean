@@ -1,5 +1,4 @@
 ## Sort Servers by Game Mode
-Sort Servers by Game Mode
 ![[../img/nd_img_SortServersByGameMode.png]]
 
 |Inputs||

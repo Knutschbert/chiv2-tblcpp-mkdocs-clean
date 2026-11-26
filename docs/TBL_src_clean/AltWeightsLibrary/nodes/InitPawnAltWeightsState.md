@@ -1,5 +1,4 @@
 ## Init Pawn Alt Weights State
-Init Pawn Alt Weights State
 ![[../img/nd_img_InitPawnAltWeightsState.png]]
 
 |Inputs||

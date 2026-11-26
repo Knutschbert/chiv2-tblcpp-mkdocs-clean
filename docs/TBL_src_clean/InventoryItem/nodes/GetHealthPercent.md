@@ -1,5 +1,4 @@
 ## Get Health Percent
-Get Health Percent
 ![[../img/nd_img_GetHealthPercent.png]]
 
 |Inputs||

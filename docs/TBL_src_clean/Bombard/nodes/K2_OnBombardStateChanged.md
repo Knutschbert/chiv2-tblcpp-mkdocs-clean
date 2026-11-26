@@ -1,5 +1,4 @@
 ## K2 on Bombard State Changed
-K2 on Bombard State Changed
 ![[../img/nd_img_K2_OnBombardStateChanged.png]]
 
 |Inputs||

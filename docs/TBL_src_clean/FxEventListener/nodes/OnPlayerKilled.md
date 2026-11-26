@@ -1,5 +1,4 @@
 ## On Player Killed
-On Player Killed
 ![[../img/nd_img_OnPlayerKilled.png]]
 
 |Inputs||

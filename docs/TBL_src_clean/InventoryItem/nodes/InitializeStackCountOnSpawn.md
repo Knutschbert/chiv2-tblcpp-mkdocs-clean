@@ -1,5 +1,4 @@
 ## Initialize Stack Count on Spawn
-Initialize Stack Count on Spawn
 ![[../img/nd_img_InitializeStackCountOnSpawn.png]]
 
 |Inputs||

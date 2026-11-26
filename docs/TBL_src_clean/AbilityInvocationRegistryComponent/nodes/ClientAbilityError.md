@@ -1,5 +1,4 @@
 ## Client Ability Error
-Client Ability Error
 ![[../img/nd_img_ClientAbilityError.png]]
 
 |Inputs||

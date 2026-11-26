@@ -1,5 +1,4 @@
 ## Authority Set Autorun Movement Mode
-Authority Set Autorun Movement Mode
 ![[../img/nd_img_AuthoritySetAutorunMovementMode.png]]
 
 |Inputs||

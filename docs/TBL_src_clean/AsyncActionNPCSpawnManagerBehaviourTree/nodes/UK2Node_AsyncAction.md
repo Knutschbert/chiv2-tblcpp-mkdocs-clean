@@ -1,5 +1,4 @@
 ## Async Wait for Behaviour Tree
-Async Wait for Behaviour Tree
 ![[../img/nd_img_UK2Node_AsyncAction.png]]
 
 |Inputs||

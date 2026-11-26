@@ -1,5 +1,4 @@
 ## Set Owning Team
-Set Owning Team
 ![[../img/nd_img_SetOwningTeam.png]]
 
 |Inputs||

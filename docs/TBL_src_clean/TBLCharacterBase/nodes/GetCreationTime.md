@@ -1,5 +1,4 @@
 ## Get Creation Time
-Get Creation Time
 ![[../img/nd_img_GetCreationTime.png]]
 
 |Inputs||

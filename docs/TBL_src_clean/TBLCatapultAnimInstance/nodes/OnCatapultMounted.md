@@ -1,5 +1,4 @@
 ## On Catapult Mounted
-On Catapult Mounted
 ![[../img/nd_img_OnCatapultMounted.png]]
 
 |Inputs||

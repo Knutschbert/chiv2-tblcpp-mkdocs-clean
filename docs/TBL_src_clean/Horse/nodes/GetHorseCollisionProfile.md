@@ -1,5 +1,4 @@
 ## Get Horse Collision Profile
-Get Horse Collision Profile
 ![[../img/nd_img_GetHorseCollisionProfile.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Mounted
-On Mounted
 ![[../img/nd_img_OnMounted.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Gamepad RYSens
-Set Gamepad RYSens
 ![[../img/nd_img_SetGamepadRYSens.png]]
 
 |Inputs||

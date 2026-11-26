@@ -1,5 +1,4 @@
 ## Set Dummy Bot
-Set Dummy Bot
 ![[../img/nd_img_SetDummyBot.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Controllers with Behaviour
-Get Controllers with Behaviour
 ![[../img/nd_img_GetControllersWithBehaviour.png]]
 
 |Inputs||

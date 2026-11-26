@@ -1,5 +1,4 @@
 ## Is Added to Inventory
-Is Added to Inventory
 ![[../img/nd_img_IsAddedToInventory.png]]
 
 |Inputs||

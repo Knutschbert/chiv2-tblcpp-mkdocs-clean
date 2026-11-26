@@ -1,5 +1,4 @@
 ## On User Pressed Start
-On User Pressed Start
 ![[../img/nd_img_OnUserPressedStart.png]]
 
 |Inputs||

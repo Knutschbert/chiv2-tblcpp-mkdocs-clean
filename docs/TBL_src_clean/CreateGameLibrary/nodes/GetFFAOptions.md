@@ -1,5 +1,4 @@
 ## Get FFAOptions
-Get FFAOptions
 ![[../img/nd_img_GetFFAOptions.png]]
 
 |Inputs||

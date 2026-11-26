@@ -1,5 +1,4 @@
 ## Is Valid Target
-Is Valid Target
 ![[../img/nd_img_IsValidTarget.png]]
 
 |Inputs||

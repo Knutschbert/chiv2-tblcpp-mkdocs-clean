@@ -1,5 +1,4 @@
 ## On Ragdoll Attach
-On Ragdoll Attach
 ![[../img/nd_img_OnRagdollAttach.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Pop Material Override
-Pop Material Override
 ![[../img/nd_img_PopMaterialOverride.png]]
 
 |Inputs||

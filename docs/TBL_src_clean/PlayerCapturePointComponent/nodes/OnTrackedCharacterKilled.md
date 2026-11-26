@@ -1,5 +1,4 @@
 ## On Tracked Character Killed
-On Tracked Character Killed
 ![[../img/nd_img_OnTrackedCharacterKilled.png]]
 
 |Inputs||

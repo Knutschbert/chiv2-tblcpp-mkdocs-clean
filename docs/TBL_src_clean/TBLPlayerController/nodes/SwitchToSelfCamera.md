@@ -1,5 +1,4 @@
 ## Switch to Self Camera
-Switch to Self Camera
 ![[../img/nd_img_SwitchToSelfCamera.png]]
 
 |Inputs||

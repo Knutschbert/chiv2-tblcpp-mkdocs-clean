@@ -1,5 +1,4 @@
 ## Crosshair Holding Completed
-Crosshair Holding Completed
 ![[../img/nd_img_CrosshairHoldingCompleted.png]]
 
 |Inputs||

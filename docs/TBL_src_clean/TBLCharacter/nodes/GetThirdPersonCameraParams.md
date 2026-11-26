@@ -1,5 +1,4 @@
 ## Get Third Person Camera Params
-Get Third Person Camera Params
 ![[../img/nd_img_GetThirdPersonCameraParams.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Event Carryable Character
-Event Carryable Character
 ![[../img/nd_img_EventCarryableCharacter.png]]
 
 |Inputs||

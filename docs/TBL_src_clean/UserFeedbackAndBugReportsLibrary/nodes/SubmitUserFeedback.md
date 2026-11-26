@@ -1,5 +1,4 @@
 ## Submit User Feedback
-Submit User Feedback
 ![[../img/nd_img_SubmitUserFeedback.png]]
 
 |Inputs||

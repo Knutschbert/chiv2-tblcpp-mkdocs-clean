@@ -1,5 +1,4 @@
 ## Get Team with Faction
-Get Team with Faction
 ![[../img/nd_img_GetTeamWithFaction.png]]
 
 |Inputs||

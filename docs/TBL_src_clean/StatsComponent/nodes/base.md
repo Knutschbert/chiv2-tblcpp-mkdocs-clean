@@ -1,5 +1,4 @@
 ## Base
-Base
 ![[../img/nd_img_base.png]]
 
 |Inputs||

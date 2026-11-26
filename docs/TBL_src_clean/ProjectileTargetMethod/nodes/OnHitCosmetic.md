@@ -1,5 +1,4 @@
 ## On Hit Cosmetic
-On Hit Cosmetic
 ![[../img/nd_img_OnHitCosmetic.png]]
 
 |Inputs||

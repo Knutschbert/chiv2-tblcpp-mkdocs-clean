@@ -1,5 +1,4 @@
 ## On Anim Notify Bombard Fire
-On Anim Notify Bombard Fire
 ![[../img/nd_img_OnAnimNotifyBombardFire.png]]
 
 |Inputs||

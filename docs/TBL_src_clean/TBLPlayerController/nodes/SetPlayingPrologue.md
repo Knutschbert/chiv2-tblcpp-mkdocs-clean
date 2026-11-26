@@ -1,5 +1,4 @@
 ## Set Playing Prologue
-Set Playing Prologue
 ![[../img/nd_img_SetPlayingPrologue.png]]
 
 |Inputs||

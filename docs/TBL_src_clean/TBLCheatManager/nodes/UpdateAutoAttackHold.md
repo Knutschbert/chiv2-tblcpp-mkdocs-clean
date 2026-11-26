@@ -1,5 +1,4 @@
 ## Update Auto Attack Hold
-Update Auto Attack Hold
 ![[../img/nd_img_UpdateAutoAttackHold.png]]
 
 |Inputs||

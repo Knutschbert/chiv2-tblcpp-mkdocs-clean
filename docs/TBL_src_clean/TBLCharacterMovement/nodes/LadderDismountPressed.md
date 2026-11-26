@@ -1,5 +1,4 @@
 ## Ladder Dismount Pressed
-Ladder Dismount Pressed
 ![[../img/nd_img_LadderDismountPressed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On TOSAgreed
-On TOSAgreed
 ![[../img/nd_img_OnTOSAgreed.png]]
 
 |Inputs||

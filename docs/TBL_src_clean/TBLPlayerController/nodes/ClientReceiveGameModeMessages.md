@@ -1,5 +1,4 @@
 ## Client Receive Game Mode Messages
-Client Receive Game Mode Messages
 ![[../img/nd_img_ClientReceiveGameModeMessages.png]]
 
 |Inputs||

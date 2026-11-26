@@ -1,5 +1,4 @@
 ## Get Feint Min Time
-Get Feint Min Time
 ![[../img/nd_img_GetFeintMinTime.png]]
 
 |Inputs||

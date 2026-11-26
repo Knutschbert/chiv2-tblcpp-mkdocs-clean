@@ -1,5 +1,4 @@
 ## Log Error
-Log Error
 ![[../img/nd_img_LogError.png]]
 
 |Inputs||

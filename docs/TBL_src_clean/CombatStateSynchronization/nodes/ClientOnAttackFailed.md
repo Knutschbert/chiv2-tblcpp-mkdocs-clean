@@ -1,5 +1,4 @@
 ## Client on Attack Failed
-Client on Attack Failed
 ![[../img/nd_img_ClientOnAttackFailed.png]]
 
 |Inputs||

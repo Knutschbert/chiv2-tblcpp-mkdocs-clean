@@ -1,5 +1,4 @@
 ## Draw Client Tracers
-Draw Client Tracers
 ![[../img/nd_img_DrawClientTracers.png]]
 
 |Inputs||

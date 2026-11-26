@@ -1,5 +1,4 @@
 ## Recheck Collisions
-Recheck Collisions
 ![[../img/nd_img_RecheckCollisions.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Rewards
-Get Rewards
 ![[../img/nd_img_GetRewards.png]]
 
 |Inputs||

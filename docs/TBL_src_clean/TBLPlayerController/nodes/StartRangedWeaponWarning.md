@@ -1,5 +1,4 @@
 ## Start Ranged Weapon Warning
-Start Ranged Weapon Warning
 ![[../img/nd_img_StartRangedWeaponWarning.png]]
 
 |Inputs||

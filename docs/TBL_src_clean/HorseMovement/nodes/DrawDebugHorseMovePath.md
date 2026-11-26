@@ -1,5 +1,4 @@
 ## Draw Debug Horse Move Path
-Draw Debug Horse Move Path
 ![[../img/nd_img_DrawDebugHorseMovePath.png]]
 
 |Inputs||

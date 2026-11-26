@@ -1,5 +1,4 @@
 ## Make Team Selection
-Make Team Selection
 ![[../img/nd_img_MakeTeamSelection.png]]
 
 |Inputs||

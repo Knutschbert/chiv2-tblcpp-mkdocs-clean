@@ -1,5 +1,4 @@
 ## Grant Currency Exec
-Grant Currency Exec
 ![[../img/nd_img_GrantCurrencyExec.png]]
 
 |Inputs||

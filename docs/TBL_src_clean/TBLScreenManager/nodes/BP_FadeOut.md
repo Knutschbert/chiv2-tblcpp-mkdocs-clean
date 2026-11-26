@@ -1,5 +1,4 @@
 ## BP Fade Out
-BP Fade Out
 ![[../img/nd_img_BP_FadeOut.png]]
 
 |Inputs||

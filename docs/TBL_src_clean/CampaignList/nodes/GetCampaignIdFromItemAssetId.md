@@ -1,5 +1,4 @@
 ## Get Campaign Id from Item Asset Id
-Get Campaign Id from Item Asset Id
 ![[../img/nd_img_GetCampaignIdFromItemAssetId.png]]
 
 |Inputs||

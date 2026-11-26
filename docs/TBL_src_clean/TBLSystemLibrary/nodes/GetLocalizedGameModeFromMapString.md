@@ -1,5 +1,4 @@
 ## Get Localized Game Mode from Map String
-Get Localized Game Mode from Map String
 ![[../img/nd_img_GetLocalizedGameModeFromMapString.png]]
 
 |Inputs||

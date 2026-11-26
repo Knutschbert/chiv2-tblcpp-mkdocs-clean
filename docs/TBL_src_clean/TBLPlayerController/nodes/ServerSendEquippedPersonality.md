@@ -1,5 +1,4 @@
 ## Server Send Equipped Personality
-Server Send Equipped Personality
 ![[../img/nd_img_ServerSendEquippedPersonality.png]]
 
 |Inputs||

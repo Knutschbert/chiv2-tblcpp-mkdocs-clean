@@ -1,5 +1,4 @@
 ## Reset Profile Data
-Reset Profile Data
 ![[../img/nd_img_ResetProfileData.png]]
 
 |Inputs||

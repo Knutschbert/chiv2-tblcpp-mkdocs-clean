@@ -1,5 +1,4 @@
 ## Should Attach Ragdoll
-Should Attach Ragdoll
 ![[../img/nd_img_ShouldAttachRagdoll.png]]
 
 |Inputs||

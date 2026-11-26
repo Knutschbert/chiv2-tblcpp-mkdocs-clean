@@ -1,5 +1,4 @@
 ## Update Ragdoll
-Update Ragdoll
 ![[../img/nd_img_UpdateRagdoll.png]]
 
 |Inputs||

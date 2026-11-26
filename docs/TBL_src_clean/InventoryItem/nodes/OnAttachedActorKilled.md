@@ -1,5 +1,4 @@
 ## On Attached Actor Killed
-On Attached Actor Killed
 ![[../img/nd_img_OnAttachedActorKilled.png]]
 
 |Inputs||

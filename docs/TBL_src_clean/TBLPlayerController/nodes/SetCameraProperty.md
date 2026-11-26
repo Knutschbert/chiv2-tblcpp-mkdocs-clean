@@ -1,5 +1,4 @@
 ## Set Camera Property
-Set Camera Property
 ![[../img/nd_img_SetCameraProperty.png]]
 
 |Inputs||

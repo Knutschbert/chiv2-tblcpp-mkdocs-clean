@@ -1,5 +1,4 @@
 ## Action Clear Attack Queue
-Action Clear Attack Queue
 ![[../img/nd_img_ActionClearAttackQueue.png]]
 
 |Inputs||

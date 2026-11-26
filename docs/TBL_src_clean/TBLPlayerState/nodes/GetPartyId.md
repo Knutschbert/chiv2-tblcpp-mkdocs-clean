@@ -1,5 +1,4 @@
 ## Get Party Id
-Get Party Id
 ![[../img/nd_img_GetPartyId.png]]
 
 |Inputs||

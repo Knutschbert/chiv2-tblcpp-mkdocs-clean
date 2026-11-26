@@ -1,5 +1,4 @@
 ## Set Follower Pushable Component Properties
-Set Follower Pushable Component Properties
 ![[../img/nd_img_SetFollowerPushableComponentProperties.png]]
 
 |Inputs||

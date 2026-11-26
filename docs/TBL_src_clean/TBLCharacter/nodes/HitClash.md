@@ -1,5 +1,4 @@
 ## Hit Clash
-Hit Clash
 ![[../img/nd_img_HitClash.png]]
 
 |Inputs||

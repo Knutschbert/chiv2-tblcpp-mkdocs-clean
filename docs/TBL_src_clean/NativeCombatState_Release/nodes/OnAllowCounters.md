@@ -1,5 +1,4 @@
 ## On Allow Counters
-On Allow Counters
 ![[../img/nd_img_OnAllowCounters.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Draw Parry Hit
-Server Draw Parry Hit
 ![[../img/nd_img_ServerDrawParryHit.png]]
 
 |Inputs||

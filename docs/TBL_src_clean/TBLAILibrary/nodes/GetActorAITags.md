@@ -1,5 +1,4 @@
 ## Get Actor AITags
-Get Actor AITags
 ![[../img/nd_img_GetActorAITags.png]]
 
 |Inputs||

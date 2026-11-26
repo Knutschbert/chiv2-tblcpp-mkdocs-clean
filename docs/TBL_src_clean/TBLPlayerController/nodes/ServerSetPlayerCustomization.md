@@ -1,5 +1,4 @@
 ## Server Set Player Customization
-Server Set Player Customization
 ![[../img/nd_img_ServerSetPlayerCustomization.png]]
 
 |Inputs||

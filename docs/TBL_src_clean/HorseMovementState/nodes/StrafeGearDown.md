@@ -1,5 +1,4 @@
 ## Strafe Gear Down
-Strafe Gear Down
 ![[../img/nd_img_StrafeGearDown.png]]
 
 |Inputs||

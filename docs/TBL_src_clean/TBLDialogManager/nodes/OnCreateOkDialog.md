@@ -1,5 +1,4 @@
 ## On Create Ok Dialog
-On Create Ok Dialog
 ![[../img/nd_img_OnCreateOkDialog.png]]
 
 |Inputs||

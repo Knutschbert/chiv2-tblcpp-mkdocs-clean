@@ -1,5 +1,4 @@
 ## Should Do Spawn Fade Out
-Should Do Spawn Fade Out
 ![[../img/nd_img_ShouldDoSpawnFadeOut.png]]
 
 |Inputs||

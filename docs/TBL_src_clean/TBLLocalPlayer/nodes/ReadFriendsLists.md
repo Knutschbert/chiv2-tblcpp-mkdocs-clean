@@ -1,5 +1,4 @@
 ## Read Friends Lists
-Read Friends Lists
 ![[../img/nd_img_ReadFriendsLists.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Conditions Component
-Get Conditions Component
 ![[../img/nd_img_GetConditionsComponent.png]]
 
 |Inputs||

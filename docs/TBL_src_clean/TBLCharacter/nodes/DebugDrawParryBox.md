@@ -1,5 +1,4 @@
 ## Debug Draw Parry Box
-Debug Draw Parry Box
 ![[../img/nd_img_DebugDrawParryBox.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Busy
-Is Busy
 ![[../img/nd_img_IsBusy.png]]
 
 |Inputs||

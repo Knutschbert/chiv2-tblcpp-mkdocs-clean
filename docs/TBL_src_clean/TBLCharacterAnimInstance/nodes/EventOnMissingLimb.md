@@ -1,5 +1,4 @@
 ## Event on Missing Limb
-Event on Missing Limb
 ![[../img/nd_img_EventOnMissingLimb.png]]
 
 |Inputs||

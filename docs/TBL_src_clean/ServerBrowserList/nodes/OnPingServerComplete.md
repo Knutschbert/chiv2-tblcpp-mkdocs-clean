@@ -1,5 +1,4 @@
 ## On Ping Server Complete
-On Ping Server Complete
 ![[../img/nd_img_OnPingServerComplete.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Debug Apply Bonus
-Server Debug Apply Bonus
 ![[../img/nd_img_ServerDebugApplyBonus.png]]
 
 |Inputs||

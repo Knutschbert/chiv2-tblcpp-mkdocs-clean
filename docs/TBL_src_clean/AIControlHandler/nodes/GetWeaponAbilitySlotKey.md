@@ -1,5 +1,4 @@
 ## Get Weapon Ability Slot Key
-Get Weapon Ability Slot Key
 ![[../img/nd_img_GetWeaponAbilitySlotKey.png]]
 
 |Inputs||

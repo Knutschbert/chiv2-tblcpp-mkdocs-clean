@@ -1,5 +1,4 @@
 ## Increase Frame Offset
-Increase Frame Offset
 ![[../img/nd_img_IncreaseFrameOffset.png]]
 
 |Inputs||

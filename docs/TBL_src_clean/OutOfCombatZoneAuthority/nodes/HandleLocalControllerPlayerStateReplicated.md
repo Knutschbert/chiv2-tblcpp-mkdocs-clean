@@ -1,5 +1,4 @@
 ## Handle Local Controller Player State Replicated
-Handle Local Controller Player State Replicated
 ![[../img/nd_img_HandleLocalControllerPlayerStateReplicated.png]]
 
 |Inputs||

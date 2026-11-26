@@ -1,5 +1,4 @@
 ## Server Draw Projectile
-Server Draw Projectile
 ![[../img/nd_img_ServerDrawProjectile.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Clear Stage Progress
-Clear Stage Progress
 ![[../img/nd_img_ClearStageProgress.png]]
 
 |Inputs||

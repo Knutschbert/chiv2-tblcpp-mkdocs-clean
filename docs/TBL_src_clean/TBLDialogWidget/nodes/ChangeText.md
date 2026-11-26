@@ -1,5 +1,4 @@
 ## Change Text
-Change Text
 ![[../img/nd_img_ChangeText.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## TBSManually Start Game
-TBSManually Start Game
 ![[../img/nd_img_TBSManuallyStartGame.png]]
 
 |Inputs||

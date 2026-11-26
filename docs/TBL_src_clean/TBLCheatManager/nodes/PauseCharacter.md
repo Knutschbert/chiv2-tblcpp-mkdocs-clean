@@ -1,5 +1,4 @@
 ## Pause Character
-Pause Character
 ![[../img/nd_img_PauseCharacter.png]]
 
 |Inputs||

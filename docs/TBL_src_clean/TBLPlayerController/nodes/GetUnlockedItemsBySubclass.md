@@ -1,5 +1,4 @@
 ## Get Unlocked Items by Subclass
-Get Unlocked Items by Subclass
 ![[../img/nd_img_GetUnlockedItemsBySubclass.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Bombard Dismounted
-On Bombard Dismounted
 ![[../img/nd_img_OnBombardDismounted.png]]
 
 |Inputs||

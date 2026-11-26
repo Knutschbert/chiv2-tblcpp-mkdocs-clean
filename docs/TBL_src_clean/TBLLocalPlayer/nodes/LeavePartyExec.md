@@ -1,5 +1,4 @@
 ## Leave Party Exec
-Leave Party Exec
 ![[../img/nd_img_LeavePartyExec.png]]
 
 |Inputs||

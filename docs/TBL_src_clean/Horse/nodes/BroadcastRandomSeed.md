@@ -1,5 +1,4 @@
 ## Broadcast Random Seed
-Broadcast Random Seed
 ![[../img/nd_img_BroadcastRandomSeed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Notify Entered Left Loadout Volume
-Notify Entered Left Loadout Volume
 ![[../img/nd_img_NotifyEnteredLeftLoadoutVolume.png]]
 
 |Inputs||

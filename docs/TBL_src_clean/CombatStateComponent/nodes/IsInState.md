@@ -1,5 +1,4 @@
 ## Is in State
-Is in State
 ![[../img/nd_img_IsInState.png]]
 
 |Inputs||

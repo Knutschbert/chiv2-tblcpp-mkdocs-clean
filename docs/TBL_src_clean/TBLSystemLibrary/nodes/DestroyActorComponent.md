@@ -1,5 +1,4 @@
 ## Destroy Actor Component
-Destroy Actor Component
 ![[../img/nd_img_DestroyActorComponent.png]]
 
 |Inputs||

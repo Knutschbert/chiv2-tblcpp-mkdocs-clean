@@ -1,5 +1,4 @@
 ## Start Feint
-Start Feint
 ![[../img/nd_img_StartFeint.png]]
 
 |Inputs||

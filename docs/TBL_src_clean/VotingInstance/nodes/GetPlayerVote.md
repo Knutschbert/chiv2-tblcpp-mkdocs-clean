@@ -1,5 +1,4 @@
 ## Get Player Vote
-Get Player Vote
 ![[../img/nd_img_GetPlayerVote.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Total Times Killed
-Get Total Times Killed
 ![[../img/nd_img_GetTotalTimesKilled.png]]
 
 |Inputs||

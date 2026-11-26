@@ -1,5 +1,4 @@
 ## Event Was Parried
-Event Was Parried
 ![[../img/nd_img_EventWasParried.png]]
 
 |Inputs||

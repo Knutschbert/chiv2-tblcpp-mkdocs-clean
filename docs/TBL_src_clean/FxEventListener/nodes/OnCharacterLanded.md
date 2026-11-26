@@ -1,5 +1,4 @@
 ## On Character Landed
-On Character Landed
 ![[../img/nd_img_OnCharacterLanded.png]]
 
 |Inputs||

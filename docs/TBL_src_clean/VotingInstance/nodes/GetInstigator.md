@@ -1,5 +1,4 @@
 ## Get Instigator
-Get Instigator
 ![[../img/nd_img_GetInstigator.png]]
 
 |Inputs||

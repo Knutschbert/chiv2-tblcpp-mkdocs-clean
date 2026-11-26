@@ -1,5 +1,4 @@
 ## Server Cheat
-Server Cheat
 ![[../img/nd_img_ServerCheat.png]]
 
 |Inputs||

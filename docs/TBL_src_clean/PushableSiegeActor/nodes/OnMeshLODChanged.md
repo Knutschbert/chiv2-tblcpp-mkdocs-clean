@@ -1,5 +1,4 @@
 ## On Mesh LODChanged
-On Mesh LODChanged
 ![[../img/nd_img_OnMeshLODChanged.png]]
 
 |Inputs||

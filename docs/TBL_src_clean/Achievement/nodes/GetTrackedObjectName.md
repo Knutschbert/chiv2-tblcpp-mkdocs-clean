@@ -1,5 +1,4 @@
 ## Get Tracked Object Name
-Get Tracked Object Name
 ![[../img/nd_img_GetTrackedObjectName.png]]
 
 |Inputs||

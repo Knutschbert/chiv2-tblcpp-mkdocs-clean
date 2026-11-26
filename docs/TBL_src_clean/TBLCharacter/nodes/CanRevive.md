@@ -1,5 +1,4 @@
 ## Can Revive
-Can Revive
 ![[../img/nd_img_CanRevive.png]]
 
 |Inputs||

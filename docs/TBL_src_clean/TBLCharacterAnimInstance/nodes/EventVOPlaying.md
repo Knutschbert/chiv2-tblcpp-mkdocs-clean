@@ -1,5 +1,4 @@
 ## Event VOPlaying
-Event VOPlaying
 ![[../img/nd_img_EventVOPlaying.png]]
 
 |Inputs||

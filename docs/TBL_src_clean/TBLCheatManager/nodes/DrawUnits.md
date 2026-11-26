@@ -1,5 +1,4 @@
 ## Draw Units
-Draw Units
 ![[../img/nd_img_DrawUnits.png]]
 
 |Inputs||

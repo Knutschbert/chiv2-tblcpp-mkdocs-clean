@@ -1,5 +1,4 @@
 ## Cleanup Ability Actors
-Cleanup Ability Actors
 ![[../img/nd_img_CleanupAbilityActors.png]]
 
 |Inputs||

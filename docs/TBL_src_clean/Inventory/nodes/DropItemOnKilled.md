@@ -1,5 +1,4 @@
 ## Drop Item on Killed
-Drop Item on Killed
 ![[../img/nd_img_DropItemOnKilled.png]]
 
 |Inputs||

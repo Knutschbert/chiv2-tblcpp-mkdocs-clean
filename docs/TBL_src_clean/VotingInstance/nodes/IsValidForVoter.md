@@ -1,5 +1,4 @@
 ## Is Valid for Voter
-Is Valid for Voter
 ![[../img/nd_img_IsValidForVoter.png]]
 
 |Inputs||

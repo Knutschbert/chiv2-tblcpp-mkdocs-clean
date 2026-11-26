@@ -1,5 +1,4 @@
 ## Clear Action Binding
-Clear Action Binding
 ![[../img/nd_img_ClearActionBinding.png]]
 
 |Inputs||

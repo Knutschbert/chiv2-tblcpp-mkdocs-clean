@@ -1,5 +1,4 @@
 ## On Crowd Control
-On Crowd Control
 ![[../img/nd_img_OnCrowdControl.png]]
 
 |Inputs||

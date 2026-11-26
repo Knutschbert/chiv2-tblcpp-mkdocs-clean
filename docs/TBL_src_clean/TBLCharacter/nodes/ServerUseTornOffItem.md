@@ -1,5 +1,4 @@
 ## Server Use Torn Off Item
-Server Use Torn Off Item
 ![[../img/nd_img_ServerUseTornOffItem.png]]
 
 |Inputs||

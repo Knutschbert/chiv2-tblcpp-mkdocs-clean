@@ -1,5 +1,4 @@
 ## Get Owning Pawn
-Get Owning Pawn
 ![[../img/nd_img_GetOwningPawn.png]]
 
 |Inputs||

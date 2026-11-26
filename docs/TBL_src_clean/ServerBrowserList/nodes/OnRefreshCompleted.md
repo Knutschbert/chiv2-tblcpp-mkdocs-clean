@@ -1,5 +1,4 @@
 ## On Refresh Completed
-On Refresh Completed
 ![[../img/nd_img_OnRefreshCompleted.png]]
 
 |Inputs||

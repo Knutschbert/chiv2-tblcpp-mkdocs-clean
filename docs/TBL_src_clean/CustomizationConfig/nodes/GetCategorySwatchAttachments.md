@@ -1,5 +1,4 @@
 ## Get Category Swatch Attachments
-Get Category Swatch Attachments
 ![[../img/nd_img_GetCategorySwatchAttachments.png]]
 
 |Inputs||

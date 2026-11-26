@@ -1,5 +1,4 @@
 ## Get Stage Time Remaining
-Get Stage Time Remaining
 ![[../img/nd_img_GetStageTimeRemaining.png]]
 
 |Inputs||

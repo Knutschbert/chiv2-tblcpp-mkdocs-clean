@@ -1,5 +1,4 @@
 ## Load All Customization Assets
-Load All Customization Assets
 ![[../img/nd_img_LoadAllCustomizationAssets.png]]
 
 |Inputs||

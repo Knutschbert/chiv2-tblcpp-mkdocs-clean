@@ -1,5 +1,4 @@
 ## Client Notify Wave Join Response
-Client Notify Wave Join Response
 ![[../img/nd_img_ClientNotifyWaveJoinResponse.png]]
 
 |Inputs||

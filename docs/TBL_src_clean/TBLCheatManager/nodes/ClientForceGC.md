@@ -1,5 +1,4 @@
 ## Client Force GC
-Client Force GC
 ![[../img/nd_img_ClientForceGC.png]]
 
 |Inputs||

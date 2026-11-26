@@ -1,5 +1,4 @@
 ## Server Property Debugger
-Server Property Debugger
 ![[../img/nd_img_ServerPropertyDebugger.png]]
 
 |Inputs||

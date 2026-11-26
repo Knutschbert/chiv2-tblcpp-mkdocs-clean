@@ -1,5 +1,4 @@
 ## Ghost
-Ghost
 ![[../img/nd_img_Ghost.png]]
 
 |Inputs||

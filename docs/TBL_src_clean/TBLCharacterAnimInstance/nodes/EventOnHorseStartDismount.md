@@ -1,5 +1,4 @@
 ## Event on Horse Start Dismount
-Event on Horse Start Dismount
 ![[../img/nd_img_EventOnHorseStartDismount.png]]
 
 |Inputs||

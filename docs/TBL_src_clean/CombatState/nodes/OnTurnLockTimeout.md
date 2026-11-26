@@ -1,5 +1,4 @@
 ## On Turn Lock Timeout
-On Turn Lock Timeout
 ![[../img/nd_img_OnTurnLockTimeout.png]]
 
 |Inputs||

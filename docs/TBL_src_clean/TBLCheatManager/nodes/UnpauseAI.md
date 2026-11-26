@@ -1,5 +1,4 @@
 ## Unpause AI
-Unpause AI
 ![[../img/nd_img_UnpauseAI.png]]
 
 |Inputs||

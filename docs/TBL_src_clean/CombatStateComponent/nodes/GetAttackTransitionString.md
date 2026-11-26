@@ -1,5 +1,4 @@
 ## Get Attack Transition String
-Get Attack Transition String
 ![[../img/nd_img_GetAttackTransitionString.png]]
 
 |Inputs||

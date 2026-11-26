@@ -1,5 +1,4 @@
 ## Get Server Display Name
-Get Server Display Name
 ![[../img/nd_img_GetServerDisplayName.png]]
 
 |Inputs||

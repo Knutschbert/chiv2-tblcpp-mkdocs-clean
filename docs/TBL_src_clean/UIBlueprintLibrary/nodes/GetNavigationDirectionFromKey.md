@@ -1,5 +1,4 @@
 ## Get Navigation Direction from Key
-Get Navigation Direction from Key
 ![[../img/nd_img_GetNavigationDirectionFromKey.png]]
 
 |Inputs||

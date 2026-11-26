@@ -1,5 +1,4 @@
 ## Load from File
-Load from File
 ![[../img/nd_img_LoadFromFile.png]]
 
 |Inputs||

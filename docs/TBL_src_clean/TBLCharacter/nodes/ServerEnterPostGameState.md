@@ -1,5 +1,4 @@
 ## Server Enter Post Game State
-Server Enter Post Game State
 ![[../img/nd_img_ServerEnterPostGameState.png]]
 
 |Inputs||

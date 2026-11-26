@@ -1,5 +1,4 @@
 ## Update Action
-Update Action
 ![[../img/nd_img_UpdateAction.png]]
 
 |Inputs||

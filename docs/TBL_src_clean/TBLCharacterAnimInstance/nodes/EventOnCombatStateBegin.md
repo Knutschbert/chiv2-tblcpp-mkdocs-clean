@@ -1,5 +1,4 @@
 ## Event on Combat State Begin
-Event on Combat State Begin
 ![[../img/nd_img_EventOnCombatStateBegin.png]]
 
 |Inputs||

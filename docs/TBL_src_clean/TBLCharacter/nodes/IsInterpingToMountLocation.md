@@ -1,5 +1,4 @@
 ## Is Interping to Mount Location
-Is Interping to Mount Location
 ![[../img/nd_img_IsInterpingToMountLocation.png]]
 
 |Inputs||

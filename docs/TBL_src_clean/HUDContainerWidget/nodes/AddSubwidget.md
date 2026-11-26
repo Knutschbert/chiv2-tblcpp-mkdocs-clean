@@ -1,5 +1,4 @@
 ## Add Subwidget
-Add Subwidget
 ![[../img/nd_img_AddSubwidget.png]]
 
 |Inputs||

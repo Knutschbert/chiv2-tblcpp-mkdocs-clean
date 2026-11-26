@@ -1,5 +1,4 @@
 ## On Rep Owning Team Changed
-On Rep Owning Team Changed
 ![[../img/nd_img_OnRep_OwningTeamChanged.png]]
 
 |Inputs||

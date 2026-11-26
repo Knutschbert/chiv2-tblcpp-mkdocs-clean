@@ -1,5 +1,4 @@
 ## Influence at Location
-Influence at Location
 ![[../img/nd_img_InfluenceAtLocation.png]]
 
 |Inputs||

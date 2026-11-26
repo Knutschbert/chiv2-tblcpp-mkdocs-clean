@@ -1,5 +1,4 @@
 ## Server Toggle Autospawn
-Server Toggle Autospawn
 ![[../img/nd_img_ServerToggleAutospawn.png]]
 
 |Inputs||

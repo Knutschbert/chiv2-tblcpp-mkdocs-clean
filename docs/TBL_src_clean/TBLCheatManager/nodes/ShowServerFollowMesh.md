@@ -1,5 +1,4 @@
 ## Show Server Follow Mesh
-Show Server Follow Mesh
 ![[../img/nd_img_ShowServerFollowMesh.png]]
 
 |Inputs||

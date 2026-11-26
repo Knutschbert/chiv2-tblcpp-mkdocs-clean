@@ -1,5 +1,4 @@
 ## Exi
-Exi
 ![[../img/nd_img_Exi.png]]
 
 |Inputs||

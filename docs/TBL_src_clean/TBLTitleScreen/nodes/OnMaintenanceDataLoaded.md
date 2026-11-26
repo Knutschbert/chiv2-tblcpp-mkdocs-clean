@@ -1,5 +1,4 @@
 ## On Maintenance Data Loaded
-On Maintenance Data Loaded
 ![[../img/nd_img_OnMaintenanceDataLoaded.png]]
 
 |Inputs||

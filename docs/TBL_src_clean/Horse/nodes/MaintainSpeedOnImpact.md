@@ -1,5 +1,4 @@
 ## Maintain Speed on Impact
-Maintain Speed on Impact
 ![[../img/nd_img_MaintainSpeedOnImpact.png]]
 
 |Inputs||

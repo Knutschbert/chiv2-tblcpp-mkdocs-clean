@@ -1,5 +1,4 @@
 ## Projectile Stopped
-Projectile Stopped
 ![[../img/nd_img_ProjectileStopped.png]]
 
 |Inputs||

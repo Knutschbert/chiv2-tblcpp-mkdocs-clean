@@ -1,5 +1,4 @@
 ## Sort Customization Entries
-Sort Customization Entries
 ![[../img/nd_img_SortCustomizationEntries.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Level Blueprint Event
-Level Blueprint Event
 ![[../img/nd_img_LevelBlueprintEvent.png]]
 
 |Inputs||

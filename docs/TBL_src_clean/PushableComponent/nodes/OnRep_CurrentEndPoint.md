@@ -1,5 +1,4 @@
 ## On Rep Current End Point
-On Rep Current End Point
 ![[../img/nd_img_OnRep_CurrentEndPoint.png]]
 
 |Inputs||

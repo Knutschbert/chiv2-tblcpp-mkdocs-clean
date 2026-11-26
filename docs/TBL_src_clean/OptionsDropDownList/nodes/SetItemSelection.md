@@ -1,5 +1,4 @@
 ## Set Item Selection
-Set Item Selection
 ![[../img/nd_img_SetItemSelection.png]]
 
 |Inputs||

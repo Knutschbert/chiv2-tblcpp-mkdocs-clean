@@ -1,5 +1,4 @@
 ## Is There APlayer Too Close
-Is There APlayer Too Close
 ![[../img/nd_img_IsThereAPlayerTooClose.png]]
 
 |Inputs||

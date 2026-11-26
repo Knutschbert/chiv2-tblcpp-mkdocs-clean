@@ -1,5 +1,4 @@
 ## Broadcast Clash Event
-Broadcast Clash Event
 ![[../img/nd_img_BroadcastClashEvent.png]]
 
 |Inputs||

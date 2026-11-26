@@ -1,5 +1,4 @@
 ## Receive Experience Changed
-Receive Experience Changed
 ![[../img/nd_img_ReceiveExperienceChanged.png]]
 
 |Inputs||

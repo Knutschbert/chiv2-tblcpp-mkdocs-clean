@@ -1,5 +1,4 @@
 ## Client to be Equipped
-Client to be Equipped
 ![[../img/nd_img_ClientToBeEquipped.png]]
 
 |Inputs||

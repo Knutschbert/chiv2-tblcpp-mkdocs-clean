@@ -1,5 +1,4 @@
 ## On Charge Updated
-On Charge Updated
 ![[../img/nd_img_OnChargeUpdated.png]]
 
 |Inputs||

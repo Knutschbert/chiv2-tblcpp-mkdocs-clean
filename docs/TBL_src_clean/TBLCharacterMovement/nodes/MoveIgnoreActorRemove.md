@@ -1,5 +1,4 @@
 ## Move Ignore Actor Remove
-Move Ignore Actor Remove
 ![[../img/nd_img_MoveIgnoreActorRemove.png]]
 
 |Inputs||

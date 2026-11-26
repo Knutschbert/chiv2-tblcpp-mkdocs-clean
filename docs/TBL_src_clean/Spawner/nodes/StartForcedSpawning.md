@@ -1,5 +1,4 @@
 ## Start Forced Spawning
-Start Forced Spawning
 ![[../img/nd_img_StartForcedSpawning.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Can Dash
-Can Dash
 ![[../img/nd_img_CanDash.png]]
 
 |Inputs||

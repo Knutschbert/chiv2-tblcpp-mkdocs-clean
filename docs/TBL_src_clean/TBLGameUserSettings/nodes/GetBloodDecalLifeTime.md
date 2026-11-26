@@ -1,5 +1,4 @@
 ## Get Blood Decal Life Time
-Get Blood Decal Life Time
 ![[../img/nd_img_GetBloodDecalLifeTime.png]]
 
 |Inputs||

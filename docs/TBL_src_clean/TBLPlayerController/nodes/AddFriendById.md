@@ -1,5 +1,4 @@
 ## Add Friend by Id
-Add Friend by Id
 ![[../img/nd_img_AddFriendById.png]]
 
 |Inputs||

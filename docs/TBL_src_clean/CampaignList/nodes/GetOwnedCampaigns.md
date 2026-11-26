@@ -1,5 +1,4 @@
 ## Get Owned Campaigns
-Get Owned Campaigns
 ![[../img/nd_img_GetOwnedCampaigns.png]]
 
 |Inputs||

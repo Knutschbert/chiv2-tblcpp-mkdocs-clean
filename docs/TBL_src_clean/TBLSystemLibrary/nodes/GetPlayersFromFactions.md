@@ -1,5 +1,4 @@
 ## Get Players from Factions
-Get Players from Factions
 ![[../img/nd_img_GetPlayersFromFactions.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Low Ammo
-Is Low Ammo
 ![[../img/nd_img_IsLowAmmo.png]]
 
 |Inputs||

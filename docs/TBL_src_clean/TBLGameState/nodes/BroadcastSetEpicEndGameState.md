@@ -1,5 +1,4 @@
 ## Broadcast Set Epic End Game State
-Broadcast Set Epic End Game State
 ![[../img/nd_img_BroadcastSetEpicEndGameState.png]]
 
 |Inputs||

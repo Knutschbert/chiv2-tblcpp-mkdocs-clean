@@ -1,5 +1,4 @@
 ## Use
-Use
 ![[../img/nd_img_Use.png]]
 
 |Inputs||

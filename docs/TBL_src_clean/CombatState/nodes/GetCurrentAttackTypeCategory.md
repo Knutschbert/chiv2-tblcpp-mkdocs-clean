@@ -1,5 +1,4 @@
 ## Get Current Attack Type Category
-Get Current Attack Type Category
 ![[../img/nd_img_GetCurrentAttackTypeCategory.png]]
 
 |Inputs||

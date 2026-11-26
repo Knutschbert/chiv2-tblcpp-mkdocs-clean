@@ -1,5 +1,4 @@
 ## On Stamina Cost Failed
-On Stamina Cost Failed
 ![[../img/nd_img_OnStaminaCostFailed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Refresh Demo List
-Refresh Demo List
 ![[../img/nd_img_RefreshDemoList.png]]
 
 |Inputs||

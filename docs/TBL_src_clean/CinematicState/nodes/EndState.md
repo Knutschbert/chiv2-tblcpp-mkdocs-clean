@@ -1,5 +1,4 @@
 ## End State
-End State
 ![[../img/nd_img_EndState.png]]
 
 |Inputs||

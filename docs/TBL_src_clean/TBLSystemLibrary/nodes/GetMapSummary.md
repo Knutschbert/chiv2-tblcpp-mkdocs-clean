@@ -1,5 +1,4 @@
 ## Get Map Summary
-Get Map Summary
 ![[../img/nd_img_GetMapSummary.png]]
 
 |Inputs||

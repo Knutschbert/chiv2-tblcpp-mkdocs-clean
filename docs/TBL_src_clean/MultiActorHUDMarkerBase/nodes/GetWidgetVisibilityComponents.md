@@ -1,5 +1,4 @@
 ## Get Widget Visibility Components
-Get Widget Visibility Components
 ![[../img/nd_img_GetWidgetVisibilityComponents.png]]
 
 |Inputs||

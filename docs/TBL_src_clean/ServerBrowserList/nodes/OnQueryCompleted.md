@@ -1,5 +1,4 @@
 ## On Query Completed
-On Query Completed
 ![[../img/nd_img_OnQueryCompleted.png]]
 
 |Inputs||

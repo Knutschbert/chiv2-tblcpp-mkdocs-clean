@@ -1,5 +1,4 @@
 ## Get Saved Character Subclass
-Get Saved Character Subclass
 ![[../img/nd_img_GetSavedCharacterSubclass.png]]
 
 |Inputs||

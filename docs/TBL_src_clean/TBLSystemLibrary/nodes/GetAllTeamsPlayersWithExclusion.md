@@ -1,5 +1,4 @@
 ## Get All Teams Players with Exclusion
-Get All Teams Players with Exclusion
 ![[../img/nd_img_GetAllTeamsPlayersWithExclusion.png]]
 
 |Inputs||

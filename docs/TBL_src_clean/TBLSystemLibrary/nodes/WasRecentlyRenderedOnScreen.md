@@ -1,5 +1,4 @@
 ## Was Recently Rendered on Screen
-Was Recently Rendered on Screen
 ![[../img/nd_img_WasRecentlyRenderedOnScreen.png]]
 
 |Inputs||

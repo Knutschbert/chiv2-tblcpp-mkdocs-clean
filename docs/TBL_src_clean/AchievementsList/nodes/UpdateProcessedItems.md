@@ -1,5 +1,4 @@
 ## Update Processed Items
-Update Processed Items
 ![[../img/nd_img_UpdateProcessedItems.png]]
 
 |Inputs||

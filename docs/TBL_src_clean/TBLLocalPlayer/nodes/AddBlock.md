@@ -1,5 +1,4 @@
 ## Add Block
-Add Block
 ![[../img/nd_img_AddBlock.png]]
 
 |Inputs||

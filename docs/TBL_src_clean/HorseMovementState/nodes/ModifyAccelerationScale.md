@@ -1,5 +1,4 @@
 ## Modify Acceleration Scale
-Modify Acceleration Scale
 ![[../img/nd_img_ModifyAccelerationScale.png]]
 
 |Inputs||

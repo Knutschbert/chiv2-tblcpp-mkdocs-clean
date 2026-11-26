@@ -1,5 +1,4 @@
 ## Get Archetype Count
-Get Archetype Count
 ![[../img/nd_img_GetArchetypeCount.png]]
 
 |Inputs||

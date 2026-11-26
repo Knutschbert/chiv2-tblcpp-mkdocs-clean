@@ -1,5 +1,4 @@
 ## Event on Started Panicking
-Event on Started Panicking
 ![[../img/nd_img_EventOnStartedPanicking.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Ragdoll Hit Fx Event
-On Ragdoll Hit Fx Event
 ![[../img/nd_img_OnRagdollHitFxEvent.png]]
 
 |Inputs||

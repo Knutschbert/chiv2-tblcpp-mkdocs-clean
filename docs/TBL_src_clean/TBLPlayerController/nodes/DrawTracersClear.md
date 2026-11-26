@@ -1,5 +1,4 @@
 ## Draw Tracers Clear
-Draw Tracers Clear
 ![[../img/nd_img_DrawTracersClear.png]]
 
 |Inputs||

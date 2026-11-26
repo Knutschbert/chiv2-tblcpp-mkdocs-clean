@@ -1,5 +1,4 @@
 ## Toggle Reload Hint
-Toggle Reload Hint
 ![[../img/nd_img_ToggleReloadHint.png]]
 
 |Inputs||

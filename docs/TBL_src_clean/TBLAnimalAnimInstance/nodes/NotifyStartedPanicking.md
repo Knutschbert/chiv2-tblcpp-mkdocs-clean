@@ -1,5 +1,4 @@
 ## Notify Started Panicking
-Notify Started Panicking
 ![[../img/nd_img_NotifyStartedPanicking.png]]
 
 |Inputs||

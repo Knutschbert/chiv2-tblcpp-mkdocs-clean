@@ -1,5 +1,4 @@
 ## Can Switch Inventory Items
-Can Switch Inventory Items
 ![[../img/nd_img_CanSwitchInventoryItems.png]]
 
 |Inputs||

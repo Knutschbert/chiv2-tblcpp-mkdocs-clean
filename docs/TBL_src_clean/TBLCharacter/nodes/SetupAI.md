@@ -1,5 +1,4 @@
 ## Setup AI
-Setup AI
 ![[../img/nd_img_SetupAI.png]]
 
 |Inputs||

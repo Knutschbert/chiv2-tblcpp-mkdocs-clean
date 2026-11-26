@@ -1,5 +1,4 @@
 ## Get Target Type
-Get Target Type
 ![[../img/nd_img_GetTargetType.png]]
 
 |Inputs||

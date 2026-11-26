@@ -1,5 +1,4 @@
 ## Can Cancel Match Making
-Can Cancel Match Making
 ![[../img/nd_img_CanCancelMatchMaking.png]]
 
 |Inputs||

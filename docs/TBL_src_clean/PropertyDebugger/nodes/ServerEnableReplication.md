@@ -1,5 +1,4 @@
 ## Server Enable Replication
-Server Enable Replication
 ![[../img/nd_img_ServerEnableReplication.png]]
 
 |Inputs||

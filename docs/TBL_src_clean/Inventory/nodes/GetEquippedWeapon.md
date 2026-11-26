@@ -1,5 +1,4 @@
 ## Get Equipped Weapon
-Get Equipped Weapon
 ![[../img/nd_img_GetEquippedWeapon.png]]
 
 |Inputs||

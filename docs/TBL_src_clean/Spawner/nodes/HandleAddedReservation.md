@@ -1,5 +1,4 @@
 ## Handle Added Reservation
-Handle Added Reservation
 ![[../img/nd_img_HandleAddedReservation.png]]
 
 |Inputs||

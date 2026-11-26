@@ -1,5 +1,4 @@
 ## Server Queue Input
-Server Queue Input
 ![[../img/nd_img_ServerQueueInput.png]]
 
 |Inputs||

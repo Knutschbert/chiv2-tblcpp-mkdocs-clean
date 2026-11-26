@@ -1,5 +1,4 @@
 ## Get Default Modifiers for Game Mode
-Get Default Modifiers for Game Mode
 ![[../img/nd_img_GetDefaultModifiersForGameMode.png]]
 
 |Inputs||

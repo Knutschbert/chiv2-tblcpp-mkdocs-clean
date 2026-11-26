@@ -1,5 +1,4 @@
 ## Get Campaign List
-Get Campaign List
 ![[../img/nd_img_GetCampaignList.png]]
 
 |Inputs||

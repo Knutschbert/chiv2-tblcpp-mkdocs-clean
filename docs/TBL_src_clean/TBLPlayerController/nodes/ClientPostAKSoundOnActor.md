@@ -1,5 +1,4 @@
 ## Client Post AKSound on Actor
-Client Post AKSound on Actor
 ![[../img/nd_img_ClientPostAKSoundOnActor.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Mesh
-Get Mesh
 ![[../img/nd_img_GetMesh.png]]
 
 |Inputs||

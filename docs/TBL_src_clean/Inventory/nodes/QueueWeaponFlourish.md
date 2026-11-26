@@ -1,5 +1,4 @@
 ## Queue Weapon Flourish
-Queue Weapon Flourish
 ![[../img/nd_img_QueueWeaponFlourish.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Initiate Ability
-Initiate Ability
 ![[../img/nd_img_InitiateAbility.png]]
 
 |Inputs||

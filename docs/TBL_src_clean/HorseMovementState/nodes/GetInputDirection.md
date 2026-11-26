@@ -1,5 +1,4 @@
 ## Get Input Direction
-Get Input Direction
 ![[../img/nd_img_GetInputDirection.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Send Offline Analytics Event
-Server Send Offline Analytics Event
 ![[../img/nd_img_ServerSendOfflineAnalyticsEvent.png]]
 
 |Inputs||

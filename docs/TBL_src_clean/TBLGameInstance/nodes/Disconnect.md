@@ -1,5 +1,4 @@
 ## Disconnect
-Disconnect
 ![[../img/nd_img_Disconnect.png]]
 
 |Inputs||

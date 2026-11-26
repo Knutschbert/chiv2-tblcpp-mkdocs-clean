@@ -1,5 +1,4 @@
 ## Allow Full Player Control
-Allow Full Player Control
 ![[../img/nd_img_AllowFullPlayerControl.png]]
 
 |Inputs||

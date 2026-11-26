@@ -1,5 +1,4 @@
 ## Get Total Xp
-Get Total Xp
 ![[../img/nd_img_GetTotalXp.png]]
 
 |Inputs||

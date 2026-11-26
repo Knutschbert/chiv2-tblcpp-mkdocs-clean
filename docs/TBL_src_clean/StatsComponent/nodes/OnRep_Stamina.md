@@ -1,5 +1,4 @@
 ## On Rep Stamina
-On Rep Stamina
 ![[../img/nd_img_OnRep_Stamina.png]]
 
 |Inputs||

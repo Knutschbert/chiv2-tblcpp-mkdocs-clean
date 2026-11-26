@@ -1,5 +1,4 @@
 ## Set Scalar Parameter on Materials
-Set Scalar Parameter on Materials
 ![[../img/nd_img_SetScalarParameterOnMaterials.png]]
 
 |Inputs||

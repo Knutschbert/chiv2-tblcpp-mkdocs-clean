@@ -1,5 +1,4 @@
 ## Arrow Cam Released
-Arrow Cam Released
 ![[../img/nd_img_ArrowCamReleased.png]]
 
 |Inputs||

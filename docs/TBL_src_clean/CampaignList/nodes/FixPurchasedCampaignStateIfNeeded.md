@@ -1,5 +1,4 @@
 ## Fix Purchased Campaign State if Needed
-Fix Purchased Campaign State if Needed
 ![[../img/nd_img_FixPurchasedCampaignStateIfNeeded.png]]
 
 |Inputs||

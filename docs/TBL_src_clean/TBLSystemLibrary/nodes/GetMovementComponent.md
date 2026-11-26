@@ -1,5 +1,4 @@
 ## Get Movement Component
-Get Movement Component
 ![[../img/nd_img_GetMovementComponent.png]]
 
 |Inputs||

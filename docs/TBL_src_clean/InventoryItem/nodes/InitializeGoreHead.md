@@ -1,5 +1,4 @@
 ## Initialize Gore Head
-Initialize Gore Head
 ![[../img/nd_img_InitializeGoreHead.png]]
 
 |Inputs||

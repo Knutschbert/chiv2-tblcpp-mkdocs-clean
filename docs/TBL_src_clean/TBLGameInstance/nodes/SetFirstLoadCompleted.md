@@ -1,5 +1,4 @@
 ## Set First Load Completed
-Set First Load Completed
 ![[../img/nd_img_SetFirstLoadCompleted.png]]
 
 |Inputs||

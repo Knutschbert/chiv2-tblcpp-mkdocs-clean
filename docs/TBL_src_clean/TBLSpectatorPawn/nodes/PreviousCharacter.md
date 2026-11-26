@@ -1,5 +1,4 @@
 ## Previous Character
-Previous Character
 ![[../img/nd_img_PreviousCharacter.png]]
 
 |Inputs||

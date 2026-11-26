@@ -1,5 +1,4 @@
 ## Analytics Query
-Analytics Query
 ![[../img/nd_img_AnalyticsQuery.png]]
 
 |Inputs||

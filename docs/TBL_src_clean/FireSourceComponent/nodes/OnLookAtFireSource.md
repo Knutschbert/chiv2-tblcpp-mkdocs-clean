@@ -1,5 +1,4 @@
 ## On Look at Fire Source
-On Look at Fire Source
 ![[../img/nd_img_OnLookAtFireSource.png]]
 
 |Inputs||

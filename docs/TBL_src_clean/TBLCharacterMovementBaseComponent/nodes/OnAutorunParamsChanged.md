@@ -1,5 +1,4 @@
 ## On Autorun Params Changed
-On Autorun Params Changed
 ![[../img/nd_img_OnAutorunParamsChanged.png]]
 
 |Inputs||

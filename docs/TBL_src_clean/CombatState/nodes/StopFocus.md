@@ -1,5 +1,4 @@
 ## Stop Focus
-Stop Focus
 ![[../img/nd_img_StopFocus.png]]
 
 |Inputs||

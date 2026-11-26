@@ -1,5 +1,4 @@
 ## Reset Combat Zone Threshold
-Reset Combat Zone Threshold
 ![[../img/nd_img_ResetCombatZoneThreshold.png]]
 
 |Inputs||

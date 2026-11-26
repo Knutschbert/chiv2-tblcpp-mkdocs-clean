@@ -1,5 +1,4 @@
 ## Get Stat Range Int from Level
-Get Stat Range Int from Level
 ![[../img/nd_img_GetStatRangeIntFromLevel.png]]
 
 |Inputs||

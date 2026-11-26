@@ -1,5 +1,4 @@
 ## Get Objective State
-Get Objective State
 ![[../img/nd_img_GetObjectiveState.png]]
 
 |Inputs||

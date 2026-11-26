@@ -1,5 +1,4 @@
 ## On Jump Pressed
-On Jump Pressed
 ![[../img/nd_img_OnJumpPressed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Charging Percent
-Get Charging Percent
 ![[../img/nd_img_GetChargingPercent.png]]
 
 |Inputs||

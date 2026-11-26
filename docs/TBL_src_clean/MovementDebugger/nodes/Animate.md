@@ -1,5 +1,4 @@
 ## Animate
-Animate
 ![[../img/nd_img_Animate.png]]
 
 |Inputs||

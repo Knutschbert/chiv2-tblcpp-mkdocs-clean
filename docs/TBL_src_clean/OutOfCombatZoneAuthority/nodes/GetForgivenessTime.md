@@ -1,5 +1,4 @@
 ## Get Forgiveness Time
-Get Forgiveness Time
 ![[../img/nd_img_GetForgivenessTime.png]]
 
 |Inputs||

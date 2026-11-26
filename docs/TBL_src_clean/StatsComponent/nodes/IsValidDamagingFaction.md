@@ -1,5 +1,4 @@
 ## Is Valid Damaging Faction
-Is Valid Damaging Faction
 ![[../img/nd_img_IsValidDamagingFaction.png]]
 
 |Inputs||

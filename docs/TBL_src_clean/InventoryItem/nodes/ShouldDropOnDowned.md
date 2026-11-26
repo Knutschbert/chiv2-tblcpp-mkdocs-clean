@@ -1,5 +1,4 @@
 ## Should Drop on Downed
-Should Drop on Downed
 ![[../img/nd_img_ShouldDropOnDowned.png]]
 
 |Inputs||

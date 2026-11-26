@@ -1,5 +1,4 @@
 ## Set Per Team Display Info
-Set Per Team Display Info
 ![[../img/nd_img_SetPerTeamDisplayInfo.png]]
 
 |Inputs||

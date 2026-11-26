@@ -1,5 +1,4 @@
 ## Remove Spawner
-Remove Spawner
 ![[../img/nd_img_RemoveSpawner.png]]
 
 |Inputs||

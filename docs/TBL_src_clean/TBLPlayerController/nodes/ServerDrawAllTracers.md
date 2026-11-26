@@ -1,5 +1,4 @@
 ## Server Draw All Tracers
-Server Draw All Tracers
 ![[../img/nd_img_ServerDrawAllTracers.png]]
 
 |Inputs||

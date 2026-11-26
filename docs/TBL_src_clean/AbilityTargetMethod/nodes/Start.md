@@ -1,5 +1,4 @@
 ## Start
-Start
 ![[../img/nd_img_Start.png]]
 
 |Inputs||

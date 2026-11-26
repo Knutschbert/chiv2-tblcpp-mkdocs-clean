@@ -1,5 +1,4 @@
 ## Event End State
-Event End State
 ![[../img/nd_img_EventEndState.png]]
 
 |Inputs||

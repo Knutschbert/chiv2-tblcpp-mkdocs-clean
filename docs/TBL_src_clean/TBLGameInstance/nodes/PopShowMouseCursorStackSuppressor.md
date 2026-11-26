@@ -1,5 +1,4 @@
 ## Pop Show Mouse Cursor Stack Suppressor
-Pop Show Mouse Cursor Stack Suppressor
 ![[../img/nd_img_PopShowMouseCursorStackSuppressor.png]]
 
 |Inputs||

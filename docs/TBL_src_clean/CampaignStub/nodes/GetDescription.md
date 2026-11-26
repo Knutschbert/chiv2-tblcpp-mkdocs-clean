@@ -1,5 +1,4 @@
 ## Get Description
-Get Description
 ![[../img/nd_img_GetDescription.png]]
 
 |Inputs||

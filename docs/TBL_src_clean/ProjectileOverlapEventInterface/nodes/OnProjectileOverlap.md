@@ -1,5 +1,4 @@
 ## On Projectile Overlap
-On Projectile Overlap
 ![[../img/nd_img_OnProjectileOverlap.png]]
 
 |Inputs||

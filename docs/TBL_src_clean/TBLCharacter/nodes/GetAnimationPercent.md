@@ -1,5 +1,4 @@
 ## Get Animation Percent
-Get Animation Percent
 ![[../img/nd_img_GetAnimationPercent.png]]
 
 |Inputs||

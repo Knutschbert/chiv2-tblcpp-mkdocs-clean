@@ -1,5 +1,4 @@
 ## On Owner Damage Taken
-On Owner Damage Taken
 ![[../img/nd_img_OnOwnerDamageTaken.png]]
 
 |Inputs||

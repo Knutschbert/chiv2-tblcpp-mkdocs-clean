@@ -1,5 +1,4 @@
 ## Get Game Info
-Get Game Info
 ![[../img/nd_img_GetGameInfo.png]]
 
 |Inputs||

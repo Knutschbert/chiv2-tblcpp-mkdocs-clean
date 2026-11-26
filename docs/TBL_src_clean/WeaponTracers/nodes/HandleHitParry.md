@@ -1,5 +1,4 @@
 ## Handle Hit Parry
-Handle Hit Parry
 ![[../img/nd_img_HandleHitParry.png]]
 
 |Inputs||

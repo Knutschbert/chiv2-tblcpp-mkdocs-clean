@@ -1,5 +1,4 @@
 ## Can be Cancelled
-Can be Cancelled
 ![[../img/nd_img_CanBeCancelled.png]]
 
 |Inputs||

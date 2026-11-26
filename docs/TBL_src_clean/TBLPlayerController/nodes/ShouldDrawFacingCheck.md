@@ -1,5 +1,4 @@
 ## Should Draw Facing Check
-Should Draw Facing Check
 ![[../img/nd_img_ShouldDrawFacingCheck.png]]
 
 |Inputs||

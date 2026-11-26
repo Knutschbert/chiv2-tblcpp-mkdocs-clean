@@ -1,5 +1,4 @@
 ## Get Is Party in Matchmaking Queue
-Get Is Party in Matchmaking Queue
 ![[../img/nd_img_GetIsPartyInMatchmakingQueue.png]]
 
 |Inputs||

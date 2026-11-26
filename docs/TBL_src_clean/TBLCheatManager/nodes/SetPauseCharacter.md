@@ -1,5 +1,4 @@
 ## Set Pause Character
-Set Pause Character
 ![[../img/nd_img_SetPauseCharacter.png]]
 
 |Inputs||

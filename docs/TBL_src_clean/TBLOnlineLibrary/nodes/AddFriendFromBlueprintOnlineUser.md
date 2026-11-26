@@ -1,5 +1,4 @@
 ## Add Friend from Blueprint Online User
-Add Friend from Blueprint Online User
 ![[../img/nd_img_AddFriendFromBlueprintOnlineUser.png]]
 
 |Inputs||

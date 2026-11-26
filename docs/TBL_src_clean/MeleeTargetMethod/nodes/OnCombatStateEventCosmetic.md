@@ -1,5 +1,4 @@
 ## On Combat State Event Cosmetic
-On Combat State Event Cosmetic
 ![[../img/nd_img_OnCombatStateEventCosmetic.png]]
 
 |Inputs||

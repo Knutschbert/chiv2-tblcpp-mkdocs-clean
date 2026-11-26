@@ -1,5 +1,4 @@
 ## Can Have More Than One Valid
-Can Have More Than One Valid
 ![[../img/nd_img_CanHaveMoreThanOneValid.png]]
 
 |Inputs||

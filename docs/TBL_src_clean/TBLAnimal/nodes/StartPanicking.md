@@ -1,5 +1,4 @@
 ## Start Panicking
-Start Panicking
 ![[../img/nd_img_StartPanicking.png]]
 
 |Inputs||

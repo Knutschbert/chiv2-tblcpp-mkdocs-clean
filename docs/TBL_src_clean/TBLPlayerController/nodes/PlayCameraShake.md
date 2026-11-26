@@ -1,5 +1,4 @@
 ## Play Camera Shake
-Play Camera Shake
 ![[../img/nd_img_PlayCameraShake.png]]
 
 |Inputs||

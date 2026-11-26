@@ -1,5 +1,4 @@
 ## Ping Server
-Ping Server
 ![[../img/nd_img_PingServer.png]]
 
 |Inputs||

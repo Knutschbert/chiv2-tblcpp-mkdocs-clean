@@ -1,5 +1,4 @@
 ## Test Draw Time
-Test Draw Time
 ![[../img/nd_img_TestDrawTime.png]]
 
 |Inputs||

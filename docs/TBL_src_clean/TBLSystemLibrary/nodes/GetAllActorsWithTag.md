@@ -1,5 +1,4 @@
 ## Get All Actors with Tag
-Get All Actors with Tag
 ![[../img/nd_img_GetAllActorsWithTag.png]]
 
 |Inputs||

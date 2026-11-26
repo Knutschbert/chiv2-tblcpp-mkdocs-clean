@@ -1,5 +1,4 @@
 ## Join Party Exec
-Join Party Exec
 ![[../img/nd_img_JoinPartyExec.png]]
 
 |Inputs||

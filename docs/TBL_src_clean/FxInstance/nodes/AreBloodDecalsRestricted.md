@@ -1,5 +1,4 @@
 ## Are Blood Decals Restricted
-Are Blood Decals Restricted
 ![[../img/nd_img_AreBloodDecalsRestricted.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Spawn and Drop Inventory Item
-Spawn and Drop Inventory Item
 ![[../img/nd_img_SpawnAndDropInventoryItem.png]]
 
 |Inputs||

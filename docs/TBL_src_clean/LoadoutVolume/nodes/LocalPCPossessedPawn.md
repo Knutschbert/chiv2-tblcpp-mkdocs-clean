@@ -1,5 +1,4 @@
 ## Local PCPossessed Pawn
-Local PCPossessed Pawn
 ![[../img/nd_img_LocalPCPossessedPawn.png]]
 
 |Inputs||

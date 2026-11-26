@@ -1,5 +1,4 @@
 ## Broadcast Localized Objective Message
-Broadcast Localized Objective Message
 ![[../img/nd_img_BroadcastLocalizedObjectiveMessage.png]]
 
 |Inputs||

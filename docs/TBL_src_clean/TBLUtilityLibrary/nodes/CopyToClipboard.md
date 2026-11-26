@@ -1,5 +1,4 @@
 ## Copy to Clipboard
-Copy to Clipboard
 ![[../img/nd_img_CopyToClipboard.png]]
 
 |Inputs||

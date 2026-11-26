@@ -1,5 +1,4 @@
 ## On Pushing Overlap
-On Pushing Overlap
 ![[../img/nd_img_OnPushingOverlap.png]]
 
 |Inputs||

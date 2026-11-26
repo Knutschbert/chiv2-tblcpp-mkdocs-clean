@@ -1,5 +1,4 @@
 ## Stop on Blocking Hit
-Stop on Blocking Hit
 ![[../img/nd_img_StopOnBlockingHit.png]]
 
 |Inputs||

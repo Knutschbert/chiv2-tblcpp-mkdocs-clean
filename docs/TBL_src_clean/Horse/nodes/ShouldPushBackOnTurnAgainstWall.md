@@ -1,5 +1,4 @@
 ## Should Push Back on Turn Against Wall
-Should Push Back on Turn Against Wall
 ![[../img/nd_img_ShouldPushBackOnTurnAgainstWall.png]]
 
 |Inputs||

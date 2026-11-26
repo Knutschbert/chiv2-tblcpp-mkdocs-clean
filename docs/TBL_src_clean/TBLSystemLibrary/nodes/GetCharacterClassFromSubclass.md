@@ -1,5 +1,4 @@
 ## Get Character Class from Subclass
-Get Character Class from Subclass
 ![[../img/nd_img_GetCharacterClassFromSubclass.png]]
 
 |Inputs||

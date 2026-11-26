@@ -1,5 +1,4 @@
 ## Is Campaign Active
-Is Campaign Active
 ![[../img/nd_img_IsCampaignActive.png]]
 
 |Inputs||

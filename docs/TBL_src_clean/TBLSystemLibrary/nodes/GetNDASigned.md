@@ -1,5 +1,4 @@
 ## Get NDASigned
-Get NDASigned
 ![[../img/nd_img_GetNDASigned.png]]
 
 |Inputs||

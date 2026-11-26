@@ -1,5 +1,4 @@
 ## Set Vector A
-Set Vector A
 ![[../img/nd_img_SetVectorA.png]]
 
 |Inputs||

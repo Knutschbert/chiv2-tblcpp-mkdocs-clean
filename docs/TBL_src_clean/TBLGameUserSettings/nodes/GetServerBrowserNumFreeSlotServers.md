@@ -1,5 +1,4 @@
 ## Get Server Browser Num Free Slot Servers
-Get Server Browser Num Free Slot Servers
 ![[../img/nd_img_GetServerBrowserNumFreeSlotServers.png]]
 
 |Inputs||

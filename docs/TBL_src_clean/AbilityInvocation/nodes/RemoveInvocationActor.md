@@ -1,5 +1,4 @@
 ## Remove Invocation Actor
-Remove Invocation Actor
 ![[../img/nd_img_RemoveInvocationActor.png]]
 
 |Inputs||

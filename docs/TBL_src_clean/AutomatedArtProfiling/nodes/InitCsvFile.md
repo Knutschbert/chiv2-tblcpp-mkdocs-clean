@@ -1,5 +1,4 @@
 ## Init Csv File
-Init Csv File
 ![[../img/nd_img_InitCsvFile.png]]
 
 |Inputs||

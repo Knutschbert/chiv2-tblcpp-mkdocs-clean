@@ -1,5 +1,4 @@
 ## On Rep Attached Player State
-On Rep Attached Player State
 ![[../img/nd_img_OnRep_AttachedPlayerState.png]]
 
 |Inputs||

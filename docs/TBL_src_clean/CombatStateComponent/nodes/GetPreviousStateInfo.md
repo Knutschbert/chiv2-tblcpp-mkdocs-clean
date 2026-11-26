@@ -1,5 +1,4 @@
 ## Get Previous State Info
-Get Previous State Info
 ![[../img/nd_img_GetPreviousStateInfo.png]]
 
 |Inputs||

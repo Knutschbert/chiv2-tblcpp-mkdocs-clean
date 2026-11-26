@@ -1,5 +1,4 @@
 ## Link Epic Account
-Link Epic Account
 ![[../img/nd_img_LinkEpicAccount.png]]
 
 |Inputs||

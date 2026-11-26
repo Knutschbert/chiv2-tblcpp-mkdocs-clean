@@ -1,5 +1,4 @@
 ## Get Scored Stage Game Mode Message Rows
-Get Scored Stage Game Mode Message Rows
 ![[../img/nd_img_GetScoredStageGameModeMessageRows.png]]
 
 |Inputs||

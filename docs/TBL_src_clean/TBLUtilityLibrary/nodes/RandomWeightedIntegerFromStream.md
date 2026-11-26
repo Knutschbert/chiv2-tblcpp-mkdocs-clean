@@ -1,5 +1,4 @@
 ## Random Weighted Integer from Stream
-Random Weighted Integer from Stream
 ![[../img/nd_img_RandomWeightedIntegerFromStream.png]]
 
 |Inputs||

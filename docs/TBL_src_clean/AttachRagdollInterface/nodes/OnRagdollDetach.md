@@ -1,5 +1,4 @@
 ## On Ragdoll Detach
-On Ragdoll Detach
 ![[../img/nd_img_OnRagdollDetach.png]]
 
 |Inputs||

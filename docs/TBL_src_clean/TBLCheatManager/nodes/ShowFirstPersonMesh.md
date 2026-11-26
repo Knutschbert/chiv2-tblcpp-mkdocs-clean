@@ -1,5 +1,4 @@
 ## Show First Person Mesh
-Show First Person Mesh
 ![[../img/nd_img_ShowFirstPersonMesh.png]]
 
 |Inputs||

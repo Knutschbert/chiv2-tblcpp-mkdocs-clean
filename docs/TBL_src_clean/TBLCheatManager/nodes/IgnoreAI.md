@@ -1,5 +1,4 @@
 ## Ignore AI
-Ignore AI
 ![[../img/nd_img_IgnoreAI.png]]
 
 |Inputs||

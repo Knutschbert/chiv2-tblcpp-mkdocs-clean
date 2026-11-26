@@ -1,5 +1,4 @@
 ## Revoke All Actions from Object
-Revoke All Actions from Object
 ![[../img/nd_img_RevokeAllActionsFromObject.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Run Away
-Update Run Away
 ![[../img/nd_img_UpdateRunAway.png]]
 
 |Inputs||

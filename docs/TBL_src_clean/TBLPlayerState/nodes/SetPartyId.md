@@ -1,5 +1,4 @@
 ## Set Party Id
-Set Party Id
 ![[../img/nd_img_SetPartyId.png]]
 
 |Inputs||

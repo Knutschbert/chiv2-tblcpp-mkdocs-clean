@@ -1,5 +1,4 @@
 ## End Phys Spawn
-End Phys Spawn
 ![[../img/nd_img_EndPhysSpawn.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Overlay Fill Color and Opacity
-Set Overlay Fill Color and Opacity
 ![[../img/nd_img_SetOverlayFillColorAndOpacity.png]]
 
 |Inputs||

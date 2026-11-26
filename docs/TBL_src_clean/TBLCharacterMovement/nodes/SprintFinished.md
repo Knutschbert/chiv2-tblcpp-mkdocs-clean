@@ -1,5 +1,4 @@
 ## Sprint Finished
-Sprint Finished
 ![[../img/nd_img_SprintFinished.png]]
 
 |Inputs||

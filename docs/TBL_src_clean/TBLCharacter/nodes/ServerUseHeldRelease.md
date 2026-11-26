@@ -1,5 +1,4 @@
 ## Server Use Held Release
-Server Use Held Release
 ![[../img/nd_img_ServerUseHeldRelease.png]]
 
 |Inputs||

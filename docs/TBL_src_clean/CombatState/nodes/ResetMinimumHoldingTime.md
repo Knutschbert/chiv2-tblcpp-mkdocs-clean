@@ -1,5 +1,4 @@
 ## Reset Minimum Holding Time
-Reset Minimum Holding Time
 ![[../img/nd_img_ResetMinimumHoldingTime.png]]
 
 |Inputs||

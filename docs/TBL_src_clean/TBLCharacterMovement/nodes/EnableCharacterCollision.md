@@ -1,5 +1,4 @@
 ## Enable Character Collision
-Enable Character Collision
 ![[../img/nd_img_EnableCharacterCollision.png]]
 
 |Inputs||

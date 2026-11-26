@@ -1,5 +1,4 @@
 ## Get Max Speed in State
-Get Max Speed in State
 ![[../img/nd_img_GetMaxSpeedInState.png]]
 
 |Inputs||

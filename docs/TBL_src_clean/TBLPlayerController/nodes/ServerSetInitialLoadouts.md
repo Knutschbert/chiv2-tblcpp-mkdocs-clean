@@ -1,5 +1,4 @@
 ## Server Set Initial Loadouts
-Server Set Initial Loadouts
 ![[../img/nd_img_ServerSetInitialLoadouts.png]]
 
 |Inputs||

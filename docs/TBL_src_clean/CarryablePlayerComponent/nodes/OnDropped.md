@@ -1,5 +1,4 @@
 ## On Dropped
-On Dropped
 ![[../img/nd_img_OnDropped.png]]
 
 |Inputs||

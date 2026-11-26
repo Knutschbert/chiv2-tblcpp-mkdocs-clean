@@ -1,5 +1,4 @@
 ## Server Send Post Match Info
-Server Send Post Match Info
 ![[../img/nd_img_ServerSendPostMatchInfo.png]]
 
 |Inputs||

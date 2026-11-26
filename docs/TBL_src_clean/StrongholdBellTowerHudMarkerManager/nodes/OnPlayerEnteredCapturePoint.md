@@ -1,5 +1,4 @@
 ## On Player Entered Capture Point
-On Player Entered Capture Point
 ![[../img/nd_img_OnPlayerEnteredCapturePoint.png]]
 
 |Inputs||

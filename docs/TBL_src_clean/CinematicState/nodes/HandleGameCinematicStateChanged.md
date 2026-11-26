@@ -1,5 +1,4 @@
 ## Handle Game Cinematic State Changed
-Handle Game Cinematic State Changed
 ![[../img/nd_img_HandleGameCinematicStateChanged.png]]
 
 |Inputs||

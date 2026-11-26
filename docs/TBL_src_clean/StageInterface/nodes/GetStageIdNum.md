@@ -1,5 +1,4 @@
 ## Get Stage Id Num
-Get Stage Id Num
 ![[../img/nd_img_GetStageIdNum.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Play Impact Event
-Play Impact Event
 ![[../img/nd_img_PlayImpactEvent.png]]
 
 |Inputs||

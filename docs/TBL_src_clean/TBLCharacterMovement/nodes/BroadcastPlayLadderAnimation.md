@@ -1,5 +1,4 @@
 ## Broadcast Play Ladder Animation
-Broadcast Play Ladder Animation
 ![[../img/nd_img_BroadcastPlayLadderAnimation.png]]
 
 |Inputs||

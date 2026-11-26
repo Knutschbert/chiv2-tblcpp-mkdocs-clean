@@ -1,5 +1,4 @@
 ## Should Delay Counter
-Should Delay Counter
 ![[../img/nd_img_ShouldDelayCounter.png]]
 
 |Inputs||

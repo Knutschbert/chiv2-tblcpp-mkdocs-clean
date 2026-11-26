@@ -1,5 +1,4 @@
 ## Get Ammo Inventory Items
-Get Ammo Inventory Items
 ![[../img/nd_img_GetAmmoInventoryItems.png]]
 
 |Inputs||

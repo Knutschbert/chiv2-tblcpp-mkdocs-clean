@@ -1,5 +1,4 @@
 ## Bind to Objective Zone
-Bind to Objective Zone
 ![[../img/nd_img_BindToObjectiveZone.png]]
 
 |Inputs||

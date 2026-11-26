@@ -1,5 +1,4 @@
 ## Has Widget Completed Fade Out
-Has Widget Completed Fade Out
 ![[../img/nd_img_HasWidgetCompletedFadeOut.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Random Item for Slot
-Get Random Item for Slot
 ![[../img/nd_img_GetRandomItemForSlot.png]]
 
 |Inputs||

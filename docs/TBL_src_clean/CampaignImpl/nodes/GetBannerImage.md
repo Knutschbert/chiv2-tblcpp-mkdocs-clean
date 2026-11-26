@@ -1,5 +1,4 @@
 ## Get Banner Image
-Get Banner Image
 ![[../img/nd_img_GetBannerImage.png]]
 
 |Inputs||

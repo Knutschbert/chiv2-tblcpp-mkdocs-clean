@@ -1,5 +1,4 @@
 ## Play Outro Animation
-Play Outro Animation
 ![[../img/nd_img_PlayOutroAnimation.png]]
 
 |Inputs||

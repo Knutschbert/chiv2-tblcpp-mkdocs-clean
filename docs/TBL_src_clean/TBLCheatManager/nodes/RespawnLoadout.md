@@ -1,5 +1,4 @@
 ## Respawn Loadout
-Respawn Loadout
 ![[../img/nd_img_RespawnLoadout.png]]
 
 |Inputs||

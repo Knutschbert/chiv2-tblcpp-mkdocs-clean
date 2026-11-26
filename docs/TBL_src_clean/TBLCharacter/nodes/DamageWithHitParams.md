@@ -1,5 +1,4 @@
 ## Damage with Hit Params
-Damage with Hit Params
 ![[../img/nd_img_DamageWithHitParams.png]]
 
 |Inputs||

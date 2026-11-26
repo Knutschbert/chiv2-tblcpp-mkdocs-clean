@@ -1,5 +1,4 @@
 ## Server Add Debug Property
-Server Add Debug Property
 ![[../img/nd_img_ServerAddDebugProperty.png]]
 
 |Inputs||

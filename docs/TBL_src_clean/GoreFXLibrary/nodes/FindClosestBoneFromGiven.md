@@ -1,5 +1,4 @@
 ## Find Closest Bone from Given
-Find Closest Bone from Given
 ![[../img/nd_img_FindClosestBoneFromGiven.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Interrupted
-Is Interrupted
 ![[../img/nd_img_IsInterrupted.png]]
 
 |Inputs||

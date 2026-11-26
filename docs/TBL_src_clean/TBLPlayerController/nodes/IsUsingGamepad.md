@@ -1,5 +1,4 @@
 ## Is Using Gamepad
-Is Using Gamepad
 ![[../img/nd_img_IsUsingGamepad.png]]
 
 |Inputs||

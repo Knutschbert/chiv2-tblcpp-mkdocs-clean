@@ -1,5 +1,4 @@
 ## Set Inactive
-Set Inactive
 ![[../img/nd_img_SetInactive.png]]
 
 |Inputs||

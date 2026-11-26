@@ -1,5 +1,4 @@
 ## Set Objective State Text
-Set Objective State Text
 ![[../img/nd_img_SetObjectiveStateText.png]]
 
 |Inputs||

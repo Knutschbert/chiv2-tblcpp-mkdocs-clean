@@ -1,5 +1,4 @@
 ## Get Perk Bonus
-Get Perk Bonus
 ![[../img/nd_img_GetPerkBonus.png]]
 
 |Inputs||

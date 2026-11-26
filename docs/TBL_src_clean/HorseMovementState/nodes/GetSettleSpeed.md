@@ -1,5 +1,4 @@
 ## Get Settle Speed
-Get Settle Speed
 ![[../img/nd_img_GetSettleSpeed.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Broadcast Dismount
-Broadcast Dismount
 ![[../img/nd_img_BroadcastDismount.png]]
 
 |Inputs||

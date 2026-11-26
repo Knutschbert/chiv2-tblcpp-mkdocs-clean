@@ -1,5 +1,4 @@
 ## Server Forgive Player
-Server Forgive Player
 ![[../img/nd_img_ServerForgivePlayer.png]]
 
 |Inputs||

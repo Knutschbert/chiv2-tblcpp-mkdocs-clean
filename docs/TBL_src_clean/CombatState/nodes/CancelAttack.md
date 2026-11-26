@@ -1,5 +1,4 @@
 ## Cancel Attack
-Cancel Attack
 ![[../img/nd_img_CancelAttack.png]]
 
 |Inputs||

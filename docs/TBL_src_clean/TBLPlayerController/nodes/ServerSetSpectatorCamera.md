@@ -1,5 +1,4 @@
 ## Server Set Spectator Camera
-Server Set Spectator Camera
 ![[../img/nd_img_ServerSetSpectatorCamera.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Valid
-Is Valid
 ![[../img/nd_img_IsValid.png]]
 
 |Inputs||

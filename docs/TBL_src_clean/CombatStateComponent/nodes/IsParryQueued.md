@@ -1,5 +1,4 @@
 ## Is Parry Queued
-Is Parry Queued
 ![[../img/nd_img_IsParryQueued.png]]
 
 |Inputs||

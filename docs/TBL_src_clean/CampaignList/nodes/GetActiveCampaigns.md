@@ -1,5 +1,4 @@
 ## Get Active Campaigns
-Get Active Campaigns
 ![[../img/nd_img_GetActiveCampaigns.png]]
 
 |Inputs||

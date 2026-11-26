@@ -1,5 +1,4 @@
 ## On Asset Cache Complete
-On Asset Cache Complete
 ![[../img/nd_img_OnAssetCacheComplete.png]]
 
 |Inputs||

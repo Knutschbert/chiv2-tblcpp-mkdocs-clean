@@ -1,5 +1,4 @@
 ## Event on Dash Cooldown Finished
-Event on Dash Cooldown Finished
 ![[../img/nd_img_EventOnDashCooldownFinished.png]]
 
 |Inputs||

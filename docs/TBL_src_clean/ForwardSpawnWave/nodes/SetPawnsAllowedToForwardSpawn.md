@@ -1,5 +1,4 @@
 ## Set Pawns Allowed to Forward Spawn
-Set Pawns Allowed to Forward Spawn
 ![[../img/nd_img_SetPawnsAllowedToForwardSpawn.png]]
 
 |Inputs||

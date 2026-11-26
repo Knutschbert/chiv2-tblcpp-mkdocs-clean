@@ -1,5 +1,4 @@
 ## Event on Horse to Horse Impact
-Event on Horse to Horse Impact
 ![[../img/nd_img_EventOnHorseToHorseImpact.png]]
 
 |Inputs||

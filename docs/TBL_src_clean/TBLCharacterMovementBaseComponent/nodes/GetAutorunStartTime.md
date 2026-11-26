@@ -1,5 +1,4 @@
 ## Get Autorun Start Time
-Get Autorun Start Time
 ![[../img/nd_img_GetAutorunStartTime.png]]
 
 |Inputs||

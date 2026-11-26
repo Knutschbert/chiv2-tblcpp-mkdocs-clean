@@ -1,5 +1,4 @@
 ## Get All Weapon Mesh
-Get All Weapon Mesh
 ![[../img/nd_img_GetAllWeaponMesh.png]]
 
 |Inputs||

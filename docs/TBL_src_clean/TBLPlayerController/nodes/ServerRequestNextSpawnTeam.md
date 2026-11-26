@@ -1,5 +1,4 @@
 ## Server Request Next Spawn Team
-Server Request Next Spawn Team
 ![[../img/nd_img_ServerRequestNextSpawnTeam.png]]
 
 |Inputs||

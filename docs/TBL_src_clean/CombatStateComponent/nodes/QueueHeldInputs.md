@@ -1,5 +1,4 @@
 ## Queue Held Inputs
-Queue Held Inputs
 ![[../img/nd_img_QueueHeldInputs.png]]
 
 |Inputs||

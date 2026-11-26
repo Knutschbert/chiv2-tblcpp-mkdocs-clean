@@ -1,5 +1,4 @@
 ## Remove Pie Prefix from Map Name
-Remove Pie Prefix from Map Name
 ![[../img/nd_img_RemovePiePrefixFromMapName.png]]
 
 |Inputs||

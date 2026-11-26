@@ -1,5 +1,4 @@
 ## Auto Attack Clear Internal
-Auto Attack Clear Internal
 ![[../img/nd_img_AutoAttackClearInternal.png]]
 
 |Inputs||

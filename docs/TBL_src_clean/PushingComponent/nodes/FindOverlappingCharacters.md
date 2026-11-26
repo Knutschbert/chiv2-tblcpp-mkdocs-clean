@@ -1,5 +1,4 @@
 ## Find Overlapping Characters
-Find Overlapping Characters
 ![[../img/nd_img_FindOverlappingCharacters.png]]
 
 |Inputs||

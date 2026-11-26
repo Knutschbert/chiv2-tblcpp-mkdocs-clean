@@ -1,5 +1,4 @@
 ## Destroy Controller
-Destroy Controller
 ![[../img/nd_img_DestroyController.png]]
 
 |Inputs||

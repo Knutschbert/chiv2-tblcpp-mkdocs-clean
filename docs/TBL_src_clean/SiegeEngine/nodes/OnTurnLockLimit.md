@@ -1,5 +1,4 @@
 ## On Turn Lock Limit
-On Turn Lock Limit
 ![[../img/nd_img_OnTurnLockLimit.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Held Parry Loop
-Held Parry Loop
 ![[../img/nd_img_HeldParryLoop.png]]
 
 |Inputs||

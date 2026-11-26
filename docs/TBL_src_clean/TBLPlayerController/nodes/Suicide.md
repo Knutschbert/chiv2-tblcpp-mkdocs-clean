@@ -1,5 +1,4 @@
 ## Suicide
-Suicide
 ![[../img/nd_img_Suicide.png]]
 
 |Inputs||

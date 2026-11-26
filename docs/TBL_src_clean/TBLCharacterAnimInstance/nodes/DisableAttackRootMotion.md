@@ -1,5 +1,4 @@
 ## Disable Attack Root Motion
-Disable Attack Root Motion
 ![[../img/nd_img_DisableAttackRootMotion.png]]
 
 |Inputs||

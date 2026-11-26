@@ -1,5 +1,4 @@
 ## On Rep Pushable Movement Type
-On Rep Pushable Movement Type
 ![[../img/nd_img_OnRep_PushableMovementType.png]]
 
 |Inputs||

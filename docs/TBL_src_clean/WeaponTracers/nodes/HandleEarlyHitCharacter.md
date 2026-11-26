@@ -1,5 +1,4 @@
 ## Handle Early Hit Character
-Handle Early Hit Character
 ![[../img/nd_img_HandleEarlyHitCharacter.png]]
 
 |Inputs||

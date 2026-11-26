@@ -1,5 +1,4 @@
 ## Get Title Progression
-Get Title Progression
 ![[../img/nd_img_GetTitleProgression.png]]
 
 |Inputs||

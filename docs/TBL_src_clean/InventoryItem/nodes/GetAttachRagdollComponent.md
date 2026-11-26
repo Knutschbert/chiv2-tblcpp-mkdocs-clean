@@ -1,5 +1,4 @@
 ## Get Attach Ragdoll Component
-Get Attach Ragdoll Component
 ![[../img/nd_img_GetAttachRagdollComponent.png]]
 
 |Inputs||

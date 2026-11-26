@@ -1,5 +1,4 @@
 ## Movement Debugger
-Movement Debugger
 ![[../img/nd_img_MovementDebugger.png]]
 
 |Inputs||

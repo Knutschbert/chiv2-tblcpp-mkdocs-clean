@@ -1,5 +1,4 @@
 ## Get Inventory SKMesh
-Get Inventory SKMesh
 ![[../img/nd_img_GetInventorySKMesh.png]]
 
 |Inputs||

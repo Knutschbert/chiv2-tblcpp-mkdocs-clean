@@ -1,5 +1,4 @@
 ## Ghost Off
-Ghost Off
 ![[../img/nd_img_GhostOff.png]]
 
 |Inputs||

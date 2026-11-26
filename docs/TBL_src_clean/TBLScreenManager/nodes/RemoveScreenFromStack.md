@@ -1,5 +1,4 @@
 ## Remove Screen from Stack
-Remove Screen from Stack
 ![[../img/nd_img_RemoveScreenFromStack.png]]
 
 |Inputs||

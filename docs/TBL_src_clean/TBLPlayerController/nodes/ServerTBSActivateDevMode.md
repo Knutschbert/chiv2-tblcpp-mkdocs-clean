@@ -1,5 +1,4 @@
 ## Server TBSActivate Dev Mode
-Server TBSActivate Dev Mode
 ![[../img/nd_img_ServerTBSActivateDevMode.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Actor Equipped Weapon by State
-Get Actor Equipped Weapon by State
 ![[../img/nd_img_GetActorEquippedWeaponByState.png]]
 
 |Inputs||

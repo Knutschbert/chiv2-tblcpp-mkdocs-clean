@@ -1,5 +1,4 @@
 ## Handle Next Spawn Team Changed
-Handle Next Spawn Team Changed
 ![[../img/nd_img_HandleNextSpawnTeamChanged.png]]
 
 |Inputs||

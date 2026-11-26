@@ -1,5 +1,4 @@
 ## Replicated Date Time
-Replicated Date Time
 ![[../img/nd_img_ReplicatedDateTime.png]]
 
 |Inputs||

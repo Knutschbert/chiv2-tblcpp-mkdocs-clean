@@ -1,5 +1,4 @@
 ## Show Yes No Dialog
-Show Yes No Dialog
 ![[../img/nd_img_ShowYesNoDialog.png]]
 
 |Inputs||

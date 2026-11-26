@@ -1,5 +1,4 @@
 ## Set Game Mode Type
-Set Game Mode Type
 ![[../img/nd_img_SetGameModeType.png]]
 
 |Inputs||

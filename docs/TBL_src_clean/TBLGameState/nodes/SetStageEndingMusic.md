@@ -1,5 +1,4 @@
 ## Set Stage Ending Music
-Set Stage Ending Music
 ![[../img/nd_img_SetStageEndingMusic.png]]
 
 |Inputs||

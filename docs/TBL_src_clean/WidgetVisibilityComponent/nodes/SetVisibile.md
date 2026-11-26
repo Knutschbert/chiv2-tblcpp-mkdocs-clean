@@ -1,5 +1,4 @@
 ## Set Visibile
-Set Visibile
 ![[../img/nd_img_SetVisibile.png]]
 
 |Inputs||

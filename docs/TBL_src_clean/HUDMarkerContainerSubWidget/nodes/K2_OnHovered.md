@@ -1,5 +1,4 @@
 ## K2 on Hovered
-K2 on Hovered
 ![[../img/nd_img_K2_OnHovered.png]]
 
 |Inputs||

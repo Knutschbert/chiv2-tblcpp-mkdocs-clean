@@ -1,5 +1,4 @@
 ## Get Actor Component with Tag
-Get Actor Component with Tag
 ![[../img/nd_img_GetActorComponentWithTag.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Check Stick Players to Wall
-Check Stick Players to Wall
 ![[../img/nd_img_CheckStickPlayersToWall.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Anim Notify Show Arrow
-Anim Notify Show Arrow
 ![[../img/nd_img_AnimNotify_ShowArrow.png]]
 
 |Inputs||

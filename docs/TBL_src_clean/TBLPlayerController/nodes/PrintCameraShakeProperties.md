@@ -1,5 +1,4 @@
 ## Print Camera Shake Properties
-Print Camera Shake Properties
 ![[../img/nd_img_PrintCameraShakeProperties.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Skeletal Mesh
-Update Skeletal Mesh
 ![[../img/nd_img_UpdateSkeletalMesh.png]]
 
 |Inputs||

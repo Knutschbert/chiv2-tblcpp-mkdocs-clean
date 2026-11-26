@@ -1,5 +1,4 @@
 ## Display Debug Scroll Released
-Display Debug Scroll Released
 ![[../img/nd_img_DisplayDebugScrollReleased.png]]
 
 |Inputs||

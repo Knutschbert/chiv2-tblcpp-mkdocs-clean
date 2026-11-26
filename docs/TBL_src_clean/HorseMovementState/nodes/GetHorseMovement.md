@@ -1,5 +1,4 @@
 ## Get Horse Movement
-Get Horse Movement
 ![[../img/nd_img_GetHorseMovement.png]]
 
 |Inputs||

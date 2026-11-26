@@ -1,5 +1,4 @@
 ## Server Admin Cmd
-Server Admin Cmd
 ![[../img/nd_img_ServerAdminCmd.png]]
 
 |Inputs||

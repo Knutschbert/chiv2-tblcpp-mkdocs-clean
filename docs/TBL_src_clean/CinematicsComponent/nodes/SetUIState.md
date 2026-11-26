@@ -1,5 +1,4 @@
 ## Set UIState
-Set UIState
 ![[../img/nd_img_SetUIState.png]]
 
 |Inputs||

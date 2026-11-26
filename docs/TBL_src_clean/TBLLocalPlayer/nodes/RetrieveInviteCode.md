@@ -1,5 +1,4 @@
 ## Retrieve Invite Code
-Retrieve Invite Code
 ![[../img/nd_img_RetrieveInviteCode.png]]
 
 |Inputs||

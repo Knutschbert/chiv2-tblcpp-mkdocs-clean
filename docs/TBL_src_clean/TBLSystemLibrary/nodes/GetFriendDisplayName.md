@@ -1,5 +1,4 @@
 ## Get Friend Display Name
-Get Friend Display Name
 ![[../img/nd_img_GetFriendDisplayName.png]]
 
 |Inputs||

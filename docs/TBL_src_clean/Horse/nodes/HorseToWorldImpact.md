@@ -1,5 +1,4 @@
 ## Horse to World Impact
-Horse to World Impact
 ![[../img/nd_img_HorseToWorldImpact.png]]
 
 |Inputs||

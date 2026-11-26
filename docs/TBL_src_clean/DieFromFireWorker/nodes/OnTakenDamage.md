@@ -1,5 +1,4 @@
 ## On Taken Damage
-On Taken Damage
 ![[../img/nd_img_OnTakenDamage.png]]
 
 |Inputs||

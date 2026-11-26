@@ -1,5 +1,4 @@
 ## Has Movement Action
-Has Movement Action
 ![[../img/nd_img_HasMovementAction.png]]
 
 |Inputs||

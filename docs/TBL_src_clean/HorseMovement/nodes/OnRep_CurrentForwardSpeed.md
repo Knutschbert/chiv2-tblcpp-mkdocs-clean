@@ -1,5 +1,4 @@
 ## On Rep Current Forward Speed
-On Rep Current Forward Speed
 ![[../img/nd_img_OnRep_CurrentForwardSpeed.png]]
 
 |Inputs||

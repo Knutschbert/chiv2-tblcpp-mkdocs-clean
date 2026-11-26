@@ -1,5 +1,4 @@
 ## Should Draw Debug Tracers
-Should Draw Debug Tracers
 ![[../img/nd_img_ShouldDrawDebugTracers.png]]
 
 |Inputs||

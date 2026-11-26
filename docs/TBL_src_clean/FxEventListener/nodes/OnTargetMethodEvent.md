@@ -1,5 +1,4 @@
 ## On Target Method Event
-On Target Method Event
 ![[../img/nd_img_OnTargetMethodEvent.png]]
 
 |Inputs||

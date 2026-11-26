@@ -1,5 +1,4 @@
 ## Get Hair Mesh
-Get Hair Mesh
 ![[../img/nd_img_GetHairMesh.png]]
 
 |Inputs||

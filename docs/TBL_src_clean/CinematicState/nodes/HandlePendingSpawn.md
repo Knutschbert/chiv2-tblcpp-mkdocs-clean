@@ -1,5 +1,4 @@
 ## Handle Pending Spawn
-Handle Pending Spawn
 ![[../img/nd_img_HandlePendingSpawn.png]]
 
 |Inputs||

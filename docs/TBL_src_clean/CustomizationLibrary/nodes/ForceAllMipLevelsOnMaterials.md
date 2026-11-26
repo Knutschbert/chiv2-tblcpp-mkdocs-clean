@@ -1,5 +1,4 @@
 ## Force All Mip Levels on Materials
-Force All Mip Levels on Materials
 ![[../img/nd_img_ForceAllMipLevelsOnMaterials.png]]
 
 |Inputs||

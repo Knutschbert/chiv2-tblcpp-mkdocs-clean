@@ -1,5 +1,4 @@
 ## Is in AParty
-Is in AParty
 ![[../img/nd_img_IsInAParty.png]]
 
 |Inputs||

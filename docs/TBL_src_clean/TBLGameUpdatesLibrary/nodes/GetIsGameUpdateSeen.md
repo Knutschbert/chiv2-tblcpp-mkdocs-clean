@@ -1,5 +1,4 @@
 ## Get Is Game Update Seen
-Get Is Game Update Seen
 ![[../img/nd_img_GetIsGameUpdateSeen.png]]
 
 |Inputs||

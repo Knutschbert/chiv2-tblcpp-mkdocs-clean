@@ -1,5 +1,4 @@
 ## Finish
-Finish
 ![[../img/nd_img_Finish.png]]
 
 |Inputs||

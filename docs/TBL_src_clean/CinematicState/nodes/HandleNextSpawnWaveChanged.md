@@ -1,5 +1,4 @@
 ## Handle Next Spawn Wave Changed
-Handle Next Spawn Wave Changed
 ![[../img/nd_img_HandleNextSpawnWaveChanged.png]]
 
 |Inputs||

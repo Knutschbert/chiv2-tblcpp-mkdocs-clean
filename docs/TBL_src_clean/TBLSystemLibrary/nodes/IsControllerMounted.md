@@ -1,5 +1,4 @@
 ## Is Controller Mounted
-Is Controller Mounted
 ![[../img/nd_img_IsControllerMounted.png]]
 
 |Inputs||

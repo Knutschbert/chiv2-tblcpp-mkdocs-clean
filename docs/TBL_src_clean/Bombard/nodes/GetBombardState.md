@@ -1,5 +1,4 @@
 ## Get Bombard State
-Get Bombard State
 ![[../img/nd_img_GetBombardState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Should Clamp to Screen
-Should Clamp to Screen
 ![[../img/nd_img_ShouldClampToScreen.png]]
 
 |Inputs||

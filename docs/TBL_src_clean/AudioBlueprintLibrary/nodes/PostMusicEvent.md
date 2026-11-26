@@ -1,5 +1,4 @@
 ## Post Music Event
-Post Music Event
 ![[../img/nd_img_PostMusicEvent.png]]
 
 |Inputs||

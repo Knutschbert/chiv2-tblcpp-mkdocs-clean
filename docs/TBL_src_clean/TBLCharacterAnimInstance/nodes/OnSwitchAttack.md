@@ -1,5 +1,4 @@
 ## On Switch Attack
-On Switch Attack
 ![[../img/nd_img_OnSwitchAttack.png]]
 
 |Inputs||

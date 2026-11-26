@@ -1,5 +1,4 @@
 ## On Rep State
-On Rep State
 ![[../img/nd_img_OnRep_State.png]]
 
 |Inputs||

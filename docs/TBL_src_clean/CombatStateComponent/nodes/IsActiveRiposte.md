@@ -1,5 +1,4 @@
 ## Is Active Riposte
-Is Active Riposte
 ![[../img/nd_img_IsActiveRiposte.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Debug Goto State
-Debug Goto State
 ![[../img/nd_img_DebugGotoState.png]]
 
 |Inputs||

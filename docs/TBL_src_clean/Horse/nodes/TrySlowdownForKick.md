@@ -1,5 +1,4 @@
 ## Try Slowdown for Kick
-Try Slowdown for Kick
 ![[../img/nd_img_TrySlowdownForKick.png]]
 
 |Inputs||

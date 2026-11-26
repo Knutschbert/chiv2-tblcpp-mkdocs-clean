@@ -1,5 +1,4 @@
 ## Start Charge Stab
-Start Charge Stab
 ![[../img/nd_img_StartChargeStab.png]]
 
 |Inputs||

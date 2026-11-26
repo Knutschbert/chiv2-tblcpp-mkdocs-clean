@@ -1,5 +1,4 @@
 ## On Rep Initiate Use Duration
-On Rep Initiate Use Duration
 ![[../img/nd_img_OnRep_InitiateUseDuration.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Customized
-On Customized
 ![[../img/nd_img_OnCustomized.png]]
 
 |Inputs||

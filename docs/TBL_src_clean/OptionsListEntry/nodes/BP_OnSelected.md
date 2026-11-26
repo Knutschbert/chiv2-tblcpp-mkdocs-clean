@@ -1,5 +1,4 @@
 ## BP on Selected
-BP on Selected
 ![[../img/nd_img_BP_OnSelected.png]]
 
 |Inputs||

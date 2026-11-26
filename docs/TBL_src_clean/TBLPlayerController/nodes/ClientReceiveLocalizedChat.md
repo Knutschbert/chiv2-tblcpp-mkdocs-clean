@@ -1,5 +1,4 @@
 ## Client Receive Localized Chat
-Client Receive Localized Chat
 ![[../img/nd_img_ClientReceiveLocalizedChat.png]]
 
 |Inputs||

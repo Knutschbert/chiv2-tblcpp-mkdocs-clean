@@ -1,5 +1,4 @@
 ## Set Pawn RVO
-Set Pawn RVO
 ![[../img/nd_img_SetPawnRVO.png]]
 
 |Inputs||

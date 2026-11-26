@@ -1,5 +1,4 @@
 ## Pop Animal
-Pop Animal
 ![[../img/nd_img_PopAnimal.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Mute State for Remote Player
-Set Mute State for Remote Player
 ![[../img/nd_img_SetMuteStateForRemotePlayer.png]]
 
 |Inputs||

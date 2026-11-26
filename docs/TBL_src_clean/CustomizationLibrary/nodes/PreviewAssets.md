@@ -1,5 +1,4 @@
 ## Preview Assets
-Preview Assets
 ![[../img/nd_img_PreviewAssets.png]]
 
 |Inputs||

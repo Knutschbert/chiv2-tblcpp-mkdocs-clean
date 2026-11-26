@@ -1,5 +1,4 @@
 ## Is Server Bad Frame Time
-Is Server Bad Frame Time
 ![[../img/nd_img_IsServerBadFrameTime.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Time in State
-Get Time in State
 ![[../img/nd_img_GetTimeInState.png]]
 
 |Inputs||

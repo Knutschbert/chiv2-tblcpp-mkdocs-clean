@@ -1,5 +1,4 @@
 ## Go to State Playing
-Go to State Playing
 ![[../img/nd_img_GoToStatePlaying.png]]
 
 |Inputs||

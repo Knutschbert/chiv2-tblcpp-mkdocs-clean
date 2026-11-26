@@ -1,5 +1,4 @@
 ## On Warmup Complete
-On Warmup Complete
 ![[../img/nd_img_OnWarmupComplete.png]]
 
 |Inputs||

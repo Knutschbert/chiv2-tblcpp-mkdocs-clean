@@ -1,5 +1,4 @@
 ## Get Min Slider Value
-Get Min Slider Value
 ![[../img/nd_img_GetMinSliderValue.png]]
 
 |Inputs||

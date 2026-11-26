@@ -1,5 +1,4 @@
 ## Stop Camera Shake
-Stop Camera Shake
 ![[../img/nd_img_StopCameraShake.png]]
 
 |Inputs||

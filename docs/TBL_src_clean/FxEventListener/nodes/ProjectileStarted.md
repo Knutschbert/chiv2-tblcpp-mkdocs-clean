@@ -1,5 +1,4 @@
 ## Projectile Started
-Projectile Started
 ![[../img/nd_img_ProjectileStarted.png]]
 
 |Inputs||

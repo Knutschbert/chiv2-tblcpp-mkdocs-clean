@@ -1,5 +1,4 @@
 ## List Viewed Items
-List Viewed Items
 ![[../img/nd_img_ListViewedItems.png]]
 
 |Inputs||

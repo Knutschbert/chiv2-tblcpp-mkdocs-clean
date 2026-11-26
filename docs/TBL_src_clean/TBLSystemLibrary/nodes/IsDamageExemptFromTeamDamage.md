@@ -1,5 +1,4 @@
 ## Is Damage Exempt from Team Damage
-Is Damage Exempt from Team Damage
 ![[../img/nd_img_IsDamageExemptFromTeamDamage.png]]
 
 |Inputs||

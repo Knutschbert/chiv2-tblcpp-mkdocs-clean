@@ -1,5 +1,4 @@
 ## Award Score to Players
-Award Score to Players
 ![[../img/nd_img_AwardScoreToPlayers.png]]
 
 |Inputs||

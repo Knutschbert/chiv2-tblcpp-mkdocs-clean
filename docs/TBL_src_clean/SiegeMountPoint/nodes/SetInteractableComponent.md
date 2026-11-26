@@ -1,5 +1,4 @@
 ## Set Interactable Component
-Set Interactable Component
 ![[../img/nd_img_SetInteractableComponent.png]]
 
 |Inputs||

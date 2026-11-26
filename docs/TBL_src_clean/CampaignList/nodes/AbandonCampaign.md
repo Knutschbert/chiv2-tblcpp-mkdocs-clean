@@ -1,5 +1,4 @@
 ## Abandon Campaign
-Abandon Campaign
 ![[../img/nd_img_AbandonCampaign.png]]
 
 |Inputs||

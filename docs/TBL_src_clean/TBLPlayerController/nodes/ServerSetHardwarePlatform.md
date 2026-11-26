@@ -1,5 +1,4 @@
 ## Server Set Hardware Platform
-Server Set Hardware Platform
 ![[../img/nd_img_ServerSetHardwarePlatform.png]]
 
 |Inputs||

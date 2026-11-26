@@ -1,5 +1,4 @@
 ## Set Spectating Pawn
-Set Spectating Pawn
 ![[../img/nd_img_SetSpectatingPawn.png]]
 
 |Inputs||

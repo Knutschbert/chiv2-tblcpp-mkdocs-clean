@@ -1,5 +1,4 @@
 ## Needs Tick
-Needs Tick
 ![[../img/nd_img_NeedsTick.png]]
 
 |Inputs||

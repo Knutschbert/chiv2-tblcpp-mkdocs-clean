@@ -1,5 +1,4 @@
 ## Set Server Browser Hide Full Servers
-Set Server Browser Hide Full Servers
 ![[../img/nd_img_SetServerBrowserHideFullServers.png]]
 
 |Inputs||

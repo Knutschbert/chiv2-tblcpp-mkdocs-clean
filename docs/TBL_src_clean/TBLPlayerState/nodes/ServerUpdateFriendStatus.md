@@ -1,5 +1,4 @@
 ## Server Update Friend Status
-Server Update Friend Status
 ![[../img/nd_img_ServerUpdateFriendStatus.png]]
 
 |Inputs||

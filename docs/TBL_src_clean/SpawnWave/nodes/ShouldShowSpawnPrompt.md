@@ -1,5 +1,4 @@
 ## Should Show Spawn Prompt
-Should Show Spawn Prompt
 ![[../img/nd_img_ShouldShowSpawnPrompt.png]]
 
 |Inputs||

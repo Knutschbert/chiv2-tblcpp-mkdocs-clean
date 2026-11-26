@@ -1,5 +1,4 @@
 ## Reject Friend Invitation from Player
-Reject Friend Invitation from Player
 ![[../img/nd_img_RejectFriendInvitationFromPlayer.png]]
 
 |Inputs||

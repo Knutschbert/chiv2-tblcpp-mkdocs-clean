@@ -1,5 +1,4 @@
 ## Get Spawn Wave
-Get Spawn Wave
 ![[../img/nd_img_GetSpawnWave.png]]
 
 |Inputs||

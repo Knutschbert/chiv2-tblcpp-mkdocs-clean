@@ -1,5 +1,4 @@
 ## Play Sound at Location
-Play Sound at Location
 ![[../img/nd_img_PlaySoundAtLocation.png]]
 
 |Inputs||

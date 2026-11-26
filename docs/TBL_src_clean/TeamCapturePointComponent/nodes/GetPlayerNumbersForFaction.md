@@ -1,5 +1,4 @@
 ## Get Player Numbers for Faction
-Get Player Numbers for Faction
 ![[../img/nd_img_GetPlayerNumbersForFaction.png]]
 
 |Inputs||

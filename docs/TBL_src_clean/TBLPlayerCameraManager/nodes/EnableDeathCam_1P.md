@@ -1,5 +1,4 @@
 ## Enable Death Cam 1P
-Enable Death Cam 1P
 ![[../img/nd_img_EnableDeathCam_1P.png]]
 
 |Inputs||

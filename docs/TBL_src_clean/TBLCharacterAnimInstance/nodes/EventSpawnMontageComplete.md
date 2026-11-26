@@ -1,5 +1,4 @@
 ## Event Spawn Montage Complete
-Event Spawn Montage Complete
 ![[../img/nd_img_EventSpawnMontageComplete.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Server Leave Spawn Wave
-Server Leave Spawn Wave
 ![[../img/nd_img_ServerLeaveSpawnWave.png]]
 
 |Inputs||

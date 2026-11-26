@@ -1,5 +1,4 @@
 ## Send Prompt Player Message Request
-Send Prompt Player Message Request
 ![[../img/nd_img_SendPromptPlayerMessageRequest.png]]
 
 |Inputs||

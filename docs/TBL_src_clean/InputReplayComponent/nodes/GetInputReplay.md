@@ -1,5 +1,4 @@
 ## Get Input Replay
-Get Input Replay
 ![[../img/nd_img_GetInputReplay.png]]
 
 |Inputs||

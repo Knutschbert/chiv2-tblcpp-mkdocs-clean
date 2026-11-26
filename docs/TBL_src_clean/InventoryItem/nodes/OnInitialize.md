@@ -1,5 +1,4 @@
 ## On Initialize
-On Initialize
 ![[../img/nd_img_OnInitialize.png]]
 
 |Inputs||

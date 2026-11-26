@@ -1,5 +1,4 @@
 ## Client Draw Debug Capsule
-Client Draw Debug Capsule
 ![[../img/nd_img_ClientDrawDebugCapsule.png]]
 
 |Inputs||

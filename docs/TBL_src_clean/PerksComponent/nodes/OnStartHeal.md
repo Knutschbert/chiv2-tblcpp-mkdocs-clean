@@ -1,5 +1,4 @@
 ## On Start Heal
-On Start Heal
 ![[../img/nd_img_OnStartHeal.png]]
 
 |Inputs||

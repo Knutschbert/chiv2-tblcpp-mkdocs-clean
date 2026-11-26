@@ -1,5 +1,4 @@
 ## Set Progress
-Set Progress
 ![[../img/nd_img_SetProgress.png]]
 
 |Inputs||

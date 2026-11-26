@@ -1,5 +1,4 @@
 ## Can Player be Participant
-Can Player be Participant
 ![[../img/nd_img_CanPlayerBeParticipant.png]]
 
 |Inputs||

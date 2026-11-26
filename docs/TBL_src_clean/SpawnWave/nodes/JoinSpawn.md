@@ -1,5 +1,4 @@
 ## Join Spawn
-Join Spawn
 ![[../img/nd_img_JoinSpawn.png]]
 
 |Inputs||

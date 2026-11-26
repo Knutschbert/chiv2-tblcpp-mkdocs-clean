@@ -1,5 +1,4 @@
 ## Get Timer Delay Seconds
-Get Timer Delay Seconds
 ![[../img/nd_img_GetTimerDelaySeconds.png]]
 
 |Inputs||

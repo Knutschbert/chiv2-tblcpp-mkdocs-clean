@@ -1,5 +1,4 @@
 ## Should Remain in Sprint
-Should Remain in Sprint
 ![[../img/nd_img_ShouldRemainInSprint.png]]
 
 |Inputs||

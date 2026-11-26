@@ -1,5 +1,4 @@
 ## On Capture State Capturing
-On Capture State Capturing
 ![[../img/nd_img_OnCaptureStateCapturing.png]]
 
 |Inputs||

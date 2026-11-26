@@ -1,5 +1,4 @@
 ## On Character Destroyed
-On Character Destroyed
 ![[../img/nd_img_OnCharacterDestroyed.png]]
 
 |Inputs||

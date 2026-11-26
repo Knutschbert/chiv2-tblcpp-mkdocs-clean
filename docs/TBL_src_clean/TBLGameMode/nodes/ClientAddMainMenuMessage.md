@@ -1,5 +1,4 @@
 ## Client Add Main Menu Message
-Client Add Main Menu Message
 ![[../img/nd_img_ClientAddMainMenuMessage.png]]
 
 |Inputs||

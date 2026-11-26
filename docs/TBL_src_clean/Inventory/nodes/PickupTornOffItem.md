@@ -1,5 +1,4 @@
 ## Pickup Torn Off Item
-Pickup Torn Off Item
 ![[../img/nd_img_PickupTornOffItem.png]]
 
 |Inputs||

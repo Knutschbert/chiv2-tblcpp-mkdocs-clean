@@ -1,5 +1,4 @@
 ## Get Max Charge
-Get Max Charge
 ![[../img/nd_img_GetMaxCharge.png]]
 
 |Inputs||

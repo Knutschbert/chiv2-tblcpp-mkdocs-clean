@@ -1,5 +1,4 @@
 ## Init from Active Quests
-Init from Active Quests
 ![[../img/nd_img_InitFromActiveQuests.png]]
 
 |Inputs||

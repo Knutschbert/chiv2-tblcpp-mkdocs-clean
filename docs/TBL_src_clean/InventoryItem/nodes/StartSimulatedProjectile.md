@@ -1,5 +1,4 @@
 ## Start Simulated Projectile
-Start Simulated Projectile
 ![[../img/nd_img_StartSimulatedProjectile.png]]
 
 |Inputs||

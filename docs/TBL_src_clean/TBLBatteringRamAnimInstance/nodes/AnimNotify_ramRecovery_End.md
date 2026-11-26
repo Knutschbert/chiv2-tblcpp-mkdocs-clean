@@ -1,5 +1,4 @@
 ## Anim Notify Ram Recovery End
-Anim Notify Ram Recovery End
 ![[../img/nd_img_AnimNotify_ramRecovery_End.png]]
 
 |Inputs||

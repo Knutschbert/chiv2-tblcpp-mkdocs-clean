@@ -1,5 +1,4 @@
 ## On Rep Kills
-On Rep Kills
 ![[../img/nd_img_OnRep_Kills.png]]
 
 |Inputs||

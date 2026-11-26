@@ -1,5 +1,4 @@
 ## On Player Mesh Changed
-On Player Mesh Changed
 ![[../img/nd_img_OnPlayerMeshChanged.png]]
 
 |Inputs||

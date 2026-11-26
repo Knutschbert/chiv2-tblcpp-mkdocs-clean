@@ -1,5 +1,4 @@
 ## Swap Named Screen to Front
-Swap Named Screen to Front
 ![[../img/nd_img_SwapNamedScreenToFront.png]]
 
 |Inputs||

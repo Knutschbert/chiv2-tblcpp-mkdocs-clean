@@ -1,5 +1,4 @@
 ## Set Random Loadout
-Set Random Loadout
 ![[../img/nd_img_SetRandomLoadout.png]]
 
 |Inputs||

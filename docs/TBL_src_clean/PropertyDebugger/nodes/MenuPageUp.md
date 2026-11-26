@@ -1,5 +1,4 @@
 ## Menu Page Up
-Menu Page Up
 ![[../img/nd_img_MenuPageUp.png]]
 
 |Inputs||

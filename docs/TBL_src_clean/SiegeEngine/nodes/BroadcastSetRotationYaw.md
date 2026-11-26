@@ -1,5 +1,4 @@
 ## Broadcast Set Rotation Yaw
-Broadcast Set Rotation Yaw
 ![[../img/nd_img_BroadcastSetRotationYaw.png]]
 
 |Inputs||

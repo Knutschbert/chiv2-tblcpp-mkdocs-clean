@@ -1,5 +1,4 @@
 ## Can Feint
-Can Feint
 ![[../img/nd_img_CanFeint.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Current Slate Input Mode
-Get Current Slate Input Mode
 ![[../img/nd_img_GetCurrentSlateInputMode.png]]
 
 |Inputs||

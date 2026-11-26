@@ -1,5 +1,4 @@
 ## Get Current Spawn Animation Time
-Get Current Spawn Animation Time
 ![[../img/nd_img_GetCurrentSpawnAnimationTime.png]]
 
 |Inputs||

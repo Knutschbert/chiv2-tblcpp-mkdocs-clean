@@ -1,5 +1,4 @@
 ## Add Temporary Perk
-Add Temporary Perk
 ![[../img/nd_img_AddTemporaryPerk.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Authority Stop Forced Autorun
-Authority Stop Forced Autorun
 ![[../img/nd_img_AuthorityStopForcedAutorun.png]]
 
 |Inputs||

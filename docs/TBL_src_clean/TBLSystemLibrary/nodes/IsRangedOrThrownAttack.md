@@ -1,5 +1,4 @@
 ## Is Ranged or Thrown Attack
-Is Ranged or Thrown Attack
 ![[../img/nd_img_IsRangedOrThrownAttack.png]]
 
 |Inputs||

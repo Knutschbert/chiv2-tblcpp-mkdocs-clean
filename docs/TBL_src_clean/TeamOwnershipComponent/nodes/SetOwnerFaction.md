@@ -1,5 +1,4 @@
 ## Set Owner Faction
-Set Owner Faction
 ![[../img/nd_img_SetOwnerFaction.png]]
 
 |Inputs||

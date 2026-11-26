@@ -1,5 +1,4 @@
 ## On Authority Added Actor Destroyed
-On Authority Added Actor Destroyed
 ![[../img/nd_img_OnAuthorityAddedActorDestroyed.png]]
 
 |Inputs||

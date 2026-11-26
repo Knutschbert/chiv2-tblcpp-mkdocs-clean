@@ -1,5 +1,4 @@
 ## Is Automation Testing
-Is Automation Testing
 ![[../img/nd_img_IsAutomationTesting.png]]
 
 |Inputs||

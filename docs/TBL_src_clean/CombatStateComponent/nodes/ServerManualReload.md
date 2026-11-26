@@ -1,5 +1,4 @@
 ## Server Manual Reload
-Server Manual Reload
 ![[../img/nd_img_ServerManualReload.png]]
 
 |Inputs||

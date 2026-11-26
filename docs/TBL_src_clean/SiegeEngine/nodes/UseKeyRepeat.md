@@ -1,5 +1,4 @@
 ## Use Key Repeat
-Use Key Repeat
 ![[../img/nd_img_UseKeyRepeat.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Update Lock Mesh Rotation
-Update Lock Mesh Rotation
 ![[../img/nd_img_UpdateLockMeshRotation.png]]
 
 |Inputs||

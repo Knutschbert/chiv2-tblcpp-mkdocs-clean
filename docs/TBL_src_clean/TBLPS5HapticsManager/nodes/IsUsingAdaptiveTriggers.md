@@ -1,5 +1,4 @@
 ## Is Using Adaptive Triggers
-Is Using Adaptive Triggers
 ![[../img/nd_img_IsUsingAdaptiveTriggers.png]]
 
 |Inputs||

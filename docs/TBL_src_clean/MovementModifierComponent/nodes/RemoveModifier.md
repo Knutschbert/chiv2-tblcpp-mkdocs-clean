@@ -1,5 +1,4 @@
 ## Remove Modifier
-Remove Modifier
 ![[../img/nd_img_RemoveModifier.png]]
 
 |Inputs||

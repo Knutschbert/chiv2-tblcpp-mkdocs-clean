@@ -1,5 +1,4 @@
 ## Get Fill Dynamic Material
-Get Fill Dynamic Material
 ![[../img/nd_img_GetFillDynamicMaterial.png]]
 
 |Inputs||

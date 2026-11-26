@@ -1,5 +1,4 @@
 ## Remove Player from Capture Point
-Remove Player from Capture Point
 ![[../img/nd_img_RemovePlayerFromCapturePoint.png]]
 
 |Inputs||

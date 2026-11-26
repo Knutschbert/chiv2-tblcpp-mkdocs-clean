@@ -1,5 +1,4 @@
 ## Get Dialog Handle
-Get Dialog Handle
 ![[../img/nd_img_GetDialogHandle.png]]
 
 |Inputs||

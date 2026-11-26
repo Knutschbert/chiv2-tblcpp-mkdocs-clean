@@ -1,5 +1,4 @@
 ## Play Emote
-Play Emote
 ![[../img/nd_img_PlayEmote.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Is Out Of Ammo
-Is Out Of Ammo
 ![[../img/nd_img_IsOutOfAmmo.png]]
 
 |Inputs||

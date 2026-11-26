@@ -1,5 +1,4 @@
 ## On Projectile Movement Finished
-On Projectile Movement Finished
 ![[../img/nd_img_OnProjectileMovementFinished.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Dump Characters
-Dump Characters
 ![[../img/nd_img_DumpCharacters.png]]
 
 |Inputs||

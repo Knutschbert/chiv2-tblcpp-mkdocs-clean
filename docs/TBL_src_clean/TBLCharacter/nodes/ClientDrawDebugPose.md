@@ -1,5 +1,4 @@
 ## Client Draw Debug Pose
-Client Draw Debug Pose
 ![[../img/nd_img_ClientDrawDebugPose.png]]
 
 |Inputs||

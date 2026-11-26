@@ -1,5 +1,4 @@
 ## Get Saved Loadout
-Get Saved Loadout
 ![[../img/nd_img_GetSavedLoadout.png]]
 
 |Inputs||

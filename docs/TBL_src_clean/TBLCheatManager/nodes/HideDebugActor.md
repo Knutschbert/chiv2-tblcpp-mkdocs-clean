@@ -1,5 +1,4 @@
 ## Hide Debug Actor
-Hide Debug Actor
 ![[../img/nd_img_HideDebugActor.png]]
 
 |Inputs||

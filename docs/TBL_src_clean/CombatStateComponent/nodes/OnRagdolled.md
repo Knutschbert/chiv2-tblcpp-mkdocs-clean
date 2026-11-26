@@ -1,5 +1,4 @@
 ## On Ragdolled
-On Ragdolled
 ![[../img/nd_img_OnRagdolled.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Init Skin Weights State
-Init Skin Weights State
 ![[../img/nd_img_InitSkinWeightsState.png]]
 
 |Inputs||

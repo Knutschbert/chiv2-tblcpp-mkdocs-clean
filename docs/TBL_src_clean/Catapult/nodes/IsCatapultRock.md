@@ -1,5 +1,4 @@
 ## Is Catapult Rock
-Is Catapult Rock
 ![[../img/nd_img_IsCatapultRock.png]]
 
 |Inputs||

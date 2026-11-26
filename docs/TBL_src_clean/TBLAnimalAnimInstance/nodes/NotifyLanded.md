@@ -1,5 +1,4 @@
 ## Notify Landed
-Notify Landed
 ![[../img/nd_img_NotifyLanded.png]]
 
 |Inputs||

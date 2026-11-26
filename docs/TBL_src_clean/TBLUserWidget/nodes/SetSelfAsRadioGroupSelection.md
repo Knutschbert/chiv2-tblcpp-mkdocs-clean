@@ -1,5 +1,4 @@
 ## Set Self as Radio Group Selection
-Set Self as Radio Group Selection
 ![[../img/nd_img_SetSelfAsRadioGroupSelection.png]]
 
 |Inputs||

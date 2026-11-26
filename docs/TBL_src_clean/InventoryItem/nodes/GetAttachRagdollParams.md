@@ -1,5 +1,4 @@
 ## Get Attach Ragdoll Params
-Get Attach Ragdoll Params
 ![[../img/nd_img_GetAttachRagdollParams.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Combo Cancel Timeout
-On Combo Cancel Timeout
 ![[../img/nd_img_OnComboCancelTimeout.png]]
 
 |Inputs||

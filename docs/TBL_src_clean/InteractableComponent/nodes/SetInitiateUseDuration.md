@@ -1,5 +1,4 @@
 ## Set Initiate Use Duration
-Set Initiate Use Duration
 ![[../img/nd_img_SetInitiateUseDuration.png]]
 
 |Inputs||

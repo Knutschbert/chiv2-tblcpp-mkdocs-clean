@@ -1,5 +1,4 @@
 ## Get Marked Actor HUDMarker Components
-Get Marked Actor HUDMarker Components
 ![[../img/nd_img_GetMarkedActorHUDMarkerComponents.png]]
 
 |Inputs||

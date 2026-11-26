@@ -1,5 +1,4 @@
 ## Get Actor Component
-Get Actor Component
 ![[../img/nd_img_GetActorComponent.png]]
 
 |Inputs||

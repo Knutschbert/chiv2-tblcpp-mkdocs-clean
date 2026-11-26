@@ -1,5 +1,4 @@
 ## Toggle Replication
-Toggle Replication
 ![[../img/nd_img_ToggleReplication.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Toggle Camera Key Released
-Toggle Camera Key Released
 ![[../img/nd_img_ToggleCameraKeyReleased.png]]
 
 |Inputs||

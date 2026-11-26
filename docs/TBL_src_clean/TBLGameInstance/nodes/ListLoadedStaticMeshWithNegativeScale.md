@@ -1,5 +1,4 @@
 ## List Loaded Static Mesh with Negative Scale
-List Loaded Static Mesh with Negative Scale
 ![[../img/nd_img_ListLoadedStaticMeshWithNegativeScale.png]]
 
 |Inputs||

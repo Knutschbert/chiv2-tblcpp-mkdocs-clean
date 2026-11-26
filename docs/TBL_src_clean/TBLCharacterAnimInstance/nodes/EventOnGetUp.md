@@ -1,5 +1,4 @@
 ## Event on Get Up
-Event on Get Up
 ![[../img/nd_img_EventOnGetUp.png]]
 
 |Inputs||

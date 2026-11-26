@@ -1,5 +1,4 @@
 ## Get Actor Team
-Get Actor Team
 ![[../img/nd_img_GetActorTeam.png]]
 
 |Inputs||

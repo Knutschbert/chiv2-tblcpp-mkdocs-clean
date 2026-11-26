@@ -1,5 +1,4 @@
 ## TBSEnd Warmup
-TBSEnd Warmup
 ![[../img/nd_img_TBSEndWarmup.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Tiebreak Score
-Set Tiebreak Score
 ![[../img/nd_img_SetTiebreakScore.png]]
 
 |Inputs||

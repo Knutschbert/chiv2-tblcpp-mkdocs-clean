@@ -1,5 +1,4 @@
 ## Crosshair Tutorial Success Message
-Crosshair Tutorial Success Message
 ![[../img/nd_img_CrosshairTutorialSuccessMessage.png]]
 
 |Inputs||

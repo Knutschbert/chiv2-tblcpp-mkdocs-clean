@@ -1,5 +1,4 @@
 ## Is Playing Cinematics
-Is Playing Cinematics
 ![[../img/nd_img_IsPlayingCinematics.png]]
 
 |Inputs||

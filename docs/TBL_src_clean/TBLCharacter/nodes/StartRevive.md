@@ -1,5 +1,4 @@
 ## Start Revive
-Start Revive
 ![[../img/nd_img_StartRevive.png]]
 
 |Inputs||

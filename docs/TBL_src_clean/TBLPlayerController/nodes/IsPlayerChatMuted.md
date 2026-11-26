@@ -1,5 +1,4 @@
 ## Is Player Chat Muted
-Is Player Chat Muted
 ![[../img/nd_img_IsPlayerChatMuted.png]]
 
 |Inputs||

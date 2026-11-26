@@ -1,5 +1,4 @@
 ## Restart Recharge Timer
-Restart Recharge Timer
 ![[../img/nd_img_RestartRechargeTimer.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Client Set Spectator Location
-Client Set Spectator Location
 ![[../img/nd_img_ClientSetSpectatorLocation.png]]
 
 |Inputs||

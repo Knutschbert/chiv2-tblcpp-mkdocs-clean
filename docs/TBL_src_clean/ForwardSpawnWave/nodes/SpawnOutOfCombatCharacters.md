@@ -1,5 +1,4 @@
 ## Spawn Out Of Combat Characters
-Spawn Out Of Combat Characters
 ![[../img/nd_img_SpawnOutOfCombatCharacters.png]]
 
 |Inputs||

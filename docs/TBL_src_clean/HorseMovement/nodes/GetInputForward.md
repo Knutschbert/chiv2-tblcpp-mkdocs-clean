@@ -1,5 +1,4 @@
 ## Get Input Forward
-Get Input Forward
 ![[../img/nd_img_GetInputForward.png]]
 
 |Inputs||

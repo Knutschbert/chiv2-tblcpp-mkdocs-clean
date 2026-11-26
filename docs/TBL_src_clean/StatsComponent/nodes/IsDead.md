@@ -1,5 +1,4 @@
 ## Is Dead
-Is Dead
 ![[../img/nd_img_IsDead.png]]
 
 |Inputs||

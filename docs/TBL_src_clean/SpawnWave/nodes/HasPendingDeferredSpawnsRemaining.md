@@ -1,5 +1,4 @@
 ## Has Pending Deferred Spawns Remaining
-Has Pending Deferred Spawns Remaining
 ![[../img/nd_img_HasPendingDeferredSpawnsRemaining.png]]
 
 |Inputs||

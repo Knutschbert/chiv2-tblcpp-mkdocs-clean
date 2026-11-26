@@ -1,5 +1,4 @@
 ## Add Closed Caption Line
-Add Closed Caption Line
 ![[../img/nd_img_AddClosedCaptionLine.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## K2 Update Focus Params
-K2 Update Focus Params
 ![[../img/nd_img_K2_UpdateFocusParams.png]]
 
 |Inputs||

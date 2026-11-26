@@ -1,5 +1,4 @@
 ## Bp Cheat
-Bp Cheat
 ![[../img/nd_img_BpCheat.png]]
 
 |Inputs||

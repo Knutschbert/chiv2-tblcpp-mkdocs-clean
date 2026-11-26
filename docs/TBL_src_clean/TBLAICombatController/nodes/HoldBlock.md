@@ -1,5 +1,4 @@
 ## Hold Block
-Hold Block
 ![[../img/nd_img_HoldBlock.png]]
 
 |Inputs||

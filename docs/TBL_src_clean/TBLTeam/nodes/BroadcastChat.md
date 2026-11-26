@@ -1,5 +1,4 @@
 ## Broadcast Chat
-Broadcast Chat
 ![[../img/nd_img_BroadcastChat.png]]
 
 |Inputs||

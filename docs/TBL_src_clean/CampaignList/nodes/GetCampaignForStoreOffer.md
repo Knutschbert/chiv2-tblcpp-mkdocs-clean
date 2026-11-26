@@ -1,5 +1,4 @@
 ## Get Campaign for Store Offer
-Get Campaign for Store Offer
 ![[../img/nd_img_GetCampaignForStoreOffer.png]]
 
 |Inputs||

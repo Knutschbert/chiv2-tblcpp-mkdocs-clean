@@ -1,5 +1,4 @@
 ## Apply Helper Bonus
-Apply Helper Bonus
 ![[../img/nd_img_ApplyHelperBonus.png]]
 
 |Inputs||

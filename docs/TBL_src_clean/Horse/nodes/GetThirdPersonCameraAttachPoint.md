@@ -1,5 +1,4 @@
 ## Get Third Person Camera Attach Point
-Get Third Person Camera Attach Point
 ![[../img/nd_img_GetThirdPersonCameraAttachPoint.png]]
 
 |Inputs||

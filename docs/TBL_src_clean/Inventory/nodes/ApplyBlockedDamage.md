@@ -1,5 +1,4 @@
 ## Apply Blocked Damage
-Apply Blocked Damage
 ![[../img/nd_img_ApplyBlockedDamage.png]]
 
 |Inputs||

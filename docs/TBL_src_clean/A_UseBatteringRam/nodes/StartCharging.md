@@ -1,5 +1,4 @@
 ## Start Charging
-Start Charging
 ![[../img/nd_img_StartCharging.png]]
 
 |Inputs||

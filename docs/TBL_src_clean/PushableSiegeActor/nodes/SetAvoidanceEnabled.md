@@ -1,5 +1,4 @@
 ## Set Avoidance Enabled
-Set Avoidance Enabled
 ![[../img/nd_img_SetAvoidanceEnabled.png]]
 
 |Inputs||

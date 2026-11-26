@@ -1,5 +1,4 @@
 ## Set Cinematic Mode
-Set Cinematic Mode
 ![[../img/nd_img_SetCinematicMode.png]]
 
 |Inputs||

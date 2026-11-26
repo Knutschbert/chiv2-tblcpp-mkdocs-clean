@@ -1,5 +1,4 @@
 ## Event Begin State
-Event Begin State
 ![[../img/nd_img_EventBeginState.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Set Auto Sprint
-Set Auto Sprint
 ![[../img/nd_img_SetAutoSprint.png]]
 
 |Inputs||

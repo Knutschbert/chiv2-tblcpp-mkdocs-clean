@@ -1,5 +1,4 @@
 ## Set Seconds Between Waves
-Set Seconds Between Waves
 ![[../img/nd_img_SetSecondsBetweenWaves.png]]
 
 |Inputs||

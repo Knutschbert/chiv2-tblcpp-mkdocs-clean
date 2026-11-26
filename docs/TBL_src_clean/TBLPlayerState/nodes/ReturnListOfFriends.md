@@ -1,5 +1,4 @@
 ## Return List Of Friends
-Return List Of Friends
 ![[../img/nd_img_ReturnListOfFriends.png]]
 
 |Inputs||

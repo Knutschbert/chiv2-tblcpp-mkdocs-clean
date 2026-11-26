@@ -1,5 +1,4 @@
 ## Event on Start Attack
-Event on Start Attack
 ![[../img/nd_img_EventOnStartAttack.png]]
 
 |Inputs||

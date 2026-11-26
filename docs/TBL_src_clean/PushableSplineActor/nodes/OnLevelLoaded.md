@@ -1,5 +1,4 @@
 ## On Level Loaded
-On Level Loaded
 ![[../img/nd_img_OnLevelLoaded.png]]
 
 |Inputs||

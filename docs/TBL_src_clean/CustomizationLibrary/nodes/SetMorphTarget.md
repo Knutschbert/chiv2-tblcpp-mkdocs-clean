@@ -1,5 +1,4 @@
 ## Set Morph Target
-Set Morph Target
 ![[../img/nd_img_SetMorphTarget.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Owning Team
-Get Owning Team
 ![[../img/nd_img_GetOwningTeam.png]]
 
 |Inputs||

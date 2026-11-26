@@ -1,5 +1,4 @@
 ## Get Show Big Notification
-Get Show Big Notification
 ![[../img/nd_img_GetShowBigNotification.png]]
 
 |Inputs||

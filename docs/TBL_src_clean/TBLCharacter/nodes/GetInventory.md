@@ -1,5 +1,4 @@
 ## Get Inventory
-Get Inventory
 ![[../img/nd_img_GetInventory.png]]
 
 |Inputs||

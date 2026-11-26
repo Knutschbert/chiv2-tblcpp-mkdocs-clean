@@ -1,5 +1,4 @@
 ## Is Loadout Equal to Saved Loadout
-Is Loadout Equal to Saved Loadout
 ![[../img/nd_img_IsLoadoutEqualToSavedLoadout.png]]
 
 |Inputs||

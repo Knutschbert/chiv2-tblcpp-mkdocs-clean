@@ -1,5 +1,4 @@
 ## Clear Screen Stack
-Clear Screen Stack
 ![[../img/nd_img_ClearScreenStack.png]]
 
 |Inputs||

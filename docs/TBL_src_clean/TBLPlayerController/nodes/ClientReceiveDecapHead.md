@@ -1,5 +1,4 @@
 ## Client Receive Decap Head
-Client Receive Decap Head
 ![[../img/nd_img_ClientReceiveDecapHead.png]]
 
 |Inputs||

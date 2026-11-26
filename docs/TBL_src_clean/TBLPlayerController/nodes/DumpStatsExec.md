@@ -1,5 +1,4 @@
 ## Dump Stats Exec
-Dump Stats Exec
 ![[../img/nd_img_DumpStatsExec.png]]
 
 |Inputs||

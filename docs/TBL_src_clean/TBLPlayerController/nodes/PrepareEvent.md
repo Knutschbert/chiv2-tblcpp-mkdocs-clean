@@ -1,5 +1,4 @@
 ## Prepare Event
-Prepare Event
 ![[../img/nd_img_PrepareEvent.png]]
 
 |Inputs||

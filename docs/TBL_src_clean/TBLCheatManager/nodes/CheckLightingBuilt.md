@@ -1,5 +1,4 @@
 ## Check Lighting Built
-Check Lighting Built
 ![[../img/nd_img_CheckLightingBuilt.png]]
 
 |Inputs||

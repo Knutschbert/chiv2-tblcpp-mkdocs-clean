@@ -1,5 +1,4 @@
 ## Add Dummy Bots
-Add Dummy Bots
 ![[../img/nd_img_AddDummyBots.png]]
 
 |Inputs||

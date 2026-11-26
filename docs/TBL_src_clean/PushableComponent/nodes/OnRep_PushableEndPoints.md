@@ -1,5 +1,4 @@
 ## On Rep Pushable End Points
-On Rep Pushable End Points
 ![[../img/nd_img_OnRep_PushableEndPoints.png]]
 
 |Inputs||

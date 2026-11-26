@@ -1,5 +1,4 @@
 ## Find Replacement Asset
-Find Replacement Asset
 ![[../img/nd_img_FindReplacementAsset.png]]
 
 |Inputs||

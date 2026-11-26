@@ -1,5 +1,4 @@
 ## Start Spawning
-Start Spawning
 ![[../img/nd_img_StartSpawning.png]]
 
 |Inputs||

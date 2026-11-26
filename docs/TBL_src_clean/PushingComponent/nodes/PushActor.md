@@ -1,5 +1,4 @@
 ## Push Actor
-Push Actor
 ![[../img/nd_img_PushActor.png]]
 
 |Inputs||

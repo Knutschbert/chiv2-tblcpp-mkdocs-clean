@@ -1,5 +1,4 @@
 ## Find Server Frame
-Find Server Frame
 ![[../img/nd_img_FindServerFrame.png]]
 
 |Inputs||

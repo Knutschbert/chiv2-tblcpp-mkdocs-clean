@@ -1,5 +1,4 @@
 ## Mark Replication Dirty
-Mark Replication Dirty
 ![[../img/nd_img_MarkReplicationDirty.png]]
 
 |Inputs||

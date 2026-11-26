@@ -1,5 +1,4 @@
 ## Set Capture State
-Set Capture State
 ![[../img/nd_img_SetCaptureState.png]]
 
 |Inputs||

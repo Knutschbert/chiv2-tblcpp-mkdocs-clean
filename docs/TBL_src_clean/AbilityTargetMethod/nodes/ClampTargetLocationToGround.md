@@ -1,5 +1,4 @@
 ## Clamp Target Location to Ground
-Clamp Target Location to Ground
 ![[../img/nd_img_ClampTargetLocationToGround.png]]
 
 |Inputs||

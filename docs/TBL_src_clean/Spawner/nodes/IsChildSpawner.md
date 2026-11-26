@@ -1,5 +1,4 @@
 ## Is Child Spawner
-Is Child Spawner
 ![[../img/nd_img_IsChildSpawner.png]]
 
 |Inputs||

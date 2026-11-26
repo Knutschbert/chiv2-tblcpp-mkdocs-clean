@@ -1,5 +1,4 @@
 ## Crosshair Holding Progress
-Crosshair Holding Progress
 ![[../img/nd_img_CrosshairHoldingProgress.png]]
 
 |Inputs||

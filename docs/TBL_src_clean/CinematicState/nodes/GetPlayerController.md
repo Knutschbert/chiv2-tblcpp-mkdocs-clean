@@ -1,5 +1,4 @@
 ## Get Player Controller
-Get Player Controller
 ![[../img/nd_img_GetPlayerController.png]]
 
 |Inputs||

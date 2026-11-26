@@ -1,5 +1,4 @@
 ## Sync Draw Strength
-Sync Draw Strength
 ![[../img/nd_img_SyncDrawStrength.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Remove Marked Actor
-Remove Marked Actor
 ![[../img/nd_img_RemoveMarkedActor.png]]
 
 |Inputs||

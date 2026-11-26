@@ -1,5 +1,4 @@
 ## Set Max Slider Value
-Set Max Slider Value
 ![[../img/nd_img_SetMaxSliderValue.png]]
 
 |Inputs||

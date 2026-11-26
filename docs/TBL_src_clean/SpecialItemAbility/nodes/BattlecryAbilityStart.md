@@ -1,5 +1,4 @@
 ## Battlecry Ability Start
-Battlecry Ability Start
 ![[../img/nd_img_BattlecryAbilityStart.png]]
 
 |Inputs||

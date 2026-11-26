@@ -1,5 +1,4 @@
 ## On Use Item Ended
-On Use Item Ended
 ![[../img/nd_img_OnUseItemEnded.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Date Time
-Get Date Time
 ![[../img/nd_img_GetDateTime.png]]
 
 |Inputs||

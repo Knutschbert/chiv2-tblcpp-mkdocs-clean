@@ -1,5 +1,4 @@
 ## Refresh Server List
-Refresh Server List
 ![[../img/nd_img_RefreshServerList.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Gamepad Input Move
-Get Gamepad Input Move
 ![[../img/nd_img_GetGamepadInputMove.png]]
 
 |Inputs||

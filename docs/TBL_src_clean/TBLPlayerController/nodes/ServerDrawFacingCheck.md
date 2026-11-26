@@ -1,5 +1,4 @@
 ## Server Draw Facing Check
-Server Draw Facing Check
 ![[../img/nd_img_ServerDrawFacingCheck.png]]
 
 |Inputs||

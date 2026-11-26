@@ -1,5 +1,4 @@
 ## Conditional Stop Spawning
-Conditional Stop Spawning
 ![[../img/nd_img_ConditionalStopSpawning.png]]
 
 |Inputs||

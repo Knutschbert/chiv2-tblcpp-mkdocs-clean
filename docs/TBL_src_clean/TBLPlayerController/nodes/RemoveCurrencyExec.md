@@ -1,5 +1,4 @@
 ## Remove Currency Exec
-Remove Currency Exec
 ![[../img/nd_img_RemoveCurrencyExec.png]]
 
 |Inputs||

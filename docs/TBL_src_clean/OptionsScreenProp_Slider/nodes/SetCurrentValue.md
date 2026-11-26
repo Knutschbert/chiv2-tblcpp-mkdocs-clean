@@ -1,5 +1,4 @@
 ## Set Current Value
-Set Current Value
 ![[../img/nd_img_SetCurrentValue.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Broadcast Detach from Controller
-Broadcast Detach from Controller
 ![[../img/nd_img_BroadcastDetachFromController.png]]
 
 |Inputs||

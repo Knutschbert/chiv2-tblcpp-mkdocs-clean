@@ -1,5 +1,4 @@
 ## Remove Attached Item
-Remove Attached Item
 ![[../img/nd_img_RemoveAttachedItem.png]]
 
 |Inputs||

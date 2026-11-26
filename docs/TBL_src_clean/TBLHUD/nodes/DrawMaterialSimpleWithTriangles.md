@@ -1,5 +1,4 @@
 ## Draw Material Simple with Triangles
-Draw Material Simple with Triangles
 ![[../img/nd_img_DrawMaterialSimpleWithTriangles.png]]
 
 |Inputs||

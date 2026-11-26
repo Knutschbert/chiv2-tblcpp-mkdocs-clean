@@ -1,5 +1,4 @@
 ## On Rep Spawned at Spawn Comp
-On Rep Spawned at Spawn Comp
 ![[../img/nd_img_OnRep_SpawnedAtSpawnComp.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Broadcast Hit World with Stats
-Broadcast Hit World with Stats
 ![[../img/nd_img_BroadcastHitWorldWithStats.png]]
 
 |Inputs||

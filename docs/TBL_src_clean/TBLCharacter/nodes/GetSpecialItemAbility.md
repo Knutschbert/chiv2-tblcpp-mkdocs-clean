@@ -1,5 +1,4 @@
 ## Get Special Item Ability
-Get Special Item Ability
 ![[../img/nd_img_GetSpecialItemAbility.png]]
 
 |Inputs||

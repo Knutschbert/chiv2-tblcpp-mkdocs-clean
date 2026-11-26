@@ -1,5 +1,4 @@
 ## Draw Stat Line
-Draw Stat Line
 ![[../img/nd_img_DrawStatLine.png]]
 
 |Inputs||

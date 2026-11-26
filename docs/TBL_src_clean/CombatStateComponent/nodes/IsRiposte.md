@@ -1,5 +1,4 @@
 ## Is Riposte
-Is Riposte
 ![[../img/nd_img_IsRiposte.png]]
 
 |Inputs||

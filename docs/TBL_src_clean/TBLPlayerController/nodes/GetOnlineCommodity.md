@@ -1,5 +1,4 @@
 ## Get Online Commodity
-Get Online Commodity
 ![[../img/nd_img_GetOnlineCommodity.png]]
 
 |Inputs||

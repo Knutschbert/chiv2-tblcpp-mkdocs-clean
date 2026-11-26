@@ -1,5 +1,4 @@
 ## Is Valid Movement State
-Is Valid Movement State
 ![[../img/nd_img_IsValidMovementState.png]]
 
 |Inputs||

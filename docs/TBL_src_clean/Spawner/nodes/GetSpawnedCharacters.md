@@ -1,5 +1,4 @@
 ## Get Spawned Characters
-Get Spawned Characters
 ![[../img/nd_img_GetSpawnedCharacters.png]]
 
 |Inputs||

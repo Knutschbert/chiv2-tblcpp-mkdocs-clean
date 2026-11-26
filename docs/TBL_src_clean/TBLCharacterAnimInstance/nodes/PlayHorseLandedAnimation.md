@@ -1,5 +1,4 @@
 ## Play Horse Landed Animation
-Play Horse Landed Animation
 ![[../img/nd_img_PlayHorseLandedAnimation.png]]
 
 |Inputs||

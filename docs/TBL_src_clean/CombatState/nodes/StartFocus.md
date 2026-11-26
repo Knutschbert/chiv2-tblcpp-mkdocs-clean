@@ -1,5 +1,4 @@
 ## Start Focus
-Start Focus
 ![[../img/nd_img_StartFocus.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Stop Using Interactable
-Stop Using Interactable
 ![[../img/nd_img_StopUsingInteractable.png]]
 
 |Inputs||

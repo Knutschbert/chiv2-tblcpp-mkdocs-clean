@@ -1,5 +1,4 @@
 ## Move to Target Location
-Move to Target Location
 ![[../img/nd_img_MoveToTargetLocation.png]]
 
 |Inputs||

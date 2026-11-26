@@ -1,5 +1,4 @@
 ## Server Get Base Class
-Server Get Base Class
 ![[../img/nd_img_ServerGetBaseClass.png]]
 
 |Inputs||

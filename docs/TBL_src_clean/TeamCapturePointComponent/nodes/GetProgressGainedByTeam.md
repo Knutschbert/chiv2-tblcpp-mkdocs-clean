@@ -1,5 +1,4 @@
 ## Get Progress Gained by Team
-Get Progress Gained by Team
 ![[../img/nd_img_GetProgressGainedByTeam.png]]
 
 |Inputs||

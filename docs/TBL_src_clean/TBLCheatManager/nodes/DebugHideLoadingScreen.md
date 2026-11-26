@@ -1,5 +1,4 @@
 ## Debug Hide Loading Screen
-Debug Hide Loading Screen
 ![[../img/nd_img_DebugHideLoadingScreen.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Generate Map URL
-Generate Map URL
 ![[../img/nd_img_GenerateMapURL.png]]
 
 |Inputs||

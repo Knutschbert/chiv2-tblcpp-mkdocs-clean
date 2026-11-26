@@ -1,5 +1,4 @@
 ## Get TBLCharacter from Controller
-Get TBLCharacter from Controller
 ![[../img/nd_img_GetTBLCharacterFromController.png]]
 
 |Inputs||

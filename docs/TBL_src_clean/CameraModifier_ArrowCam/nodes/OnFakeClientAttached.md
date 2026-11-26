@@ -1,5 +1,4 @@
 ## On Fake Client Attached
-On Fake Client Attached
 ![[../img/nd_img_OnFakeClientAttached.png]]
 
 |Inputs||

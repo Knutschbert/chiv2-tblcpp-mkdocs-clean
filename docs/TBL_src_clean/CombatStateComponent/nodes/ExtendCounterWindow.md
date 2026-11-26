@@ -1,5 +1,4 @@
 ## Extend Counter Window
-Extend Counter Window
 ![[../img/nd_img_ExtendCounterWindow.png]]
 
 |Inputs||

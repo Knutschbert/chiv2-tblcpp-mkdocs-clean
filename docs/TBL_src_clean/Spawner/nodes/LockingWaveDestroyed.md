@@ -1,5 +1,4 @@
 ## Locking Wave Destroyed
-Locking Wave Destroyed
 ![[../img/nd_img_LockingWaveDestroyed.png]]
 
 |Inputs||

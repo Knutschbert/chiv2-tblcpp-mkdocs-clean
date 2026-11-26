@@ -1,5 +1,4 @@
 ## On NPCSpawn Manager Destroyed
-On NPCSpawn Manager Destroyed
 ![[../img/nd_img_OnNPCSpawnManagerDestroyed.png]]
 
 |Inputs||

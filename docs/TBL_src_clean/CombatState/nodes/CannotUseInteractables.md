@@ -1,5 +1,4 @@
 ## Cannot Use Interactables
-Cannot Use Interactables
 ![[../img/nd_img_CannotUseInteractables.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Online Stat from Character Class
-Get Online Stat from Character Class
 ![[../img/nd_img_GetOnlineStatFromCharacterClass.png]]
 
 |Inputs||

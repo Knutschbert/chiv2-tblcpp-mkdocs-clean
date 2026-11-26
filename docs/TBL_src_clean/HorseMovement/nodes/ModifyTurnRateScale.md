@@ -1,5 +1,4 @@
 ## Modify Turn Rate Scale
-Modify Turn Rate Scale
 ![[../img/nd_img_ModifyTurnRateScale.png]]
 
 |Inputs||

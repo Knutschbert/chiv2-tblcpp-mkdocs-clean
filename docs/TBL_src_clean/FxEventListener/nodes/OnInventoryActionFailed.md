@@ -1,5 +1,4 @@
 ## On Inventory Action Failed
-On Inventory Action Failed
 ![[../img/nd_img_OnInventoryActionFailed.png]]
 
 |Inputs||

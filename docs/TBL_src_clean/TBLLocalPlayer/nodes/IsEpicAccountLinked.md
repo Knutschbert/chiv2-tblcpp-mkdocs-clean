@@ -1,5 +1,4 @@
 ## Is Epic Account Linked
-Is Epic Account Linked
 ![[../img/nd_img_IsEpicAccountLinked.png]]
 
 |Inputs||

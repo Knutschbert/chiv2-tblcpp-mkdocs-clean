@@ -1,5 +1,4 @@
 ## On Carryable Item Destroyed
-On Carryable Item Destroyed
 ![[../img/nd_img_OnCarryableItemDestroyed.png]]
 
 |Inputs||

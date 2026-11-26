@@ -1,5 +1,4 @@
 ## Get Keybind Name
-Get Keybind Name
 ![[../img/nd_img_GetKeybindName.png]]
 
 |Inputs||

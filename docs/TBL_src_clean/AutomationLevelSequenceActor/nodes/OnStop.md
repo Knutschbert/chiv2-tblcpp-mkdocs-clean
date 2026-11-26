@@ -1,5 +1,4 @@
 ## On Stop
-On Stop
 ![[../img/nd_img_OnStop.png]]
 
 |Inputs||

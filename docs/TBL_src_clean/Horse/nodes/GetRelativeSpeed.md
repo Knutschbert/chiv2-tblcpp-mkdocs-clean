@@ -1,5 +1,4 @@
 ## Get Relative Speed
-Get Relative Speed
 ![[../img/nd_img_GetRelativeSpeed.png]]
 
 |Inputs||

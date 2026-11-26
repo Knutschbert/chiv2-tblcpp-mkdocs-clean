@@ -1,5 +1,4 @@
 ## Lose Helmet
-Lose Helmet
 ![[../img/nd_img_LoseHelmet.png]]
 
 |Inputs||

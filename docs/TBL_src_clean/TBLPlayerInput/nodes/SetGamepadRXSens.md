@@ -1,5 +1,4 @@
 ## Set Gamepad RXSens
-Set Gamepad RXSens
 ![[../img/nd_img_SetGamepadRXSens.png]]
 
 |Inputs||

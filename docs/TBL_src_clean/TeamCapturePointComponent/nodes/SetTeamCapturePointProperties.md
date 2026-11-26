@@ -1,5 +1,4 @@
 ## Set Team Capture Point Properties
-Set Team Capture Point Properties
 ![[../img/nd_img_SetTeamCapturePointProperties.png]]
 
 |Inputs||

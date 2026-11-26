@@ -1,5 +1,4 @@
 ## Set Remaining Lives
-Set Remaining Lives
 ![[../img/nd_img_SetRemainingLives.png]]
 
 |Inputs||

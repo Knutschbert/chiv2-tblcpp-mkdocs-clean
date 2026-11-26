@@ -1,5 +1,4 @@
 ## Native Highlight
-Native Highlight
 ![[../img/nd_img_NativeHighlight.png]]
 
 |Inputs||

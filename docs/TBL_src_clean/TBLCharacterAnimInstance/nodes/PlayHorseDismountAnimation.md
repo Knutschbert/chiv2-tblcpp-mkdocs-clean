@@ -1,5 +1,4 @@
 ## Play Horse Dismount Animation
-Play Horse Dismount Animation
 ![[../img/nd_img_PlayHorseDismountAnimation.png]]
 
 |Inputs||

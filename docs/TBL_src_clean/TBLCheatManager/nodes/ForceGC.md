@@ -1,5 +1,4 @@
 ## Force GC
-Force GC
 ![[../img/nd_img_ForceGC.png]]
 
 |Inputs||

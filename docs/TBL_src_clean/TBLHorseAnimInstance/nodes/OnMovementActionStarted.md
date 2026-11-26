@@ -1,5 +1,4 @@
 ## On Movement Action Started
-On Movement Action Started
 ![[../img/nd_img_OnMovementActionStarted.png]]
 
 |Inputs||

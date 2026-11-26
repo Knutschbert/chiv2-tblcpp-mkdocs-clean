@@ -1,5 +1,4 @@
 ## Toggle Keymap
-Toggle Keymap
 ![[../img/nd_img_ToggleKeymap.png]]
 
 |Inputs||

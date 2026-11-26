@@ -1,5 +1,4 @@
 ## Set Num in Party
-Set Num in Party
 ![[../img/nd_img_SetNumInParty.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On World Cleanup
-On World Cleanup
 ![[../img/nd_img_OnWorldCleanup.png]]
 
 |Inputs||

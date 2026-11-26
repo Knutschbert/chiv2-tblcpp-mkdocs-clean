@@ -1,5 +1,4 @@
 ## Event Far from Camera Changed
-Event Far from Camera Changed
 ![[../img/nd_img_EventFarFromCameraChanged.png]]
 
 |Inputs||

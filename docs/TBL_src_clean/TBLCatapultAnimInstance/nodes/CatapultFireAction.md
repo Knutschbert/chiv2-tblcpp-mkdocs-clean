@@ -1,5 +1,4 @@
 ## Catapult Fire Action
-Catapult Fire Action
 ![[../img/nd_img_CatapultFireAction.png]]
 
 |Inputs||

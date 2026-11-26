@@ -1,5 +1,4 @@
 ## Calculate Value
-Calculate Value
 ![[../img/nd_img_CalculateValue.png]]
 
 |Inputs||

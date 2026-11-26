@@ -1,5 +1,4 @@
 ## Get Reward Item Rarity
-Get Reward Item Rarity
 ![[../img/nd_img_GetRewardItemRarity.png]]
 
 |Inputs||

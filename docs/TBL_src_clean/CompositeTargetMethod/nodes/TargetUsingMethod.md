@@ -1,5 +1,4 @@
 ## Target Using Method
-Target Using Method
 ![[../img/nd_img_TargetUsingMethod.png]]
 
 |Inputs||

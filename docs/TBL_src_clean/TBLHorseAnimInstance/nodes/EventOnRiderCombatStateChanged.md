@@ -1,5 +1,4 @@
 ## Event on Rider Combat State Changed
-Event on Rider Combat State Changed
 ![[../img/nd_img_EventOnRiderCombatStateChanged.png]]
 
 |Inputs||

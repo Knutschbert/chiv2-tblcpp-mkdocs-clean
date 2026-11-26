@@ -1,5 +1,4 @@
 ## Deactivate Player Capture Point
-Deactivate Player Capture Point
 ![[../img/nd_img_DeactivatePlayerCapturePoint.png]]
 
 |Inputs||

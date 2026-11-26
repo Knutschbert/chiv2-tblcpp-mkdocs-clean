@@ -1,5 +1,4 @@
 ## Get All Action Key Mappings
-Get All Action Key Mappings
 ![[../img/nd_img_GetAllActionKeyMappings.png]]
 
 |Inputs||

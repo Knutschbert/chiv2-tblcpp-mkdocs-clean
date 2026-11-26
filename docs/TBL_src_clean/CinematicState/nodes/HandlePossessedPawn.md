@@ -1,5 +1,4 @@
 ## Handle Possessed Pawn
-Handle Possessed Pawn
 ![[../img/nd_img_HandlePossessedPawn.png]]
 
 |Inputs||

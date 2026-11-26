@@ -1,5 +1,4 @@
 ## Local Player Party Invite Accepted
-Local Player Party Invite Accepted
 ![[../img/nd_img_LocalPlayerPartyInviteAccepted.png]]
 
 |Inputs||

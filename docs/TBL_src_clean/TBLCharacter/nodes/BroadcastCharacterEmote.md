@@ -1,5 +1,4 @@
 ## Broadcast Character Emote
-Broadcast Character Emote
 ![[../img/nd_img_BroadcastCharacterEmote.png]]
 
 |Inputs||

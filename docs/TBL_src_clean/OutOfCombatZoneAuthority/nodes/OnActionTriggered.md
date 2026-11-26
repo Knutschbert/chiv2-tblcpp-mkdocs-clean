@@ -1,5 +1,4 @@
 ## On Action Triggered
-On Action Triggered
 ![[../img/nd_img_OnActionTriggered.png]]
 
 |Inputs||

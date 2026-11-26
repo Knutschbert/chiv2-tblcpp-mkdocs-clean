@@ -1,5 +1,4 @@
 ## Cinematics Became Next Spawner
-Cinematics Became Next Spawner
 ![[../img/nd_img_Cinematics_BecameNextSpawner.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Stop Return to Nav Mesh
-Stop Return to Nav Mesh
 ![[../img/nd_img_StopReturnToNavMesh.png]]
 
 |Inputs||

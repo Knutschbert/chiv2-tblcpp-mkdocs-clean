@@ -1,5 +1,4 @@
 ## Pawn Downed
-Pawn Downed
 ![[../img/nd_img_PawnDowned.png]]
 
 |Inputs||

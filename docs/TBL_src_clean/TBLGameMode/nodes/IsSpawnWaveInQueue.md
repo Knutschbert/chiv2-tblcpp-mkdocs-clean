@@ -1,5 +1,4 @@
 ## Is Spawn Wave in Queue
-Is Spawn Wave in Queue
 ![[../img/nd_img_IsSpawnWaveInQueue.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Simulate Lost Server Connection
-Simulate Lost Server Connection
 ![[../img/nd_img_SimulateLostServerConnection.png]]
 
 |Inputs||

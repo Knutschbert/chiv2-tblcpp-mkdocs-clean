@@ -1,5 +1,4 @@
 ## On Character Movement Updated
-On Character Movement Updated
 ![[../img/nd_img_OnCharacterMovementUpdated.png]]
 
 |Inputs||

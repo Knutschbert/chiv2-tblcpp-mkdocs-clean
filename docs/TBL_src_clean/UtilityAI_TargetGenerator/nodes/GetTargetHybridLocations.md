@@ -1,5 +1,4 @@
 ## Get Target Hybrid Locations
-Get Target Hybrid Locations
 ![[../img/nd_img_GetTargetHybridLocations.png]]
 
 |Inputs||

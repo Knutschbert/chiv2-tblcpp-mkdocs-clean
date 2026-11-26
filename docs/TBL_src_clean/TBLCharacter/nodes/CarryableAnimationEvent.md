@@ -1,5 +1,4 @@
 ## Carryable Animation Event
-Carryable Animation Event
 ![[../img/nd_img_CarryableAnimationEvent.png]]
 
 |Inputs||

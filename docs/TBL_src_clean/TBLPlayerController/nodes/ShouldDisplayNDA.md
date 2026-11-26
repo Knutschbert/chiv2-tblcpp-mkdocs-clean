@@ -1,5 +1,4 @@
 ## Should Display NDA
-Should Display NDA
 ![[../img/nd_img_ShouldDisplayNDA.png]]
 
 |Inputs||

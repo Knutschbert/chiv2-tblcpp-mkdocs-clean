@@ -1,5 +1,4 @@
 ## Add Item
-Add Item
 ![[../img/nd_img_AddItem.png]]
 
 |Inputs||

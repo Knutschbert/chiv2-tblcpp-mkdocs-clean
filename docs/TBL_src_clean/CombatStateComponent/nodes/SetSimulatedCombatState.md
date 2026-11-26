@@ -1,5 +1,4 @@
 ## Set Simulated Combat State
-Set Simulated Combat State
 ![[../img/nd_img_SetSimulatedCombatState.png]]
 
 |Inputs||

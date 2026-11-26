@@ -1,5 +1,4 @@
 ## Can Start Matchmaking
-Can Start Matchmaking
 ![[../img/nd_img_CanStartMatchmaking.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Vote Options
-Get Vote Options
 ![[../img/nd_img_GetVoteOptions.png]]
 
 |Inputs||

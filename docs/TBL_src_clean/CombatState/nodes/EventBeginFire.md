@@ -1,5 +1,4 @@
 ## Event Begin Fire
-Event Begin Fire
 ![[../img/nd_img_EventBeginFire.png]]
 
 |Inputs||

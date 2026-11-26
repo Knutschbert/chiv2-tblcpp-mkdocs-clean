@@ -1,5 +1,4 @@
 ## Fire Button Action
-Fire Button Action
 ![[../img/nd_img_FireButtonAction.png]]
 
 |Inputs||

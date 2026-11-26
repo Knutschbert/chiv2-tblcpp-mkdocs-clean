@@ -1,5 +1,4 @@
 ## Auto Attack Start
-Auto Attack Start
 ![[../img/nd_img_AutoAttackStart.png]]
 
 |Inputs||

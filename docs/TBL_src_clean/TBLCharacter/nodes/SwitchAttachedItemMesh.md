@@ -1,5 +1,4 @@
 ## Switch Attached Item Mesh
-Switch Attached Item Mesh
 ![[../img/nd_img_SwitchAttachedItemMesh.png]]
 
 |Inputs||

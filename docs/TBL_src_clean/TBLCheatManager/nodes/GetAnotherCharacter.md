@@ -1,5 +1,4 @@
 ## Get Another Character
-Get Another Character
 ![[../img/nd_img_GetAnotherCharacter.png]]
 
 |Inputs||

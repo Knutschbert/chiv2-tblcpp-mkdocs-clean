@@ -1,5 +1,4 @@
 ## Set Matchmaking Queue Selected
-Set Matchmaking Queue Selected
 ![[../img/nd_img_SetMatchmakingQueueSelected.png]]
 
 |Inputs||

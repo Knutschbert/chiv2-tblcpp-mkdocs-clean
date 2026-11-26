@@ -1,5 +1,4 @@
 ## Set Stage Time Remaining
-Set Stage Time Remaining
 ![[../img/nd_img_SetStageTimeRemaining.png]]
 
 |Inputs||

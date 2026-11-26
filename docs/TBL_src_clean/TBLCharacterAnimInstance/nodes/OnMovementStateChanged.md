@@ -1,5 +1,4 @@
 ## On Movement State Changed
-On Movement State Changed
 ![[../img/nd_img_OnMovementStateChanged.png]]
 
 |Inputs||

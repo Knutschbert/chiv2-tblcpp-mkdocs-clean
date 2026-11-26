@@ -1,5 +1,4 @@
 ## Get Peasant Animation Length
-Get Peasant Animation Length
 ![[../img/nd_img_GetPeasantAnimationLength.png]]
 
 |Inputs||

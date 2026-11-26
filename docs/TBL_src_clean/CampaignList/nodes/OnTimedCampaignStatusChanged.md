@@ -1,5 +1,4 @@
 ## On Timed Campaign Status Changed
-On Timed Campaign Status Changed
 ![[../img/nd_img_OnTimedCampaignStatusChanged.png]]
 
 |Inputs||

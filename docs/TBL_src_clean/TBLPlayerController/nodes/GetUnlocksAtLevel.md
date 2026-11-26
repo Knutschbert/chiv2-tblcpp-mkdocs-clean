@@ -1,5 +1,4 @@
 ## Get Unlocks at Level
-Get Unlocks at Level
 ![[../img/nd_img_GetUnlocksAtLevel.png]]
 
 |Inputs||

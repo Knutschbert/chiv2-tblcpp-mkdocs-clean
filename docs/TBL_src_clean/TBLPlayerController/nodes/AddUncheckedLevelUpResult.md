@@ -1,5 +1,4 @@
 ## Add Unchecked Level Up Result
-Add Unchecked Level Up Result
 ![[../img/nd_img_AddUncheckedLevelUpResult.png]]
 
 |Inputs||

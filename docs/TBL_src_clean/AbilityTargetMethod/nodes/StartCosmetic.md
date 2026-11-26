@@ -1,5 +1,4 @@
 ## Start Cosmetic
-Start Cosmetic
 ![[../img/nd_img_StartCosmetic.png]]
 
 |Inputs||

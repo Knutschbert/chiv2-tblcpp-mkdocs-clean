@@ -1,5 +1,4 @@
 ## Is Joinable By
-Is Joinable By
 ![[../img/nd_img_IsJoinableBy.png]]
 
 |Inputs||

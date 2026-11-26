@@ -1,5 +1,4 @@
 ## Get Relative Location
-Get Relative Location
 ![[../img/nd_img_GetRelativeLocation.png]]
 
 |Inputs||

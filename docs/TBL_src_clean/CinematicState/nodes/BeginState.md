@@ -1,5 +1,4 @@
 ## Begin State
-Begin State
 ![[../img/nd_img_BeginState.png]]
 
 |Inputs||

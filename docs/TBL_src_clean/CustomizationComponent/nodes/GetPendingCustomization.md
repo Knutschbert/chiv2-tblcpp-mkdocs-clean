@@ -1,5 +1,4 @@
 ## Get Pending Customization
-Get Pending Customization
 ![[../img/nd_img_GetPendingCustomization.png]]
 
 |Inputs||

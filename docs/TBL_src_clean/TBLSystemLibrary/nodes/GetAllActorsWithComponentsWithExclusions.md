@@ -1,5 +1,4 @@
 ## Get All Actors with Components with Exclusions
-Get All Actors with Components with Exclusions
 ![[../img/nd_img_GetAllActorsWithComponentsWithExclusions.png]]
 
 |Inputs||

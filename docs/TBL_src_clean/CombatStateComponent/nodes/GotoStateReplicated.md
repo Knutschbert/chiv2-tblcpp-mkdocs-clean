@@ -1,5 +1,4 @@
 ## Goto State Replicated
-Goto State Replicated
 ![[../img/nd_img_GotoStateReplicated.png]]
 
 |Inputs||

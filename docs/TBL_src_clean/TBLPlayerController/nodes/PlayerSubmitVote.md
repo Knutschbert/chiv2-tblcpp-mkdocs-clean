@@ -1,5 +1,4 @@
 ## Player Submit Vote
-Player Submit Vote
 ![[../img/nd_img_PlayerSubmitVote.png]]
 
 |Inputs||

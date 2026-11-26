@@ -1,5 +1,4 @@
 ## Customize Head
-Customize Head
 ![[../img/nd_img_CustomizeHead.png]]
 
 |Inputs||

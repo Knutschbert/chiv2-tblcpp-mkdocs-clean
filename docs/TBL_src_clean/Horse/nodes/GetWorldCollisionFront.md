@@ -1,5 +1,4 @@
 ## Get World Collision Front
-Get World Collision Front
 ![[../img/nd_img_GetWorldCollisionFront.png]]
 
 |Inputs||

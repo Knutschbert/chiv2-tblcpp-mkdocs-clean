@@ -1,5 +1,4 @@
 ## K2 on State Changed
-K2 on State Changed
 ![[../img/nd_img_K2_OnStateChanged.png]]
 
 |Inputs||

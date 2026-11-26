@@ -1,5 +1,4 @@
 ## Is Ranged Weapon
-Is Ranged Weapon
 ![[../img/nd_img_IsRangedWeapon.png]]
 
 |Inputs||

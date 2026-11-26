@@ -1,5 +1,4 @@
 ## Get Invocation
-Get Invocation
 ![[../img/nd_img_GetInvocation.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Auto Run Away
-Auto Run Away
 ![[../img/nd_img_AutoRunAway.png]]
 
 |Inputs||

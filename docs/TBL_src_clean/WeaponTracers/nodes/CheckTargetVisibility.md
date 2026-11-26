@@ -1,5 +1,4 @@
 ## Check Target Visibility
-Check Target Visibility
 ![[../img/nd_img_CheckTargetVisibility.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## On Significance Changed
-On Significance Changed
 ![[../img/nd_img_OnSignificanceChanged.png]]
 
 |Inputs||

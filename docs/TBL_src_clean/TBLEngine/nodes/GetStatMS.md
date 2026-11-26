@@ -1,5 +1,4 @@
 ## Get Stat MS
-Get Stat MS
 ![[../img/nd_img_GetStatMS.png]]
 
 |Inputs||

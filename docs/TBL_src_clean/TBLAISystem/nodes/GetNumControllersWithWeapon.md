@@ -1,5 +1,4 @@
 ## Get Num Controllers with Weapon
-Get Num Controllers with Weapon
 ![[../img/nd_img_GetNumControllersWithWeapon.png]]
 
 |Inputs||

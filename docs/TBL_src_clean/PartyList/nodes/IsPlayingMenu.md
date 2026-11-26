@@ -1,5 +1,4 @@
 ## Is Playing Menu
-Is Playing Menu
 ![[../img/nd_img_IsPlayingMenu.png]]
 
 |Inputs||

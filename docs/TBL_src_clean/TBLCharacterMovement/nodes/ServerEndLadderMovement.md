@@ -1,5 +1,4 @@
 ## Server End Ladder Movement
-Server End Ladder Movement
 ![[../img/nd_img_ServerEndLadderMovement.png]]
 
 |Inputs||

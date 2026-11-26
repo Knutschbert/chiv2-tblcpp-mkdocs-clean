@@ -1,5 +1,4 @@
 ## Get Remaining Reservations
-Get Remaining Reservations
 ![[../img/nd_img_GetRemainingReservations.png]]
 
 |Inputs||

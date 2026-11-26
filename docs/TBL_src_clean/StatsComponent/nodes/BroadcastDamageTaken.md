@@ -1,5 +1,4 @@
 ## Broadcast Damage Taken
-Broadcast Damage Taken
 ![[../img/nd_img_BroadcastDamageTaken.png]]
 
 |Inputs||

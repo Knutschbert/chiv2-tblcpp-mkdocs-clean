@@ -1,5 +1,4 @@
 ## Get Spawn Location and Component
-Get Spawn Location and Component
 ![[../img/nd_img_GetSpawnLocationAndComponent.png]]
 
 |Inputs||

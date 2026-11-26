@@ -1,5 +1,4 @@
 ## Authority Set Marked Actors
-Authority Set Marked Actors
 ![[../img/nd_img_AuthoritySetMarkedActors.png]]
 
 |Inputs||

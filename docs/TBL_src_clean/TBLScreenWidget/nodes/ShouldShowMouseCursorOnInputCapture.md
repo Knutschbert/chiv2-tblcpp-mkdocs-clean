@@ -1,5 +1,4 @@
 ## Should Show Mouse Cursor on Input Capture
-Should Show Mouse Cursor on Input Capture
 ![[../img/nd_img_ShouldShowMouseCursorOnInputCapture.png]]
 
 |Inputs||

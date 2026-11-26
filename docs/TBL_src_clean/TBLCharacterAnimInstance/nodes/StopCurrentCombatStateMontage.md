@@ -1,5 +1,4 @@
 ## Stop Current Combat State Montage
-Stop Current Combat State Montage
 ![[../img/nd_img_StopCurrentCombatStateMontage.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Notify Killed
-Notify Killed
 ![[../img/nd_img_NotifyKilled.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Head Mesh
-Get Head Mesh
 ![[../img/nd_img_GetHeadMesh.png]]
 
 |Inputs||

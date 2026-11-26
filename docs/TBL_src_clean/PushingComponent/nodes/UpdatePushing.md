@@ -1,5 +1,4 @@
 ## Update Pushing
-Update Pushing
 ![[../img/nd_img_UpdatePushing.png]]
 
 |Inputs||

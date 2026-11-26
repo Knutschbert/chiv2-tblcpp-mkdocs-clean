@@ -1,5 +1,4 @@
 ## Inventory Primary
-Inventory Primary
 ![[../img/nd_img_InventoryPrimary.png]]
 
 |Inputs||

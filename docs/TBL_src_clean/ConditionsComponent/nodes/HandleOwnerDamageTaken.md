@@ -1,5 +1,4 @@
 ## Handle Owner Damage Taken
-Handle Owner Damage Taken
 ![[../img/nd_img_HandleOwnerDamageTaken.png]]
 
 |Inputs||

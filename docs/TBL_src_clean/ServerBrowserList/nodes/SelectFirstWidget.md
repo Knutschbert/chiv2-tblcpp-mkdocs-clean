@@ -1,5 +1,4 @@
 ## Select First Widget
-Select First Widget
 ![[../img/nd_img_SelectFirstWidget.png]]
 
 |Inputs||

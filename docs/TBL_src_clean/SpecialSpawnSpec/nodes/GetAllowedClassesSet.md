@@ -1,5 +1,4 @@
 ## Get Allowed Classes Set
-Get Allowed Classes Set
 ![[../img/nd_img_GetAllowedClassesSet.png]]
 
 |Inputs||

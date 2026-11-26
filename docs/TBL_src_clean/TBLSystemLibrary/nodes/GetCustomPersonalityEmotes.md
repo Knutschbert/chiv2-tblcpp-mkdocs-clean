@@ -1,5 +1,4 @@
 ## Get Custom Personality Emotes
-Get Custom Personality Emotes
 ![[../img/nd_img_GetCustomPersonalityEmotes.png]]
 
 |Inputs||

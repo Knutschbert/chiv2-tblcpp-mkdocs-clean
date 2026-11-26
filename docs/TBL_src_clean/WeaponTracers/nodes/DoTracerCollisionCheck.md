@@ -1,5 +1,4 @@
 ## Do Tracer Collision Check
-Do Tracer Collision Check
 ![[../img/nd_img_DoTracerCollisionCheck.png]]
 
 |Inputs||

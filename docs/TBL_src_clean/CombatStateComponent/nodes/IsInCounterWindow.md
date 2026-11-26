@@ -1,5 +1,4 @@
 ## Is in Counter Window
-Is in Counter Window
 ![[../img/nd_img_IsInCounterWindow.png]]
 
 |Inputs||

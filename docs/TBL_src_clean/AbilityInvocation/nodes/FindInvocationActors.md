@@ -1,5 +1,4 @@
 ## Find Invocation Actors
-Find Invocation Actors
 ![[../img/nd_img_FindInvocationActors.png]]
 
 |Inputs||

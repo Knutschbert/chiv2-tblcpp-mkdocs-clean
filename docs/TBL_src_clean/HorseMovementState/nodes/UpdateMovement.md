@@ -1,5 +1,4 @@
 ## Update Movement
-Update Movement
 ![[../img/nd_img_UpdateMovement.png]]
 
 |Inputs||

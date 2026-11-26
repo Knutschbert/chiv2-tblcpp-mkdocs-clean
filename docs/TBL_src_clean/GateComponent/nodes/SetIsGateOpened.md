@@ -1,5 +1,4 @@
 ## Set Is Gate Opened
-Set Is Gate Opened
 ![[../img/nd_img_SetIsGateOpened.png]]
 
 |Inputs||

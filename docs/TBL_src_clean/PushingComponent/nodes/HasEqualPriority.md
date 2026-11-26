@@ -1,5 +1,4 @@
 ## Has Equal Priority
-Has Equal Priority
 ![[../img/nd_img_HasEqualPriority.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Add Block from Blueprint Online User
-Add Block from Blueprint Online User
 ![[../img/nd_img_AddBlockFromBlueprintOnlineUser.png]]
 
 |Inputs||

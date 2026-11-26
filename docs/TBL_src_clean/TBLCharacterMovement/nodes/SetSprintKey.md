@@ -1,5 +1,4 @@
 ## Set Sprint Key
-Set Sprint Key
 ![[../img/nd_img_SetSprintKey.png]]
 
 |Inputs||

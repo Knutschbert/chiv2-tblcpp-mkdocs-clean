@@ -1,5 +1,4 @@
 ## Update Skin Weights Override
-Update Skin Weights Override
 ![[../img/nd_img_UpdateSkinWeightsOverride.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Current Music State
-Get Current Music State
 ![[../img/nd_img_GetCurrentMusicState.png]]
 
 |Inputs||

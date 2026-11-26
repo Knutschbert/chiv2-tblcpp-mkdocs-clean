@@ -1,5 +1,4 @@
 ## Get Num Frames
-Get Num Frames
 ![[../img/nd_img_GetNumFrames.png]]
 
 |Inputs||

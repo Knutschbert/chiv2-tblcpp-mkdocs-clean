@@ -1,5 +1,4 @@
 ## Get Current Root Motion
-Get Current Root Motion
 ![[../img/nd_img_GetCurrentRootMotion.png]]
 
 |Inputs||

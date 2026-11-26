@@ -1,5 +1,4 @@
 ## Get Mount Animation Length
-Get Mount Animation Length
 ![[../img/nd_img_GetMountAnimationLength.png]]
 
 |Inputs||

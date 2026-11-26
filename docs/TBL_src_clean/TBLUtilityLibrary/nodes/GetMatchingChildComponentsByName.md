@@ -1,5 +1,4 @@
 ## Get Matching Child Components by Name
-Get Matching Child Components by Name
 ![[../img/nd_img_GetMatchingChildComponentsByName.png]]
 
 |Inputs||

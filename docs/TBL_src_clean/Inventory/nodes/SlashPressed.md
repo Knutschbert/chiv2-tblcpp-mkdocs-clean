@@ -1,5 +1,4 @@
 ## Slash Pressed
-Slash Pressed
 ![[../img/nd_img_SlashPressed.png]]
 
 |Inputs||

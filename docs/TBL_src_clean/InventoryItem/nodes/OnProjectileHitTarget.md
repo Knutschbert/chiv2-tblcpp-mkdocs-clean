@@ -1,5 +1,4 @@
 ## On Projectile Hit Target
-On Projectile Hit Target
 ![[../img/nd_img_OnProjectileHitTarget.png]]
 
 |Inputs||

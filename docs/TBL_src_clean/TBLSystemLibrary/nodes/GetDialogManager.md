@@ -1,5 +1,4 @@
 ## Get Dialog Manager
-Get Dialog Manager
 ![[../img/nd_img_GetDialogManager.png]]
 
 |Inputs||

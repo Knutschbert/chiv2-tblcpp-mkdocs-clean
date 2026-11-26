@@ -1,5 +1,4 @@
 ## End Ladder Movement
-End Ladder Movement
 ![[../img/nd_img_EndLadderMovement.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Get Credits
-Get Credits
 ![[../img/nd_img_GetCredits.png]]
 
 |Inputs||

@@ -1,5 +1,4 @@
 ## Clear Loaded Sound Banks
-Clear Loaded Sound Banks
 ![[../img/nd_img_ClearLoadedSoundBanks.png]]
 
 |Inputs||

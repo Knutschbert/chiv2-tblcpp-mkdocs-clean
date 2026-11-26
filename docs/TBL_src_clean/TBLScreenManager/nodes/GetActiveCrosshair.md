@@ -1,5 +1,4 @@
 ## Get Active Crosshair
-Get Active Crosshair
 ![[../img/nd_img_GetActiveCrosshair.png]]
 
 |Inputs||
